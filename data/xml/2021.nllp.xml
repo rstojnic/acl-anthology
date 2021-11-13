@@ -32,7 +32,7 @@
       <abstract>We present the first annotated corpus for multilingual analysis of potentially unfair clauses in online Terms of Service. The data set comprises a total of 100 contracts, obtained from 25 documents annotated in four different languages: English, German, Italian, and Polish. For each contract, potentially unfair clauses for the consumer are annotated, for nine different unfairness categories. We show how a simple yet efficient annotation projection technique based on sentence embeddings could be used to automatically transfer annotations across languages.</abstract>
       <url hash="3b404792">2021.nllp-1.1</url>
       <bibkey>drawzeski-etal-2021-corpus</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/terms-of-service">Terms of Service</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multilingual-terms-of-service">Multilingual Terms of Service</pwcdataset>
     </paper>
     <paper id="2">
       <title>Named Entity Recognition in the <fixed-case>R</fixed-case>omanian Legal Domain</title>
@@ -205,6 +205,7 @@
       <abstract>While many NLP pipelines assume raw, clean texts, many texts we encounter in the wild, including a vast majority of legal documents, are not so clean, with many of them being visually structured documents (VSDs) such as PDFs. Conventional preprocessing tools for VSDs mainly focused on word segmentation and coarse layout analysis, whereas fine-grained logical structure analysis (such as identifying paragraph boundaries and their hierarchies) of VSDs is underexplored. To that end, we proposed to formulate the task as prediction of “transition labels” between text fragments that maps the fragments to a tree, and developed a feature-based machine learning system that fuses visual, textual and semantic cues. Our system is easily customizable to different types of VSDs and it significantly outperformed baselines in identifying different structures in VSDs. For example, our system obtained a paragraph boundary detection F1 score of 0.953 which is significantly better than a popular PDF-to-text tool with an F1 score of 0.739.</abstract>
       <url hash="e8035863">2021.nllp-1.15</url>
       <bibkey>koreeda-manning-2021-capturing</bibkey>
+      <pwccode url="https://github.com/stanfordnlp/pdf-struct" additional="false">stanfordnlp/pdf-struct</pwccode>
     </paper>
     <paper id="16">
       <title>Legal Terminology Extraction with the Termolator</title>

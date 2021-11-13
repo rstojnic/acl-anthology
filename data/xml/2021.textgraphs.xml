@@ -240,6 +240,7 @@
       <url hash="3b22be0b">2021.textgraphs-1.17</url>
       <bibkey>thayaparan-etal-2021-textgraphs</bibkey>
       <doi>10.18653/v1/2021.textgraphs-1.17</doi>
+      <pwccode url="https://github.com/cognitiveailab/tg2021task" additional="false">cognitiveailab/tg2021task</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/worldtree">Worldtree</pwcdataset>
     </paper>
     <paper id="18">

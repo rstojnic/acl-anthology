@@ -10277,6 +10277,7 @@
       <attachment type="Dataset" hash="631de170">2020.acl-main.699.Dataset.zip</attachment>
       <video tag="video" href="http://slideslive.com/38929066"/>
       <bibkey>bollmann-elliott-2020-forgetting</bibkey>
+      <pwccode url="https://github.com/coastalcph/acl-citations" additional="false">coastalcph/acl-citations</pwccode>
     </paper>
     <paper id="700">
       <title>Returning the <fixed-case>N</fixed-case> to <fixed-case>NLP</fixed-case>: <fixed-case>T</fixed-case>owards Contextually Personalized Classification Models</title>
@@ -10469,6 +10470,7 @@
       <doi>10.18653/v1/2020.acl-main.710</doi>
       <video tag="video" href="http://slideslive.com/38929166"/>
       <bibkey>yuan-etal-2020-one</bibkey>
+      <pwccode url="https://github.com/memray/OpenNMT-kpg-release" additional="false">memray/OpenNMT-kpg-release</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/stackex">STACKEX</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/kp20k">KP20k</pwcdataset>
     </paper>

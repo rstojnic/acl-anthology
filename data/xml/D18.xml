@@ -3956,6 +3956,7 @@
       <abstract>The ability to infer persona from dialogue can have applications in areas ranging from computational narrative analysis to personalized dialogue generation. We introduce neural models to learn persona embeddings in a supervised character trope classification task. The models encode dialogue snippets from IMDB into representations that can capture the various categories of film characters. The best-performing models use a multi-level attention mechanism over a set of utterances. We also utilize prior knowledge in the form of textual descriptions of the different tropes. We apply the learned embeddings to find similar characters across different movies, and cluster movies according to the distribution of the embeddings. The use of short conversational text as input, and the ability to learn from prior knowledge using memory, suggests these methods could be applied to other domains.</abstract>
       <doi>10.18653/v1/D18-1284</doi>
       <bibkey>chu-etal-2018-learning</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/cmu-movie-summary-corpus">CMU Movie Summary Corpus</pwcdataset>
     </paper>
     <paper id="285">
       <title>Grounding language acquisition by training semantic parsers using captioned videos</title>

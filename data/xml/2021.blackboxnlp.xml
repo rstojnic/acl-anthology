@@ -338,6 +338,7 @@
       <abstract>Pre-trained vision-and-language models have achieved impressive results on a variety of tasks, including ones that require complex reasoning beyond object recognition. However, little is known about how they achieve these results or what their limitations are. In this paper, we focus on a particular linguistic capability, namely the understanding of negation. We borrow techniques from the analysis of language models to investigate the ability of pre-trained vision-and-language models to handle negation. We find that these models severely underperform in the presence of negation.</abstract>
       <url hash="6f38e673">2021.blackboxnlp-1.27</url>
       <bibkey>dobreva-keller-2021-investigating</bibkey>
+      <pwccode url="https://github.com/radidd/vision-and-language-negation" additional="false">radidd/vision-and-language-negation</pwccode>
     </paper>
     <paper id="28">
       <title>Not all parameters are born equal: Attention is mostly what you need</title>
@@ -453,6 +454,7 @@
       <abstract>In recent years, the NLP community has shown increasing interest in analysing how deep learning models work. Given that large models trained on complex tasks are difficult to inspect, some of this work has focused on controlled tasks that emulate specific aspects of language. We propose a new set of such controlled tasks to explore a crucial aspect of natural language processing that has not received enough attention: the need to retrieve discrete information from sequences. We also study model behavior on the tasks with simple instantiations of Transformers and LSTMs. Our results highlight the beneficial role of decoder attention and its sometimes unexpected interaction with other components. Moreover, we show that, for most of the tasks, these simple models still show significant difficulties. We hope that the community will take up the analysis possibilities that our tasks afford, and that a clearer understanding of model behavior on the tasks will lead to better and more transparent models.</abstract>
       <url hash="ae95a9a1">2021.blackboxnlp-1.37</url>
       <bibkey>sorodoc-etal-2021-controlled</bibkey>
+      <pwccode url="https://github.com/sorodoc/discreteseq" additional="false">sorodoc/discreteseq</pwccode>
     </paper>
     <paper id="38">
       <title>The Acceptability Delta Criterion: Testing Knowledge of Language using the Gradience of Sentence Acceptability</title>

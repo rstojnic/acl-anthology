@@ -3271,6 +3271,7 @@
       <url hash="467059aa">2021.findings-acl.242</url>
       <doi>10.18653/v1/2021.findings-acl.242</doi>
       <bibkey>wang-etal-2021-contrastive</bibkey>
+      <pwccode url="https://github.com/brxx122/calms" additional="false">brxx122/calms</pwccode>
     </paper>
     <paper id="243">
       <title>When Time Makes Sense: A Historically-Aware Approach to Targeted Sense Disambiguation</title>
@@ -3529,6 +3530,7 @@
       <url hash="59b61ebc">2021.findings-acl.262</url>
       <doi>10.18653/v1/2021.findings-acl.262</doi>
       <bibkey>zheng-etal-2021-knowledge</bibkey>
+      <pwccode url="https://github.com/tonywenuon/acl2021_ktwm" additional="false">tonywenuon/acl2021_ktwm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wizard-of-wikipedia">Wizard of Wikipedia</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/holl-e">Holl-E</pwcdataset>
     </paper>
@@ -7066,8 +7068,8 @@
       <bibkey>fan-etal-2021-discovering-representation</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
     <paper id="76">
       <title>Plan-then-Generate: Controlled Data-to-Text Generation via Planning</title>
@@ -7454,6 +7456,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/atomic">ATOMIC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/meld">MELD</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/emorynlp">EmoryNLP</pwcdataset>
     </paper>
     <paper id="105">
       <title>An unsupervised framework for tracing textual sources of moral change</title>
@@ -7717,6 +7720,7 @@
       <abstract>Mapping natural language instructions to programs that computers can process is a fundamental challenge. Existing approaches focus on likelihood-based training or using reinforcement learning to fine-tune models based on a single reward. In this paper, we pose program generation from language as Inverse Reinforcement Learning. We introduce several interpretable reward components and jointly learn (1) a reward function that linearly combines them, and (2) a policy for program generation. Fine-tuning with our approach achieves significantly better performance than competitive methods using Reinforcement Learning (RL). On the VirtualHome framework, we get improvements of up to 9.0% on the Longest Common Subsequence metric and 14.7% on recall-based metrics over previous work on this framework (Puig et al., 2018). The approach is data-efficient, showing larger gains in performance in the low-data regime. Generated programs are also preferred by human evaluators over an RL-based approach, and rated higher on relevance, completeness, and human-likeness.</abstract>
       <url hash="25c49cbf">2021.findings-emnlp.125</url>
       <bibkey>ghosh-srivastava-2021-mapping-language</bibkey>
+      <pwccode url="https://github.com/sgdgp/virtualhome_irl" additional="false">sgdgp/virtualhome_irl</pwccode>
     </paper>
     <paper id="126">
       <title>Topic-Guided Abstractive Multi-Document Summarization</title>
@@ -7749,6 +7753,7 @@
       <url hash="8e367912">2021.findings-emnlp.128</url>
       <bibkey>chen-etal-2021-scixgen-scientific</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/s2orc">S2ORC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/unarxive">unarXive</pwcdataset>
     </paper>
     <paper id="129">
       <title>Don’t Miss the Potential Customers! Retrieving Similar Ads to Improve User Targeting</title>
@@ -8086,6 +8091,7 @@
       <abstract>Biases continue to be prevalent in modern text and media, especially subjective bias – a special type of bias that introduces improper attitudes or presents a statement with the presupposition of truth. To tackle the problem of detecting and further mitigating subjective bias, we introduce a manually annotated parallel corpus WIKIBIAS with more than 4,000 sentence pairs from Wikipedia edits. This corpus contains annotations towards both sentence-level bias types and token-level biased segments. We present systematic analyses of our dataset and results achieved by a set of state-of-the-art baselines in terms of three tasks: bias classification, tagging biased segments, and neutralizing biased text. We find that current models still struggle with detecting multi-span biases despite their reasonable performances, suggesting that our dataset can serve as a useful research benchmark. We also demonstrate that models trained on our dataset can generalize well to multiple domains such as news and political speeches.</abstract>
       <url hash="13956651">2021.findings-emnlp.155</url>
       <bibkey>zhong-etal-2021-wikibias-detecting</bibkey>
+      <pwccode url="https://github.com/cs329yangzhong/wikibias" additional="false">cs329yangzhong/wikibias</pwccode>
     </paper>
     <paper id="156">
       <title><fixed-case>U</fixed-case>n<fixed-case>C</fixed-case>l<fixed-case>E</fixed-case>: Explicitly Leveraging Semantic Similarity to Reduce the Parameters of Word Embeddings</title>
@@ -8659,6 +8665,7 @@
       <abstract>Large pre-trained language models such as BERT have been the driving force behind recent improvements across many NLP tasks. However, BERT is only trained to predict missing words – either through masking or next sentence prediction – and has no knowledge of lexical, syntactic or semantic information beyond what it picks up through unsupervised pre-training. We propose a novel method to explicitly inject linguistic information in the form of word embeddings into any layer of a pre-trained BERT. When injecting counter-fitted and dependency-based embeddings, the performance improvements on multiple semantic similarity datasets indicate that such information is beneficial and currently missing from the original model. Our qualitative analysis shows that counter-fitted embedding injection is particularly beneficial, with notable improvements on examples that require synonym resolution.</abstract>
       <url hash="1b92385d">2021.findings-emnlp.200</url>
       <bibkey>peinelt-etal-2021-gibert-enhancing</bibkey>
+      <pwccode url="https://github.com/wuningxi/gibert" additional="false">wuningxi/gibert</pwccode>
     </paper>
     <paper id="201">
       <title><fixed-case>RollingLDA</fixed-case>: <fixed-case>A</fixed-case>n Update Algorithm of <fixed-case>L</fixed-case>atent <fixed-case>D</fixed-case>irichlet <fixed-case>A</fixed-case>llocation to Construct Consistent Time Series from Textual Data</title>
@@ -8846,6 +8853,7 @@
       <abstract>Multilingual Named Entity Recognition (NER) is a key intermediate task which is needed in many areas of NLP. In this paper, we address the well-known issue of data scarcity in NER, especially relevant when moving to a multilingual scenario, and go beyond current approaches to the creation of multilingual silver data for the task. We exploit the texts of Wikipedia and introduce a new methodology based on the effective combination of knowledge-based approaches and neural models, together with a novel domain adaptation technique, to produce high-quality training corpora for NER. We evaluate our datasets extensively on standard benchmarks for NER, yielding substantial improvements up to 6 span-based F1-score points over previous state-of-the-art systems for data creation.</abstract>
       <url hash="31fc690d">2021.findings-emnlp.215</url>
       <bibkey>tedeschi-etal-2021-wikineural-combined</bibkey>
+      <pwccode url="https://github.com/babelscape/wikineural" additional="false">babelscape/wikineural</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2002">CoNLL 2002</pwcdataset>
     </paper>
@@ -8916,6 +8924,7 @@
       <abstract>Numeracy plays a key role in natural language understanding. However, existing NLP approaches, not only traditional word2vec approach or contextualized transformer-based language models, fail to learn numeracy. As the result, the performance of these models is limited when they are applied to number-intensive applications in clinical and financial domains. In this work, we propose a simple number embedding approach based on knowledge graph. We construct a knowledge graph consisting of number entities and magnitude relations. Knowledge graph embedding method is then applied to obtain number vectors. Our approach is easy to implement, and experiment results on various numeracy-related NLP tasks demonstrate the effectiveness and efficiency of our method.</abstract>
       <url hash="21645dd9">2021.findings-emnlp.221</url>
       <bibkey>duan-etal-2021-learning-numeracy</bibkey>
+      <pwccode url="https://github.com/hduanac/nekg" additional="false">hduanac/nekg</pwccode>
     </paper>
     <paper id="222">
       <title>Weakly Supervised Semantic Parsing by Learning from Mistakes</title>
@@ -9328,6 +9337,7 @@
       <abstract>Much of natural language processing is focused on leveraging large capacity language models, typically trained over single messages with a task of predicting one or more tokens. However, modeling human language at higher-levels of context (i.e., sequences of messages) is under-explored. In stance detection and other social media tasks where the goal is to predict an attribute of a message, we have contextual data that is loosely semantically connected by authorship. Here, we introduce Message-Level Transformer (MeLT) – a hierarchical message-encoder pre-trained over Twitter and applied to the task of stance prediction. We focus on stance prediction as a task benefiting from knowing the context of the message (i.e., the sequence of previous messages). The model is trained using a variant of masked-language modeling; where instead of predicting tokens, it seeks to generate an entire masked (aggregated) message vector via reconstruction loss. We find that applying this pre-trained masked message-level transformer to the downstream task of stance detection achieves F1 performance of 67%.</abstract>
       <url hash="8b37358f">2021.findings-emnlp.253</url>
       <bibkey>matero-etal-2021-melt-message</bibkey>
+      <pwccode url="https://github.com/matthewmatero/melt" additional="false">matthewmatero/melt</pwccode>
     </paper>
     <paper id="254">
       <title><fixed-case>LMSOC</fixed-case>: An Approach for Socially Sensitive Pretraining</title>
@@ -9478,6 +9488,7 @@
       <abstract>The transformer-based pre-trained language models have been tremendously successful in most of the conventional NLP tasks. But they often struggle in those tasks where numerical understanding is required. Some possible reasons can be the tokenizers and pre-training objectives which are not specifically designed to learn and preserve numeracy. Here we investigate the ability of text-to-text transfer learning model (T5), which has outperformed its predecessors in the conventional NLP tasks, to learn numeracy. We consider four numeracy tasks: numeration, magnitude order prediction, finding minimum and maximum in a series, and sorting. We find that, although T5 models perform reasonably well in the interpolation setting, they struggle considerably in the extrapolation setting across all four tasks.</abstract>
       <url hash="1a9977c5">2021.findings-emnlp.265</url>
       <bibkey>pal-baral-2021-investigating-numeracy</bibkey>
+      <pwccode url="https://github.com/kuntalkumarpal/t5numeracy" additional="false">kuntalkumarpal/t5numeracy</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
     </paper>
     <paper id="266">
@@ -9896,7 +9907,7 @@
       <abstract>We describe the task of bilingual markup transfer, which involves placing markup tags from a source sentence into a fixed target translation. This task arises in practice when a human translator generates the target translation without markup, and then the system infers the placement of markup tags. This task contrasts from previous work in which markup transfer is performed jointly with machine translation. We propose two novel metrics and evaluate several approaches based on unsupervised word alignments as well as a supervised neural sequence-to-sequence model. Our best approach achieves an average accuracy of 94.7% across six language pairs, indicating its potential usefulness for real-world localization tasks.</abstract>
       <url hash="b6957d34">2021.findings-emnlp.299</url>
       <bibkey>zenkel-etal-2021-automatic-bilingual</bibkey>
-      <pwccode url="https://github.com/lilt/markup-transfer-scripts" additional="false">lilt/markup-transfer-scripts</pwccode>
+      <pwccode url="https://github.com/lilt/markup-transfer-scripts" additional="true">lilt/markup-transfer-scripts</pwccode>
     </paper>
     <paper id="300">
       <title>Exploring a Unified <fixed-case>S</fixed-case>equence-<fixed-case>T</fixed-case>o-<fixed-case>S</fixed-case>equence <fixed-case>T</fixed-case>ransformer for Medical Product Safety Monitoring in Social Media</title>
@@ -9911,6 +9922,7 @@
       <url hash="439853fb">2021.findings-emnlp.300</url>
       <attachment type="Software" hash="cbd1450e">2021.findings-emnlp.300.Software.zip</attachment>
       <bibkey>raval-etal-2021-exploring-unified</bibkey>
+      <pwccode url="https://github.com/shivamraval98/multitask-t5_ae" additional="false">shivamraval98/multitask-t5_ae</pwccode>
     </paper>
     <paper id="301">
       <title>Disentangling Generative Factors in Natural Language with Discrete Variational Autoencoders</title>
@@ -11437,6 +11449,7 @@
       <abstract>Although grammatical error correction (GEC) has achieved good performance on texts written by learners of English as a second language, performance on low error density domains where texts are written by English speakers of varying levels of proficiency can still be improved. In this paper, we propose a contrastive learning approach to encourage the GEC model to assign a higher probability to a correct sentence while reducing the probability of incorrect sentences that the model tends to generate, so as to improve the accuracy of the model. Experimental results show that our approach significantly improves the performance of GEC models in low error density domains, when evaluated on the benchmark CWEB dataset.</abstract>
       <url hash="ba8a643b">2021.findings-emnlp.419</url>
       <bibkey>cao-etal-2021-grammatical-error</bibkey>
+      <pwccode url="https://github.com/nusnlp/geccl" additional="false">nusnlp/geccl</pwccode>
     </paper>
     <paper id="420">
       <title>Improving Unsupervised Commonsense Reasoning Using Knowledge-Enabled Natural Language Inference</title>

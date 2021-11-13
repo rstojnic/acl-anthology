@@ -326,6 +326,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/cmu-movie-summary-corpus">CMU Movie Summary Corpus</pwcdataset>
     </paper>
     <paper id="24">
       <title>Neural Automated Essay Scoring and Coherence Modeling for Adversarially Crafted Input</title>

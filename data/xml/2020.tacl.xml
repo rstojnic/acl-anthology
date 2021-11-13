@@ -309,7 +309,7 @@
       <pages>329–345</pages>
       <url hash="206976b9">2020.tacl-1.22</url>
       <bibkey>kumar-etal-2020-syntax</bibkey>
-      <pwccode url="https://github.com/malllabiisc/SGCP" additional="false">malllabiisc/SGCP</pwccode>
+      <pwccode url="https://github.com/malllabiisc/SGCP" additional="true">malllabiisc/SGCP</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
     </paper>
     <paper id="23">

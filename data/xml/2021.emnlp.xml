@@ -304,6 +304,7 @@
       <abstract>Aspect-based sentiment analysis aims to identify the sentiment polarity of a specific aspect in product reviews. We notice that about 30% of reviews do not contain obvious opinion words, but still convey clear human-aware sentiment orientation, which is known as implicit sentiment. However, recent neural network-based approaches paid little attention to implicit sentiment entailed in the reviews. To overcome this issue, we adopt Supervised Contrastive Pre-training on large-scale sentiment-annotated corpora retrieved from in-domain language resources. By aligning the representation of implicit sentiment expressions to those with the same sentiment label, the pre-training process leads to better capture of both implicit and explicit sentiment orientation towards aspects in reviews. Experimental results show that our method achieves state-of-the-art performance on SemEval2014 benchmarks, and comprehensive analysis validates its effectiveness on learning implicit sentiment.</abstract>
       <url hash="9f0f5e71">2021.emnlp-main.22</url>
       <bibkey>li-etal-2021-learning-implicit</bibkey>
+      <pwccode url="https://github.com/tribleave/scapt-absa" additional="false">tribleave/scapt-absa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mams">MAMS</pwcdataset>
     </paper>
     <paper id="23">
@@ -1413,6 +1414,7 @@
       <abstract>Performing event and entity coreference resolution across documents vastly increases the number of candidate mentions, making it intractable to do the full <tex-math>n^2</tex-math> pairwise comparisons. Existing approaches simplify by considering coreference only within document clusters, but this fails to handle inter-cluster coreference, common in many applications. As a result cross-document coreference algorithms are rarely applied to downstream tasks. We draw on an insight from discourse coherence theory: potential coreferences are constrained by the reader’s discourse focus. We model the entities/events in a reader’s focus as a neighborhood within a learned latent embedding space which minimizes the distance between mentions and the centroids of their gold coreference clusters. We then use these neighborhoods to sample only hard negatives to train a fine-grained classifier on mention pairs and their local discourse features. Our approach achieves state-of-the-art results for both events and entities on the ECB+, Gun Violence, Football Coreference, and Cross-Domain Cross-Document Coreference corpora. Furthermore, training on multiple corpora improves average performance across all datasets by 17.2 F1 points, leading to a robust coreference resolution model that is now feasible to apply to downstream tasks.</abstract>
       <url hash="289c46b6">2021.emnlp-main.106</url>
       <bibkey>held-etal-2021-focus</bibkey>
+      <pwccode url="https://github.com/helw150/event_entity_coref_ecb_plus" additional="false">helw150/event_entity_coref_ecb_plus</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ecb">ECB+</pwcdataset>
     </paper>
     <paper id="107">
@@ -1497,6 +1499,7 @@
       <abstract>Supervised systems have nowadays become the standard recipe for Word Sense Disambiguation (WSD), with Transformer-based language models as their primary ingredient. However, while these systems have certainly attained unprecedented performances, virtually all of them operate under the constraining assumption that, given a context, each word can be disambiguated individually with no account of the other sense choices. To address this limitation and drop this assumption, we propose CONtinuous SEnse Comprehension (ConSeC), a novel approach to WSD: leveraging a recent re-framing of this task as a text extraction problem, we adapt it to our formulation and introduce a feedback loop strategy that allows the disambiguation of a target word to be conditioned not only on its context but also on the explicit senses assigned to nearby words. We evaluate ConSeC and examine how its components lead it to surpass all its competitors and set a new state of the art on English WSD. We also explore how ConSeC fares in the cross-lingual setting, focusing on 8 languages with various degrees of resource availability, and report significant improvements over prior systems. We release our code at https://github.com/SapienzaNLP/consec.</abstract>
       <url hash="24c093e6">2021.emnlp-main.112</url>
       <bibkey>barba-etal-2021-consec</bibkey>
+      <pwccode url="https://github.com/sapienzanlp/consec" additional="false">sapienzanlp/consec</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/word-sense-disambiguation-a-unified">Word Sense Disambiguation: a Unified Evaluation Framework and Empirical Comparison</pwcdataset>
     </paper>
     <paper id="113">
@@ -1667,8 +1670,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikilingua">WikiLingua</pwcdataset>
     </paper>
     <paper id="126">
@@ -1780,7 +1783,7 @@
       <abstract>Real-world applications often require improved models by leveraging *a range of cheap incidental supervision signals*. These could include partial labels, noisy labels, knowledge-based constraints, and cross-domain or cross-task annotations – all having statistical associations with gold annotations but not exactly the same. However, we currently lack a principled way to measure the benefits of these signals to a given target task, and the common practice of evaluating these benefits is through exhaustive experiments with various models and hyperparameters. This paper studies whether we can, *in a single framework, quantify the benefits of various types of incidental signals for a given target task without going through combinatorial experiments*. We propose a unified PAC-Bayesian motivated informativeness measure, PABI, that characterizes the uncertainty reduction provided by incidental supervision signals. We demonstrate PABI’s effectiveness by quantifying the value added by various types of incidental signals to sequence tagging tasks. Experiments on named entity recognition (NER) and question answering (QA) show that PABI’s predictions correlate well with learning performance, providing a promising way to determine, ahead of learning, which supervision signals would be beneficial.</abstract>
       <url hash="b0c3ac2b">2021.emnlp-main.134</url>
       <bibkey>he-etal-2021-foreseeing</bibkey>
-      <pwccode url="https://github.com/HornHehhf/PABI" additional="true">HornHehhf/PABI</pwccode>
+      <pwccode url="https://github.com/CogComp/PABI" additional="true">CogComp/PABI</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qa-srl-bank-2-0">QA-SRL Bank 2.0</pwcdataset>
     </paper>
@@ -3000,6 +3003,7 @@
       <abstract>In various natural language processing tasks, passage retrieval and passage re-ranking are two key procedures in finding and ranking relevant information. Since both the two procedures contribute to the final performance, it is important to jointly optimize them in order to achieve mutual improvement. In this paper, we propose a novel joint training approach for dense passage retrieval and passage reranking. A major contribution is that we introduce the dynamic listwise distillation, where we design a unified listwise training approach for both the retriever and the re-ranker. During the dynamic distillation, the retriever and the re-ranker can be adaptively improved according to each other’s relevance information. We also propose a hybrid data augmentation strategy to construct diverse training instances for listwise training approach. Extensive experiments show the effectiveness of our approach on both MSMARCO and Natural Questions datasets. Our code is available at https://github.com/PaddlePaddle/RocketQA.</abstract>
       <url hash="f214ef52">2021.emnlp-main.224</url>
       <bibkey>ren-etal-2021-rocketqav2</bibkey>
+      <pwccode url="https://github.com/paddlepaddle/rocketqa" additional="false">paddlepaddle/rocketqa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
     </paper>
@@ -3122,6 +3126,7 @@
       <abstract>Lifelong Learning (LL) black-box models are dynamic in that they keep learning from new tasks and constantly update their parameters. Owing to the need to utilize information from previously seen tasks, and capture commonalities in potentially diverse data, it is hard for automatic explanation methods to explain the outcomes of these models. In addition, existing explanation methods, e.g., LIME, which are computationally expensive when explaining a static black-box model, are even more inefficient in the LL setting. In this paper, we propose a novel Lifelong Explanation (LLE) approach that continuously trains a student explainer under the supervision of a teacher – an arbitrary explanation algorithm – on different tasks undertaken in LL. We also leverage the Experience Replay (ER) mechanism to prevent catastrophic forgetting in the student explainer. Our experiments comparing LLE to three baselines on text classification tasks show that LLE can enhance the stability of the explanations for all seen tasks and maintain the same level of faithfulness to the black-box model as the teacher, while being up to 10ˆ2 times faster at test time. Our ablation study shows that the ER mechanism in our LLE approach enhances the learning capabilities of the student explainer. Our code is available at https://github.com/situsnow/LLE.</abstract>
       <url hash="db337028">2021.emnlp-main.233</url>
       <bibkey>situ-etal-2021-lifelong</bibkey>
+      <pwccode url="https://github.com/situsnow/lle" additional="false">situsnow/lle</pwccode>
     </paper>
     <paper id="234">
       <title>Linguistic Dependencies and Statistical Dependence</title>
@@ -3133,6 +3138,9 @@
       <abstract>Are pairs of words that tend to occur together also likely to stand in a linguistic dependency? This empirical question is motivated by a long history of literature in cognitive science, psycholinguistics, and NLP. In this work we contribute an extensive analysis of the relationship between linguistic dependencies and statistical dependence between words. Improving on previous work, we introduce the use of large pretrained language models to compute contextualized estimates of the pointwise mutual information between words (CPMI). For multiple models and languages, we extract dependency trees which maximize CPMI, and compare to gold standard linguistic dependencies. Overall, we find that CPMI dependencies achieve an unlabelled undirected attachment score of at most <tex-math>\approx 0.5</tex-math>. While far above chance, and consistently above a non-contextualized PMI baseline, this score is generally comparable to a simple baseline formed by connecting adjacent words. We analyze which kinds of linguistic dependencies are best captured in CPMI dependencies, and also find marked differences between the estimates of the large pretrained language models, illustrating how their different training schemes affect the type of dependencies they capture.</abstract>
       <url hash="48121ef9">2021.emnlp-main.234</url>
       <bibkey>hoover-etal-2021-linguistic</bibkey>
+      <pwccode url="https://github.com/mcqll/cpmi-dependencies" additional="false">mcqll/cpmi-dependencies</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
     </paper>
     <paper id="235">
       <title>Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars</title>
@@ -3456,8 +3464,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
     <paper id="258">
       <title>Recurrent Attention for Neural Machine Translation</title>
@@ -3955,6 +3963,7 @@
       <url hash="9f3da3d8">2021.emnlp-main.293</url>
       <attachment type="Software" hash="6bf9d68d">2021.emnlp-main.293.Software.zip</attachment>
       <bibkey>zhu-etal-2021-adaptive</bibkey>
+      <pwccode url="https://github.com/zycdev/aiso" additional="false">zycdev/aiso</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
     </paper>
@@ -4018,7 +4027,7 @@
       <abstract>Dense retrieval methods have shown great promise over sparse retrieval methods in a range of NLP problems. Among them, dense phrase retrieval—the most fine-grained retrieval unit—is appealing because phrases can be directly used as the output for question answering and slot filling tasks. In this work, we follow the intuition that retrieving phrases naturally entails retrieving larger text blocks and study whether phrase retrieval can serve as the basis for coarse-level retrieval including passages and documents. We first observe that a dense phrase-retrieval system, without any retraining, already achieves better passage retrieval accuracy (+3-5% in top-5 accuracy) compared to passage retrievers, which also helps achieve superior end-to-end QA performance with fewer passages. Then, we provide an interpretation for why phrase-level supervision helps learn better fine-grained entailment compared to passage-level supervision, and also show that phrase retrieval can be improved to achieve competitive performance in document-retrieval tasks such as entity linking and knowledge-grounded dialogue. Finally, we demonstrate how phrase filtering and vector quantization can reduce the size of our index by 4-10x, making dense phrase retrieval a practical and versatile solution in multi-granularity retrieval.</abstract>
       <url hash="19074be1">2021.emnlp-main.297</url>
       <bibkey>lee-etal-2021-phrase</bibkey>
-      <pwccode url="https://github.com/princeton-nlp/DensePhrases" additional="true">princeton-nlp/DensePhrases</pwccode>
+      <pwccode url="https://github.com/princeton-nlp/DensePhrases" additional="false">princeton-nlp/DensePhrases</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
@@ -4660,9 +4669,6 @@
       <url hash="12e79825">2021.emnlp-main.343</url>
       <bibkey>chen-etal-2021-websrc</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/textvqa">TextVQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tqa">TQA</pwcdataset>
     </paper>
     <paper id="344">
       <title>Cryptonite: A Cryptic Crossword Benchmark for Extreme Ambiguity in Language</title>
@@ -4974,6 +4980,7 @@
       <bibkey>aliannejadi-etal-2021-building</bibkey>
       <pwccode url="https://github.com/aliannejadi/ClariQ" additional="false">aliannejadi/ClariQ</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/qulac">Qulac</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/clariq">ClariQ</pwcdataset>
     </paper>
     <paper id="368">
       <title>We Need to Talk About train-dev-test Splits</title>
@@ -5400,6 +5407,7 @@
       <abstract>Dialogue disentanglement aims to group utterances in a long and multi-participant dialogue into threads. This is useful for discourse analysis and downstream applications such as dialogue response selection, where it can be the first step to construct a clean context/response set. Unfortunately, labeling all <i>reply-to</i> links takes quadratic effort w.r.t the number of utterances: an annotator must check all preceding utterances to identify the one to which the current utterance is a reply. In this paper, we are the first to propose a <b>zero-shot</b> dialogue disentanglement solution. Firstly, we train a model on a multi-participant response selection dataset harvested from the web which is not annotated; we then apply the trained model to perform zero-shot dialogue disentanglement. Without any labeled data, our model can achieve a cluster F1 score of 25. We also fine-tune the model using various amounts of labeled data. Experiments show that with only 10% of the data, we achieve nearly the same performance of using the full dataset.</abstract>
       <url hash="3cd15251">2021.emnlp-main.400</url>
       <bibkey>chi-rudnicky-2021-zero</bibkey>
+      <pwccode url="https://github.com/chijames/zero_shot_dialogue_disentanglement" additional="false">chijames/zero_shot_dialogue_disentanglement</pwccode>
     </paper>
     <paper id="401">
       <title><fixed-case>SIMMC</fixed-case> 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations</title>
@@ -5452,6 +5460,7 @@
       <abstract>Task-oriented conversational systems often use dialogue state tracking to represent the user’s intentions, which involves filling in values of pre-defined slots. Many approaches have been proposed, often using task-specific architectures with special-purpose classifiers. Recently, good results have been obtained using more general architectures based on pretrained language models. Here, we introduce a new variation of the language modeling approach that uses schema-driven prompting to provide task-aware history encoding that is used for both categorical and non-categorical slots. We further improve performance by augmenting the prompting with schema descriptions, a naturally occurring source of in-domain knowledge. Our purely generative system achieves state-of-the-art performance on MultiWOZ 2.2 and achieves competitive performance on two other benchmarks: MultiWOZ 2.1 and M2M. The data and code will be available at https://github.com/chiahsuan156/DST-as-Prompting.</abstract>
       <url hash="8c222adc">2021.emnlp-main.404</url>
       <bibkey>lee-etal-2021-dialogue</bibkey>
+      <pwccode url="https://github.com/chiahsuan156/dst-as-prompting" additional="false">chiahsuan156/dst-as-prompting</pwccode>
     </paper>
     <paper id="405">
       <title>Signed Coreference Resolution</title>
@@ -5664,6 +5673,7 @@
       <abstract>We propose to control paraphrase generation through carefully chosen target syntactic structures to generate more proper and higher quality paraphrases. Our model, AESOP, leverages a pretrained language model and adds deliberately chosen syntactical control via a retrieval-based selection module to generate fluent paraphrases. Experiments show that AESOP achieves state-of-the-art performances on semantic preservation and syntactic conformation on two benchmark datasets with ground-truth syntactic control from human-annotated exemplars. Moreover, with the retrieval-based target syntax selection module, AESOP generates paraphrases with even better qualities than the current best model using human-annotated target syntactic parses according to human evaluation. We further demonstrate the effectiveness of AESOP to improve classification models’ robustness to syntactic perturbation by data augmentation on two GLUE tasks.</abstract>
       <url hash="9026394d">2021.emnlp-main.420</url>
       <bibkey>sun-etal-2021-aesop</bibkey>
+      <pwccode url="https://github.com/pluslabnlp/aesop" additional="false">pluslabnlp/aesop</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="421">
@@ -5827,6 +5837,7 @@
       <abstract>In recent years, few-shot models have been applied successfully to a variety of NLP tasks. Han et al. (2018) introduced a few-shot learning framework for relation classification, and since then, several models have surpassed human performance on this task, leading to the impression that few-shot relation classification is solved. In this paper we take a deeper look at the efficacy of strong few-shot classification models in the more common relation extraction setting, and show that typical few-shot evaluation metrics obscure a wide variability in performance across relations. In particular, we find that state of the art few-shot relation classification models overly rely on entity type information, and propose modifications to the training routine to encourage models to better discriminate between relations involving similar entity types.</abstract>
       <url hash="a4479588">2021.emnlp-main.433</url>
       <bibkey>brody-etal-2021-towards</bibkey>
+      <pwccode url="https://github.com/bloomberg/emnlp21_fewrel" additional="false">bloomberg/emnlp21_fewrel</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel-2-0">FewRel 2.0</pwcdataset>
     </paper>
@@ -6054,6 +6065,7 @@
       <url hash="b725ebe1">2021.emnlp-main.452</url>
       <attachment type="Software" hash="afb5d814">2021.emnlp-main.452.Software.zip</attachment>
       <bibkey>fern-pope-2021-text</bibkey>
+      <pwccode url="https://github.com/QuintinPope/CLOSS" additional="false">QuintinPope/CLOSS</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="453">
@@ -6279,7 +6291,7 @@
       <abstract>We propose pre-finetuning, an additional large-scale learning stage between language model pre-training and fine-tuning. Pre-finetuning is massively multi-task learning (around 50 datasets, over 4.8 million total labeled examples), and is designed to encourage learning of representations that generalize better to many different tasks. We show that pre-finetuning consistently improves performance for pretrained discriminators (e.g. RoBERTa) and generation models (e.g. BART) on a wide range of tasks (sentence prediction, commonsense reasoning, MRC, etc.), while also significantly improving sample efficiency during fine-tuning. We also show that large-scale multi-tasking is crucial; pre-finetuning can hurt performance when few tasks are used up until a critical point (usually above 15) after which performance improves linearly in the number of tasks.</abstract>
       <url hash="529197ff">2021.emnlp-main.468</url>
       <bibkey>aghajanyan-etal-2021-muppet</bibkey>
-      <pwccode url="https://huggingface.co/facebook/muppet-roberta-large" additional="true">facebook/muppet-roberta-large</pwccode>
+      <pwccode url="https://huggingface.co/facebook/muppet-roberta-base" additional="true">facebook/muppet-roberta-base</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -7472,7 +7484,6 @@
       <url hash="c34c3f03">2021.emnlp-main.556</url>
       <bibkey>schmitt-schutze-2021-continuous</bibkey>
       <pwccode url="https://github.com/mnschmit/conan" additional="false">mnschmit/conan</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sherliic">SherLIiC</pwcdataset>
     </paper>
     <paper id="557">
@@ -7653,6 +7664,7 @@
       <abstract>Style is an integral part of natural language. However, evaluation methods for style measures are rare, often task-specific and usually do not control for content. We propose the modular, fine-grained and content-controlled similarity-based STyle EvaLuation framework (STEL) to test the performance of any model that can compare two sentences on style. We illustrate STEL with two general dimensions of style (formal/informal and simple/complex) as well as two specific characteristics of style (contrac’tion and numb3r substitution). We find that BERT-based methods outperform simple versions of commonly used style measures like 3-grams, punctuation frequency and LIWC-based approaches. We invite the addition of further tasks and task instances to STEL and hope to facilitate the improvement of style-sensitive measures.</abstract>
       <url hash="62a1220b">2021.emnlp-main.569</url>
       <bibkey>wegmann-nguyen-2021-capture</bibkey>
+      <pwccode url="https://github.com/nlpsoc/stel" additional="false">nlpsoc/stel</pwccode>
     </paper>
     <paper id="570">
       <title>Evaluating the Morphosyntactic Well-formedness of Generated Texts</title>
@@ -8229,6 +8241,7 @@
       <abstract>Word Sense Disambiguation (WSD) aims to automatically identify the exact meaning of one word according to its context. Existing supervised models struggle to make correct predictions on rare word senses due to limited training data and can only select the best definition sentence from one predefined word sense inventory (e.g., WordNet). To address the data sparsity problem and generalize the model to be independent of one predefined inventory, we propose a gloss alignment algorithm that can align definition sentences (glosses) with the same meaning from different sense inventories to collect rich lexical knowledge. We then train a model to identify semantic equivalence between a target word in context and one of its glosses using these aligned inventories, which exhibits strong transfer capability to many WSD tasks. Experiments on benchmark datasets show that the proposed method improves predictions on both frequent and rare word senses, outperforming prior work by 1.2% on the All-Words WSD Task and 4.3% on the Low-Shot WSD Task. Evaluation on WiC Task also indicates that our method can better capture word meanings in context.</abstract>
       <url hash="1817095b">2021.emnlp-main.610</url>
       <bibkey>yao-etal-2021-connect</bibkey>
+      <pwccode url="https://github.com/wenlinyao/emnlp21-connectthedots" additional="false">wenlinyao/emnlp21-connectthedots</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/word-sense-disambiguation-a-unified">Word Sense Disambiguation: a Unified Evaluation Framework and Empirical Comparison</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
     </paper>
@@ -8472,6 +8485,7 @@
       <abstract>Transformer-based architectures have become the de-facto standard models for a wide range of Natural Language Processing tasks. However, their memory footprint and high latency are prohibitive for efficient deployment and inference on resource-limited devices. In this work, we explore quantization for transformers. We show that transformers have unique quantization challenges – namely, high dynamic activation ranges that are difficult to represent with a low bit fixed-point format. We establish that these activations contain structured outliers in the residual connections that encourage specific attention patterns, such as attending to the special separator token. To combat these challenges, we present three solutions based on post-training quantization and quantization-aware training, each with a different set of compromises for accuracy, model size, and ease of use. In particular, we introduce a novel quantization scheme – per-embedding-group quantization. We demonstrate the effectiveness of our methods on the GLUE benchmark using BERT, establishing state-of-the-art results for post-training quantization. Finally, we show that transformer weights and embeddings can be quantized to ultra-low bit-widths, leading to significant memory savings with a minimum accuracy loss. Our source code is available at <url>https://github.com/qualcomm-ai-research/transformer-quantization</url>.</abstract>
       <url hash="55ffd085">2021.emnlp-main.627</url>
       <bibkey>bondarenko-etal-2021-understanding</bibkey>
+      <pwccode url="https://github.com/qualcomm-ai-research/transformer-quantization" additional="false">qualcomm-ai-research/transformer-quantization</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
     </paper>
@@ -8577,6 +8591,7 @@
       <url hash="566e0c62">2021.emnlp-main.635</url>
       <bibkey>li-etal-2021-tdeer</bibkey>
       <pwccode url="https://github.com/4ai/tdeer" additional="false">4ai/tdeer</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
     </paper>
     <paper id="636">
       <title>Extracting Event Temporal Relations via Hyperbolic Geometry</title>
@@ -8735,6 +8750,7 @@
       <abstract>Despite the widespread use of Knowledge Graph Embeddings (KGE), little is known about the security vulnerabilities that might disrupt their intended behaviour. We study data poisoning attacks against KGE models for link prediction. These attacks craft adversarial additions or deletions at training time to cause model failure at test time. To select adversarial deletions, we propose to use the model-agnostic instance attribution methods from Interpretable Machine Learning, which identify the training instances that are most influential to a neural model’s predictions on test instances. We use these influential triples as adversarial deletions. We further propose a heuristic method to replace one of the two entities in each influential triple to generate adversarial additions. Our experiments show that the proposed strategies outperform the state-of-art data poisoning attacks on KGE models and improve the MRR degradation due to the attacks by up to 62% over the baselines.</abstract>
       <url hash="96f19b38">2021.emnlp-main.648</url>
       <bibkey>bhardwaj-etal-2021-adversarial</bibkey>
+      <pwccode url="https://github.com/perubhardwaj/attributionattack" additional="false">perubhardwaj/attributionattack</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="649">
@@ -9079,6 +9095,7 @@
       <abstract>Neural Machine Translation (NMT) is known to suffer from a beam-search problem: after a certain point, increasing beam size causes an overall drop in translation quality. This effect is especially pronounced for long sentences. While much work was done analyzing this phenomenon, primarily for autoregressive NMT models, there is still no consensus on its underlying cause. In this work, we analyze errors that cause major quality degradation with large beams in NMT and Automatic Speech Recognition (ASR). We show that a factor that strongly contributes to the quality degradation with large beams is dataset length-bias - NMT datasets are strongly biased towards short sentences. To mitigate this issue, we propose a new data augmentation technique – Multi-Sentence Resampling (MSR). This technique extends the training examples by concatenating several sentences from the original dataset to make a long training example. We demonstrate that MSR significantly reduces degradation with growing beam size and improves final translation quality on the IWSTL15 En-Vi, IWSTL17 En-Fr, and WMT14 En-De datasets.</abstract>
       <url hash="4f89bfde">2021.emnlp-main.677</url>
       <bibkey>provilkov-malinin-2021-multi</bibkey>
+      <pwccode url="https://github.com/yandex-research/msr" additional="false">yandex-research/msr</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/librispeech">LibriSpeech</pwcdataset>
     </paper>
     <paper id="678">
@@ -10135,6 +10152,7 @@
       <url hash="c8a8afde">2021.emnlp-main.755</url>
       <bibkey>das-etal-2021-case</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/webquestions">WebQuestions</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/simplequestions">SimpleQuestions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/complexwebquestions">ComplexWebQuestions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cfq">CFQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webquestionssp">WebQuestionsSP</pwcdataset>
@@ -10658,6 +10676,7 @@
       <abstract>Current research in automatic summarisation is unapologetically anglo-centered–a persistent state-of-affairs, which also predates neural net approaches. High-quality automatic summarisation datasets are notoriously expensive to create, posing a challenge for any language. However, with digitalisation, archiving, and social media advertising of newswire articles, recent work has shown how, with careful methodology application, large-scale datasets can now be simply gathered instead of written. In this paper, we present a large-scale multilingual summarisation dataset containing articles in 92 languages, spread across 28.8 million articles, in more than 35 writing scripts. This is both the largest, most inclusive, existing automatic summarisation dataset, as well as one of the largest, most inclusive, ever published datasets for any NLP task. We present the first investigation on the efficacy of resource building from news platforms in the low-resource language setting. Finally, we provide some first insight on how low-resource language settings impact state-of-the-art automatic summarisation system performance.</abstract>
       <url hash="f78971c7">2021.emnlp-main.797</url>
       <bibkey>varab-schluter-2021-massivesumm</bibkey>
+      <pwccode url="https://github.com/danielvarab/massive-summ" additional="false">danielvarab/massive-summ</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsroom">NEWSROOM</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
@@ -10689,6 +10708,7 @@
       <url hash="c3200638">2021.emnlp-main.799</url>
       <attachment type="Software" hash="9178ada6">2021.emnlp-main.799.Software.zip</attachment>
       <bibkey>shenoy-etal-2021-investigating</bibkey>
+      <pwccode url="https://github.com/nicoherbig/mmpe" additional="false">nicoherbig/mmpe</pwccode>
     </paper>
     <paper id="800">
       <title><fixed-case>UNK</fixed-case>s Everywhere: <fixed-case>A</fixed-case>dapting Multilingual Language Models to New Scripts</title>
@@ -12008,6 +12028,7 @@
       <abstract>Question answering (QA) is one of the most challenging and impactful tasks in natural language processing. Most research in QA, however, has focused on the open-domain or monolingual setting while most real-world applications deal with specific domains or languages. In this tutorial, we attempt to bridge this gap. Firstly, we introduce standard benchmarks in multi-domain and multilingual QA. In both scenarios, we discuss state-of-the-art approaches that achieve impressive performance, ranging from zero-shot transfer learning to out-of-the-box training with open-domain QA systems. Finally, we will present open research problems that this new research agenda poses such as multi-task learning, cross-lingual transfer learning, domain adaptation and training large scale pre-trained multilingual language models.</abstract>
       <url hash="906ab71f">2021.emnlp-tutorials.4</url>
       <bibkey>ruder-sil-2021-multi</bibkey>
+      <pwccode url="https://github.com/sebastianruder/emnlp2021-multiqa-tutorial" additional="false">sebastianruder/emnlp2021-multiqa-tutorial</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/doqa">DoQA</pwcdataset>

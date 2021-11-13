@@ -464,6 +464,7 @@
       <abstract>Recently, a large pre-trained language model called T5 (A Unified Text-to-Text Transfer Transformer) has achieved state-of-the-art performance in many NLP tasks. However, no study has been found using this pre-trained model on Text Simplification. Therefore in this paper, we explore the use of T5 fine-tuning on Text Simplification combining with a controllable mechanism to regulate the system outputs that can help generate adapted text for different target audiences. Our experiments show that our model achieves remarkable results with gains of between +0.69 and +1.41 over the current state-of-the-art (BART+ACCESS). We argue that using a pre-trained model such as T5, trained on several tasks with large amounts of data, can help improve Text Simplification.</abstract>
       <url hash="e5b994d2">2021.inlg-1.38</url>
       <bibkey>sheang-saggion-2021-controllable</bibkey>
+      <pwccode url="https://github.com/kimchengsheang/ts_t5" additional="false">kimchengsheang/ts_t5</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikilarge">WikiLarge</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/turkcorpus">TurkCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/asset">ASSET</pwcdataset>
