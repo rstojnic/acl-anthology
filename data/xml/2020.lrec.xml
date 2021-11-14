@@ -1012,6 +1012,8 @@
       <url hash="051f6e76">2020.lrec-1.78</url>
       <language>eng</language>
       <bibkey>bothe-etal-2020-eda</bibkey>
+      <pwccode url="https://github.com/bothe/EDAs" additional="true">bothe/EDAs</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/emotional-dialogue-acts">Emotional Dialogue Acts</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/iemocap">IEMOCAP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/meld">MELD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/emotionlines">EmotionLines</pwcdataset>

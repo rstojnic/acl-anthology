@@ -2852,6 +2852,7 @@
       <abstract>The encoder–decoder framework achieves state-of-the-art results in keyphrase generation (KG) tasks by predicting both present keyphrases that appear in the source document and absent keyphrases that do not. However, relying solely on the source document can result in generating uncontrollable and inaccurate absent keyphrases. To address these problems, we propose a novel graph-based method that can capture explicit knowledge from related references. Our model first retrieves some document-keyphrases pairs similar to the source document from a pre-defined index as references. Then a heterogeneous graph is constructed to capture relations with different levels of granularity of the source document and its retrieved references. To guide the decoding process, a hierarchical attention and copy mechanism is introduced, which directly copies appropriate words from both source document and its references based on their relevance and significance. The experimental results on multiple KG benchmarks show that the proposed model achieves significant improvements against other baseline models, especially with regard to the absent keyphrase prediction.</abstract>
       <url hash="853fd24b">2021.emnlp-main.213</url>
       <bibkey>ye-etal-2021-heterogeneous</bibkey>
+      <pwccode url="https://github.com/jiacheng-ye/kg_gater" additional="false">jiacheng-ye/kg_gater</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/kp20k">KP20k</pwcdataset>
     </paper>
     <paper id="214">
@@ -8198,6 +8199,8 @@
       <abstract>In practical applications of semantic parsing, we often want to rapidly change the behavior of the parser, such as enabling it to handle queries in a new domain, or changing its predictions on certain targeted queries. While we can introduce new training examples exhibiting the target behavior, a mechanism for enacting such behavior changes without expensive model re-training would be preferable. To this end, we propose ControllAble Semantic Parser via Exemplar Retrieval (CASPER). Given an input query, the parser retrieves related exemplars from a retrieval index, augments them to the query, and then applies a generative seq2seq model to produce an output parse. The exemplars act as a control mechanism over the generic generative model: by manipulating the retrieval index or how the augmented query is constructed, we can manipulate the behavior of the parser. On the MTOP dataset, in addition to achieving state-of-the-art on the standard setup, we show that CASPER can parse queries in a new domain, adapt the prediction toward the specified patterns, or adapt to new semantic schemas without having to further re-train the model.</abstract>
       <url hash="961adf51">2021.emnlp-main.607</url>
       <bibkey>pasupat-etal-2021-controllable</bibkey>
+      <pwccode url="https://github.com/google-research/language/tree/master/language/casper" additional="false">google-research/language</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/mtop">MTOP</pwcdataset>
     </paper>
     <paper id="608">
       <title>Constrained Language Models Yield Few-Shot Semantic Parsers</title>

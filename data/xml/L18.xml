@@ -2814,6 +2814,7 @@
       <author><first>Stefan</first> <last>Wermter</last></author>
       <url hash="327aa638">L18-1307</url>
       <bibkey>bothe-etal-2018-context</bibkey>
+      <pwccode url="https://github.com/bothe/dialogue-act-recognition" additional="false">bothe/dialogue-act-recognition</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/switchboard-1-corpus">Switchboard-1 Corpus</pwcdataset>
     </paper>
     <paper id="308">

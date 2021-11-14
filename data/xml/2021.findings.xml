@@ -6538,7 +6538,7 @@
       <url hash="092604c6">2021.findings-emnlp.36</url>
       <attachment type="Software" hash="9cbc5402">2021.findings-emnlp.36.Software.zip</attachment>
       <bibkey>zhang-plank-2021-cartography-active</bibkey>
-      <pwccode url="https://github.com/jjzha/cal" additional="false">jjzha/cal</pwccode>
+      <pwccode url="https://github.com/Kaleidophon/deep-significance" additional="true">Kaleidophon/deep-significance</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
     </paper>
     <paper id="37">
