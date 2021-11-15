@@ -772,7 +772,9 @@
       <language>eng</language>
       <bibkey>chen-etal-2020-jddc</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/persona-chat-1">PERSONA-CHAT</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sgd">SGD</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/e-commerce-1">E-commerce</pwcdataset>
     </paper>
     <paper id="59">
       <title>“Cheese!”: a Corpus of Face-to-face <fixed-case>F</fixed-case>rench Interactions. A Case Study for Analyzing Smiling and Conversational Humor</title>

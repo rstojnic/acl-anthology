@@ -812,6 +812,8 @@
       <bibkey>sato-etal-2020-evaluating</bibkey>
       <pwccode url="https://github.com/cl-tohoku/eval-via-selection" additional="false">cl-tohoku/eval-via-selection</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban-conversation-corpus">Douban Conversation Corpus</pwcdataset>
     </paper>
     <paper id="56">
       <title>Gated Convolutional Bidirectional Attention-based Model for Off-topic Spoken Response Detection</title>
@@ -1923,6 +1925,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dream">DREAM</pwcdataset>
     </paper>
     <paper id="131">
@@ -9358,6 +9361,7 @@
       <video tag="video" href="http://slideslive.com/38929350"/>
       <bibkey>su-etal-2020-diversifying</bibkey>
       <pwccode url="https://github.com/chin-gyou/Div-Non-Conv" additional="false">chin-gyou/Div-Non-Conv</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
     </paper>
     <paper id="635">
       <title><fixed-case>K</fixed-case>d<fixed-case>C</fixed-case>onv: A <fixed-case>C</fixed-case>hinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation</title>

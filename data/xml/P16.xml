@@ -1978,6 +1978,7 @@
       <doi>10.18653/v1/P16-1174</doi>
       <bibkey>settles-meeder-2016-trainable</bibkey>
       <pwccode url="https://github.com/duolingo/halflife-regression" additional="false">duolingo/halflife-regression</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/duolingo-spaced-repetition-data">Duolingo Spaced Repetition Data</pwcdataset>
     </paper>
     <paper id="175">
       <title>User Modeling in Language Learning with Macaronic Texts</title>

@@ -68,6 +68,8 @@
       <pages>163–197</pages>
       <url hash="1a517ee4">J19-1005</url>
       <bibkey>wu-etal-2019-sequential</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban-conversation-corpus">Douban Conversation Corpus</pwcdataset>
     </paper>
   </volume>
   <volume id="2">

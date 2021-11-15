@@ -660,7 +660,11 @@ two word-vectors results in a vector that is only a small angle away from the ve
       <video href="https://vimeo.com/234953894" tag="video"/>
       <bibkey>wu-etal-2017-sequential</bibkey>
       <pwccode url="https://github.com/MarkWuNLP/MultiTurnResponseSelection" additional="true">MarkWuNLP/MultiTurnResponseSelection</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban-conversation-corpus">Douban Conversation Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ubuntu-dialogue-corpus">UDC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/e-commerce-1">E-commerce</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/rrs">RRS</pwcdataset>
     </paper>
     <paper id="47">
       <title>Learning Word-Like Units from Joint Audio-Visual Analysis</title>

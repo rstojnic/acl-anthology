@@ -1556,7 +1556,10 @@
       <doi>10.18653/v1/P18-1103</doi>
       <bibkey>zhou-etal-2018-multi</bibkey>
       <pwccode url="https://github.com/baidu/Dialogue" additional="false">baidu/Dialogue</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ubuntu-dialogue-corpus">UDC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban-conversation-corpus">Douban Conversation Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/rrs">RRS</pwcdataset>
     </paper>
     <paper id="104">
       <title><fixed-case>M</fixed-case>oji<fixed-case>T</fixed-case>alk: Generating Emotional Responses at Scale</title>
@@ -4766,6 +4769,8 @@
       <attachment type="presentation" hash="43178ce6">P18-2067.Presentation.pdf</attachment>
       <doi>10.18653/v1/P18-2067</doi>
       <bibkey>wu-etal-2018-learning</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban-conversation-corpus">Douban Conversation Corpus</pwcdataset>
     </paper>
     <paper id="68">
       <title>Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention</title>

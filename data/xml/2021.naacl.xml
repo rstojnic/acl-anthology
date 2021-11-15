@@ -1778,7 +1778,11 @@
       <attachment type="OptionalSupplementaryData" hash="7644b256">2021.naacl-main.122.OptionalSupplementaryData.zip</attachment>
       <doi>10.18653/v1/2021.naacl-main.122</doi>
       <bibkey>han-etal-2021-fine</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ubuntu-dialogue-corpus">UDC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/e-commerce-1">E-commerce</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/rrs">RRS</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/rrs-ranking-test">RRS Ranking Test</pwcdataset>
     </paper>
     <paper id="123">
       <title>Put Chatbot into Its Interlocutor’s Shoes: New Framework to Learn Chatbot Responding with Intention</title>

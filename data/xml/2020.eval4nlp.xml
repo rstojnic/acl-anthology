@@ -106,6 +106,7 @@
       <doi>10.18653/v1/2020.eval4nlp-1.7</doi>
       <video tag="video" href="https://slideslive.com/38939722"/>
       <bibkey>bremerman-etal-2020-evaluation</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/duolingo-staple-shared-task">Duolingo STAPLE Shared Task</pwcdataset>
     </paper>
     <paper id="8">
       <title>Artemis: A Novel Annotation Methodology for Indicative Single Document Summarization</title>

@@ -4844,6 +4844,7 @@
       <pwccode url="https://github.com/RUCAIBox/TG-ReDial" additional="false">RUCAIBox/TG-ReDial</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/tg-redial">TG-ReDial</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/redial">ReDial</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/durecdial">DuRecDial</pwcdataset>
     </paper>
@@ -5796,6 +5797,8 @@
       <url hash="6dfe5f52">2020.coling-main.437</url>
       <doi>10.18653/v1/2020.coling-main.437</doi>
       <bibkey>deng-etal-2020-intra</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/e-commerce-1">E-commerce</pwcdataset>
     </paper>
     <paper id="438">
       <title>Few-shot Pseudo-Labeling for Intent Detection</title>

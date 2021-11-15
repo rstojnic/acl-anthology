@@ -11175,6 +11175,8 @@
       <doi>10.18653/v1/2020.emnlp-main.741</doi>
       <video tag="video" href="https://slideslive.com/38938681"/>
       <bibkey>lin-etal-2020-world</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/e-commerce-1">E-commerce</pwcdataset>
     </paper>
     <paper id="742">
       <title><fixed-case>GRADE</fixed-case>: Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems</title>

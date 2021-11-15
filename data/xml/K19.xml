@@ -915,7 +915,9 @@
       <url hash="01311d8f">K19-1069</url>
       <doi>10.18653/v1/K19-1069</doi>
       <bibkey>ma-etal-2019-triplenet</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ubuntu-dialogue-corpus">UDC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban-conversation-corpus">Douban Conversation Corpus</pwcdataset>
     </paper>
     <paper id="70">
       <title>Relation Module for Non-Answerable Predictions on Reading Comprehension</title>

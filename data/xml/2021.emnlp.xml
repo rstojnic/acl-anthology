@@ -2768,6 +2768,7 @@
       <abstract>Event factuality indicates the degree of certainty about whether an event occurs in the real world. Existing studies mainly focus on identifying event factuality at sentence level, which easily leads to conflicts between different mentions of the same event. To this end, we study the problem of document-level event factuality identification, which determines the event factuality from the view of a document. For this task, we need to consider two important characteristics: Local Uncertainty and Global Structure, which can be utilized to improve performance. In this paper, we propose an Uncertain Local-to-Global Network (ULGN) to make use of these two characteristics. Specifically, we devise a Local Uncertainty Estimation module to model the uncertainty of local information. Moreover, we propose an Uncertain Information Aggregation module to leverage the global structure for integrating the local information. Experimental results demonstrate the effectiveness of our proposed method, outperforming the previous state-of-the-art model by 8.4% and 11.45% of F1 score on two widely used datasets.</abstract>
       <url hash="dbc7619b">2021.emnlp-main.207</url>
       <bibkey>cao-etal-2021-uncertain</bibkey>
+      <pwccode url="https://github.com/cpf-nlpr/ulgn4docefi" additional="false">cpf-nlpr/ulgn4docefi</pwccode>
     </paper>
     <paper id="208">
       <title>A Novel Global Feature-Oriented Relational Triple Extraction Model based on Table Filling</title>
@@ -11666,7 +11667,7 @@
       <abstract>The scale, variety, and quantity of publicly-available NLP datasets has grown rapidly as researchers propose new tasks, larger models, and novel benchmarks. Datasets is a community library for contemporary NLP designed to support this ecosystem. Datasets aims to standardize end-user interfaces, versioning, and documentation, while providing a lightweight front-end that behaves similarly for small datasets as for internet-scale corpora. The design of the library incorporates a distributed, community-driven approach to adding datasets and documenting usage. After a year of development, the library now includes more than 650 unique datasets, has more than 250 contributors, and has helped support a variety of novel cross-dataset research projects and shared tasks. The library is available at https://github.com/huggingface/datasets.</abstract>
       <url hash="545e9645">2021.emnlp-demo.21</url>
       <bibkey>lhoest-etal-2021-datasets</bibkey>
-      <pwccode url="https://github.com/huggingface/datasets" additional="true">huggingface/datasets</pwccode>
+      <pwccode url="https://github.com/huggingface/datasets" additional="false">huggingface/datasets</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>

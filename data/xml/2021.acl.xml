@@ -2030,6 +2030,7 @@
       <url hash="e96e084b">2021.acl-long.136</url>
       <doi>10.18653/v1/2021.acl-long.136</doi>
       <bibkey>xu-etal-2021-discovering</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
     </paper>
     <paper id="137">
       <title>Dialogue Response Selection with Hierarchical Curriculum Learning</title>
@@ -2048,6 +2049,9 @@
       <doi>10.18653/v1/2021.acl-long.137</doi>
       <bibkey>su-etal-2021-dialogue</bibkey>
       <pwccode url="https://github.com/yxuansu/HCL" additional="false">yxuansu/HCL</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/e-commerce-1">E-commerce</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/rrs">RRS</pwcdataset>
     </paper>
     <paper id="138">
       <title>A Joint Model for Dropped Pronoun Recovery and Conversational Discourse Parsing in <fixed-case>C</fixed-case>hinese Conversational Speech</title>
@@ -5991,7 +5995,9 @@
       <url hash="6f9f56aa">2021.acl-long.399</url>
       <doi>10.18653/v1/2021.acl-long.399</doi>
       <bibkey>zhang-zhao-2021-structural</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mutual">MuTual</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban-conversation-corpus">Douban Conversation Corpus</pwcdataset>
     </paper>
     <paper id="400">
       <title><fixed-case>A</fixed-case>uto<fixed-case>T</fixed-case>iny<fixed-case>BERT</fixed-case>: Automatic Hyper-parameter Optimization for Efficient Pre-trained Language Models</title>

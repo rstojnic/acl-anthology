@@ -1005,6 +1005,7 @@
       <pwccode url="https://github.com/hengyicai/ContrastiveLearning4Dialogue" additional="true">hengyicai/ContrastiveLearning4Dialogue</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/persona-chat-1">PERSONA-CHAT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/opensubtitles">OpenSubtitles</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
     </paper>
     <paper id="71">
       <title><fixed-case>E</fixed-case>-<fixed-case>BERT</fixed-case>: Efficient-Yet-Effective Entity Embeddings for <fixed-case>BERT</fixed-case></title>

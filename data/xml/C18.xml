@@ -3653,7 +3653,10 @@
       <url hash="4d5ba913">C18-1317</url>
       <bibkey>zhang-etal-2018-modeling</bibkey>
       <pwccode url="https://github.com/cooelf/DeepUtteranceAggregation" additional="false">cooelf/DeepUtteranceAggregation</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/e-commerce-1">E-commerce</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban">Douban</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ubuntu-dialogue-corpus">UDC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/douban-conversation-corpus">Douban Conversation Corpus</pwcdataset>
     </paper>
     <paper id="318">
       <title>Argumentation Synthesis following Rhetorical Strategies</title>
@@ -4100,6 +4103,7 @@
       <abstract>Traditional chatbots usually need a mass of human dialogue data, especially when using supervised machine learning method. Though they can easily deal with single-turn question answering, for multi-turn the performance is usually unsatisfactory. In this paper, we present Lingke, an information retrieval augmented chatbot which is able to answer questions based on given product introduction document and deal with multi-turn conversations. We will introduce a fine-grained pipeline processing to distill responses based on unstructured documents, and attentive sequential context-response matching for multi-turn conversations.</abstract>
       <url hash="537f6b5f">C18-2024</url>
       <bibkey>zhu-etal-2018-lingke</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/e-commerce-1">E-commerce</pwcdataset>
     </paper>
     <paper id="25">
       <title>Writing Mentor: Self-Regulated Writing Feedback for Struggling Writers</title>
