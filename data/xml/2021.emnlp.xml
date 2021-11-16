@@ -70,6 +70,7 @@
       <abstract>This paper proposes a novel architecture, Cross Attention Augmented Transducer (CAAT), for simultaneous translation. The framework aims to jointly optimize the policy and translation models. To effectively consider all possible READ-WRITE simultaneous translation action paths, we adapt the online automatic speech recognition (ASR) model, RNN-T, but remove the strong monotonic constraint, which is critical for the translation task to consider reordering. To make CAAT work, we introduce a novel latency loss whose expectation can be optimized by a forward-backward algorithm. We implement CAAT with Transformer while the general CAAT architecture can also be implemented with other attention-based encoder-decoder frameworks. Experiments on both speech-to-text (S2T) and text-to-text (T2T) simultaneous translation tasks show that CAAT achieves significantly better latency-quality trade-offs compared to the state-of-the-art simultaneous translation approaches.</abstract>
       <url hash="746f2138">2021.emnlp-main.4</url>
       <bibkey>liu-etal-2021-cross</bibkey>
+      <pwccode url="https://github.com/danliu2/caat" additional="false">danliu2/caat</pwccode>
     </paper>
     <paper id="5">
       <title>Translating Headers of Tabular Data: A Pilot Study of Schema Translation</title>
@@ -11154,7 +11155,7 @@
       <abstract>While large language models a la BERT are used ubiquitously in NLP, pretraining them is considered a luxury that only a few well-funded industry labs can afford. How can one train such models with a more modest budget? We present a recipe for pretraining a masked language model in 24 hours using a single low-end deep learning server. We demonstrate that through a combination of software optimizations, design choices, and hyperparameter tuning, it is possible to produce models that are competitive with BERT-base on GLUE tasks at a fraction of the original pretraining cost.</abstract>
       <url hash="af151510">2021.emnlp-main.831</url>
       <bibkey>izsak-etal-2021-train</bibkey>
-      <pwccode url="https://github.com/peteriz/academic-budget-bert" additional="true">peteriz/academic-budget-bert</pwccode>
+      <pwccode url="https://github.com/IntelLabs/academic-budget-bert" additional="true">IntelLabs/academic-budget-bert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
