@@ -417,8 +417,8 @@
       <url hash="ef14a347">2021.rocling-1.36</url>
       <bibkey>wang-etal-2021-generative-adversarial</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/s2orc">S2ORC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semantic-scholar">Semantic Scholar</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scicite">SciCite</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semantic-scholar">Semantic Scholar</pwcdataset>
     </paper>
     <paper id="37">
       <title>A Corpus for Dimensional Sentiment Classification on <fixed-case>Y</fixed-case>ou<fixed-case>T</fixed-case>ube Streaming Service</title>

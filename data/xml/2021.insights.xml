@@ -26,9 +26,9 @@
       <url hash="aeb2d85a">2021.insights-1.1</url>
       <bibkey>irsoy-etal-2021-corrected</bibkey>
       <pwccode url="https://github.com/bloomberg/koan" additional="false">bloomberg/koan</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/c4">C4</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/c4">C4</pwcdataset>
     </paper>
     <paper id="2">
       <title>Does Commonsense help in detecting Sarcasm?</title>
@@ -230,8 +230,8 @@
       <url hash="f94e6d7d">2021.insights-1.19</url>
       <bibkey>felhi-etal-2021-challenging</bibkey>
       <pwccode url="https://github.com/ghazi-f/challenging-ssvaes" additional="false">ghazi-f/challenging-ssvaes</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="20">
       <title>Active Learning for Argument Strength Estimation</title>

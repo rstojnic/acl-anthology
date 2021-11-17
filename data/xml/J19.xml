@@ -278,8 +278,8 @@
       <pages>737–763</pages>
       <url hash="b7d75c6e">J19-4005</url>
       <bibkey>laha-etal-2019-scalable</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/yago">YAGO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e2e">E2E</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yago">YAGO</pwcdataset>
     </paper>
     <paper id="6">
       <title>Argument Mining: A Survey</title>

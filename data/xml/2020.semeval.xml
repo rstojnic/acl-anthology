@@ -231,8 +231,8 @@
       <doi>10.18653/v1/2020.semeval-1.18</doi>
       <pwccode url="https://github.com/ainagari/semeval2020-task3-multisem" additional="false">ainagari/semeval2020-task3-multisem</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/opusparcus">Opusparcus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
     </paper>
     <paper id="19">
       <title><fixed-case>UZH</fixed-case> at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2020 Task 3: Combining <fixed-case>BERT</fixed-case> with <fixed-case>W</fixed-case>ord<fixed-case>N</fixed-case>et Sense Embeddings to Predict Graded Word Similarity Changes</title>
@@ -475,8 +475,8 @@
       <bibkey>wang-etal-2020-semeval</bibkey>
       <doi>10.18653/v1/2020.semeval-1.39</doi>
       <pwccode url="https://github.com/wangcunxiang/SemEval2020-Task4-Commonsense-Validation-and-Explanation" additional="true">wangcunxiang/SemEval2020-Task4-Commonsense-Validation-and-Explanation</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
     </paper>
     <paper id="40">
@@ -602,8 +602,8 @@
       <bibkey>zhao-etal-2020-ecnu</bibkey>
       <doi>10.18653/v1/2020.semeval-1.48</doi>
       <pwccode url="https://github.com/ECNU-ICA/ECNU-SenseMaker" additional="false">ECNU-ICA/ECNU-SenseMaker</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
     </paper>
     <paper id="49">
       <title>Masked Reasoner at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2020 Task 4: Fine-Tuning <fixed-case>R</fixed-case>o<fixed-case>BERT</fixed-case>a for Commonsense Reasoning</title>
@@ -905,8 +905,8 @@
       <url hash="2d217c32">2020.semeval-1.74</url>
       <bibkey>srivastava-etal-2020-team</bibkey>
       <doi>10.18653/v1/2020.semeval-1.74</doi>
-      <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cos-e">CoS-E</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
     </paper>
     <paper id="75">
       <title><fixed-case>T</fixed-case>eam<fixed-case>JUST</fixed-case> at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2020 Task 4: Commonsense Validation and Explanation Using Ensembling Techniques</title>
@@ -949,9 +949,9 @@
       <url hash="3b8e553f">2020.semeval-1.78</url>
       <bibkey>doxolodeo-mahendra-2020-ui</bibkey>
       <doi>10.18653/v1/2020.semeval-1.78</doi>
-      <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="79">
       <title>Warren at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2020 Task 4: <fixed-case>ALBERT</fixed-case> and Multi-Task Learning for Commonsense Validation</title>
@@ -1042,8 +1042,8 @@
       <url hash="b887af8a">2020.semeval-1.86</url>
       <bibkey>li-etal-2020-lee</bibkey>
       <doi>10.18653/v1/2020.semeval-1.86</doi>
-      <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="87">
       <title><fixed-case>NLU</fixed-case>-Co at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2020 Task 5: <fixed-case>NLU</fixed-case>/<fixed-case>SVM</fixed-case> Based Model Apply Tocharacterise and Extract Counterfactual Items on Raw Data</title>
@@ -1178,8 +1178,8 @@
       <bibkey>avram-etal-2020-upb</bibkey>
       <doi>10.18653/v1/2020.semeval-1.97</doi>
       <pwccode url="https://github.com/avramandrei/DeftEval" additional="true">avramandrei/DeftEval</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/deft-corpus">DEFT Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="98">
       <title><fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2020 Task 7: Assessing Humor in Edited News Headlines</title>
@@ -1606,8 +1606,8 @@
       <url hash="e6fd220b">2020.semeval-1.132</url>
       <bibkey>luo-tang-2020-funny3</bibkey>
       <doi>10.18653/v1/2020.semeval-1.132</doi>
-      <pwcdataset url="https://paperswithcode.com/dataset/sarc">SARC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/humicroedit">Humicroedit</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sarc">SARC</pwcdataset>
     </paper>
     <paper id="133">
       <title><fixed-case>H</fixed-case>umor<fixed-case>AAC</fixed-case> at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2020 Task 7: Assessing the Funniness of Edited News Headlines through Regression and Trump Mentions</title>
@@ -3454,8 +3454,8 @@
       <url hash="b4478ca7">2020.semeval-1.290</url>
       <bibkey>dadu-pant-2020-team</bibkey>
       <doi>10.18653/v1/2020.semeval-1.290</doi>
-      <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/olid">OLID</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
     <paper id="291">
       <title><fixed-case>TECHSSN</fixed-case> at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2020 Task 12: Offensive Language Detection Using <fixed-case>BERT</fixed-case> Embeddings</title>
@@ -3525,8 +3525,8 @@
       <url hash="1840b0e9">2020.semeval-1.296</url>
       <bibkey>tanase-etal-2020-upb</bibkey>
       <doi>10.18653/v1/2020.semeval-1.296</doi>
-      <pwcdataset url="https://paperswithcode.com/dataset/olid">OLID</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hate-speech-and-offensive-language">Hate Speech and Offensive Language</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/olid">OLID</pwcdataset>
     </paper>
     <paper id="297">
       <title><fixed-case>UTFPR</fixed-case> at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val 2020 Task 12: Identifying Offensive Tweets with Lightweight Ensembles</title>
@@ -3569,8 +3569,8 @@
       <url hash="7a6fc82e">2020.semeval-1.300</url>
       <bibkey>ou-li-2020-ynu-oxz</bibkey>
       <doi>10.18653/v1/2020.semeval-1.300</doi>
-      <pwcdataset url="https://paperswithcode.com/dataset/olid">OLID</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hate-speech-and-offensive-language">Hate Speech and Offensive Language</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/olid">OLID</pwcdataset>
     </paper>
   </volume>
 </collection>

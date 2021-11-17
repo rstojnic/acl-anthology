@@ -151,8 +151,8 @@
       <attachment type="Software" hash="1fed4ebd">2021.argmining-1.12.Software.zip</attachment>
       <bibkey>chung-etal-2021-multilingual</bibkey>
       <pwccode url="https://github.com/yilingchung/multilingualcn-classification" additional="false">yilingchung/multilingualcn-classification</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikilingua">WikiLingua</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conan">CONAN</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikilingua">WikiLingua</pwcdataset>
     </paper>
     <paper id="13">
       <title>Predicting Moderation of Deliberative Arguments: Is Argument Quality the Key?</title>
@@ -195,6 +195,7 @@
       <abstract>We describe the 2021 Key Point Analysis (KPA-2021) shared task on key point analysis that we organized as a part of the 8th Workshop on Argument Mining (ArgMining 2021) at EMNLP 2021. We outline various approaches and discuss the results of the shared task. We expect the task and the findings reported in this paper to be relevant for researchers working on text summarization and argument mining.</abstract>
       <url hash="c221cdd2">2021.argmining-1.16</url>
       <bibkey>friedman-etal-2021-overview</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/argkp-2021">ArgKP-2021</pwcdataset>
     </paper>
     <paper id="17">
       <title>Matching The Statements: A Simple and Accurate Model for Key Point Analysis</title>

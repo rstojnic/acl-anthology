@@ -220,8 +220,8 @@
       <pages>228–238</pages>
       <url hash="04be61e7">P13-1023</url>
       <bibkey>abend-rappoport-2013-universal</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/framenet">FrameNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="24">
       <title>Linking Tweets to News: A Framework to Enrich Short Text Data in Social Media</title>
