@@ -1861,6 +1861,7 @@
       <url hash="a2867821">2020.semeval-1.154</url>
       <bibkey>sharma-etal-2020-memebusters</bibkey>
       <doi>10.18653/v1/2020.semeval-1.154</doi>
+      <pwccode url="https://github.com/04mayukh/memebusters-at-semeval-2020-task-8-memotion-analysis" additional="false">04mayukh/memebusters-at-semeval-2020-task-8-memotion-analysis</pwccode>
     </paper>
     <paper id="155">
       <title><fixed-case>M</fixed-case>emo<fixed-case>SYS</fixed-case> at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2020 Task 8: Multimodal Emotion Analysis in Memes</title>

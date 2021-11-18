@@ -241,6 +241,7 @@
       <abstract>This study introduces an enriched version of the E2E dataset, one of the most popular language resources for data-to-text NLG. We extract intermediate representations for popular pipeline tasks such as discourse ordering, text structuring, lexicalization and referring expression generation, enabling researchers to rapidly develop and evaluate their data-to-text pipeline systems. The intermediate representations are extracted by aligning non-linguistic and text representations through a process called delexicalization, which consists in replacing input referring expressions to entities/attributes with placeholders. The enriched dataset is publicly available.</abstract>
       <url hash="d6562239">2021.inlg-1.18</url>
       <bibkey>castro-ferreira-etal-2021-enriching</bibkey>
+      <pwccode url="https://github.com/ThiagoCF05/EnrichedE2E" additional="false">ThiagoCF05/EnrichedE2E</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
     </paper>
     <paper id="19">

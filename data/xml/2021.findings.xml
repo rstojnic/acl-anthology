@@ -7041,6 +7041,7 @@
       <bibkey>fajcik-etal-2021-r2-d2</bibkey>
       <pwccode url="https://github.com/KNOT-FIT-BUT/R2-D2" additional="false">KNOT-FIT-BUT/R2-D2</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
     </paper>
     <paper id="74">
       <title>What Does Your Smile Mean? Jointly Detecting Multi-Modal Sarcasm and Sentiment Using Quantum Probability</title>

@@ -219,6 +219,7 @@
       <url hash="b7276b7a">2021.argmining-1.18</url>
       <attachment type="Software" hash="fb381bb6">2021.argmining-1.18.Software.zip</attachment>
       <bibkey>reimer-etal-2021-modern</bibkey>
+      <pwccode url="https://github.com/heinrichreimer/modern-talking" additional="false">heinrichreimer/modern-talking</pwccode>
     </paper>
     <paper id="19">
       <title>Key Point Analysis via Contrastive Learning and Extractive Argument Summarization</title>
