@@ -93,6 +93,7 @@
       <abstract>The premises of an argument give evidence or other reasons to support a conclusion. However, the amount of support required depends on the generality of a conclusion, the nature of the individual premises, and similar. An argument whose premises make its conclusion rationally worthy to be drawn is called sufficient in argument quality research. Previous work tackled sufficiency assessment as a standard text classification problem, not modeling the inherent relation of premises and conclusion. In this paper, we hypothesize that the conclusion of a sufficient argument can be generated from its premises. To study this hypothesis, we explore the potential of assessing sufficiency based on the output of large-scale pre-trained language models. Our best model variant achieves an F1-score of .885, outperforming the previous state-of-the-art and being on par with human experts. While manual evaluation reveals the quality of the generated conclusions, their impact remains low ultimately.</abstract>
       <url hash="be61af83">2021.argmining-1.7</url>
       <bibkey>gurcke-etal-2021-assessing</bibkey>
+      <pwccode url="https://github.com/webis-de/argmining-21" additional="false">webis-de/argmining-21</pwccode>
     </paper>
     <paper id="8">
       <title><fixed-case>M</fixed-case>-Arg: Multimodal Argument Mining Dataset for Political Debates with Audio and Transcripts</title>

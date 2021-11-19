@@ -12817,6 +12817,7 @@
       <doi>10.18653/v1/W18-6301</doi>
       <bibkey>ott-etal-2018-scaling</bibkey>
       <pwccode url="https://github.com/pytorch/fairseq" additional="true">pytorch/fairseq</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/mathematics">Mathematics Dataset</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
     </paper>
     <paper id="2">

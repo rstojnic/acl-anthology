@@ -193,6 +193,7 @@
       <abstract>Embedding based methods are widely used for unsupervised keyphrase extraction (UKE) tasks. Generally, these methods simply calculate similarities between phrase embeddings and document embedding, which is insufficient to capture different context for a more effective UKE model. In this paper, we propose a novel method for UKE, where local and global contexts are jointly modeled. From a global view, we calculate the similarity between a certain phrase and the whole document in the vector space as transitional embedding based models do. In terms of the local view, we first build a graph structure based on the document where phrases are regarded as vertices and the edges are similarities between vertices. Then, we proposed a new centrality computation method to capture local salient information based on the graph structure. Finally, we further combine the modeling of global and local context for ranking. We evaluate our models on three public benchmarks (Inspec, DUC 2001, SemEval 2010) and compare with existing state-of-the-art models. The results show that our model outperforms most models while generalizing better on input documents with different domains and length. Additional ablation study shows that both the local and global information is crucial for unsupervised keyphrase extraction tasks.</abstract>
       <url hash="ebe6c57b">2021.emnlp-main.14</url>
       <bibkey>liang-etal-2021-unsupervised</bibkey>
+      <pwccode url="https://github.com/xnliang98/uke_ccrank" additional="false">xnliang98/uke_ccrank</pwccode>
     </paper>
     <paper id="15">
       <title>Distantly Supervised Relation Extraction using Multi-Layer Revision Network and Confidence-based Multi-Instance Learning</title>
@@ -4322,6 +4323,7 @@
       <abstract>Aspect-based sentiment analysis (ABSA) task consists of three typical subtasks: aspect term extraction, opinion term extraction, and sentiment polarity classification. These three subtasks are usually performed jointly to save resources and reduce the error propagation in the pipeline. However, most of the existing joint models only focus on the benefits of encoder sharing between subtasks but ignore the difference. Therefore, we propose a joint ABSA model, which not only enjoys the benefits of encoder sharing but also focuses on the difference to improve the effectiveness of the model. In detail, we introduce a dual-encoder design, in which a pair encoder especially focuses on candidate aspect-opinion pair classification, and the original encoder keeps attention on sequence labeling. Empirical results show that our proposed model shows robustness and significantly outperforms the previous state-of-the-art on four benchmark datasets.</abstract>
       <url hash="981bdc4c">2021.emnlp-main.318</url>
       <bibkey>jing-etal-2021-seeking</bibkey>
+      <pwccode url="https://github.com/betahj/pairabsa" additional="false">betahj/pairabsa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/aste-data-v2">ASTE-Data-V2</pwcdataset>
     </paper>
     <paper id="319">
@@ -8041,7 +8043,7 @@
       <abstract>Image captioning has conventionally relied on reference-based automatic evaluations, where machine captions are compared against captions written by humans. This is in contrast to the reference-free manner in which humans assess caption quality. In this paper, we report the surprising empirical finding that CLIP (Radford et al., 2021), a cross-modal model pretrained on 400M image+caption pairs from the web, can be used for robust automatic evaluation of image captioning without the need for references. Experiments spanning several corpora demonstrate that our new reference-free metric, CLIPScore, achieves the highest correlation with human judgements, outperforming existing reference-based metrics like CIDEr and SPICE. Information gain experiments demonstrate that CLIPScore, with its tight focus on image-text compatibility, is complementary to existing reference-based metrics that emphasize text-text similarities. Thus, we also present a reference-augmented version, RefCLIPScore, which achieves even higher correlation. Beyond literal description tasks, several case studies reveal domains where CLIPScore performs well (clip-art images, alt-text rating), but also where it is relatively weaker in comparison to reference-based metrics, e.g., news captions that require richer contextual knowledge.</abstract>
       <url hash="6d54687c">2021.emnlp-main.595</url>
       <bibkey>hessel-etal-2021-clipscore</bibkey>
-      <pwccode url="https://github.com/jmhessel/clipscore" additional="false">jmhessel/clipscore</pwccode>
+      <pwccode url="https://github.com/jmhessel/clipscore" additional="true">jmhessel/clipscore</pwccode>
     </paper>
     <paper id="596">
       <title>On the Challenges of Evaluating Compositional Explanations in Multi-Hop Inference: Relevance, Completeness, and Expert Ratings</title>
@@ -9895,6 +9897,7 @@
       <abstract>Change captioning is to use a natural language sentence to describe the fine-grained disagreement between two similar images. Viewpoint change is the most typical distractor in this task, because it changes the scale and location of the objects and overwhelms the representation of real change. In this paper, we propose a Relation-embedded Representation Reconstruction Network (Rˆ3Net) to explicitly distinguish the real change from the large amount of clutter and irrelevant changes. Specifically, a relation-embedded module is first devised to explore potential changed objects in the large amount of clutter. Then, based on the semantic similarities of corresponding locations in the two images, a representation reconstruction module (RRM) is designed to learn the reconstruction representation and further model the difference representation. Besides, we introduce a syntactic skeleton predictor (SSP) to enhance the semantic interaction between change localization and caption generation. Extensive experiments show that the proposed method achieves the state-of-the-art results on two public datasets.</abstract>
       <url hash="57e03dc5">2021.emnlp-main.735</url>
       <bibkey>tu-etal-2021-r</bibkey>
+      <pwccode url="https://github.com/tuyunbin/r3net" additional="false">tuyunbin/r3net</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/spot-the-diff">Spot-the-diff</pwcdataset>
     </paper>
     <paper id="736">

@@ -2955,7 +2955,7 @@
       <url hash="b5d8c7bd">D19-1214</url>
       <doi>10.18653/v1/D19-1214</doi>
       <bibkey>qin-etal-2019-stack</bibkey>
-      <pwccode url="" additional="true"/>
+      <pwccode url="https://github.com/LeePleased/StackPropagation-SLU" additional="true">LeePleased/StackPropagation-SLU</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snips">SNIPS</pwcdataset>
     </paper>

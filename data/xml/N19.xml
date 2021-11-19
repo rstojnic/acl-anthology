@@ -1071,7 +1071,6 @@
       <doi>10.18653/v1/N19-1078</doi>
       <video href="https://vimeo.com/360549287" tag="video"/>
       <bibkey>akbik-etal-2019-pooled</bibkey>
-      <pwccode url="https://github.com/zalandoresearch/flair" additional="false">zalandoresearch/flair</pwccode>
     </paper>
     <paper id="79">
       <title>Better Modeling of Incomplete Annotations for Named Entity Recognition</title>

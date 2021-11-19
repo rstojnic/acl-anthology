@@ -2393,7 +2393,7 @@
       <video href="http://vimeo.com/277672779" tag="video"/>
       <bibkey>habernal-etal-2018-argument</bibkey>
       <pwccode url="https://github.com/UKPLab/argument-reasoning-comprehension-task" additional="true">UKPLab/argument-reasoning-comprehension-task</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arct">ARCT</pwcdataset>
     </paper>
     <paper id="176">
       <title>Linguistic Cues to Deception and Perceived Deception in Interview Dialogues</title>
