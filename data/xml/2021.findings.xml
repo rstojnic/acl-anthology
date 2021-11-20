@@ -6836,6 +6836,7 @@
       <abstract>Simultaneous machine translation has recently gained traction thanks to significant quality improvements and the advent of streaming applications. Simultaneous translation systems need to find a trade-off between translation quality and response time, and with this purpose multiple latency measures have been proposed. However, latency evaluations for simultaneous translation are estimated at the sentence level, not taking into account the sequential nature of a streaming scenario. Indeed, these sentence-level latency measures are not well suited for continuous stream translation, resulting in figures that are not coherent with the simultaneous translation policy of the system being assessed. This work proposes a stream level adaptation of the current latency measures based on a re-segmentation approach applied to the output translation, that is successfully evaluated on streaming conditions for a reference IWSLT task.</abstract>
       <url hash="1b8f37be">2021.findings-emnlp.58</url>
       <bibkey>iranzo-sanchez-etal-2021-stream-level</bibkey>
+      <pwccode url="https://github.com/jairsan/Stream-level_Latency_Evaluation_for_Simultaneous_Machine_Translation" additional="false">jairsan/Stream-level_Latency_Evaluation_for_Simultaneous_Machine_Translation</pwccode>
     </paper>
     <paper id="59">
       <title><fixed-case>TSDAE</fixed-case>: Using Transformer-based Sequential Denoising Auto-Encoderfor Unsupervised Sentence Embedding Learning</title>
@@ -8559,6 +8560,7 @@
       <abstract>Large-scale language models such as GPT-3 are excellent few-shot learners, allowing them to be controlled via natural text prompts. Recent studies report that prompt-based direct classification eliminates the need for fine-tuning but lacks data and inference scalability. This paper proposes a novel data augmentation technique that leverages large-scale language models to generate realistic text samples from a mixture of real samples. We also propose utilizing soft-labels predicted by the language models, effectively distilling knowledge from the large-scale language models and creating textual perturbations simultaneously. We perform data augmentation experiments on diverse classification tasks and show that our method hugely outperforms existing text augmentation methods. We also conduct experiments on our newly proposed benchmark to show that the augmentation effect is not only attributed to memorization. Further ablation studies and a qualitative analysis provide more insights into our approach.</abstract>
       <url hash="a745a43d">2021.findings-emnlp.192</url>
       <bibkey>yoo-etal-2021-gpt3mix-leveraging</bibkey>
+      <pwccode url="https://github.com/naver-ai/hypermix" additional="false">naver-ai/hypermix</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>

@@ -620,6 +620,7 @@
       <url hash="973b90dd">2021.emnlp-main.47</url>
       <bibkey>edwards-etal-2021-text2mol</bibkey>
       <pwccode url="https://github.com/cnedwards/text2mol" additional="false">cnedwards/text2mol</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/chebi-20">ChEBI-20</pwcdataset>
     </paper>
     <paper id="48">
       <title>Classification of hierarchical text using geometric deep learning: the case of clinical trials corpus</title>

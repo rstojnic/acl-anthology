@@ -2055,6 +2055,10 @@
       <author><first>Tushar</first> <last>Maheshwari</last></author>
       <url hash="a1413f30">L18-1226</url>
       <bibkey>kumar-etal-2018-aggression</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/100doh">100DOH</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/11k-hands">11k Hands</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/2000-hub5-english">2000 HUB5 English</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/2017-robotic-instrument-segmentation">2017 Robotic Instrument Segmentation Challenge</pwcdataset>
     </paper>
     <paper id="227">
       <title>Creating a Verb Synonym Lexicon Based on a Parallel Corpus</title>
