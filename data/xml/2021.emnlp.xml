@@ -2349,6 +2349,7 @@
       <abstract>Despite achieving remarkable performance, previous knowledge-enhanced works usually only use a single-source homogeneous knowledge base of limited knowledge coverage. Thus, they often degenerate into traditional methods because not all dialogues can be linked with knowledge entries. This paper proposes a novel dialogue generation model, MSKE-Dialog, to solve this issue with three unique advantages: (1) Rather than only one, MSKE-Dialog can simultaneously leverage multiple heterogeneous knowledge sources (it includes but is not limited to commonsense knowledge facts, text knowledge, infobox knowledge) to improve the knowledge coverage; (2) To avoid the topic conflict among the context and different knowledge sources, we propose a Multi-Reference Selection to better select context/knowledge; (3) We propose a Multi-Reference Generation to generate informative responses by referring to multiple generation references at the same time. Extensive evaluations on a Chinese dataset show the superior performance of this work against various state-of-the-art approaches. To our best knowledge, this work is the first to use the multi-source heterogeneous knowledge in the open-domain knowledge-enhanced dialogue generation.</abstract>
       <url hash="85bea459">2021.emnlp-main.175</url>
       <bibkey>wu-etal-2021-better</bibkey>
+      <pwccode url="https://github.com/pku-sixing/emnlp2021-mske_dialog" additional="false">pku-sixing/emnlp2021-mske_dialog</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
     </paper>
     <paper id="176">
@@ -3712,6 +3713,7 @@
       <abstract>GPT-3 shows remarkable in-context learning ability of large-scale language models (LMs) trained on hundreds of billion scale data. Here we address some remaining issues less reported by the GPT-3 paper, such as a non-English LM, the performances of different sized models, and the effect of recently introduced prompt optimization on in-context learning. To achieve this, we introduce HyperCLOVA, a Korean variant of 82B GPT-3 trained on a Korean-centric corpus of 560B tokens. Enhanced by our Korean-specific tokenization, HyperCLOVA with our training configuration shows state-of-the-art in-context zero-shot and few-shot learning performances on various downstream tasks in Korean. Also, we show the performance benefits of prompt-based learning and demonstrate how it can be integrated into the prompt engineering pipeline. Then we discuss the possibility of materializing the No Code AI paradigm by providing AI prototyping capabilities to non-experts of ML by introducing HyperCLOVA studio, an interactive prompt engineering interface. Lastly, we demonstrate the potential of our methods with three successful in-house applications.</abstract>
       <url hash="7d38683d">2021.emnlp-main.274</url>
       <bibkey>kim-etal-2021-changes</bibkey>
+      <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/klue">KLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/korquad">KorQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -4262,6 +4264,7 @@
       <abstract>As an essential form of knowledge representation, taxonomies are widely used in various downstream natural language processing tasks. However, with the continuously rising of new concepts, many existing taxonomies are unable to maintain coverage by manual expansion. In this paper, we propose TEMP, a self-supervised taxonomy expansion method, which predicts the position of new concepts by ranking the generated taxonomy-paths. For the first time, TEMP employs pre-trained contextual encoders in taxonomy construction and hypernym detection problems. Experiments prove that pre-trained contextual embeddings are able to capture hypernym-hyponym relations. To learn more detailed differences between taxonomy-paths, we train the model with dynamic margin loss by a novel dynamic margin function. Extensive evaluations exhibit that TEMP outperforms prior state-of-the-art taxonomy expansion approaches by 14.3% in accuracy and 15.8% in mean reciprocal rank on three public benchmarks.</abstract>
       <url hash="56d6c4f0">2021.emnlp-main.313</url>
       <bibkey>liu-etal-2021-temp</bibkey>
+      <pwccode url="https://github.com/liu-zichen/TEMP" additional="false">liu-zichen/TEMP</pwccode>
     </paper>
     <paper id="314">
       <title>A Graph-Based Neural Model for End-to-End Frame Semantic Parsing</title>
@@ -4485,6 +4488,7 @@
       <abstract>Sentence extractive summarization shortens a document by selecting sentences for a summary while preserving its important contents. However, constructing a coherent and informative summary is difficult using a pre-trained BERT-based encoder since it is not explicitly trained for representing the information of sentences in a document. We propose a nested tree-based extractive summarization model on RoBERTa (NeRoBERTa), where nested tree structures consist of syntactic and discourse trees in a given document. Experimental results on the CNN/DailyMail dataset showed that NeRoBERTa outperforms baseline models in ROUGE. Human evaluation results also showed that NeRoBERTa achieves significantly better scores than the baselines in terms of coherence and yields comparable scores to the state-of-the-art models.</abstract>
       <url hash="463fd16e">2021.emnlp-main.330</url>
       <bibkey>kwon-etal-2021-considering</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="331">
       <title>Frame Semantic-Enhanced Sentence Modeling for Sentence-level Extractive Text Summarization</title>
