@@ -4515,6 +4515,7 @@
       <abstract>Code summarization aims to generate concise natural language descriptions of source code, which can help improve program comprehension and maintenance. Recent studies show that syntactic and structural information extracted from abstract syntax trees (ASTs) is conducive to summary generation. However, existing approaches fail to fully capture the rich information in ASTs because of the large size/depth of ASTs. In this paper, we propose a novel model CAST that hierarchically splits and reconstructs ASTs. First, we hierarchically split a large AST into a set of subtrees and utilize a recursive neural network to encode the subtrees. Then, we aggregate the embeddings of subtrees by reconstructing the split ASTs to get the representation of the complete AST. Finally, AST representation, together with source code embedding obtained by a vanilla code token encoder, is used for code summarization. Extensive experiments, including the ablation study and the human evaluation, on benchmarks have demonstrated the power of CAST. To facilitate reproducibility, our code and data are available at https://github.com/DeepSoftwareAnalytics/CAST.</abstract>
       <url hash="99a6e237">2021.emnlp-main.332</url>
       <bibkey>shi-etal-2021-cast</bibkey>
+      <pwccode url="https://github.com/DeepSoftwareAnalytics/CAST" additional="false">DeepSoftwareAnalytics/CAST</pwccode>
     </paper>
     <paper id="333">
       <title><fixed-case>S</fixed-case>g<fixed-case>S</fixed-case>um:Transforming Multi-document Summarization into Sub-graph Selection</title>
@@ -10838,6 +10839,7 @@
       <abstract>We present a method for exploring regions around individual points in a contextualized vector space (particularly, BERT space), as a way to investigate how these regions correspond to word senses. By inducing a contextualized “pseudoword” vector as a stand-in for a static embedding in the input layer, and then performing masked prediction of a word in the sentence, we are able to investigate the geometry of the BERT-space in a controlled manner around individual instances. Using our method on a set of carefully constructed sentences targeting highly ambiguous English words, we find substantial regularity in the contextualized space, with regions that correspond to distinct word senses; but between these regions there are occasionally “sense voids”—regions that do not correspond to any intelligible sense.</abstract>
       <url hash="23611c2b">2021.emnlp-main.806</url>
       <bibkey>karidi-etal-2021-putting</bibkey>
+      <pwccode url="https://github.com/tai314159/pwibm-putting-words-in-bert-s-mouth" additional="false">tai314159/pwibm-putting-words-in-bert-s-mouth</pwccode>
     </paper>
     <paper id="807">
       <title>Rationales for Sequential Predictions</title>
