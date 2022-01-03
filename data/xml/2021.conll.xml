@@ -269,6 +269,7 @@
       <url hash="c3cce084">2021.conll-1.20</url>
       <bibkey>bharadwaj-shevade-2021-explainable</bibkey>
       <pwccode url="https://github.com/shikhar-s/explainable-nl-to-bash-ast" additional="false">shikhar-s/explainable-nl-to-bash-ast</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/nlc2cmd">NLC2CMD</pwcdataset>
     </paper>
     <paper id="21">
       <title>Learned Construction Grammars Converge Across Registers Given Increased Exposure</title>
