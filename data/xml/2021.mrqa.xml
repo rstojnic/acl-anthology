@@ -162,6 +162,7 @@
       <abstract>NLP research in Hebrew has largely focused on morphology and syntax, where rich annotated datasets in the spirit of Universal Dependencies are available. Semantic datasets, however, are in short supply, hindering crucial advances in the development of NLP technology in Hebrew. In this work, we present ParaShoot, the first question answering dataset in modern Hebrew. The dataset follows the format and crowdsourcing methodology of SQuAD, and contains approximately 3000 annotated examples, similar to other question-answering datasets in low-resource languages. We provide the first baseline results using recently-released BERT-style models for Hebrew, showing that there is significant room for improvement on this task.</abstract>
       <url hash="3446cc8d">2021.mrqa-1.11</url>
       <bibkey>keren-levy-2021-parashoot</bibkey>
+      <pwccode url="https://github.com/omrikeren/parashoot" additional="false">omrikeren/parashoot</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/parashoot">ParaShoot</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/oscar">OSCAR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
