@@ -161,6 +161,7 @@
       <pages>133–145</pages>
       <url hash="49736ac9">2021.eval4nlp-1.14</url>
       <bibkey>treviso-etal-2021-ist</bibkey>
+      <pwccode url="https://github.com/deep-spin/explainable-qe-shared-task" additional="false">deep-spin/explainable-qe-shared-task</pwccode>
     </paper>
     <paper id="15">
       <title>Error Identification for Machine Translation with Metric Embedding and Attention</title>
