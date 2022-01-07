@@ -2648,6 +2648,7 @@
       <abstract>Natural language generation (NLG) tasks on pro-drop languages are known to suffer from zero pronoun (ZP) problems, and the problems remain challenging due to the scarcity of ZP-annotated NLG corpora. In this case, we propose a highly adaptive two-stage approach to couple context modeling with ZP recovering to mitigate the ZP problem in NLG tasks. Notably, we frame the recovery process in a task-supervised fashion where the ZP representation recovering capability is learned during the NLG task learning process, thus our method does not require NLG corpora annotated with ZPs. For system enhancement, we learn an adversarial bot to adjust our model outputs to alleviate the error propagation caused by mis-recovered ZPs. Experiments on three document-level NLG tasks, i.e., machine translation, question answering, and summarization, show that our approach can improve the performance to a great extent, and the improvement on pronoun translation is very impressive.</abstract>
       <url hash="fc13cfe4">2021.emnlp-main.197</url>
       <bibkey>tan-etal-2021-coupling</bibkey>
+      <pwccode url="https://github.com/txannie/zp-dnlg" additional="false">txannie/zp-dnlg</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/matinf">MATINF</pwcdataset>
     </paper>
     <paper id="198">
@@ -3343,6 +3344,7 @@
       <abstract>Short text classification is a fundamental task in natural language processing. It is hard due to the lack of context information and labeled data in practice. In this paper, we propose a new method called SHINE, which is based on graph neural network (GNN), for short text classification. First, we model the short text dataset as a hierarchical heterogeneous graph consisting of word-level component graphs which introduce more semantic and syntactic information. Then, we dynamically learn a short document graph that facilitates effective label propagation among similar short texts. Thus, comparing with existing GNN-based methods, SHINE can better exploit interactions between nodes of the same types and capture similarities between short texts. Extensive experiments on various benchmark short text datasets show that SHINE consistently outperforms state-of-the-art methods, especially with fewer labels.</abstract>
       <url hash="9ac55a8c">2021.emnlp-main.247</url>
       <bibkey>wang-etal-2021-hierarchical</bibkey>
+      <pwccode url="https://github.com/tata1661/shine-emnlp21" additional="false">tata1661/shine-emnlp21</pwccode>
     </paper>
     <paper id="248">
       <title><tex-math>k</tex-math><fixed-case>F</fixed-case>olden: <tex-math>k</tex-math>-Fold Ensemble for Out-Of-Distribution Detection</title>

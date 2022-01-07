@@ -445,7 +445,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03bd4c14">2021.findings-acl.32.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.32</doi>
       <bibkey>gritta-iacobacci-2021-xeroalign</bibkey>
-      <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/xero_align" additional="true">huawei-noah/noah-research</pwccode>
+      <pwccode url="https://github.com/huawei-noah/noah-research" additional="true">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
@@ -11338,6 +11338,7 @@
       <abstract>Variational autoencoders have been studied as a promising approach to model one-to-many mappings from context to response in chat response generation. However, they often fail to learn proper mappings. One of the reasons for this failure is the discrepancy between a response and a latent variable sampled from an approximated distribution in training. Inappropriately sampled latent variables hinder models from constructing a modulated latent space. As a result, the models stop handling uncertainty in conversations. To resolve that, we propose speculative sampling of latent variables. Our method chooses the most probable one from redundantly sampled latent variables for tying up the variable with a given response. We confirm the efficacy of our method in response generation with massive dialogue data constructed from Twitter posts.</abstract>
       <url hash="abe06cdf">2021.findings-emnlp.407</url>
       <bibkey>sato-etal-2021-speculative-sampling</bibkey>
+      <pwccode url="https://github.com/jack-and-rozz/speculative_sampling" additional="false">jack-and-rozz/speculative_sampling</pwccode>
     </paper>
     <paper id="408">
       <title>Perceived and Intended Sarcasm Detection with Graph Attention Networks</title>

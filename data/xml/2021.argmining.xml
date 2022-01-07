@@ -260,6 +260,7 @@
       <url hash="9b32a315">2021.argmining-1.21</url>
       <attachment type="Software" hash="e2932bd7">2021.argmining-1.21.Software.zip</attachment>
       <bibkey>kapadnis-etal-2021-team</bibkey>
+      <pwccode url="https://github.com/manavkapadnis/enigma_argmining" additional="false">manavkapadnis/enigma_argmining</pwccode>
     </paper>
   </volume>
 </collection>
