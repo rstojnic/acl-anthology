@@ -1830,6 +1830,7 @@
       <bibkey>shen-etal-2021-directed</bibkey>
       <pwccode url="https://github.com/shenwzh3/DAG-ERC" additional="false">shenwzh3/DAG-ERC</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/emorynlp">EmoryNLP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/iemocap">IEMOCAP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/meld">MELD</pwcdataset>
     </paper>
