@@ -2236,7 +2236,7 @@
       <abstract>We analyze the <i>grounded</i> SCAN (gSCAN) benchmark, which was recently proposed to study systematic generalization for grounded language understanding. First, we study which aspects of the original benchmark can be solved by commonly used methods in multi-modal research. We find that a general-purpose Transformer-based model with cross-modal attention achieves strong performance on a majority of the gSCAN splits, surprisingly outperforming more specialized approaches from prior work. Furthermore, our analysis suggests that many of the remaining errors reveal the same fundamental challenge in systematic generalization of linguistic constructs regardless of visual context. Second, inspired by this finding, we propose challenging new tasks for gSCAN by generating data to incorporate relations between objects in the visual environment. Finally, we find that current models are surprisingly data inefficient given the narrow scope of commands in gSCAN, suggesting another challenge for future work.</abstract>
       <url hash="7fb6c527">2021.emnlp-main.166</url>
       <bibkey>qiu-etal-2021-systematic</bibkey>
-      <pwccode url="https://github.com/google-research/language" additional="false">google-research/language</pwccode>
+      <pwccode url="https://github.com/LauraRuis/groundedSCAN" additional="false">LauraRuis/groundedSCAN</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/scan">SCAN</pwcdataset>
     </paper>
     <paper id="167">
@@ -6284,7 +6284,7 @@
       <abstract>The research community has proposed copious modifications to the Transformer architecture since it was introduced over three years ago, relatively few of which have seen widespread adoption. In this paper, we comprehensively evaluate many of these modifications in a shared experimental setting that covers most of the common uses of the Transformer in natural language processing. Surprisingly, we find that most modifications do not meaningfully improve performance. Furthermore, most of the Transformer variants we found beneficial were either developed in the same codebase that we used or are relatively minor changes. We conjecture that performance improvements may strongly depend on implementation details and correspondingly make some recommendations for improving the generality of experimental results.</abstract>
       <url hash="f395c653">2021.emnlp-main.465</url>
       <bibkey>narang-etal-2021-transformer</bibkey>
-      <pwccode url="https://github.com/google-research/google-research/tree/master/transformer_modifications/" additional="false">google-research/google-research</pwccode>
+      <pwccode url="https://github.com/google-research/google-research/tree/master/transformer_modifications/" additional="true">google-research/google-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/c4">C4</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webquestions">WebQuestions</pwcdataset>
