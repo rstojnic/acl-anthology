@@ -8490,6 +8490,7 @@
       <abstract>Dialogue Act (DA) classification is the task of classifying utterances with respect to the function they serve in a dialogue. Existing approaches to DA classification model utterances without incorporating the turn changes among speakers throughout the dialogue, therefore treating it no different than non-interactive written text. In this paper, we propose to integrate the turn changes in conversations among speakers when modeling DAs. Specifically, we learn conversation-invariant speaker turn embeddings to represent the speaker turns in a conversation; the learned speaker turn embeddings are then merged with the utterance embeddings for the downstream task of DA classification. With this simple yet effective mechanism, our model is able to capture the semantics from the dialogue content while accounting for different speaker turns in a conversation. Validation on three benchmark public datasets demonstrates superior performance of our model.</abstract>
       <url hash="bc8572fc">2021.findings-emnlp.185</url>
       <bibkey>he-etal-2021-speaker-turn</bibkey>
+      <pwccode url="https://github.com/zaghe568/speak-turn-emb-dialog-act-clf" additional="false">zaghe568/speak-turn-emb-dialog-act-clf</pwccode>
     </paper>
     <paper id="186">
       <title>Unsupervised Domain Adaptation Method with Semantic-Structural Alignment for Dependency Parsing</title>
@@ -9424,6 +9425,7 @@
       <abstract>Aspect-level sentiment classification (ALSC) aims at identifying the sentiment polarity of a specified aspect in a sentence. ALSC is a practical setting in aspect-based sentiment analysis due to no opinion term labeling needed, but it fails to interpret why a sentiment polarity is derived for the aspect. To address this problem, recent works fine-tune pre-trained Transformer encoders for ALSC to extract an aspect-centric dependency tree that can locate the opinion words. However, the induced opinion words only provide an intuitive cue far below human-level interpretability. Besides, the pre-trained encoder tends to internalize an aspect’s intrinsic sentiment, causing sentiment bias and thus affecting model performance. In this paper, we propose a span-based anti-bias aspect representation learning framework. It first eliminates the sentiment bias in the aspect embedding by adversarial learning against aspects’ prior sentiment. Then, it aligns the distilled opinion candidates with the aspect by span-based dependency modeling to highlight the interpretable opinion terms. Our method achieves new state-of-the-art performance on five benchmarks, with the capability of unsupervised opinion extraction.</abstract>
       <url hash="f8424c82">2021.findings-emnlp.258</url>
       <bibkey>wang-etal-2021-eliminating-sentiment</bibkey>
+      <pwccode url="https://github.com/wangbo9719/sarl_absa" additional="false">wangbo9719/sarl_absa</pwccode>
     </paper>
     <paper id="259">
       <title>Data Efficient Masked Language Modeling for Vision and Language</title>
