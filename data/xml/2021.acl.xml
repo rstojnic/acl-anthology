@@ -1217,6 +1217,7 @@
       <doi>10.18653/v1/2021.acl-long.82</doi>
       <bibkey>lovelace-etal-2021-robust</bibkey>
       <pwccode url="https://github.com/justinlovelace/robust-kg-completion" additional="false">justinlovelace/robust-kg-completion</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/umls">UMLS</pwcdataset>
     </paper>
     <paper id="83">
       <title>A <fixed-case>DQN</fixed-case>-based Approach to Finding Precise Evidences for Fact Verification</title>

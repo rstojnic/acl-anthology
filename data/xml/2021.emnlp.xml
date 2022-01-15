@@ -3757,6 +3757,7 @@
       <abstract>Knowledge graphs are essential for numerous downstream natural language processing applications, but are typically incomplete with many facts missing. This results in research efforts on multi-hop reasoning task, which can be formulated as a search process and current models typically perform short distance reasoning. However, the long-distance reasoning is also vital with the ability to connect the superficially unrelated entities. To the best of our knowledge, there lacks a general framework that approaches multi-hop reasoning in mixed long-short distance reasoning scenarios. We argue that there are two key issues for a general multi-hop reasoning model: i) where to go, and ii) when to stop. Therefore, we propose a general model which resolves the issues with three modules: 1) the local-global knowledge module to estimate the possible paths, 2) the differentiated action dropout module to explore a diverse set of paths, and 3) the adaptive stopping search module to avoid over searching. The comprehensive results on three datasets demonstrate the superiority of our model with significant improvements against baselines in both short and long distance reasoning scenarios.</abstract>
       <url hash="6efbf08b">2021.emnlp-main.276</url>
       <bibkey>zhang-etal-2021-gmh</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/umls">UMLS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="277">
@@ -5899,6 +5900,7 @@
       <url hash="f7c80bb4">2021.emnlp-main.435</url>
       <bibkey>roy-pan-2021-incorporating</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/blue">BLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/umls">UMLS</pwcdataset>
     </paper>
     <paper id="436">
       <title><fixed-case>ECONET</fixed-case>: Effective Continual Pretraining of Language Models for Event Temporal Reasoning</title>
@@ -9351,6 +9353,7 @@
       <abstract>This paper surveys 60 English Machine Reading Comprehension datasets, with a view to providing a convenient resource for other researchers interested in this problem. We categorize the datasets according to their question and answer form and compare them across various dimensions including size, vocabulary, data source, method of creation, human performance level, and first question word. Our analysis reveals that Wikipedia is by far the most common data source and that there is a relative lack of why, when, and where questions across datasets.</abstract>
       <url hash="d3058e6e">2021.emnlp-main.693</url>
       <bibkey>dzendzik-etal-2021-english</bibkey>
+      <pwccode url="https://github.com/dariad/rczoo" additional="false">dariad/rczoo</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/amazonqa">AmazonQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bipar">BiPaR</pwcdataset>
