@@ -239,6 +239,7 @@
       <url hash="7089ea37">2021.wanlp-1.18</url>
       <bibkey>seelawi-etal-2021-alue</bibkey>
       <pwccode url="https://github.com/Alue-Benchmark/alue_baselines" additional="false">Alue-Benchmark/alue_baselines</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/semantic-question-similarity-in-arabic">Semantic Question Similarity in Arabic</pwcdataset>
     </paper>
     <paper id="19">
       <title>Quranic Verses Semantic Relatedness Using <fixed-case>A</fixed-case>ra<fixed-case>BERT</fixed-case></title>

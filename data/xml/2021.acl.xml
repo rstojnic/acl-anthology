@@ -8151,6 +8151,7 @@
       <url hash="932892c3">2021.acl-long.540</url>
       <doi>10.18653/v1/2021.acl-long.540</doi>
       <bibkey>jiang-riloff-2021-learning</bibkey>
+      <pwccode url="https://github.com/tyjiangu/physical_artifacts_function" additional="false">tyjiangu/physical_artifacts_function</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/framenet">FrameNet</pwcdataset>
     </paper>
