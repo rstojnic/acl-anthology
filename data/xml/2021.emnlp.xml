@@ -8694,6 +8694,7 @@
       <abstract>Various temporal knowledge graph (KG) completion models have been proposed in the recent literature. The models usually contain two parts, a temporal embedding layer and a score function derived from existing static KG modeling approaches. Since the approaches differ along several dimensions, including different score functions and training strategies, the individual contributions of different temporal embedding techniques to model performance are not always clear. In this work, we systematically study six temporal embedding approaches and empirically quantify their performance across a wide range of configurations with about 3000 experiments and 13159 GPU hours. We classify the temporal embeddings into two classes: (1) timestamp embeddings and (2) time-dependent entity embeddings. Despite the common belief that the latter is more expressive, an extensive experimental study shows that timestamp embeddings can achieve on-par or even better performance with significantly fewer parameters. Moreover, we find that when trained appropriately, the relative performance differences between various temporal embeddings often shrink and sometimes even reverse when compared to prior results. For example, TTransE (CITATION), one of the first temporal KG models, can outperform more recent architectures on ICEWS datasets. To foster further research, we provide the first unified open-source framework for temporal KG completion models with full composability, where temporal embeddings, score functions, loss functions, regularizers, and the explicit modeling of reciprocal relations can be combined arbitrarily.</abstract>
       <url hash="2f6c17f9">2021.emnlp-main.639</url>
       <bibkey>han-etal-2021-time</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/icews">ICEWS</pwcdataset>
     </paper>
     <paper id="640">
       <title>Matching-oriented Embedding Quantization For Ad-hoc Retrieval</title>
@@ -8887,6 +8888,7 @@
       <attachment type="Software" hash="cd55d0a1">2021.emnlp-main.655.Software.zip</attachment>
       <bibkey>sun-etal-2021-timetraveler</bibkey>
       <pwccode url="https://github.com/jhl-hust/titer" additional="false">jhl-hust/titer</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/icews">ICEWS</pwcdataset>
     </paper>
     <paper id="656">
       <title>Code-switched inspired losses for spoken dialog representations</title>
@@ -8923,6 +8925,7 @@
       <abstract>There has been an increasing interest in inferring future links on temporal knowledge graphs (KG). While links on temporal KGs vary continuously over time, the existing approaches model the temporal KGs in discrete state spaces. To this end, we propose a novel continuum model by extending the idea of neural ordinary differential equations (ODEs) to multi-relational graph convolutional networks. The proposed model preserves the continuous nature of dynamic multi-relational graph data and encodes both temporal and structural information into continuous-time dynamic embeddings. In addition, a novel graph transition layer is applied to capture the transitions on the dynamic graph, i.e., edge formation and dissolution. We perform extensive experiments on five benchmark datasets for temporal KG reasoning, showing our model’s superior performance on the future link forecasting task.</abstract>
       <url hash="0bcf4aaf">2021.emnlp-main.658</url>
       <bibkey>han-etal-2021-learning-neural</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/icews">ICEWS</pwcdataset>
     </paper>
     <paper id="659">
       <title><fixed-case>RAP</fixed-case>: <fixed-case>R</fixed-case>obustness-<fixed-case>A</fixed-case>ware <fixed-case>P</fixed-case>erturbations for Defending against Backdoor Attacks on <fixed-case>NLP</fixed-case> Models</title>
