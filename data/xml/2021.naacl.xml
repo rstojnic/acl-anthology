@@ -2737,6 +2737,7 @@
       <attachment type="OptionalSupplementaryCode" hash="e435a5d9">2021.naacl-main.188.OptionalSupplementaryCode.zip</attachment>
       <doi>10.18653/v1/2021.naacl-main.188</doi>
       <bibkey>xu-etal-2021-rethinking</bibkey>
+      <pwccode url="https://github.com/derronxu/sparsebert" additional="false">derronxu/sparsebert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>

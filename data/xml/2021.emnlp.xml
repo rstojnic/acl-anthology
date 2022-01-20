@@ -2977,6 +2977,10 @@
       <abstract>Recent studies have shown that prompts improve the performance of large pre-trained language models for few-shot text classification. Yet, it is unclear how the prompting knowledge can be transferred across similar NLP tasks for the purpose of mutual reinforcement. Based on continuous prompt embeddings, we propose TransPrompt, a transferable prompting framework for few-shot learning across similar tasks. In TransPrompt, we employ a multi-task meta-knowledge acquisition procedure to train a meta-learner that captures cross-task transferable knowledge. Two de-biasing techniques are further designed to make it more task-agnostic and unbiased towards any tasks. After that, the meta-learner can be adapted to target tasks with high accuracy. Extensive experiments show that TransPrompt outperforms single-task and cross-task strong baselines over multiple NLP tasks and datasets. We further show that the meta-learner can effectively improve the performance on previously unseen tasks; and TransPrompt also outperforms strong fine-tuning baselines when learning with full training sets.</abstract>
       <url hash="a897e977">2021.emnlp-main.221</url>
       <bibkey>wang-etal-2021-transprompt</bibkey>
+      <pwccode url="https://github.com/wjn1996/TransPrompt" additional="false">wjn1996/TransPrompt</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/mr">MR</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="222">
@@ -12087,6 +12091,7 @@
       <abstract>Knowledge-enriched text generation poses unique challenges in modeling and learning, driving active research in several core directions, ranging from integrated modeling of neural representations and symbolic information in the sequential/hierarchical/graphical structures, learning without direct supervisions due to the cost of structured annotation, efficient optimization and inference with massive and global constraints, to language grounding on multiple modalities, and generative reasoning with implicit commonsense knowledge and background knowledge. In this tutorial we will present a roadmap to line up the state-of-the-art methods to tackle these challenges on this cutting-edge problem. We will dive deep into various technical components: how to represent knowledge, how to feed knowledge into a generation model, how to evaluate generation results, and what are the remaining challenges?</abstract>
       <url hash="089c4029">2021.emnlp-tutorials.3</url>
       <bibkey>yu-etal-2021-knowledge</bibkey>
+      <pwccode url="https://github.com/wyu97/KENLG-Reading" additional="false">wyu97/KENLG-Reading</pwccode>
     </paper>
     <paper id="4">
       <title>Multi-Domain Multilingual Question Answering</title>
