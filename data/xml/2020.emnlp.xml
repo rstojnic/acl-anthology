@@ -1042,7 +1042,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/risawoz">RiSAWOZ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/crosswoz">CrossWOZ</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/kvret-1">KVRET</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multiwoz">MultiWOZ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sgd">SGD</pwcdataset>
     </paper>

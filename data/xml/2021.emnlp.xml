@@ -5041,6 +5041,7 @@
       <url hash="587dc8f9">2021.emnlp-main.369</url>
       <bibkey>doan-etal-2021-phomt</bibkey>
       <pwccode url="https://github.com/vinairesearch/phomt" additional="false">vinairesearch/phomt</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/phomt">PhoMT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/opensubtitles">OpenSubtitles</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikimatrix">WikiMatrix</pwcdataset>
     </paper>

@@ -8337,7 +8337,6 @@
       <video tag="video" href="http://slideslive.com/38929065"/>
       <bibkey>qin-etal-2020-dynamic</bibkey>
       <pwccode url="https://github.com/LooperXX/DF-Net" additional="false">LooperXX/DF-Net</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/kvret-1">KVRET</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multiwoz">MultiWOZ</pwcdataset>
     </paper>
     <paper id="566">
