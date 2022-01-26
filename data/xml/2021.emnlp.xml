@@ -6908,6 +6908,7 @@
       <abstract>Defeasible reasoning is the mode of reasoning where conclusions can be overturned by taking into account new evidence. Existing cognitive science literature on defeasible reasoning suggests that a person forms a “mental model” of the problem scenario before answering questions. Our research goal asks whether neural models can similarly benefit from envisioning the question scenario before answering a defeasible query. Our approach is, given a question, to have a model first create a graph of relevant influences, and then leverage that graph as an additional input when answering the question. Our system, CURIOUS, achieves a new state-of-the-art on three different defeasible reasoning datasets. This result is significant as it illustrates that performance can be improved by guiding a system to “think about” a question and explicitly model the scenario, rather than answering reflexively.</abstract>
       <url hash="9b25d655">2021.emnlp-main.508</url>
       <bibkey>madaan-etal-2021-think</bibkey>
+      <pwccode url="https://github.com/madaan/thinkaboutit" additional="false">madaan/thinkaboutit</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/atomic">ATOMIC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wiqa">WIQA</pwcdataset>
@@ -8145,6 +8146,7 @@
       <url hash="78e5edad">2021.emnlp-main.599</url>
       <attachment type="Software" hash="c0285721">2021.emnlp-main.599.Software.zip</attachment>
       <bibkey>deng-etal-2021-compression</bibkey>
+      <pwccode url="https://github.com/tanyuqian/ctc-gen-eval" additional="false">tanyuqian/ctc-gen-eval</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/persona-chat-1">PERSONA-CHAT</pwcdataset>
     </paper>

@@ -991,6 +991,7 @@
       <url hash="34bfe3b6">E14-2016</url>
       <doi>10.3115/v1/E14-2016</doi>
       <bibkey>derczynski-etal-2014-dkie</bibkey>
+      <pwccode url="https://github.com/GateNLP/gateplugin-Lang_Danish" additional="false">GateNLP/gateplugin-Lang_Danish</pwccode>
     </paper>
     <paper id="17">
       <title>Event Extraction for <fixed-case>B</fixed-case>alkan Languages</title>

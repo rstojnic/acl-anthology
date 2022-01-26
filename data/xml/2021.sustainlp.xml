@@ -167,6 +167,7 @@
       <abstract>Training large language models can consume a large amount of energy. We hypothesize that the language model’s configuration impacts its energy consumption, and that there is room for power consumption optimisation in modern large language models. To investigate these claims, we introduce a power consumption factor to the objective function, and explore the range of models and hyperparameter configurations that affect power. We identify multiple configuration factors that can reduce power consumption during language model training while retaining model quality.</abstract>
       <url hash="7ae1cacd">2021.sustainlp-1.12</url>
       <bibkey>puvis-de-chavannes-etal-2021-hyperparameter</bibkey>
+      <pwccode url="https://github.com/StrombergNLP/Low-Carbon-NLP" additional="false">StrombergNLP/Low-Carbon-NLP</pwccode>
     </paper>
     <paper id="13">
       <title>Distiller: A Systematic Study of Model Distillation Methods in Natural Language Processing</title>
