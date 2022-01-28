@@ -1260,7 +1260,6 @@
       <pwccode url="https://github.com/cgraywang/deepex" additional="false">cgraywang/deepex</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tacred">TACRED</pwcdataset>
     </paper>
     <paper id="95">
