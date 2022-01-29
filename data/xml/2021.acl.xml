@@ -3759,6 +3759,7 @@
       <bibkey>ding-etal-2021-nerd</bibkey>
       <pwccode url="https://github.com/thunlp/Few-NERD" additional="false">thunlp/Few-NERD</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/few-nerd">Few-NERD</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wnut-2017-emerging-and-rare-entity">WNUT 2017</pwcdataset>
     </paper>
     <paper id="249">
       <title><fixed-case>M</fixed-case>ulti<fixed-case>MET</fixed-case>: A Multimodal Dataset for Metaphor Understanding</title>
