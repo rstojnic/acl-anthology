@@ -1401,6 +1401,7 @@
       <abstract>Discourse segmentation, the first step of discourse analysis, has been shown to improve results for text summarization, translation and other NLP tasks. While segmentation models for written text tend to perform well, they are not directly applicable to spontaneous, oral conversation, which has linguistic features foreign to written text. Segmentation is less studied for this type of language, where annotated data is scarce, and existing corpora more heterogeneous. We develop a weak supervision approach to adapt, using minimal annotation, a state of the art discourse segmenter trained on written text to French conversation transcripts. Supervision is given by a latent model bootstrapped by manually defined heuristic rules that use linguistic and acoustic information. The resulting model improves the original segmenter, especially in contexts where information on speaker turns is lacking or noisy, gaining up to 13% in F-score. Evaluation is performed on data like those used to define our heuristic rules, but also on transcripts from two other corpora.</abstract>
       <url hash="88cbc0fb">2021.emnlp-main.104</url>
       <bibkey>gravellier-etal-2021-weakly</bibkey>
+      <pwccode url="https://github.com/linto-project/linto-dialogue-act-segmentation" additional="false">linto-project/linto-dialogue-act-segmentation</pwccode>
     </paper>
     <paper id="105">
       <title>Narrative Embedding: <fixed-case>R</fixed-case>e-<fixed-case>C</fixed-case>ontextualization Through Attention</title>

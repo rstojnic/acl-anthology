@@ -5061,6 +5061,7 @@
       <url hash="aa08393d">2021.acl-long.335</url>
       <doi>10.18653/v1/2021.acl-long.335</doi>
       <bibkey>tay-etal-2021-pretrained</bibkey>
+      <pwccode url="https://github.com/google-research/google-research/tree/master/pretrained_conv" additional="false">google-research/google-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/c4">C4</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
