@@ -7549,6 +7549,7 @@
       <url hash="ecf6ae2a">2021.emnlp-main.557</url>
       <attachment type="Software" hash="e6eebc73">2021.emnlp-main.557.Software.zip</attachment>
       <bibkey>thawani-etal-2021-numeracy</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikiconvert">WikiConvert</pwcdataset>
     </paper>
     <paper id="558">
       <title>Students Who Study Together Learn Better: On the Importance of Collective Knowledge Distillation for Domain Transfer in Fact Verification</title>

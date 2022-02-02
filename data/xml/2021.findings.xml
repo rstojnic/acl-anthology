@@ -4240,11 +4240,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="c05c41eb">2021.findings-acl.318.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.318</doi>
       <bibkey>hendricks-nematzadeh-2021-probing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/hico">HICO</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/v-coco">V-COCO</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/vrd">VRD</pwcdataset>
+      <pwccode url="https://github.com/deepmind/svo_probes" additional="false">deepmind/svo_probes</pwccode>
     </paper>
     <paper id="319">
       <title>Implications of Using <fixed-case>I</fixed-case>nternet Sting Corpora to Approximate Underage Victims</title>
