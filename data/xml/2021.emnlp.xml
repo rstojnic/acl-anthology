@@ -504,6 +504,7 @@
       <abstract>Neural dialog models are known to suffer from problems such as generating unsafe and inconsistent responses. Even though these problems are crucial and prevalent, they are mostly manually identified by model designers through interactions. Recently, some research instructs crowdworkers to goad the bots into triggering such problems. However, humans leverage superficial clues such as hate speech, while leaving systematic problems undercover. In this paper, we propose two methods including reinforcement learning to automatically trigger a dialog model into generating problematic responses. We show the effect of our methods in exposing safety and contradiction issues with state-of-the-art dialog models.</abstract>
       <url hash="fb2b6f5c">2021.emnlp-main.37</url>
       <bibkey>yu-sagae-2021-automatically</bibkey>
+      <pwccode url="https://github.com/diandyu/trigger" additional="false">diandyu/trigger</pwccode>
     </paper>
     <paper id="38">
       <title><fixed-case>E</fixed-case>vent Coreference Data (Almost) for Free: <fixed-case>M</fixed-case>ining Hyperlinks from Online News</title>
@@ -4798,6 +4799,7 @@
       <url hash="0888b04a">2021.emnlp-main.351</url>
       <bibkey>ribeiro-etal-2021-structural</bibkey>
       <pwccode url="https://github.com/ukplab/structadapt" additional="false">ukplab/structadapt</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/amr3-0">AMR3.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ldc2020t02">LDC2020T02</pwcdataset>
     </paper>
     <paper id="352">
