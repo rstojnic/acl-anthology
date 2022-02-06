@@ -281,6 +281,7 @@
       <abstract>The rise of pre-trained language models has yielded substantial progress in the vast majority of Natural Language Processing (NLP) tasks. However, a generic approach towards the pre-training procedure can naturally be sub-optimal in some cases. Particularly, fine-tuning a pre-trained language model on a source domain and then applying it to a different target domain, results in a sharp performance decline of the eventual classifier for many source-target domain pairs. Moreover, in some NLP tasks, the output categories substantially differ between domains, making adaptation even more challenging. This, for example, happens in the task of aspect extraction, where the aspects of interest of reviews of, e.g., restaurants or electronic devices may be very different. This paper presents a new fine-tuning scheme for BERT, which aims to address the above challenges. We name this scheme DILBERT: Domain Invariant Learning with BERT, and customize it for aspect extraction in the unsupervised domain adaptation setting. DILBERT harnesses the categorical information of both the source and the target domains to guide the pre-training process towards a more domain and category invariant representation, thus closing the gap between the domains. We show that DILBERT yields substantial improvements over state-of-the-art baselines while using a fraction of the unlabeled data, particularly in more challenging domain adaptation setups.</abstract>
       <url hash="be594994">2021.emnlp-main.20</url>
       <bibkey>lekhtman-etal-2021-dilbert</bibkey>
+      <pwccode url="https://github.com/tonylekhtman/dilbert" additional="false">tonylekhtman/dilbert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mams">MAMS</pwcdataset>
     </paper>
     <paper id="21">
@@ -878,6 +879,7 @@
       <abstract>This paper proposes to study a fine-grained semantic novelty detection task, which can be illustrated with the following example. It is normal that a person walks a dog in the park, but if someone says “A man is walking a chicken in the park”, it is novel. Given a set of natural language descriptions of normal scenes, we want to identify descriptions of novel scenes. We are not aware of any existing work that solves the problem. Although existing novelty or anomaly detection algorithms are applicable, since they are usually topic-based, they perform poorly on our fine-grained semantic novelty detection task. This paper proposes an effective model (called GAT-MA) to solve the problem and also contributes a new dataset. Experimental evaluation shows that GAT-MA outperforms 11 baselines by large margins.</abstract>
       <url hash="62ac87aa">2021.emnlp-main.66</url>
       <bibkey>ma-etal-2021-semantic</bibkey>
+      <pwccode url="https://github.com/nianzuma/semantic-novelty-detection-in-natural-language-descriptions" additional="false">nianzuma/semantic-novelty-detection-in-natural-language-descriptions</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
     </paper>
@@ -11229,7 +11231,7 @@
       <abstract>While large language models a la BERT are used ubiquitously in NLP, pretraining them is considered a luxury that only a few well-funded industry labs can afford. How can one train such models with a more modest budget? We present a recipe for pretraining a masked language model in 24 hours using a single low-end deep learning server. We demonstrate that through a combination of software optimizations, design choices, and hyperparameter tuning, it is possible to produce models that are competitive with BERT-base on GLUE tasks at a fraction of the original pretraining cost.</abstract>
       <url hash="af151510">2021.emnlp-main.831</url>
       <bibkey>izsak-etal-2021-train</bibkey>
-      <pwccode url="https://github.com/IntelLabs/academic-budget-bert" additional="true">IntelLabs/academic-budget-bert</pwccode>
+      <pwccode url="https://github.com/peteriz/academic-budget-bert" additional="true">peteriz/academic-budget-bert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
