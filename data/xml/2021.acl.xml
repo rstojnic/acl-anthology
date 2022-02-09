@@ -2489,6 +2489,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multifc">MultiFC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/scifact">SciFact</pwcdataset>
     </paper>
     <paper id="166">
       <title>Explaining Relationships Between Scientific Documents</title>
@@ -3473,6 +3474,7 @@
       <bibkey>kanwatchara-etal-2021-rational</bibkey>
       <pwccode url="https://github.com/kanwatchara-k/r_lamol" additional="false">kanwatchara-k/r_lamol</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/scifact">SciFact</pwcdataset>
     </paper>
     <paper id="230">
       <title><fixed-case>E</fixed-case>ns<fixed-case>LM</fixed-case>: Ensemble Language Model for Data Diversity by Semantic Clustering</title>
