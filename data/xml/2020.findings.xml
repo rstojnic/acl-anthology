@@ -6522,6 +6522,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.445</doi>
       <bibkey>kakwani-etal-2020-indicnlpsuite</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/indiccorp">IndicCorp</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/indicglue">IndicGLUE</pwcdataset>
     </paper>
     <paper id="446">
       <title>Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations</title>

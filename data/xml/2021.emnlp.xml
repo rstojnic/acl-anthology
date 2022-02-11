@@ -9145,6 +9145,7 @@
       <attachment type="Software" hash="ab82f874">2021.emnlp-main.675.Software.zip</attachment>
       <bibkey>dhamecha-etal-2021-role</bibkey>
       <pwccode url="https://github.com/ibm/indo-aryan-language-family-model" additional="false">ibm/indo-aryan-language-family-model</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/indicglue">IndicGLUE</pwcdataset>
     </paper>
     <paper id="676">
       <title>Comparing Feature-Engineering and Feature-Learning Approaches for Multilingual Translationese Classification</title>
