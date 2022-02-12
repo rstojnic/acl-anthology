@@ -8442,6 +8442,7 @@
       <abstract>Growing polarization of the news media has been blamed for fanning disagreement, controversy and even violence. Early identification of polarized topics is thus an urgent matter that can help mitigate conflict. However, accurate measurement of topic-wise polarization is still an open research challenge. To address this gap, we propose Partisanship-aware Contextualized Topic Embeddings (PaCTE), a method to automatically detect polarized topics from partisan news sources. Specifically, utilizing a language model that has been finetuned on recognizing partisanship of the news articles, we represent the ideology of a news corpus on a topic by corpus-contextualized topic embedding and measure the polarization using cosine distance. We apply our method to a dataset of news articles about the COVID-19 pandemic. Extensive experiments on different news sources and topics demonstrate the efficacy of our method to capture topical polarization, as indicated by its effectiveness of retrieving the most polarized topics.</abstract>
       <url hash="1b7c5404">2021.findings-emnlp.181</url>
       <bibkey>he-etal-2021-detecting-polarized</bibkey>
+      <pwccode url="https://github.com/zaghe568/pacte-polarized-topics-detection" additional="false">zaghe568/pacte-polarized-topics-detection</pwccode>
     </paper>
     <paper id="182">
       <title><fixed-case>G</fixed-case>enerative<fixed-case>RE</fixed-case>: Incorporating a Novel Copy Mechanism and Pretrained Model for Joint Entity and Relation Extraction</title>
