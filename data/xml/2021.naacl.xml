@@ -5378,6 +5378,7 @@
       <doi>10.18653/v1/2021.naacl-main.378</doi>
       <bibkey>ke-etal-2021-adapting</bibkey>
       <pwccode url="https://github.com/zixuanke/pycontinual" additional="false">zixuanke/pycontinual</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/asc-til-19-tasks">ASC (TIL, 19 tasks)</pwcdataset>
     </paper>
     <paper id="379">
       <title>Adversarial Learning for Zero-Shot Stance Detection on Social Media</title>

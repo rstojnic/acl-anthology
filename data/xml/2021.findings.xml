@@ -9005,7 +9005,7 @@
       <abstract>We introduce a new pretraining approach geared for multi-document language modeling, incorporating two key ideas into the masked language modeling self-supervised objective. First, instead of considering documents in isolation, we pretrain over sets of multiple related documents, encouraging the model to learn cross-document relationships. Second, we improve over recent long-range transformers by introducing dynamic global attention that has access to the entire input to predict masked tokens. We release CDLM (Cross-Document Language Model), a new general language model for multi-document setting that can be easily applied to downstream tasks. Our extensive analysis shows that both ideas are essential for the success of CDLM, and work in synergy to set new state-of-the-art results for several multi-text tasks.</abstract>
       <url hash="6ec8c35d">2021.findings-emnlp.225</url>
       <bibkey>caciularu-etal-2021-cdlm-cross</bibkey>
-      <pwccode url="https://github.com/aviclu/CD-LM" additional="true">aviclu/CD-LM</pwccode>
+      <pwccode url="https://github.com/aviclu/cdlm" additional="true">aviclu/cdlm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ecb">ECB+</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi-news">Multi-News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/s2orc">S2ORC</pwcdataset>
@@ -9164,6 +9164,7 @@
       <abstract>An open-domain knowledge graph (KG) has entities as nodes and natural language relations as edges, and is constructed by extracting (subject, relation, object) triples from text. The task of open-domain link prediction is to infer missing relations in the KG. Previous work has used standard link prediction for the task. Since triples are extracted from text, we can ground them in the larger textual context in which they were originally found. However, standard link prediction methods only rely on the KG structure and ignore the textual context that each triple was extracted from. In this paper, we introduce the new task of open-domain contextual link prediction which has access to both the textual context and the KG structure to perform link prediction. We build a dataset for the task and propose a model for it. Our experiments show that context is crucial in predicting missing relations. We also demonstrate the utility of contextual link prediction in discovering context-independent entailments between relations, in the form of entailment graphs (EG), in which the nodes are the relations. The reverse holds too: context-independent EGs assist in predicting relations in context.</abstract>
       <url hash="a769052f">2021.findings-emnlp.238</url>
       <bibkey>hosseini-etal-2021-open-domain</bibkey>
+      <pwccode url="https://github.com/mjhosseini/open_contextual_link_pred" additional="false">mjhosseini/open_contextual_link_pred</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/figer">FIGER</pwcdataset>
     </paper>
     <paper id="239">
