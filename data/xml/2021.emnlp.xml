@@ -8423,6 +8423,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/topical-chat">Topical-Chat</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/usr-personachat">USR-PersonaChat</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/usr-topicalchat">USR-TopicalChat</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
     </paper>
     <paper id="619">
