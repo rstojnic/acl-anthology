@@ -10012,7 +10012,7 @@
       <attachment type="Dataset" hash="40224b1e">2020.acl-main.679.Dataset.zip</attachment>
       <video tag="video" href="http://slideslive.com/38929042"/>
       <bibkey>abdou-etal-2020-sensitivity</bibkey>
-      <pwccode url="https://github.com/mhany90/enhanced_wsc" additional="false">mhany90/enhanced_wsc</pwccode>
+      <pwccode url="https://github.com/mhany90/enhanced_wsc" additional="true">mhany90/enhanced_wsc</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>

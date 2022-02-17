@@ -5380,6 +5380,7 @@
       <bibkey>ke-etal-2021-adapting</bibkey>
       <pwccode url="https://github.com/zixuanke/pycontinual" additional="false">zixuanke/pycontinual</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/asc-til-19-tasks">ASC (TIL, 19 tasks)</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/20newsgroup-10-tasks">20Newsgroup (10 tasks)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dsc-10-tasks">DSC (10 tasks)</pwcdataset>
     </paper>
     <paper id="379">
