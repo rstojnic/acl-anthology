@@ -8663,6 +8663,7 @@
       <url hash="566e0c62">2021.emnlp-main.635</url>
       <bibkey>li-etal-2021-tdeer</bibkey>
       <pwccode url="https://github.com/4ai/tdeer" additional="false">4ai/tdeer</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/nyt11-hrl">NYT11-HRL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
     </paper>
     <paper id="636">

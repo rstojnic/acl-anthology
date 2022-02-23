@@ -2018,6 +2018,7 @@
       <video tag="video" href="http://slideslive.com/38928881"/>
       <bibkey>wei-etal-2020-novel</bibkey>
       <pwccode url="https://github.com/weizhepei/CasRel" additional="true">weizhepei/CasRel</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/nyt11-hrl">NYT11-HRL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
     </paper>
     <paper id="137">
