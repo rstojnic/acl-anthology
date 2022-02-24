@@ -7215,6 +7215,7 @@
       <abstract>Abstractive conversation summarization has received growing attention while most current state-of-the-art summarization models heavily rely on human-annotated summaries. To reduce the dependence on labeled summaries, in this work, we present a simple yet effective set of Conversational Data Augmentation (CODA) methods for semi-supervised abstractive conversation summarization, such as random swapping/deletion to perturb the discourse relations inside conversations, dialogue-acts-guided insertion to interrupt the development of conversations, and conditional-generation-based substitution to substitute utterances with their paraphrases generated based on the conversation context. To further utilize unlabeled conversations, we combine CODA with two-stage noisy self-training where we first pre-train the summarization model on unlabeled conversations with pseudo summaries and then fine-tune it on labeled conversations. Experiments conducted on the recent conversation summarization datasets demonstrate the effectiveness of our methods over several state-of-the-art data augmentation baselines.</abstract>
       <url hash="62be795e">2021.emnlp-main.530</url>
       <bibkey>chen-yang-2021-simple</bibkey>
+      <pwccode url="https://github.com/gt-salt/coda" additional="false">gt-salt/coda</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
     </paper>
     <paper id="531">
@@ -10638,6 +10639,7 @@
       <url hash="5fb4ee9e">2021.emnlp-main.787</url>
       <attachment type="Software" hash="bfe0a9b4">2021.emnlp-main.787.Software.zip</attachment>
       <bibkey>kim-etal-2021-learning</bibkey>
+      <pwccode url="https://github.com/hikoseon12/learning-bill-similarity" additional="false">hikoseon12/learning-bill-similarity</pwccode>
     </paper>
     <paper id="788">
       <title><fixed-case>SWEAT</fixed-case>: Scoring Polarization of Topics across Different Corpora</title>
