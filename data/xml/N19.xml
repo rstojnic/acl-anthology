@@ -1646,7 +1646,6 @@
       <doi>10.18653/v1/N19-1119</doi>
       <video href="https://vimeo.com/347406566" tag="video"/>
       <bibkey>platanios-etal-2019-competence</bibkey>
-      <pwccode url="" additional="true"/>
     </paper>
     <paper id="120">
       <title>Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation</title>
