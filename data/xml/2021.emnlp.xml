@@ -9091,6 +9091,7 @@
       <url hash="8c685c97">2021.emnlp-main.670</url>
       <attachment type="Software" hash="837e5225">2021.emnlp-main.670.Software.zip</attachment>
       <bibkey>emelin-sennrich-2021-wino</bibkey>
+      <pwccode url="https://github.com/demelin/wino-x" additional="false">demelin/wino-x</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/winogrande">WinoGrande</pwcdataset>
     </paper>
     <paper id="671">
