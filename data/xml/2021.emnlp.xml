@@ -1907,6 +1907,7 @@
       <url hash="97743190">2021.emnlp-main.141</url>
       <bibkey>clark-etal-2021-iconary</bibkey>
       <pwccode url="https://github.com/allenai/iconary" additional="false">allenai/iconary</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/iconary">Iconary</pwcdataset>
     </paper>
     <paper id="142">
       <title>Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems</title>
