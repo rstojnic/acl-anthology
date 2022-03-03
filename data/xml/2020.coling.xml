@@ -7243,6 +7243,7 @@
       <doi>10.18653/v1/2020.coling-main.546</doi>
       <bibkey>liao-etal-2020-explainable</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/cora">Cora</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/microsoft-academic-graph">Microsoft Academic Graph</pwcdataset>
     </paper>
     <paper id="547">
       <title>“What is on your mind?” Automated Scoring of Mindreading in Childhood and Early Adolescence</title>

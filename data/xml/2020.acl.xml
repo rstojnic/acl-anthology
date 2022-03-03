@@ -6605,6 +6605,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/s2orc">S2ORC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cord-19">CORD-19</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dblp">DBLP</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/refseer">RefSeer</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semantic-scholar">Semantic Scholar</pwcdataset>
     </paper>
     <paper id="448">
