@@ -4217,6 +4217,7 @@
       <doi>10.18653/v1/2020.emnlp-main.281</doi>
       <video tag="video" href="https://slideslive.com/38938810"/>
       <bibkey>he-etal-2020-amalgamating</bibkey>
+      <pwccode url="https://github.com/siat-nlp/TTOS" additional="false">siat-nlp/TTOS</pwccode>
     </paper>
     <paper id="282">
       <title>Task-oriented Domain-specific Meta-Embedding for Text Classification</title>
