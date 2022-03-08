@@ -5462,7 +5462,6 @@
       <bibkey>liu-etal-2021-element</bibkey>
       <revision id="1" href="2021.acl-long.361v1" hash="502ea135"/>
       <revision id="2" href="2021.acl-long.361v2" hash="0b78b856" date="2021-08-17">Typo fixes in Abstract, clearer content in Related Work and Conclusion</revision>
-      <pwccode url="https://github.com/Lfc1993/EI_ORE" additional="false">Lfc1993/EI_ORE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
     </paper>
     <paper id="362">
