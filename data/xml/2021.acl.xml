@@ -3422,6 +3422,7 @@
       <bibkey>mao-etal-2021-lightweight</bibkey>
       <pwccode url="https://github.com/Mao-KU/lightweight-crosslingual-sent2vec" additional="false">Mao-KU/lightweight-crosslingual-sent2vec</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mldoc">MLDoc</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/paracrawl">ParaCrawl</pwcdataset>
     </paper>
     <paper id="227">
       <title><fixed-case>ERNIE</fixed-case>-<fixed-case>D</fixed-case>oc: A Retrospective Long-Document Modeling Transformer</title>

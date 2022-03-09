@@ -1343,7 +1343,6 @@
       <bibkey>reid-etal-2021-afromt</bibkey>
       <pwccode url="https://github.com/machelreid/afromt" additional="false">machelreid/afromt</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/opensubtitles">OpenSubtitles</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/paracrawl">ParaCrawl</pwcdataset>
     </paper>
     <paper id="100">
       <title>Evaluating the Evaluation Metrics for Style Transfer: A Case Study in Multilingual Formality Transfer</title>
@@ -9139,6 +9138,7 @@
       <abstract>Multilingual NMT has become an attractive solution for MT deployment in production. But to match bilingual quality, it comes at the cost of larger and slower models. In this work, we consider several ways to make multilingual NMT faster at inference without degrading its quality. We experiment with several “light decoder” architectures in two 20-language multi-parallel settings: small-scale on TED Talks and large-scale on ParaCrawl. Our experiments demonstrate that combining a shallow decoder with vocabulary filtering leads to almost 2 times faster inference with no loss in translation quality. We validate our findings with BLEU and chrF (on 380 language pairs), robustness evaluation and human evaluation.</abstract>
       <url hash="9f3a7029">2021.emnlp-main.674</url>
       <bibkey>berard-etal-2021-efficient</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/paracrawl">ParaCrawl</pwcdataset>
     </paper>
     <paper id="675">
       <title>Role of <fixed-case>L</fixed-case>anguage <fixed-case>R</fixed-case>elatedness in <fixed-case>M</fixed-case>ultilingual <fixed-case>F</fixed-case>ine-tuning of <fixed-case>L</fixed-case>anguage <fixed-case>M</fixed-case>odels: <fixed-case>A</fixed-case> <fixed-case>C</fixed-case>ase <fixed-case>S</fixed-case>tudy in <fixed-case>I</fixed-case>ndo-<fixed-case>A</fixed-case>ryan <fixed-case>L</fixed-case>anguages</title>
@@ -9656,6 +9656,7 @@
       <abstract>Stance detection concerns the classification of a writer’s viewpoint towards a target. There are different task variants, e.g., stance of a tweet vs. a full article, or stance with respect to a claim vs. an (implicit) topic. Moreover, task definitions vary, which includes the label inventory, the data collection, and the annotation protocol. All these aspects hinder cross-domain studies, as they require changes to standard domain adaptation approaches. In this paper, we perform an in-depth analysis of 16 stance detection datasets, and we explore the possibility for cross-domain learning from them. Moreover, we propose an end-to-end unsupervised framework for out-of-domain prediction of unseen, user-defined labels. In particular, we combine domain adaptation techniques such as mixture of experts and domain-adversarial training with label embeddings, and we demonstrate sizable performance gains over strong baselines, both (i) in-domain, i.e., for seen targets, and (ii) out-of-domain, i.e., for unseen targets. Finally, we perform an exhaustive analysis of the cross-domain results, and we highlight the important factors influencing the model performance.</abstract>
       <url hash="0a04bf62">2021.emnlp-main.710</url>
       <bibkey>hardalov-etal-2021-cross</bibkey>
+      <pwccode url="https://github.com/checkstep/mole-stance" additional="false">checkstep/mole-stance</pwccode>
     </paper>
     <paper id="711">
       <title>Text <fixed-case>A</fixed-case>uto<fixed-case>A</fixed-case>ugment: Learning Compositional Augmentation Policy for Text Classification</title>

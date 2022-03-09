@@ -7182,7 +7182,6 @@
       <video tag="video" href="https://slideslive.com/38939183"/>
       <bibkey>el-kishky-etal-2020-ccaligned</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ccaligned">CCAligned</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/paracrawl">ParaCrawl</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikimatrix">WikiMatrix</pwcdataset>
     </paper>
     <paper id="481">
@@ -9277,7 +9276,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/esxnli">esXNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/paracrawl">ParaCrawl</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
