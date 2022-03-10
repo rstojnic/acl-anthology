@@ -3628,6 +3628,7 @@
       <abstract>This paper considers the unsupervised domain adaptation problem for neural machine translation (NMT), where we assume the access to only monolingual text in either the source or target language in the new domain. We propose a cross-lingual data selection method to extract in-domain sentences in the missing language side from a large generic monolingual corpus. Our proposed method trains an adaptive layer on top of multilingual BERT by contrastive learning to align the representation between the source and target language. This then enables the transferability of the domain classifier between the languages in a zero-shot manner. Once the in-domain data is detected by the classifier, the NMT model is then adapted to the new domain by jointly learning translation and domain discrimination tasks. We evaluate our cross-lingual data selection method on NMT across five diverse domains in three language pairs, as well as a real-world scenario of translation for COVID-19. The results show that our proposed method outperforms other selection baselines up to +1.5 BLEU score.</abstract>
       <url hash="c461d256">2021.emnlp-main.268</url>
       <bibkey>vu-etal-2021-generalised</bibkey>
+      <pwccode url="https://github.com/trangvu/guda" additional="false">trangvu/guda</pwccode>
     </paper>
     <paper id="269">
       <title><fixed-case>STANKER</fixed-case>: Stacking Network based on Level-grained Attention-masked <fixed-case>BERT</fixed-case> for Rumor Detection on Social Media</title>
@@ -5090,7 +5091,7 @@
       <abstract>Transformer architecture has become ubiquitous in the natural language processing field. To interpret the Transformer-based models, their attention patterns have been extensively analyzed. However, the Transformer architecture is not only composed of the multi-head attention; other components can also contribute to Transformers’ progressive performance. In this study, we extended the scope of the analysis of Transformers from solely the attention patterns to the whole attention block, i.e., multi-head attention, residual connection, and layer normalization. Our analysis of Transformer-based masked language models shows that the token-to-token interaction performed via attention has less impact on the intermediate representations than previously assumed. These results provide new intuitive explanations of existing reports; for example, discarding the learned attention patterns tends not to adversely affect the performance. The codes of our experiments are publicly available.</abstract>
       <url hash="5af48518">2021.emnlp-main.373</url>
       <bibkey>kobayashi-etal-2021-incorporating</bibkey>
-      <pwccode url="https://github.com/gorokoba560/norm-analysis-of-transformer" additional="false">gorokoba560/norm-analysis-of-transformer</pwccode>
+      <pwccode url="https://github.com/gorokoba560/norm-analysis-of-transformer" additional="true">gorokoba560/norm-analysis-of-transformer</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>

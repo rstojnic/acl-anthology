@@ -7787,7 +7787,7 @@
       <doi>10.18653/v1/2020.acl-main.528</doi>
       <video tag="video" href="http://slideslive.com/38928863"/>
       <bibkey>ma-etal-2020-simplify</bibkey>
-      <pwccode url="https://github.com/v-mipeng/LexiconAugmentedNER" additional="false">v-mipeng/LexiconAugmentedNER</pwccode>
+      <pwccode url="https://github.com/v-mipeng/LexiconAugmentedNER" additional="true">v-mipeng/LexiconAugmentedNER</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-4-0">OntoNotes 4.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/resume-ner">Resume NER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/weibo-ner">Weibo NER</pwcdataset>
