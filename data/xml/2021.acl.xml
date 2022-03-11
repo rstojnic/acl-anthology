@@ -9937,6 +9937,7 @@
       <url hash="7f076cbc">2021.acl-short.97</url>
       <doi>10.18653/v1/2021.acl-short.97</doi>
       <bibkey>wang-etal-2021-input</bibkey>
+      <pwccode url="https://github.com/wangchunliu/chinese-drs-parsing" additional="false">wangchunliu/chinese-drs-parsing</pwccode>
     </paper>
     <paper id="98">
       <title>Code Generation from Natural Language with Less Prior Knowledge and More Monolingual Data</title>

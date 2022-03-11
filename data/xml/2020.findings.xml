@@ -1498,6 +1498,7 @@
       <url hash="6b432b34">2020.findings-emnlp.104</url>
       <doi>10.18653/v1/2020.findings-emnlp.104</doi>
       <bibkey>zhu-etal-2020-hypertext</bibkey>
+      <pwccode url="" additional="true"/>
     </paper>
     <paper id="105">
       <title><fixed-case>A</fixed-case>uto<fixed-case>ETER</fixed-case>: Automated Entity Type Representation for Knowledge Graph Embedding</title>
