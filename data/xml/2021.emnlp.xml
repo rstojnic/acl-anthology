@@ -331,7 +331,6 @@
       <abstract>Data augmentation and adversarial perturbation approaches have recently achieved promising results in solving the over-fitting problem in many natural language processing (NLP) tasks including sentiment classification. However, existing studies aimed to improve the generalization ability by augmenting the training data with synonymous examples or adding random noises to word embeddings, which cannot address the spurious association problem. In this work, we propose an end-to-end reinforcement learning framework, which jointly performs counterfactual data generation and dual sentiment classification. Our approach has three characteristics:1) the generator automatically generates massive and diverse antonymous sentences; 2) the discriminator contains a original-side sentiment predictor and an antonymous-side sentiment predictor, which jointly evaluate the quality of the generated sample and help the generator iteratively generate higher-quality antonymous samples; 3) the discriminator is directly used as the final sentiment classifier without the need to build an extra one. Extensive experiments show that our approach outperforms strong data augmentation baselines on several benchmark sentiment classification datasets. Further analysis confirms our approach’s advantages in generating more diverse training samples and solving the spurious association problem in sentiment classification.</abstract>
       <url hash="83269a66">2021.emnlp-main.24</url>
       <bibkey>chen-etal-2021-reinforced</bibkey>
-      <pwccode url="https://github.com/nustm/rcda" additional="false">nustm/rcda</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="25">
@@ -3285,7 +3284,7 @@
       <abstract>In this work, we explore “prompt tuning,” a simple yet effective mechanism for learning “soft prompts” to condition frozen language models to perform specific downstream tasks. Unlike the discrete text prompts used by GPT-3, soft prompts are learned through backpropagation and can be tuned to incorporate signals from any number of labeled examples. Our end-to-end learned approach outperforms GPT-3’s few-shot learning by a large margin. More remarkably, through ablations on model size using T5, we show that prompt tuning becomes more competitive with scale: as models exceed billions of parameters, our method “closes the gap” and matches the strong performance of model tuning (where all model weights are tuned). This finding is especially relevant because large models are costly to share and serve and the ability to reuse one frozen model for multiple downstream tasks can ease this burden. Our method can be seen as a simplification of the recently proposed “prefix tuning” of Li and Liang (2021) and we provide a comparison to this and other similar approaches. Finally, we show that conditioning a frozen model with soft prompts confers benefits in robustness to domain transfer and enables efficient “prompt ensembling.” We release code and model checkpoints to reproduce our experiments.</abstract>
       <url hash="b7481d5c">2021.emnlp-main.243</url>
       <bibkey>lester-etal-2021-power</bibkey>
-      <pwccode url="" additional="true"/>
+      <pwccode url="https://github.com/google-research/prompt-tuning" additional="true">google-research/prompt-tuning</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
@@ -7325,6 +7324,7 @@
       <abstract>We propose a novel scheme to use the Levenshtein Transformer to perform the task of word-level quality estimation. A Levenshtein Transformer is a natural fit for this task: trained to perform decoding in an iterative manner, a Levenshtein Transformer can learn to post-edit without explicit supervision. To further minimize the mismatch between the translation task and the word-level QE task, we propose a two-stage transfer learning procedure on both augmented data and human post-editing data. We also propose heuristics to construct reference labels that are compatible with subword-level finetuning and inference. Results on WMT 2020 QE shared task dataset show that our proposed method has superior data efficiency under the data-constrained setting and competitive performance under the unconstrained setting.</abstract>
       <url hash="a889fd4e">2021.emnlp-main.539</url>
       <bibkey>ding-etal-2021-levenshtein</bibkey>
+      <pwccode url="https://github.com/shuoyangd/stenella" additional="false">shuoyangd/stenella</pwccode>
     </paper>
     <paper id="540">
       <title>Interactive Machine Comprehension with Dynamic Knowledge Graphs</title>
