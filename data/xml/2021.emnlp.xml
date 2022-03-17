@@ -114,6 +114,7 @@
       <pwccode url="https://github.com/rowitzou/dams" additional="false">rowitzou/dams</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/reddit-conversation-corpus">Reddit Conversation Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
     </paper>
     <paper id="8">

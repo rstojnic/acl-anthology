@@ -6551,6 +6551,7 @@
       <bibkey>liang-etal-2021-maria</bibkey>
       <pwccode url="https://github.com/jokieleung/Maria" additional="false">jokieleung/Maria</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/reddit-conversation-corpus">Reddit Conversation Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
     </paper>
     <paper id="436">
