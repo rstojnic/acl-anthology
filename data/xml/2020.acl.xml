@@ -7932,7 +7932,7 @@
       <doi>10.18653/v1/2020.acl-main.538</doi>
       <video tag="video" href="http://slideslive.com/38928800"/>
       <bibkey>xu-etal-2020-incorporating</bibkey>
-      <pwccode url="https://github.com/neulab/external-knowledge-codegen" additional="false">neulab/external-knowledge-codegen</pwccode>
+      <pwccode url="https://github.com/neulab/external-knowledge-codegen" additional="true">neulab/external-knowledge-codegen</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conala">CoNaLa</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conala-ext">CoNaLa-Ext</pwcdataset>
     </paper>
