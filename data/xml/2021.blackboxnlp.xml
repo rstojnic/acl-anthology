@@ -327,6 +327,7 @@
       <url hash="9cb8672a">2021.blackboxnlp-1.26</url>
       <bibkey>yanaka-mineshima-2021-assessing</bibkey>
       <pwccode url="https://github.com/verypluming/janli" additional="false">verypluming/janli</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/janli">JaNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
