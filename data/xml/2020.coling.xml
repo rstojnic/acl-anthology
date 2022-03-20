@@ -584,7 +584,6 @@
       <url hash="d97584c9">2020.coling-main.44</url>
       <doi>10.18653/v1/2020.coling-main.44</doi>
       <bibkey>liu-etal-2020-aprile</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="45">
       <title>Variational Autoencoder with Embedded Student-t Mixture Model for Authorship Attribution</title>
@@ -611,7 +610,6 @@
       <bibkey>xu-etal-2020-knowledge</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="47">
       <title>Exploiting Node Content for Multiview Graph Convolutional Network and Adversarial Regularization</title>
@@ -643,7 +641,6 @@
       <bibkey>huang-etal-2020-rate</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="49">
       <title><fixed-case>S</fixed-case>enti<fixed-case>X</fixed-case>: A Sentiment-Aware Pre-Trained Model for Cross-Domain Sentiment Analysis</title>
@@ -1779,7 +1776,6 @@
       <bibkey>ren-etal-2020-knowledge</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="135">
       <title><fixed-case>K</fixed-case>now<fixed-case>D</fixed-case>is: Knowledge Enhanced Data Augmentation for Event Causality Detection via Distant Supervision</title>
@@ -2035,6 +2031,7 @@
       <bibkey>kim-etal-2020-multi</bibkey>
       <pwccode url="https://github.com/bosung/mtl-kgc" additional="false">bosung/mtl-kgc</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
@@ -3576,7 +3573,6 @@
       <pwccode url="https://github.com/scarletcho/hypernym-path-generation" additional="false">scarletcho/hypernym-path-generation</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="269">
       <title>When Beards Start Shaving Men: A Subject-object Resolution Test Suite for Morpho-syntactic and Semantic Model Introspection</title>

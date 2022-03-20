@@ -3551,6 +3551,7 @@
       <video tag="video" href="http://slideslive.com/38928836"/>
       <bibkey>tang-etal-2020-orthogonal</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
@@ -7214,6 +7215,7 @@
       <bibkey>sun-etal-2020-evaluation</bibkey>
       <pwccode url="https://github.com/svjan5/kg-reeval" additional="true">svjan5/kg-reeval</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="490">
@@ -9131,6 +9133,7 @@
       <bibkey>chami-etal-2020-low</bibkey>
       <pwccode url="https://github.com/tensorflow/neural-structured-learning" additional="true">tensorflow/neural-structured-learning</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yago">YAGO</pwcdataset>

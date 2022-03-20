@@ -3960,6 +3960,7 @@
       <doi>10.18653/v1/2021.findings-acl.296</doi>
       <bibkey>bertolini-etal-2021-representing</bibkey>
       <pwccode url="https://github.com/lorenzoscottb/findings_ACL2021" additional="false">lorenzoscottb/findings_ACL2021</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="297">
@@ -5029,6 +5030,7 @@
       <doi>10.18653/v1/2021.findings-acl.378</doi>
       <bibkey>clouatre-etal-2021-mlmlm</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
@@ -5455,7 +5457,6 @@
       <doi>10.18653/v1/2021.findings-acl.412</doi>
       <bibkey>hou-etal-2021-rule</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/umls">UMLS</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="413">
       <title><fixed-case>XL</fixed-case>-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages</title>
@@ -6631,6 +6632,7 @@
       <abstract>Recent knowledge graph embedding (KGE) models based on hyperbolic geometry have shown great potential in a low-dimensional embedding space. However, the necessity of hyperbolic space in KGE is still questionable, because the calculation based on hyperbolic geometry is much more complicated than Euclidean operations. In this paper, based on the state-of-the-art hyperbolic-based model RotH, we develop two lightweight Euclidean-based models, called RotL and Rot2L. The RotL model simplifies the hyperbolic operations while keeping the flexible normalization effect. Utilizing a novel two-layer stacked transformation and based on RotL, the Rot2L model obtains an improved representation capability, yet costs fewer parameters and calculations than RotH. The experiments on link prediction show that Rot2L achieves the state-of-the-art performance on two widely-used datasets in low-dimensional knowledge graph embeddings. Furthermore, RotL achieves similar performance as RotH but only requires half of the training time.</abstract>
       <url hash="914ae1d0">2021.findings-emnlp.42</url>
       <bibkey>wang-etal-2021-hyperbolic-geometry</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="43">
@@ -6692,6 +6694,8 @@
       <abstract>To find a suitable embedding for a knowledge graph remains a big challenge nowadays. By using previous knowledge graph embedding methods, every entity in a knowledge graph is usually represented as a k-dimensional vector. As we know, an affine transformation can be expressed in the form of a matrix multiplication followed by a translation vector. In this paper, we firstly utilize a set of affine transformations related to each relation to operate on entity vectors, and then these transformed vectors are used for performing embedding with previous methods. The main advantage of using affine transformations is their good geometry properties with interpretability. Our experimental results demonstrate that the proposed intuitive design with affine transformations provides a statistically significant increase in performance with adding a few extra processing steps or adding a limited number of additional variables. Taking TransE as an example, we employ the scale transformation (the special case of an affine transformation), and only introduce k additional variables for each relation. Surprisingly, it even outperforms RotatE to some extent on various data sets. We also introduce affine transformations into RotatE, Distmult and ComplEx, respectively, and each one outperforms its original method.</abstract>
       <url hash="aa2f9994">2021.findings-emnlp.46</url>
       <bibkey>yang-etal-2021-improving-knowledge-graph</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yago">YAGO</pwcdataset>
     </paper>
     <paper id="47">
@@ -9348,7 +9352,6 @@
       <bibkey>pan-wang-2021-hyperbolic-hierarchy</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="252">
       <title>A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation</title>
@@ -9499,6 +9502,7 @@
       <abstract>Knowledge representation learning (KRL) has been used in plenty of knowledge-driven tasks. Despite fruitfully progress, existing methods still suffer from the immaturity on tackling potentially-imperfect knowledge graphs and highly-imbalanced positive-negative instances during training, both of which would hinder the performance of KRL. In this paper, we propose Contrastive Completion Coding (<tex-math>C^3</tex-math>), a novel KRL framework that is composed of two functional components: <b>1.</b> Hierarchical Architecture, which integrates both low-level standalone features and high-level topology-aware features to yield robust embedding for each entity/relation. <b>2.</b> Normalized Contrasitive Training, which conducts normalized one-to-many contrasitive learning to emphasize different negatives with different weights, delivering better convergence compared to conventional training losses. Extensive experiments on several benchmarks verify the efficacy of the two proposed techniques and combing them together generally achieves superior performance against state-of-the-art approaches.</abstract>
       <url hash="43032442">2021.findings-emnlp.263</url>
       <bibkey>ouyang-etal-2021-knowledge-representation</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="264">

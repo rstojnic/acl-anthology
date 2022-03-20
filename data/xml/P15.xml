@@ -786,6 +786,7 @@
       <doi>10.3115/v1/P15-1067</doi>
       <bibkey>ji-etal-2015-knowledge</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
     </paper>
     <paper id="68">
