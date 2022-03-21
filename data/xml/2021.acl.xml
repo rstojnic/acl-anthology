@@ -11592,7 +11592,7 @@
       <url hash="a1c03e0f">2021.acl-demo.37</url>
       <doi>10.18653/v1/2021.acl-demo.37</doi>
       <bibkey>gowda-etal-2021-many</bibkey>
-      <pwccode url="https://github.com/thammegowda/006-many-to-eng" additional="true">thammegowda/006-many-to-eng</pwccode>
+      <pwccode url="https://github.com/isi-nlp/nlcodec" additional="true">isi-nlp/nlcodec</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/opus-100">OPUS-100</pwcdataset>
     </paper>
     <paper id="38">
