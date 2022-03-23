@@ -1435,7 +1435,6 @@
       <video href="https://vimeo.com/353483121" tag="video"/>
       <bibkey>ebisu-ichise-2019-graph</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="105">
       <title>Adversarial Training for Weakly Supervised Event Detection</title>

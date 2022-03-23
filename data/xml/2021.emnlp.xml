@@ -1921,6 +1921,7 @@
       <abstract>As the labeling cost for different modules in task-oriented dialog (ToD) systems is expensive, a major challenge is to train different modules with the least amount of labeled data. Recently, large-scale pre-trained language models, have shown promising results for few-shot learning in ToD. In this paper, we devise a self-training approach to utilize the abundant unlabeled dialog data to further improve state-of-the-art pre-trained models in few-shot learning scenarios for ToD systems. Specifically, we propose a self-training approach that iteratively labels the most confident unlabeled data to train a stronger Student model. Moreover, a new text augmentation technique (GradAug) is proposed to better train the Student by replacing non-crucial tokens using a masked language model. We conduct extensive experiments and present analyses on four downstream tasks in ToD, including intent classification, dialog state tracking, dialog act prediction, and response selection. Empirical results demonstrate that the proposed self-training approach consistently improves state-of-the-art pre-trained models (BERT, ToD-BERT) when only a small number of labeled data are available.</abstract>
       <url hash="13353330">2021.emnlp-main.142</url>
       <bibkey>mi-etal-2021-self</bibkey>
+      <pwccode url="https://github.com/mifei/st-tod" additional="false">mifei/st-tod</pwccode>
     </paper>
     <paper id="143">
       <title>Contextual Rephrase Detection for Reducing Friction in Dialogue Systems</title>
@@ -4368,6 +4369,7 @@
       <abstract>Argument pair extraction (APE) aims to extract interactive argument pairs from two passages of a discussion. Previous work studied this task in the context of peer review and rebuttal, and decomposed it into a sequence labeling task and a sentence relation classification task. However, despite the promising performance, such an approach obtains the argument pairs implicitly by the two decomposed tasks, lacking explicitly modeling of the argument-level interactions between argument pairs. In this paper, we tackle the APE task by a mutual guidance framework, which could utilize the information of an argument in one passage to guide the identification of arguments that can form pairs with it in another passage. In this manner, two passages can mutually guide each other in the process of APE. Furthermore, we propose an inter-sentence relation graph to effectively model the inter-relations between two sentences and thus facilitates the extraction of argument pairs. Our proposed method can better represent the holistic argument-level semantics and thus explicitly capture the complex correlations between argument pairs. Experimental results show that our approach significantly outperforms the current state-of-the-art model.</abstract>
       <url hash="50f124ad">2021.emnlp-main.319</url>
       <bibkey>bao-etal-2021-argument</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/rr">RR</pwcdataset>
     </paper>
     <paper id="320">
       <title>Emotion Inference in Multi-Turn Conversations with Addressee-Aware Module and Ensemble Strategy</title>
@@ -7897,6 +7899,7 @@
       <abstract>Simultaneous machine translation (SiMT) generates translation before reading the entire source sentence and hence it has to trade off between translation quality and latency. To fulfill the requirements of different translation quality and latency in practical applications, the previous methods usually need to train multiple SiMT models for different latency levels, resulting in large computational costs. In this paper, we propose a universal SiMT model with Mixture-of-Experts Wait-k Policy to achieve the best translation quality under arbitrary latency with only one trained model. Specifically, our method employs multi-head attention to accomplish the mixture of experts where each head is treated as a wait-k expert with its own waiting words number, and given a test latency and source inputs, the weights of the experts are accordingly adjusted to produce the best translation. Experiments on three datasets show that our method outperforms all the strong baselines under different latency, including the state-of-the-art adaptive policy.</abstract>
       <url hash="96ade5c8">2021.emnlp-main.581</url>
       <bibkey>zhang-feng-2021-universal</bibkey>
+      <pwccode url="https://github.com/ictnlp/moe-waitk" additional="false">ictnlp/moe-waitk</pwccode>
     </paper>
     <paper id="582">
       <title>How much coffee was consumed during <fixed-case>EMNLP</fixed-case> 2019? Fermi Problems: A New Reasoning Challenge for <fixed-case>AI</fixed-case></title>
@@ -8532,7 +8535,6 @@
       <attachment type="Software" hash="4829229c">2021.emnlp-main.625.Software.zip</attachment>
       <bibkey>liang-etal-2021-semantic</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="626">
       <title><fixed-case>AdapterDrop</fixed-case>: <fixed-case>O</fixed-case>n the Efficiency of Adapters in Transformers</title>
@@ -8932,7 +8934,6 @@
       <bibkey>guo-kok-2021-bique</bibkey>
       <pwccode url="https://github.com/guojiapub/bique" additional="false">guojiapub/bique</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="658">
       <title>Learning Neural Ordinary Equations for Forecasting Future Links on Temporal Knowledge Graphs</title>
@@ -10170,7 +10171,6 @@
       <url hash="c81fa505">2021.emnlp-main.750</url>
       <bibkey>nayyeri-etal-2021-knowledge</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="751">
       <title><fixed-case>K</fixed-case>now<fixed-case>MAN</fixed-case>: Weakly Supervised Multinomial Adversarial Networks</title>
@@ -10993,7 +10993,6 @@
       <url hash="0ac9e4fe">2021.emnlp-main.812</url>
       <bibkey>chen-etal-2021-hitter</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="813">
       <title>Few-Shot Named Entity Recognition: An Empirical Baseline Study</title>

@@ -3961,7 +3961,6 @@
       <bibkey>bertolini-etal-2021-representing</bibkey>
       <pwccode url="https://github.com/lorenzoscottb/findings_ACL2021" additional="false">lorenzoscottb/findings_ACL2021</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="297">
       <title>Figurative Language in Recognizing Textual Entailment</title>
@@ -6633,7 +6632,6 @@
       <url hash="914ae1d0">2021.findings-emnlp.42</url>
       <bibkey>wang-etal-2021-hyperbolic-geometry</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="43">
       <title><fixed-case>C</fixed-case>ascade<fixed-case>BERT</fixed-case>: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade</title>
@@ -6695,7 +6693,6 @@
       <url hash="aa2f9994">2021.findings-emnlp.46</url>
       <bibkey>yang-etal-2021-improving-knowledge-graph</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yago">YAGO</pwcdataset>
     </paper>
     <paper id="47">
@@ -8932,7 +8929,7 @@
       <abstract>Identifying emotions from text is crucial for a variety of real world tasks. We consider the two largest now-available corpora for emotion classification: GoEmotions, with 58k messages labelled by readers, and Vent, with 33M writer-labelled messages. We design a benchmark and evaluate several feature spaces and learning algorithms, including two simple yet novel models on top of BERT that outperform previous strong baselines on GoEmotions. Through an experiment with human participants, we also analyze the differences between how writers express emotions and how readers perceive them. Our results suggest that emotions expressed by writers are harder to identify than emotions that readers perceive. We share a public web interface for researchers to explore our models.</abstract>
       <url hash="b5b60e40">2021.findings-emnlp.219</url>
       <bibkey>alvarez-gonzalez-etal-2021-uncovering-limits</bibkey>
-      <pwccode url="https://github.com/nur-ag/emotion-ui" additional="true">nur-ag/emotion-ui</pwccode>
+      <pwccode url="https://github.com/nur-ag/emotion-classification" additional="true">nur-ag/emotion-classification</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/goemotions">GoEmotions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vent">Vent</pwcdataset>
     </paper>
@@ -9352,6 +9349,7 @@
       <bibkey>pan-wang-2021-hyperbolic-hierarchy</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="252">
       <title>A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation</title>
@@ -9503,7 +9501,6 @@
       <url hash="43032442">2021.findings-emnlp.263</url>
       <bibkey>ouyang-etal-2021-knowledge-representation</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="264">
       <title>Knowledge-Enhanced Evidence Retrieval for Counterargument Generation</title>

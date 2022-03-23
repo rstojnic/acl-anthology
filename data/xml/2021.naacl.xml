@@ -2724,7 +2724,6 @@
       <bibkey>peng-etal-2021-highly</bibkey>
       <pwccode url="https://github.com/Pzoom522/ProcrustEs-KGE" additional="false">Pzoom522/ProcrustEs-KGE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="188">
       <title>Rethinking Network Pruning – under the Pre-train and Fine-tune Paradigm</title>

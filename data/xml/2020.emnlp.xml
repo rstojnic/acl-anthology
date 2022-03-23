@@ -3569,7 +3569,6 @@
       <bibkey>kou-etal-2020-disentangle</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="238">
       <title>Semi-Supervised Bilingual Lexicon Induction with Two-way Interaction</title>
@@ -8551,7 +8550,8 @@
       <doi>10.18653/v1/2020.emnlp-main.569</doi>
       <video tag="video" href="https://slideslive.com/38939058"/>
       <bibkey>cheng-etal-2020-ape</bibkey>
-      <pwccode url="https://github.com/tianyuterry/mlmc" additional="false">tianyuterry/mlmc</pwccode>
+      <pwccode url="https://github.com/LiyingCheng95/ArgumentPairExtraction" additional="false">LiyingCheng95/ArgumentPairExtraction</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/rr">RR</pwcdataset>
     </paper>
     <paper id="570">
       <title>Diversified Multiple Instance Learning for Document-Level Multi-Aspect Sentiment Classification</title>
@@ -10885,6 +10885,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/social-iqa">Social IQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="723">
       <title>Named Entity Recognition Only from Word Embeddings</title>

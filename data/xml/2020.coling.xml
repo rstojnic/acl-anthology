@@ -610,6 +610,7 @@
       <bibkey>xu-etal-2020-knowledge</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="47">
       <title>Exploiting Node Content for Multiview Graph Convolutional Network and Adversarial Regularization</title>
@@ -641,6 +642,7 @@
       <bibkey>huang-etal-2020-rate</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="49">
       <title><fixed-case>S</fixed-case>enti<fixed-case>X</fixed-case>: A Sentiment-Aware Pre-Trained Model for Cross-Domain Sentiment Analysis</title>
@@ -1776,6 +1778,7 @@
       <bibkey>ren-etal-2020-knowledge</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="135">
       <title><fixed-case>K</fixed-case>now<fixed-case>D</fixed-case>is: Knowledge Enhanced Data Augmentation for Event Causality Detection via Distant Supervision</title>
@@ -3573,6 +3576,7 @@
       <pwccode url="https://github.com/scarletcho/hypernym-path-generation" additional="false">scarletcho/hypernym-path-generation</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="269">
       <title>When Beards Start Shaving Men: A Subject-object Resolution Test Suite for Morpho-syntactic and Semantic Model Introspection</title>
@@ -6483,6 +6487,7 @@
       <pwccode url="https://github.com/raphaelsty/mkb" additional="false">raphaelsty/mkb</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="490">
       <title><fixed-case>I</fixed-case>nt<fixed-case>KB</fixed-case>: A Verifiable Interactive Framework for Knowledge Base Completion</title>

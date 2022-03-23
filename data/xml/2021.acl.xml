@@ -2216,7 +2216,6 @@
       <bibkey>bhardwaj-etal-2021-poisoning</bibkey>
       <pwccode url="https://github.com/perubhardwaj/inferenceattack" additional="false">perubhardwaj/inferenceattack</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="148">
       <title>Bad Seeds: Evaluating Lexical Methods for Bias Measurement</title>
@@ -7489,6 +7488,7 @@
       <doi>10.18653/v1/2021.acl-long.496</doi>
       <bibkey>cheng-etal-2021-argument</bibkey>
       <pwccode url="https://github.com/tianyuterry/mlmc" additional="false">tianyuterry/mlmc</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/rr">RR</pwcdataset>
     </paper>
     <paper id="497">
       <title>A Neural Transition-based Model for Argumentation Mining</title>
@@ -8075,7 +8075,6 @@
       <pwccode url="https://github.com/TaoMiner/inferwiki" additional="false">TaoMiner/inferwiki</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/inferwiki">InferWiki</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="535">
       <title><fixed-case>C</fixed-case>onvo<fixed-case>S</fixed-case>umm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining</title>
