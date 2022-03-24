@@ -3475,6 +3475,8 @@
       <abstract>Neural Machine Translation (NMT) has shown a strong ability to utilize local context to disambiguate the meaning of words. However, it remains a challenge for NMT to leverage broader context information like topics. In this paper, we propose heterogeneous ways of embedding topic information at the sentence level into an NMT model to improve translation performance. Specifically, the topic information can be incorporated as pre-encoder topic embedding, post-encoder topic embedding, and decoder topic embedding to increase the likelihood of selecting target words from the same topic of the source sentence. Experimental results show that NMT models with the proposed topic knowledge embedding outperform the baselines on the English -&gt; German and English -&gt; French translation tasks.</abstract>
       <url hash="5b6c5354">2021.emnlp-main.256</url>
       <bibkey>wang-etal-2021-neural</bibkey>
+      <pwccode url="https://github.com/Vicky-Wil/topic-NMT" additional="false">Vicky-Wil/topic-NMT</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
     </paper>
     <paper id="257">
       <title>Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training</title>
