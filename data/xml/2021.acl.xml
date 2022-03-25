@@ -7863,6 +7863,7 @@
       <doi>10.18653/v1/2021.acl-long.520</doi>
       <bibkey>saxena-etal-2021-question</bibkey>
       <pwccode url="https://github.com/apoorvumang/CronKGQA" additional="true">apoorvumang/CronKGQA</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cronquestions">CronQuestions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/complexwebquestions">ComplexWebQuestions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/metaqa">MetaQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/simplequestions">SimpleQuestions</pwcdataset>
@@ -11194,6 +11195,7 @@
       <url hash="c9f03bba">2021.acl-demo.11</url>
       <doi>10.18653/v1/2021.acl-demo.11</doi>
       <bibkey>jin-etal-2021-cogie</bibkey>
+      <pwccode url="https://github.com/jinzhuoran/cogie" additional="false">jinzhuoran/cogie</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/framenet">FrameNet</pwcdataset>
     </paper>
     <paper id="12">
