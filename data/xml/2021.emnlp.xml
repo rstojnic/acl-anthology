@@ -3682,6 +3682,7 @@
       <abstract>The recent algorithms for math word problems (MWP) neglect to use outside knowledge not present in the problems. Most of them only capture the word-level relationship and ignore to build hierarchical reasoning like the human being for mining the contextual structure between words and sentences. In this paper, we propose a <b>R</b>easoning with <b>P</b>re-trained <b>K</b>nowledge and <b>H</b>ierarchical <b>S</b>tructure (<b>RPKHS</b>) network, which contains a pre-trained knowledge encoder and a hierarchical reasoning encoder. Firstly, our pre-trained knowledge encoder aims at reasoning the MWP by using outside knowledge from the pre-trained transformer-based models. Secondly, the hierarchical reasoning encoder is presented for seamlessly integrating the word-level and sentence-level reasoning to bridge the entity and context domain on MWP. Extensive experiments show that our RPKHS significantly outperforms state-of-the-art approaches on two large-scale commonly-used datasets, and boosts performance from 77.4% to 83.9% on Math23K, from 75.5 to 82.2% on Math23K with 5-fold cross-validation and from 83.7% to 89.8% on MAWPS. More extensive ablations are shown to demonstrate the effectiveness and interpretability of our proposed method.</abstract>
       <url hash="877db22b">2021.emnlp-main.272</url>
       <bibkey>yu-etal-2021-improving</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
     </paper>
     <paper id="273">
       <title><fixed-case>G</fixed-case>raph<fixed-case>MR</fixed-case>: Graph Neural Network for Mathematical Reasoning</title>
@@ -3874,6 +3875,7 @@
       <abstract>Biomedical Concept Normalization (BCN) is widely used in biomedical text processing as a fundamental module. Owing to numerous surface variants of biomedical concepts, BCN still remains challenging and unsolved. In this paper, we exploit biomedical concept hypernyms to facilitate BCN. We propose Biomedical Concept Normalizer with Hypernyms (BCNH), a novel framework that adopts list-wise training to make use of both hypernyms and synonyms, and also employs norm constraint on the representation of hypernym-hyponym entity pairs. The experimental results show that BCNH outperforms the previous state-of-the-art model on the NCBI dataset.</abstract>
       <url hash="8389c8ba">2021.emnlp-main.284</url>
       <bibkey>yan-etal-2021-biomedical</bibkey>
+      <pwccode url="https://github.com/yan-cheng/bcnh" additional="false">yan-cheng/bcnh</pwccode>
     </paper>
     <paper id="285">
       <title>Leveraging Capsule Routing to Associate Knowledge with Medical Literature Hierarchically</title>
@@ -6583,6 +6585,7 @@
       <abstract>We study the problem of generating arithmetic math word problems (MWPs) given a math equation that specifies the mathematical computation and a context that specifies the problem scenario. Existing approaches are prone to generating MWPs that are either mathematically invalid or have unsatisfactory language quality. They also either ignore the context or require manual specification of a problem template, which compromises the diversity of the generated MWPs. In this paper, we develop a novel MWP generation approach that leverages i) pre-trained language models and a context keyword selection model to improve the language quality of generated MWPs and ii) an equation consistency constraint for math equations to improve the mathematical validity of the generated MWPs. Extensive quantitative and qualitative experiments on three real-world MWP datasets demonstrate the superior performance of our approach compared to various baselines.</abstract>
       <url hash="c7ab2234">2021.emnlp-main.484</url>
       <bibkey>wang-etal-2021-math</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mathqa">MathQA</pwcdataset>
     </paper>
     <paper id="485">

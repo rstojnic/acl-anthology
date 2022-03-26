@@ -4633,6 +4633,7 @@
       <video tag="video" href="https://slideslive.com/38938662"/>
       <bibkey>qin-etal-2020-semantically</bibkey>
       <pwccode url="https://github.com/QinJinghui/SAU-Solver" additional="false">QinJinghui/SAU-Solver</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
     </paper>
     <paper id="310">
       <title>Neural Topic Modeling by Incorporating Document Relationship Graph</title>

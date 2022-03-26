@@ -6864,6 +6864,7 @@
       <doi>10.18653/v1/2021.acl-long.455</doi>
       <bibkey>wu-etal-2021-math</bibkey>
       <pwccode url="https://github.com/qinzhuowu/nums2t" additional="false">qinzhuowu/nums2t</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
     </paper>
     <paper id="456">
       <title>Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks</title>
@@ -6878,6 +6879,7 @@
       <doi>10.18653/v1/2021.acl-long.456</doi>
       <bibkey>qin-etal-2021-neural</bibkey>
       <pwccode url="https://github.com/QinJinghui/NS-Solver" additional="false">QinJinghui/NS-Solver</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
     </paper>
     <paper id="457">
       <title><fixed-case>SM</fixed-case>ed<fixed-case>BERT</fixed-case>: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining</title>
