@@ -75,6 +75,7 @@
       <abstract>We introduce a modular, hybrid coreference resolution system that extends a rule-based baseline with three neural classifiers for the subtasks mention detection, mention attributes (gender, animacy, number), and pronoun resolution. The classifiers substantially increase coreference performance in our experiments with Dutch literature across all metrics on the development set: mention detection, LEA, CoNLL, and especially pronoun accuracy. However, on the test set, the best results are obtained with rule-based pronoun resolution. This inconsistent result highlights that the rule-based system is still a strong baseline, and more work is needed to improve pronoun resolution robustly for this dataset. While end-to-end neural systems require no feature engineering and achieve excellent performance in standard benchmarks with large training sets, our simple hybrid system scales well to long document coreference (&gt;10k words) and attains superior results in our experiments on literature.</abstract>
       <url hash="2142e00f">2021.crac-1.5</url>
       <bibkey>van-cranenburgh-etal-2021-hybrid</bibkey>
+      <pwccode url="https://github.com/andreasvc/dutchcoref" additional="false">andreasvc/dutchcoref</pwccode>
     </paper>
     <paper id="6">
       <title>Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools</title>

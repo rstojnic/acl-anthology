@@ -4864,6 +4864,7 @@
       <video tag="video" href="https://vimeo.com/384961759"/>
       <doi>10.18653/v1/P19-1344</doi>
       <bibkey>ma-etal-2019-exploring</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
     </paper>
     <paper id="345">
       <title>Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network</title>
