@@ -3605,6 +3605,7 @@
       <url hash="516fa0e8">2021.naacl-main.249</url>
       <doi>10.18653/v1/2021.naacl-main.249</doi>
       <bibkey>fu-wang-2021-semi</bibkey>
+      <pwccode url="https://github.com/tsujuifu/code_ssi" additional="false">tsujuifu/code_ssi</pwccode>
     </paper>
     <paper id="250">
       <title>Revisiting Document Representations for Large-Scale Zero-Shot Learning</title>
@@ -5833,7 +5834,7 @@
       <award>Best Short Paper</award>
       <doi>10.18653/v1/2021.naacl-main.410</doi>
       <bibkey>qin-eisner-2021-learning</bibkey>
-      <pwccode url="https://github.com/hiaoxui/soft-prompts" additional="false">hiaoxui/soft-prompts</pwccode>
+      <pwccode url="https://github.com/hiaoxui/soft-prompts" additional="true">hiaoxui/soft-prompts</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/lama">LAMA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
