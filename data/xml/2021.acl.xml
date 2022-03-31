@@ -3031,8 +3031,10 @@
       <doi>10.18653/v1/2021.acl-long.201</doi>
       <bibkey>xu-etal-2021-layoutlmv2</bibkey>
       <pwccode url="https://github.com/microsoft/unilm" additional="true">microsoft/unilm</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cord">CORD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/docvqa">DocVQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/funsd">FUNSD</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/kleister-nda">Kleister NDA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rvl-cdip">RVL-CDIP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sroie">SROIE</pwcdataset>

@@ -9809,6 +9809,7 @@
       <abstract>Online platforms and communities establish their own norms that govern what behavior is acceptable within the community. Substantial effort in NLP has focused on identifying unacceptable behaviors and, recently, on forecasting them before they occur. However, these efforts have largely focused on toxicity as the sole form of community norm violation. Such focus has overlooked the much larger set of rules that moderators enforce. Here, we introduce a new dataset focusing on a more complete spectrum of community norms and their violations in the local conversational and global community contexts. We introduce a series of models that use this data to develop context- and community-sensitive norm violation detection, showing that these changes give high performance.</abstract>
       <url hash="6ac32d71">2021.findings-emnlp.288</url>
       <bibkey>park-etal-2021-detecting-community</bibkey>
+      <pwccode url="https://github.com/chan0park/normvio" additional="false">chan0park/normvio</pwccode>
     </paper>
     <paper id="289">
       <title><fixed-case>S</fixed-case>up<fixed-case>CL</fixed-case>-<fixed-case>S</fixed-case>eq: <fixed-case>S</fixed-case>upervised <fixed-case>C</fixed-case>ontrastive <fixed-case>L</fixed-case>earning for Downstream Optimized Sequence Representations</title>

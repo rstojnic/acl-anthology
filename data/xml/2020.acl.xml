@@ -2094,6 +2094,7 @@
       <video tag="video" href="http://slideslive.com/38929374"/>
       <bibkey>nan-etal-2020-reasoning</bibkey>
       <pwccode url="https://github.com/nanguoshun/LSR" additional="false">nanguoshun/LSR</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cdr">CDR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/docred">DocRED</pwcdataset>
     </paper>
     <paper id="142">
