@@ -2783,7 +2783,7 @@
       <url hash="fc53b3e0">2021.naacl-main.191</url>
       <doi>10.18653/v1/2021.naacl-main.191</doi>
       <bibkey>nozza-etal-2021-honest</bibkey>
-      <pwccode url="https://github.com/milanlproc/honest" additional="false">milanlproc/honest</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/honest-en">HONEST</pwcdataset>
     </paper>
     <paper id="192">
       <title><fixed-case>E</fixed-case>a<fixed-case>S</fixed-case>e: A Diagnostic Tool for <fixed-case>VQA</fixed-case> based on Answer Diversity</title>

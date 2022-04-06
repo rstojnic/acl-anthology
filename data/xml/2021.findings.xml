@@ -2048,8 +2048,10 @@
       <bibkey>liang-etal-2021-improving</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/billsum">BillSum</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi-news">Multi-News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisum">WikiSum</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arxiv-summarization-dataset">arXiv Summarization Dataset</pwcdataset>
     </paper>
     <paper id="148">
       <title>Improving Gradient-based Adversarial Training for Text Classification by Contrastive Learning and Auto-Encoder</title>
