@@ -1421,6 +1421,7 @@
       <url hash="4a3ec876">2021.naacl-main.98</url>
       <doi>10.18653/v1/2021.naacl-main.98</doi>
       <bibkey>chen-durrett-2021-robust</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/bio">Bio</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrqa-2019">MRQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsqa">NewsQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -6335,6 +6336,7 @@
       <url hash="6f18c4ee">2021.naacl-main.443</url>
       <doi>10.18653/v1/2021.naacl-main.443</doi>
       <bibkey>zhou-etal-2021-amr</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ldc2017t10">LDC2017T10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ldc2020t02">LDC2020T02</pwcdataset>
     </paper>
     <paper id="444">

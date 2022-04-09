@@ -7354,6 +7354,7 @@
       <url hash="66f5ff10">2021.acl-long.487</url>
       <doi>10.18653/v1/2021.acl-long.487</doi>
       <bibkey>tong-etal-2021-learning</bibkey>
+      <pwccode url="https://github.com/shuaiwa16/OtherClassNER" additional="false">shuaiwa16/OtherClassNER</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cluener2020">CLUENER2020</pwcdataset>
     </paper>
     <paper id="488">
@@ -7382,6 +7383,7 @@
       <url hash="0658e0ce">2021.acl-long.489</url>
       <doi>10.18653/v1/2021.acl-long.489</doi>
       <bibkey>zhang-etal-2021-fine</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/bio">Bio</pwcdataset>
     </paper>
     <paper id="490">
       <title>Unleash <fixed-case>GPT</fixed-case>-2 Power for Event Detection</title>

@@ -1430,6 +1430,7 @@
       <video tag="video" href="https://slideslive.com/38939115"/>
       <bibkey>bai-etal-2020-online</bibkey>
       <pwccode url="https://github.com/muyeby/AMR-Backparsing" additional="false">muyeby/AMR-Backparsing</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ldc2017t10">LDC2017T10</pwcdataset>
     </paper>
     <paper id="93">
       <title>Reading Between the Lines: Exploring Infilling in Visual Narratives</title>
@@ -3003,6 +3004,7 @@
       <video tag="video" href="https://slideslive.com/38939049"/>
       <bibkey>xu-etal-2020-improving</bibkey>
       <pwccode url="https://github.com/xdqkid/S2S-AMR-Parser" additional="false">xdqkid/S2S-AMR-Parser</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ldc2017t10">LDC2017T10</pwcdataset>
     </paper>
     <paper id="197">
       <title>Hate-Speech and Offensive Language Detection in <fixed-case>R</fixed-case>oman <fixed-case>U</fixed-case>rdu</title>

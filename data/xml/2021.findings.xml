@@ -5511,6 +5511,7 @@
       <url hash="3d174b41">2021.findings-acl.416</url>
       <doi>10.18653/v1/2021.findings-acl.416</doi>
       <bibkey>levy-etal-2021-investigating</bibkey>
+      <pwccode url="https://github.com/sharonlevy/Conspiracy-Theory-Memorization" additional="false">sharonlevy/Conspiracy-Theory-Memorization</pwccode>
     </paper>
     <paper id="417">
       <title>A Text-Centered Shared-Private Framework via Cross-Modal Prediction for Multimodal Sentiment Analysis</title>
