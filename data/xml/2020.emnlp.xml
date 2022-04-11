@@ -8919,6 +8919,7 @@
       <doi>10.18653/v1/2020.emnlp-main.593</doi>
       <video tag="video" href="https://slideslive.com/38938751"/>
       <bibkey>han-etal-2020-dyernie</bibkey>
+      <pwccode url="https://github.com/TemporalKGTeam/DyERNIE" additional="false">TemporalKGTeam/DyERNIE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/icews">ICEWS</pwcdataset>
     </paper>
     <paper id="594">

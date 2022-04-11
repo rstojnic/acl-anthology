@@ -4549,7 +4549,6 @@
       <url hash="971ac7d1">2021.findings-acl.341</url>
       <doi>10.18653/v1/2021.findings-acl.341</doi>
       <bibkey>dougrez-lewis-etal-2021-learning</bibkey>
-      <pwccode url="https://github.com/johnnlp/saved" additional="false">johnnlp/saved</pwccode>
     </paper>
     <paper id="342">
       <title>Perceptual Models of Machine-Edited Text</title>
