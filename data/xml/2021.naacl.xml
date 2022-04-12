@@ -652,6 +652,7 @@
       <bibkey>anantha-etal-2021-open</bibkey>
       <pwccode url="https://github.com/apple/ml-qrecc" additional="false">apple/ml-qrecc</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/qrecc">QReCC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/canard">CANARD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
@@ -6721,7 +6722,7 @@
       <url hash="d59cda74">2021.naacl-main.469</url>
       <doi>10.18653/v1/2021.naacl-main.469</doi>
       <bibkey>pan-etal-2021-unsupervised</bibkey>
-      <pwccode url="https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA" additional="true">teacherpeterpan/Unsupervised-Multi-hop-QA</pwccode>
+      <pwccode url="https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA" additional="false">teacherpeterpan/Unsupervised-Multi-hop-QA</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hybridqa">HybridQA</pwcdataset>
     </paper>

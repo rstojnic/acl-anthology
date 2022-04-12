@@ -1030,6 +1030,7 @@
       <abstract>This paper describes a compact and effective model for low-latency passage retrieval in conversational search based on learned dense representations. Prior to our work, the state-of-the-art approach uses a multi-stage pipeline comprising conversational query reformulation and information retrieval modules. Despite its effectiveness, such a pipeline often includes multiple neural models that require long inference times. In addition, independently optimizing each module ignores dependencies among them. To address these shortcomings, we propose to integrate conversational query reformulation directly into a dense retrieval model. To aid in this goal, we create a dataset with pseudo-relevance labels for conversational search to overcome the lack of training data and to explore different training strategies. We demonstrate that our model effectively rewrites conversational queries as dense representations in conversational search and open-domain question answering datasets. Finally, after observing that our model learns to adjust the L2 norm of query token embeddings, we leverage this property for hybrid retrieval and to support error analysis.</abstract>
       <url hash="8aa06882">2021.emnlp-main.77</url>
       <bibkey>lin-etal-2021-contextualized</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/canard">CANARD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/orconvqa">ORConvQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
     </paper>
@@ -8035,6 +8036,7 @@
       <abstract>Continual learning in task-oriented dialogue systems allows the system to add new domains and functionalities overtime after deployment, without incurring the high cost of retraining the whole system each time. In this paper, we propose a first-ever continual learning benchmark for task-oriented dialogue systems with 37 domains to be learned continuously in both modularized and end-to-end learning settings. In addition, we implement and compare multiple existing continual learning baselines, and we propose a simple yet effective architectural method based on residual adapters. We also suggest that the upper bound performance of continual learning should be equivalent to multitask learning when data from all domain is available at once. Our experiments demonstrate that the proposed architectural method and a simple replay-based strategy perform better, by a large margin, compared to other continuous learning techniques, and only slightly worse than the multitask learning upper bound while being 20X faster in learning new domains. We also report several trade-offs in terms of parameter usage, memory size and training time, which are important in the design of a task-oriented dialogue system. The proposed benchmark is released to promote more research in this direction.</abstract>
       <url hash="09fc2da8">2021.emnlp-main.590</url>
       <bibkey>madotto-etal-2021-continual</bibkey>
+      <pwccode url="https://github.com/andreamad8/ToDCL" additional="false">andreamad8/ToDCL</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sgd">SGD</pwcdataset>
     </paper>
     <paper id="591">
@@ -8182,7 +8184,7 @@
       <abstract>This work presents a sparse-attention Transformer architecture for modeling documents that contain large tables. Tables are ubiquitous on the web, and are rich in information. However, more than 20% of relational tables on the web have 20 or more rows (Cafarella et al., 2008), and these large tables present a challenge for current Transformer models, which are typically limited to 512 tokens. Here we propose MATE, a novel Transformer architecture designed to model the structure of web tables. MATE uses sparse attention in a way that allows heads to efficiently attend to either rows or columns in a table. This architecture scales linearly with respect to speed and memory, and can handle documents containing more than 8000 tokens with current accelerators. MATE also has a more appropriate inductive bias for tabular data, and sets a new state-of-the-art for three table reasoning datasets. For HybridQA (Chen et al., 2020), a dataset that involves large documents containing tables, we improve the best prior result by 19 points.</abstract>
       <url hash="91232325">2021.emnlp-main.600</url>
       <bibkey>eisenschlos-etal-2021-mate</bibkey>
-      <pwccode url="https://github.com/google-research/tapas" additional="true">google-research/tapas</pwccode>
+      <pwccode url="https://github.com/google-research/tapas" additional="false">google-research/tapas</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sqa">SQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tabfact">TabFact</pwcdataset>
     </paper>

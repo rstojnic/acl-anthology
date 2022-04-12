@@ -6601,6 +6601,7 @@
       <doi>10.18653/v1/2021.acl-long.438</doi>
       <bibkey>liu-etal-2021-learning-ask</bibkey>
       <pwccode url="https://github.com/LZKSKY/CaSE_RISE" additional="false">LZKSKY/CaSE_RISE</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/canard">CANARD</pwcdataset>
     </paper>
     <paper id="439">
       <title><fixed-case>DVD</fixed-case>: A Diagnostic Dataset for Multi-step Reasoning in Video Grounded Dialogue</title>
@@ -7212,6 +7213,7 @@
       <doi>10.18653/v1/2021.acl-long.478</doi>
       <bibkey>kim-etal-2021-learn</bibkey>
       <pwccode url="https://github.com/dmis-lab/excord" additional="false">dmis-lab/excord</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/canard">CANARD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
     </paper>

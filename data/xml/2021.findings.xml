@@ -3642,6 +3642,7 @@
       <url hash="a0a18662">2021.findings-acl.270</url>
       <doi>10.18653/v1/2021.findings-acl.270</doi>
       <bibkey>chen-etal-2021-decoupled</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/canard">CANARD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cosql">CoSQL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sparc">SParC</pwcdataset>
     </paper>
