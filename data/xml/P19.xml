@@ -4898,7 +4898,7 @@
       <video tag="video" href="https://vimeo.com/384783066"/>
       <doi>10.18653/v1/P19-1346</doi>
       <bibkey>fan-etal-2019-eli5</bibkey>
-      <pwccode url="https://github.com/facebookresearch/ELI5" additional="false">facebookresearch/ELI5</pwccode>
+      <pwccode url="https://github.com/facebookresearch/ELI5" additional="true">facebookresearch/ELI5</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/eli5">ELI5</pwcdataset>
     </paper>
     <paper id="347">

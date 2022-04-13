@@ -634,6 +634,7 @@
       <doi>10.18653/v1/D19-1044</doi>
       <bibkey>xiao-etal-2019-label</bibkey>
       <pwccode url="https://github.com/EMNLP2019LSAN/LSAN" additional="false">EMNLP2019LSAN/LSAN</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/20000-utterances">20000 utterances</pwcdataset>
     </paper>
     <paper id="45">
       <title>Hierarchical Attention Prototypical Networks for Few-Shot Text Classification</title>

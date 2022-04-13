@@ -3999,7 +3999,7 @@
       <url hash="85cfe76b">2021.acl-long.263</url>
       <doi>10.18653/v1/2021.acl-long.263</doi>
       <bibkey>barnes-etal-2021-structured</bibkey>
-      <pwccode url="https://github.com/jerbarnes/sentiment_graphs" additional="false">jerbarnes/sentiment_graphs</pwccode>
+      <pwccode url="https://github.com/jerbarnes/sentiment_graphs" additional="true">jerbarnes/sentiment_graphs</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC_fine</pwcdataset>
     </paper>
