@@ -6562,6 +6562,7 @@
       <pwccode url="https://github.com/baoy-nlp/CNAT" additional="false">baoy-nlp/CNAT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/office-31">Office-31</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/miniimagenet-1">miniImageNet</pwcdataset>
     </paper>
     <paper id="459">
       <title>Training Data Augmentation for Code-Mixed Translation</title>
