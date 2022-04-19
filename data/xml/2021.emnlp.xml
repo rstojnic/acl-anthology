@@ -6249,7 +6249,7 @@
       <abstract>Despite their recent successes in tackling many NLP tasks, large-scale pre-trained language models do not perform as well in few-shot settings where only a handful of training examples are available. To address this shortcoming, we propose STraTA, which stands for Self-Training with Task Augmentation, an approach that builds on two key ideas for effective leverage of unlabeled data. First, STraTA uses task augmentation, a novel technique that synthesizes a large amount of data for auxiliary-task fine-tuning from target-task unlabeled texts. Second, STraTA performs self-training by further fine-tuning the strong base model created by task augmentation on a broad distribution of pseudo-labeled data. Our experiments demonstrate that STraTA can substantially improve sample efficiency across 12 few-shot benchmarks. Remarkably, on the SST-2 sentiment dataset, STraTA, with only 8 training examples per class, achieves comparable results to standard fine-tuning with 67K training examples. Our analyses reveal that task augmentation and self-training are both complementary and independently effective.</abstract>
       <url hash="8f8c14aa">2021.emnlp-main.462</url>
       <bibkey>vu-etal-2021-strata</bibkey>
-      <pwccode url="https://github.com/google-research/google-research" additional="false">google-research/google-research</pwccode>
+      <pwccode url="https://github.com/google-research/google-research/tree/master/STraTA" additional="false">google-research/google-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
@@ -8692,6 +8692,7 @@
       <url hash="298bb25e">2021.emnlp-main.636</url>
       <bibkey>tan-etal-2021-extracting</bibkey>
       <pwccode url="https://github.com/xingwei-warwick/hyper-event-temprel" additional="false">xingwei-warwick/hyper-event-temprel</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/tcr">TCR</pwcdataset>
     </paper>
     <paper id="637">
       <title>Honey or Poison? Solving the Trigger Curse in Few-shot Event Detection via Causal Intervention</title>

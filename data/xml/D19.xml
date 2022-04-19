@@ -8864,6 +8864,7 @@
       <attachment hash="e0273662">D19-1642.Attachment.zip</attachment>
       <doi>10.18653/v1/D19-1642</doi>
       <bibkey>ning-etal-2019-improved</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/tcr">TCR</pwcdataset>
     </paper>
     <paper id="643">
       <title>Improving Fine-grained Entity Typing with Entity Linking</title>
