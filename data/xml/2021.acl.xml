@@ -2229,6 +2229,7 @@
       <doi>10.18653/v1/2021.acl-long.148</doi>
       <bibkey>antoniak-mimno-2021-bad</bibkey>
       <pwccode url="https://github.com/maria-antoniak/bad-seeds" additional="false">maria-antoniak/bad-seeds</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="149">
       <title>A Survey of Race, Racism, and Anti-Racism in <fixed-case>NLP</fixed-case></title>
@@ -2560,6 +2561,7 @@
       <url hash="b5c8228f">2021.acl-long.170</url>
       <doi>10.18653/v1/2021.acl-long.170</doi>
       <bibkey>rogers-2021-changing</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="171">
       <title><fixed-case>E</fixed-case>arly<fixed-case>BERT</fixed-case>: Efficient <fixed-case>BERT</fixed-case> Training via Early-bird Lottery Tickets</title>
@@ -2803,6 +2805,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="187">
       <title>A Hierarchical <fixed-case>VAE</fixed-case> for Calibrating Attributes while Generating Text using Normalizing Flow</title>
@@ -4867,6 +4870,7 @@
       <url hash="83debd67">2021.acl-long.321</url>
       <doi>10.18653/v1/2021.acl-long.321</doi>
       <bibkey>tan-etal-2021-reliability</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="322">
       <title>Learning Language and Multimodal Privacy-Preserving Markers of Mood from Mobile Data</title>
@@ -6926,7 +6930,7 @@
       <url hash="f4854846">2021.acl-long.459</url>
       <doi>10.18653/v1/2021.acl-long.459</doi>
       <bibkey>chen-etal-2021-cross-modal</bibkey>
-      <pwccode url="https://github.com/cuhksz-nlp/r2gencmn" additional="true">cuhksz-nlp/r2gencmn</pwccode>
+      <pwccode url="https://github.com/zhjohnchan/R2GenCMN" additional="false">zhjohnchan/R2GenCMN</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/chexpert">CheXpert</pwcdataset>
     </paper>
     <paper id="460">
@@ -8377,6 +8381,7 @@
       <bibkey>emami-etal-2021-adept</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="554">
       <title><fixed-case>R</fixed-case>ead<fixed-case>O</fixed-case>nce Transformers: Reusable Representations of Text for Transformers</title>

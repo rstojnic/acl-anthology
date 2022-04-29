@@ -239,7 +239,7 @@
       <url hash="312cdd66">2021.naacl-main.17</url>
       <doi>10.18653/v1/2021.naacl-main.17</doi>
       <bibkey>shaham-levy-2021-neural</bibkey>
-      <pwccode url="https://github.com/UriSha/EmbeddinglessNMT" additional="false">UriSha/EmbeddinglessNMT</pwccode>
+      <pwccode url="https://github.com/UriSha/EmbeddinglessNMT" additional="true">UriSha/EmbeddinglessNMT</pwccode>
     </paper>
     <paper id="18">
       <title>Counterfactual Data Augmentation for Neural Machine Translation</title>
@@ -757,6 +757,7 @@
       <award>Best Thematic Paper</award>
       <doi>10.18653/v1/2021.naacl-main.51</doi>
       <bibkey>van-miltenburg-etal-2021-preregistering</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="52">
       <title>Get Your Vitamin <fixed-case>C</fixed-case>! Robust Fact Verification with Contrastive Evidence</title>
@@ -3710,6 +3711,7 @@
       <bibkey>briakou-etal-2021-ola</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/gyafc">GYAFC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/opensubtitles">OpenSubtitles</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="257">
       <title>Grouping Words with Semantic Diversity</title>
@@ -5495,6 +5497,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="386">
       <title><fixed-case>T</fixed-case>uring<fixed-case>A</fixed-case>dvice: A Generative and Dynamic Evaluation of Language Use</title>

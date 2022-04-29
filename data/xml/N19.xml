@@ -1846,6 +1846,7 @@
       <attachment type="supplementary" hash="0d13807a">N19-1133.Supplementary.pdf</attachment>
       <doi>10.18653/v1/N19-1133</doi>
       <bibkey>guo-etal-2019-star</bibkey>
+      <pwccode url="https://github.com/dmlc/dgl" additional="true">dmlc/dgl</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
