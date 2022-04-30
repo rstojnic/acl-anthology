@@ -1967,7 +1967,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="adcab28a">2021.acl-long.132.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.acl-long.132</doi>
       <bibkey>vidgen-etal-2021-learning</bibkey>
-      <pwccode url="https://github.com/bvidgen/Dynamically-Generated-Hate-Speech-Dataset" additional="false">bvidgen/Dynamically-Generated-Hate-Speech-Dataset</pwccode>
+      <pwccode url="https://github.com/bvidgen/Dynamically-Generated-Hate-Speech-Dataset" additional="true">bvidgen/Dynamically-Generated-Hate-Speech-Dataset</pwccode>
     </paper>
     <paper id="133">
       <title><fixed-case>I</fixed-case>nfo<fixed-case>S</fixed-case>urgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection</title>
@@ -2229,7 +2229,6 @@
       <doi>10.18653/v1/2021.acl-long.148</doi>
       <bibkey>antoniak-mimno-2021-bad</bibkey>
       <pwccode url="https://github.com/maria-antoniak/bad-seeds" additional="false">maria-antoniak/bad-seeds</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="149">
       <title>A Survey of Race, Racism, and Anti-Racism in <fixed-case>NLP</fixed-case></title>
@@ -2561,7 +2560,6 @@
       <url hash="b5c8228f">2021.acl-long.170</url>
       <doi>10.18653/v1/2021.acl-long.170</doi>
       <bibkey>rogers-2021-changing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="171">
       <title><fixed-case>E</fixed-case>arly<fixed-case>BERT</fixed-case>: Efficient <fixed-case>BERT</fixed-case> Training via Early-bird Lottery Tickets</title>
@@ -2805,7 +2803,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="187">
       <title>A Hierarchical <fixed-case>VAE</fixed-case> for Calibrating Attributes while Generating Text using Normalizing Flow</title>
@@ -4870,7 +4867,6 @@
       <url hash="83debd67">2021.acl-long.321</url>
       <doi>10.18653/v1/2021.acl-long.321</doi>
       <bibkey>tan-etal-2021-reliability</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="322">
       <title>Learning Language and Multimodal Privacy-Preserving Markers of Mood from Mobile Data</title>
@@ -8381,7 +8377,6 @@
       <bibkey>emami-etal-2021-adept</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="554">
       <title><fixed-case>R</fixed-case>ead<fixed-case>O</fixed-case>nce Transformers: Reusable Representations of Text for Transformers</title>
@@ -11612,7 +11607,7 @@
       <url hash="a1c03e0f">2021.acl-demo.37</url>
       <doi>10.18653/v1/2021.acl-demo.37</doi>
       <bibkey>gowda-etal-2021-many</bibkey>
-      <pwccode url="https://github.com/isi-nlp/nlcodec" additional="true">isi-nlp/nlcodec</pwccode>
+      <pwccode url="https://github.com/thammegowda/006-many-to-eng" additional="true">thammegowda/006-many-to-eng</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/opus-100">OPUS-100</pwcdataset>
     </paper>
     <paper id="38">

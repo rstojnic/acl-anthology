@@ -2376,6 +2376,7 @@
       <url hash="59da6617">2020.coling-main.179</url>
       <doi>10.18653/v1/2020.coling-main.179</doi>
       <bibkey>gong-etal-2020-tablegpt</bibkey>
+      <pwccode url="https://github.com/syw1996/TableGPT" additional="false">syw1996/TableGPT</pwccode>
     </paper>
     <paper id="180">
       <title>The <fixed-case>A</fixed-case>ppos<fixed-case>C</fixed-case>orpus: a new multilingual, multi-domain dataset for factual appositive generation</title>

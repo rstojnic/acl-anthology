@@ -2845,7 +2845,7 @@
       <doi>10.18653/v1/2020.acl-main.194</doi>
       <video tag="video" href="http://slideslive.com/38929239"/>
       <bibkey>chen-etal-2020-mixtext</bibkey>
-      <pwccode url="https://github.com/GT-SALT/MixText" additional="false">GT-SALT/MixText</pwccode>
+      <pwccode url="https://github.com/GT-SALT/MixText" additional="true">GT-SALT/MixText</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
@@ -6145,7 +6145,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/map">MAP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/gap-coreference-dataset">GAP Coreference Dataset</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/agender">aGender</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="419">
       <title>Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?</title>
@@ -6912,7 +6911,6 @@
       <revision id="1" href="2020.acl-main.468v1" hash="ace9442b"/>
       <revision id="2" href="2020.acl-main.468v2" hash="99513e30" date="2020-09-29">This revision corrects the error disparity formula and clarifies the error disparity definition.</revision>
       <bibkey>shah-etal-2020-predictive</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="469">
       <title>What Does <fixed-case>BERT</fixed-case> with Vision Look At?</title>
