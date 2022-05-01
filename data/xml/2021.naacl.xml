@@ -6562,9 +6562,7 @@
       <doi>10.18653/v1/2021.naacl-main.458</doi>
       <bibkey>bao-etal-2021-non</bibkey>
       <pwccode url="https://github.com/baoy-nlp/CNAT" additional="false">baoy-nlp/CNAT</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/office-31">Office-31</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/miniimagenet-1">miniImageNet</pwcdataset>
     </paper>
     <paper id="459">
       <title>Training Data Augmentation for Code-Mixed Translation</title>

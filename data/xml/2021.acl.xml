@@ -2992,6 +2992,7 @@
       <url hash="493e9e38">2021.acl-long.199</url>
       <doi>10.18653/v1/2021.acl-long.199</doi>
       <bibkey>liu-etal-2021-multi</bibkey>
+      <pwccode url="https://github.com/lttsmn/LXMERT-S" additional="false">lttsmn/LXMERT-S</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptual-captions">Conceptual Captions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>

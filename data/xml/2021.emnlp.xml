@@ -3045,7 +3045,7 @@
       <abstract>Passage retrieval and ranking is a key task in open-domain question answering and information retrieval. Current effective approaches mostly rely on pre-trained deep language model-based retrievers and rankers. These methods have been shown to effectively model the semantic matching between queries and passages, also in presence of keyword mismatch, i.e. passages that are relevant to a query but do not contain important query keywords. In this paper we consider the Dense Retriever (DR), a passage retrieval method, and the BERT re-ranker, a popular passage re-ranking method. In this context, we formally investigate how these models respond and adapt to a specific type of keyword mismatch – that caused by keyword typos occurring in queries. Through empirical investigation, we find that typos can lead to a significant drop in retrieval and ranking effectiveness. We then propose a simple typos-aware training framework for DR and BERT re-ranker to address this issue. Our experimental results on the MS MARCO passage ranking dataset show that, with our proposed typos-aware training, DR and BERT re-ranker can become robust to typos in queries, resulting in significantly improved effectiveness compared to models trained without appropriately accounting for typos.</abstract>
       <url hash="cfa52b4f">2021.emnlp-main.225</url>
       <bibkey>zhuang-zuccon-2021-dealing</bibkey>
-      <pwccode url="https://github.com/ielab/typos-aware-bert" additional="false">ielab/typos-aware-bert</pwccode>
+      <pwccode url="https://github.com/ielab/typos-aware-bert" additional="true">ielab/typos-aware-bert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
     </paper>
     <paper id="226">
@@ -11264,7 +11264,7 @@
       <abstract>While large language models a la BERT are used ubiquitously in NLP, pretraining them is considered a luxury that only a few well-funded industry labs can afford. How can one train such models with a more modest budget? We present a recipe for pretraining a masked language model in 24 hours using a single low-end deep learning server. We demonstrate that through a combination of software optimizations, design choices, and hyperparameter tuning, it is possible to produce models that are competitive with BERT-base on GLUE tasks at a fraction of the original pretraining cost.</abstract>
       <url hash="af151510">2021.emnlp-main.831</url>
       <bibkey>izsak-etal-2021-train</bibkey>
-      <pwccode url="https://github.com/peteriz/academic-budget-bert" additional="true">peteriz/academic-budget-bert</pwccode>
+      <pwccode url="https://github.com/IntelLabs/academic-budget-bert" additional="true">IntelLabs/academic-budget-bert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
