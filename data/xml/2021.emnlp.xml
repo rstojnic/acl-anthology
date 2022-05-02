@@ -8187,6 +8187,7 @@
       <url hash="91232325">2021.emnlp-main.600</url>
       <bibkey>eisenschlos-etal-2021-mate</bibkey>
       <pwccode url="https://github.com/google-research/tapas" additional="false">google-research/tapas</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/hybridqa">HybridQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sqa">SQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tabfact">TabFact</pwcdataset>
     </paper>
@@ -11264,7 +11265,7 @@
       <abstract>While large language models a la BERT are used ubiquitously in NLP, pretraining them is considered a luxury that only a few well-funded industry labs can afford. How can one train such models with a more modest budget? We present a recipe for pretraining a masked language model in 24 hours using a single low-end deep learning server. We demonstrate that through a combination of software optimizations, design choices, and hyperparameter tuning, it is possible to produce models that are competitive with BERT-base on GLUE tasks at a fraction of the original pretraining cost.</abstract>
       <url hash="af151510">2021.emnlp-main.831</url>
       <bibkey>izsak-etal-2021-train</bibkey>
-      <pwccode url="https://github.com/IntelLabs/academic-budget-bert" additional="true">IntelLabs/academic-budget-bert</pwccode>
+      <pwccode url="https://github.com/peteriz/academic-budget-bert" additional="true">peteriz/academic-budget-bert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
