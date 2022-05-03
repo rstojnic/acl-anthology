@@ -1149,6 +1149,7 @@
       <url hash="f1785926">2021.naacl-main.79</url>
       <doi>10.18653/v1/2021.naacl-main.79</doi>
       <bibkey>yang-etal-2021-mtag</bibkey>
+      <pwccode url="https://github.com/jedyang97/MTAG" additional="false">jedyang97/MTAG</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/iemocap">IEMOCAP</pwcdataset>
     </paper>
     <paper id="80">
