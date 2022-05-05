@@ -1269,7 +1269,6 @@
       <doi>10.18653/v1/2021.acl-long.85</doi>
       <bibkey>xu-etal-2021-unsupervised</bibkey>
       <pwccode url="https://github.com/rivercold/BERT-unsupervised-OOD" additional="false">rivercold/BERT-unsupervised-OOD</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/multi30k-1">Multi30k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>

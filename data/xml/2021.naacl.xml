@@ -1667,7 +1667,7 @@
       <url hash="95db9a84">2021.naacl-main.114</url>
       <doi>10.18653/v1/2021.naacl-main.114</doi>
       <bibkey>goyal-durrett-2021-annotating</bibkey>
-      <pwccode url="https://github.com/tagoyal/factuality-datasets" additional="false">tagoyal/factuality-datasets</pwccode>
+      <pwccode url="https://github.com/tagoyal/factuality-datasets" additional="true">tagoyal/factuality-datasets</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="115">
@@ -4629,6 +4629,7 @@
       <url hash="2d477d65">2021.naacl-main.323</url>
       <doi>10.18653/v1/2021.naacl-main.323</doi>
       <bibkey>pryzant-etal-2021-causal</bibkey>
+      <pwccode url="https://github.com/rpryzant/causal-text" additional="false">rpryzant/causal-text</pwccode>
     </paper>
     <paper id="324">
       <title>Dynabench: Rethinking Benchmarking in <fixed-case>NLP</fixed-case></title>
@@ -6547,7 +6548,6 @@
       <bibkey>long-etal-2021-generative</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/multi30k-1">Multi30k</pwcdataset>
     </paper>
     <paper id="458">
       <title>Non-Autoregressive Translation by Learning Target Categorical Codes</title>

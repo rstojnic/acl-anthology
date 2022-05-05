@@ -4145,6 +4145,9 @@
       <abstract>To audit the robustness of named entity recognition (NER) models, we propose RockNER, a simple yet effective method to create natural adversarial examples. Specifically, at the entity level, we replace target entities with other entities of the same semantic class in Wikidata; at the context level, we use pre-trained language models (e.g., BERT) to generate word substitutions. Together, the two levels of at- tack produce natural adversarial examples that result in a shifted distribution from the training data on which our target models have been trained. We apply the proposed method to the OntoNotes dataset and create a new benchmark named OntoRock for evaluating the robustness of existing NER models via a systematic evaluation protocol. Our experiments and analysis reveal that even the best model has a significant performance drop, and these models seem to memorize in-domain entity patterns instead of reasoning from the context. Our work also studies the effects of a few simple data augmentation methods to improve the robustness of NER models.</abstract>
       <url hash="74dd8e81">2021.emnlp-main.302</url>
       <bibkey>lin-etal-2021-rockner</bibkey>
+      <pwccode url="https://github.com/INK-USC/RockNER" additional="false">INK-USC/RockNER</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontorock">OntoRock</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
     </paper>
     <paper id="303">
       <title>Diagnosing the First-Order Logical Reasoning Ability Through <fixed-case>L</fixed-case>ogic<fixed-case>NLI</fixed-case></title>
@@ -7153,7 +7156,7 @@
       <abstract>Selective rationalization aims to produce decisions along with rationales (e.g., text highlights or word alignments between two sentences). Commonly, rationales are modeled as stochastic binary masks, requiring sampling-based gradient estimators, which complicates training and requires careful hyperparameter tuning. Sparse attention mechanisms are a deterministic alternative, but they lack a way to regularize the rationale extraction (e.g., to control the sparsity of a text highlight or the number of alignments). In this paper, we present a unified framework for deterministic extraction of structured explanations via constrained inference on a factor graph, forming a differentiable layer. Our approach greatly eases training and rationale regularization, generally outperforming previous work on what comes to performance and plausibility of the extracted rationales. We further provide a comparative study of stochastic and deterministic methods for rationale extraction for classification and natural language inference tasks, jointly assessing their predictive power, quality of the explanations, and model variability.</abstract>
       <url hash="e0ef9dc5">2021.emnlp-main.525</url>
       <bibkey>guerreiro-martins-2021-spectra</bibkey>
-      <pwccode url="https://github.com/deep-spin/spectra-rationalization" additional="false">deep-spin/spectra-rationalization</pwccode>
+      <pwccode url="https://github.com/deep-spin/spectra-rationalization" additional="true">deep-spin/spectra-rationalization</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
