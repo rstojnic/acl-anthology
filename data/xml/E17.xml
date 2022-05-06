@@ -2319,7 +2319,6 @@
       <abstract>We describe EmoBank, a corpus of 10k English sentences balancing multiple genres, which we annotated with dimensional emotion metadata in the Valence-Arousal-Dominance (VAD) representation format. EmoBank excels with a bi-perspectival and bi-representational design. On the one hand, we distinguish between writer’s and reader’s emotions, on the other hand, a subset of the corpus complements dimensional VAD annotations with categorical ones based on Basic Emotions. We find evidence for the supremacy of the reader’s perspective in terms of IAA and rating intensity, and achieve close-to-human performance when mapping between dimensional and categorical formats.</abstract>
       <bibkey>buechel-hahn-2017-emobank</bibkey>
       <pwccode url="https://github.com/JULIELab/EmoBank" additional="false">JULIELab/EmoBank</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/emobank">EmoBank</pwcdataset>
     </paper>
     <paper id="93">
       <title>Structural Attention Neural Networks for improved sentiment analysis</title>
