@@ -2713,6 +2713,7 @@
       <url hash="fbd32e9e">E17-3007</url>
       <abstract>In the recent years, the amount of user generated contents shared on the Web has significantly increased, especially in social media environment, e.g. Twitter, Facebook, Google+. This large quantity of data has generated the need of reactive and sophisticated systems for capturing and understanding the underlying information enclosed in them. In this paper we present TWINE, a real-time system for the big data analysis and exploration of information extracted from Twitter streams. The proposed system based on a Named Entity Recognition and Linking pipeline and a multi-dimensional spatial geo-localization is managed by a scalable and flexible architecture for an interactive visualization of micropost streams insights. The demo is available at <url>http://twine-mind.cloudapp.net/streaming</url>.</abstract>
       <bibkey>nozza-etal-2017-twine</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ipm-nel">IPM NEL</pwcdataset>
     </paper>
     <paper id="8">
       <title><fixed-case>A</fixed-case>lto: Rapid Prototyping for Parsing and Translation</title>
