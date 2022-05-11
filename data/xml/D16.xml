@@ -1517,6 +1517,7 @@
       <doi>10.18653/v1/D16-1129</doi>
       <video href="https://vimeo.com/239248946" tag="video"/>
       <bibkey>habernal-gurevych-2016-makes</bibkey>
+      <pwccode url="https://github.com/UKPLab/emnlp2016-empirical-convincingness" additional="false">UKPLab/emnlp2016-empirical-convincingness</pwccode>
     </paper>
     <paper id="130">
       <title>Recognizing Implicit Discourse Relations via Repeated Reading: Neural Networks with Multi-Level Attention</title>

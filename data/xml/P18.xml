@@ -1477,7 +1477,6 @@
       <video href="https://vimeo.com/285802228" tag="video"/>
       <doi>10.18653/v1/P18-1098</doi>
       <bibkey>xie-xing-2018-neural</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/mimic-iii">MIMIC-III</pwcdataset>
     </paper>
     <paper id="99">
       <title>Domain Adaptation with Adversarial Training and Graph Embeddings</title>

@@ -9458,6 +9458,7 @@
       <bibkey>pan-etal-2021-zero</bibkey>
       <pwccode url="https://github.com/teacherpeterpan/Zero-shot-Fact-Verification" additional="false">teacherpeterpan/Zero-shot-Fact-Verification</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/qa2d">QA2D</pwcdataset>
     </paper>
     <paper id="62">
       <title>Thank you <fixed-case>BART</fixed-case>! Rewarding Pre-Trained Models Improves Formality Style Transfer</title>

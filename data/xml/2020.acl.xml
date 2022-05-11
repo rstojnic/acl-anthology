@@ -11886,6 +11886,7 @@
       <attachment type="Dataset" hash="c7f2fe33">2020.acl-demos.23.Dataset.pdf</attachment>
       <video tag="video" href="http://slideslive.com/38928593"/>
       <bibkey>shmidman-etal-2020-nakdan</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/nakdimon-test">Nakdimon-test</pwcdataset>
     </paper>
     <paper id="24">
       <title><fixed-case>P</fixed-case>hoton: A Robust Cross-Domain Text-to-<fixed-case>SQL</fixed-case> System</title>

@@ -2181,7 +2181,6 @@
       <doi>10.18653/v1/W19-1905</doi>
       <bibkey>melamud-shivade-2019-towards</bibkey>
       <pwccode url="https://github.com/orenmel/synth-clinical-notes" additional="false">orenmel/synth-clinical-notes</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/mimic-iii">MIMIC-III</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
@@ -2221,7 +2220,6 @@
       <url hash="2af928ba">W19-1908</url>
       <doi>10.18653/v1/W19-1908</doi>
       <bibkey>lin-etal-2019-bert</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/mimic-iii">MIMIC-III</pwcdataset>
     </paper>
     <paper id="9">
       <title>Publicly Available Clinical <fixed-case>BERT</fixed-case> Embeddings</title>

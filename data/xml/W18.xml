@@ -3307,7 +3307,6 @@
       <doi>10.18653/v1/W18-2301</doi>
       <bibkey>newman-griffis-zirikly-2018-embedding</bibkey>
       <pwccode url="https://github.com/drgriffis/NeuralVecmap" additional="false">drgriffis/NeuralVecmap</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/mimic-iii">MIMIC-III</pwcdataset>
     </paper>
     <paper id="2">
       <title>Multi-task learning for interpretable cause of death classification using key phrase prediction</title>
@@ -10855,7 +10854,6 @@
       <abstract>Neural network models are oftentimes restricted by limited labeled instances and resort to advanced architectures and features for cutting edge performance. We propose to build a recurrent neural network with multiple semantically heterogeneous embeddings within a self-training framework. Our framework makes use of labeled, unlabeled, and social media data, operates on basic features, and is scalable and generalizable. With this method, we establish the state-of-the-art result for both in- and cross-domain for a clinical temporal relation extraction task.</abstract>
       <doi>10.18653/v1/W18-5619</doi>
       <bibkey>lin-etal-2018-self</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/mimic-iii">MIMIC-III</pwcdataset>
     </paper>
     <paper id="20">
       <title>Listwise temporal ordering of events in clinical notes</title>
