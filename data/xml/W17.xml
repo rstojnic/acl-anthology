@@ -4069,6 +4069,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <doi>10.18653/v1/W17-2317</doi>
       <abstract>We present an unsupervised context-sensitive spelling correction method for clinical free-text that uses word and character n-gram embeddings. Our method generates misspelling replacement candidates and ranks them according to their semantic fit, by calculating a weighted cosine similarity between the vectorized representation of a candidate and the misspelling context. We greatly outperform two baseline off-the-shelf spelling correction tools on a manually annotated MIMIC-III test set, and counter the frequency bias of an optimized noisy channel model, showing that neural embeddings can be successfully exploited to include context-awareness in a spelling correction model.</abstract>
       <bibkey>fivez-etal-2017-unsupervised</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/mimic-iii">MIMIC-III</pwcdataset>
     </paper>
     <paper id="18">
       <title>Characterization of Divergence in Impaired Speech of <fixed-case>ALS</fixed-case> Patients</title>
@@ -4412,6 +4413,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <doi>10.18653/v1/W17-2345</doi>
       <abstract>Event detection from clinical notes has been traditionally solved with rule based and statistical natural language processing (NLP) approaches that require extensive domain knowledge and feature engineering. In this paper, we have explored the feasibility of approaching this task with recurrent neural networks, clinical word embeddings and introduced a hybrid architecture to improve detection for entities with smaller representation in the dataset. A comparative analysis is also done which reveals the complementary behavior of neural networks and conditional random fields in clinical entity detection.</abstract>
       <bibkey>maharana-yetisgen-2017-clinical</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/mimic-iii">MIMIC-III</pwcdataset>
     </paper>
     <paper id="46">
       <title>Extracting Personal Medical Events for User Timeline Construction using Minimal Supervision</title>
