@@ -55,7 +55,7 @@
       <abstract>Recent studies have demonstrated that pre-trained cross-lingual models achieve impressive performance in downstream cross-lingual tasks. This improvement benefits from learning a large amount of monolingual and parallel corpora. Although it is generally acknowledged that parallel corpora are critical for improving the model performance, existing methods are often constrained by the size of parallel corpora, especially for low-resource languages. In this paper, we propose Ernie-M, a new training method that encourages the model to align the representation of multiple languages with monolingual corpora, to overcome the constraint that the parallel corpus size places on the model performance. Our key insight is to integrate back-translation into the pre-training process. We generate pseudo-parallel sentence pairs on a monolingual corpus to enable the learning of semantic alignments between different languages, thereby enhancing the semantic modeling of cross-lingual models. Experimental results show that Ernie-M outperforms existing cross-lingual models and delivers new state-of-the-art results in various cross-lingual downstream tasks. The codes and pre-trained models will be made publicly available.</abstract>
       <url hash="0837dc82">2021.emnlp-main.3</url>
       <bibkey>ouyang-etal-2021-ernie</bibkey>
-      <pwccode url="https://github.com/PaddlePaddle/ERNIE" additional="false">PaddlePaddle/ERNIE</pwccode>
+      <pwccode url="https://github.com/PaddlePaddle/ERNIE" additional="true">PaddlePaddle/ERNIE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xtreme">XTREME</pwcdataset>
     </paper>

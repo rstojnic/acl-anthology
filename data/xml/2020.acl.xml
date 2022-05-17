@@ -7234,6 +7234,7 @@
       <video tag="video" href="http://slideslive.com/38929095"/>
       <bibkey>mueller-etal-2020-cross</bibkey>
       <pwccode url="https://github.com/aaronmueller/clams" additional="true">aaronmueller/clams</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/clams">CLAMS</pwcdataset>
     </paper>
     <paper id="491">
       <title>Evaluating Explainable <fixed-case>AI</fixed-case>: Which Algorithmic Explanations Help Users Predict Model Behavior?</title>
