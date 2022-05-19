@@ -9770,6 +9770,7 @@
       <abstract>Topic models are useful tools for analyzing and interpreting the main underlying themes of large corpora of text. Most topic models rely on word co-occurrence for computing a topic, i.e., a weighted set of words that together represent a high-level semantic concept. In this paper, we propose a new light-weight Self-Supervised Neural Topic Model (SNTM) that learns a rich context by learning a topic representation jointly from three co-occurring words and a document that the triple originates from. Our experimental results indicate that our proposed neural topic model, SNTM, outperforms previously existing topic models in coherence metrics as well as document clustering accuracy. Moreover, apart from the topic coherence and clustering performance, the proposed neural topic model has a number of advantages, namely, being computationally efficient and easy to train.</abstract>
       <url hash="7f6fb14c">2021.findings-emnlp.284</url>
       <bibkey>bahrainian-etal-2021-self-supervised</bibkey>
+      <pwccode url="https://github.com/ali-bahrainian/sntm" additional="false">ali-bahrainian/sntm</pwccode>
     </paper>
     <paper id="285">
       <title>Coreference-aware Surprisal Predicts Brain Response</title>

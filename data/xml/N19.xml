@@ -4601,6 +4601,7 @@
       <doi>10.18653/v1/N19-1337</doi>
       <attachment type="poster" hash="412cd7ef">N19-1337.Poster.pdf</attachment>
       <bibkey>pezeshkpour-etal-2019-investigating</bibkey>
+      <pwccode url="https://github.com/pouyapez/criage" additional="false">pouyapez/criage</pwccode>
     </paper>
     <paper id="339">
       <title>Transferable Neural Projection Representations</title>
