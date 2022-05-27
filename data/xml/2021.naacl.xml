@@ -2408,6 +2408,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="166">
       <title><fixed-case>DA</fixed-case>-Transformer: Distance-aware Transformer</title>
@@ -5684,6 +5685,7 @@
       <bibkey>ding-koehn-2021-evaluating</bibkey>
       <pwccode url="https://github.com/shuoyangd/tarsius" additional="false">shuoyangd/tarsius</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/winobias">WinoBias</pwcdataset>
     </paper>
     <paper id="400">
@@ -5797,6 +5799,7 @@
       <pwccode url="https://github.com/SimengSun/revisit-nplm" additional="false">SimengSun/revisit-nplm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/lambada">LAMBADA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="408">
       <title><fixed-case>R</fixed-case>ead<fixed-case>T</fixed-case>wice: Reading Very Large Documents with Memories</title>
