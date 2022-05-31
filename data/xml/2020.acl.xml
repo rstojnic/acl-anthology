@@ -12369,6 +12369,7 @@
       <doi>10.18653/v1/2020.acl-srw.13</doi>
       <video tag="video" href="http://slideslive.com/38928649"/>
       <bibkey>malireddy-etal-2020-scar</bibkey>
+      <pwccode url="https://github.com/m-chanakya/scar" additional="false">m-chanakya/scar</pwccode>
     </paper>
     <paper id="14">
       <title><fixed-case>F</fixed-case>eature <fixed-case>D</fixed-case>ifference <fixed-case>M</fixed-case>akes <fixed-case>S</fixed-case>ense: <fixed-case>A</fixed-case> medical image captioning model exploiting feature difference and tag information</title>
