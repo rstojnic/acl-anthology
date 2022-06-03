@@ -2491,7 +2491,6 @@
       <bibkey>zheng-etal-2021-grice</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mutual">MuTual</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
     </paper>
     <paper id="183">
       <title><fixed-case>R</fixed-case>etro<fixed-case>GAN</fixed-case>: A Cyclic Post-Specialization System for Improving Out-of-Knowledge and Rare Word Representations</title>
@@ -3511,6 +3510,7 @@
       <url hash="6ccc7dc5">2021.findings-acl.259</url>
       <doi>10.18653/v1/2021.findings-acl.259</doi>
       <bibkey>gonzalez-etal-2021-interaction</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="260">
       <title>Combining Static Word Embeddings and Contextual Representations for Bilingual Lexicon Induction</title>
@@ -9029,7 +9029,7 @@
       <abstract>We introduce a new pretraining approach geared for multi-document language modeling, incorporating two key ideas into the masked language modeling self-supervised objective. First, instead of considering documents in isolation, we pretrain over sets of multiple related documents, encouraging the model to learn cross-document relationships. Second, we improve over recent long-range transformers by introducing dynamic global attention that has access to the entire input to predict masked tokens. We release CDLM (Cross-Document Language Model), a new general language model for multi-document setting that can be easily applied to downstream tasks. Our extensive analysis shows that both ideas are essential for the success of CDLM, and work in synergy to set new state-of-the-art results for several multi-text tasks.</abstract>
       <url hash="6ec8c35d">2021.findings-emnlp.225</url>
       <bibkey>caciularu-etal-2021-cdlm-cross</bibkey>
-      <pwccode url="https://github.com/aviclu/cdlm" additional="true">aviclu/cdlm</pwccode>
+      <pwccode url="https://github.com/aviclu/CD-LM" additional="true">aviclu/CD-LM</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ecb">ECB+</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi-news">Multi-News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/s2orc">S2ORC</pwcdataset>
@@ -10660,7 +10660,6 @@
       <abstract>Natural language processing systems such as dialogue agents should be able to reason about other people’s beliefs, intentions and desires. This capability, called theory of mind (ToM), is crucial, as it allows a model to predict and interpret the needs of users based on their mental states. A recent line of research evaluates the ToM capability of existing memory-augmented neural models through question-answering. These models perform poorly on false belief tasks where beliefs differ from reality, especially when the dataset contains distracting sentences. In this paper, we propose a new temporally informed approach for improving the ToM capability of memory-augmented neural models. Our model incorporates priors about the entities’ minds and tracks their mental states as they evolve over time through an extended passage. It then responds to queries through textual time travel–i.e., by accessing the stored memory of an earlier time step. We evaluate our model on ToM datasets and find that this approach improves performance, particularly by correcting the predicted mental states to match the false belief.</abstract>
       <url hash="5e250c12">2021.findings-emnlp.351</url>
       <bibkey>arodi-cheung-2021-textual-time</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
     </paper>
     <paper id="352">
       <title>Detect and Perturb: Neutral Rewriting of Biased and Sensitive Text via Gradient-based Decoding</title>

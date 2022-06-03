@@ -3674,7 +3674,6 @@
       <pwccode url="https://github.com/facebookresearch/NeuralDB" additional="false">facebookresearch/NeuralDB</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikinldb">WikiNLDB</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/break">BREAK</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
     </paper>
     <paper id="242">
       <title><fixed-case>O</fixed-case>nline <fixed-case>L</fixed-case>earning Meets <fixed-case>M</fixed-case>achine <fixed-case>T</fixed-case>ranslation Evaluation: Finding the Best Systems with the Least Human Effort</title>

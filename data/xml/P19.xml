@@ -6105,7 +6105,6 @@
       <pwccode url="https://github.com/h19920918/emr" additional="false">h19920918/emr</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/tvqa">TVQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
     </paper>
     <paper id="435">
       <title>Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets</title>
@@ -9452,7 +9451,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mcscript">MCScript</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
     </paper>
     <paper id="15">
       <title>Paraphrases as Foreign Languages in Multilingual Neural Machine Translation</title>

@@ -1493,7 +1493,6 @@
       <bibkey>saeed-etal-2021-rulebert</bibkey>
       <pwccode url="https://github.com/mhmdsaiid/rulebert" additional="false">mhmdsaiid/rulebert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/lama">LAMA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
     </paper>
     <paper id="111">
       <title>Stepmothers are mean and academics are pretentious: What do pretrained language models learn about you?</title>
@@ -9451,7 +9450,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/wikiqa">WikiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikireading">WikiReading</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/worldtree">Worldtree</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/emrqa">emrQA</pwcdataset>
     </paper>
     <paper id="694">

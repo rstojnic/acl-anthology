@@ -470,7 +470,6 @@
       <bibkey>chiyah-garcia-etal-2020-crwiz</bibkey>
       <pwccode url="https://github.com/JChiyah/crwiz" additional="false">JChiyah/crwiz</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/multiwoz">MultiWOZ</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
     </paper>
     <paper id="37">
       <title>Effort Estimation in Named Entity Tagging Tasks</title>

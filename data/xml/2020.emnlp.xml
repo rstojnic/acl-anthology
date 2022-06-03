@@ -7805,7 +7805,6 @@
       <bibkey>tandon-etal-2020-dataset</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/open-pi">Open PI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/alfred">ALFRED</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
     </paper>
     <paper id="521">
       <title>Design Challenges in Low-resource Cross-lingual Entity Linking</title>

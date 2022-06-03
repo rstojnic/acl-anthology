@@ -222,7 +222,6 @@
       <bibkey>demeter-downey-2021-whos</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/babi-1">bAbI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/decanlp">decaNLP</pwcdataset>
     </paper>
     <paper id="17">
