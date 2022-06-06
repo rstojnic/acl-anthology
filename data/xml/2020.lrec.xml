@@ -7021,7 +7021,7 @@
       <url hash="e6f9bacf">2020.lrec-1.559</url>
       <language>eng</language>
       <bibkey>jorgensen-etal-2020-norne</bibkey>
-      <pwccode url="https://github.com/ltgoslo/norne" additional="true">ltgoslo/norne</pwccode>
+      <pwccode url="https://github.com/ltgoslo/norne" additional="false">ltgoslo/norne</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/groningen-meaning-bank">Groningen Meaning Bank</pwcdataset>
     </paper>
     <paper id="560">
