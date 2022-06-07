@@ -6522,7 +6522,7 @@
       <url hash="a33caded">2021.acl-long.432</url>
       <doi>10.18653/v1/2021.acl-long.432</doi>
       <bibkey>zhang-etal-2021-crowdsourcing</bibkey>
-      <pwccode url="https://github.com/izhx/CLasDA" additional="true">izhx/CLasDA</pwccode>
+      <pwccode url="https://github.com/izhx/CLasDA" additional="false">izhx/CLasDA</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
     </paper>
     <paper id="433">
