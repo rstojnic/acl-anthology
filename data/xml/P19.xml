@@ -9961,7 +9961,7 @@
       <url hash="38942717">P19-2057</url>
       <doi>10.18653/v1/P19-2057</doi>
       <bibkey>thongtan-phienthrakul-2019-sentiment</bibkey>
-      <pwccode url="https://github.com/tanthongtan/dv-cosine" additional="false">tanthongtan/dv-cosine</pwccode>
+      <pwccode url="https://github.com/tanthongtan/dv-cosine" additional="true">tanthongtan/dv-cosine</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="58">

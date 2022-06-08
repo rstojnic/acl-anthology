@@ -1783,6 +1783,7 @@
       <url hash="df3b64a6">2021.acl-long.119</url>
       <doi>10.18653/v1/2021.acl-long.119</doi>
       <bibkey>mrini-etal-2021-gradually</bibkey>
+      <pwccode url="https://github.com/khalilmrini/medical-question-understanding" additional="false">khalilmrini/medical-question-understanding</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/meqsum">MeQSum</pwcdataset>
     </paper>
@@ -5015,6 +5016,7 @@
       <url hash="388e4d5f">2021.acl-long.331</url>
       <doi>10.18653/v1/2021.acl-long.331</doi>
       <bibkey>shen-etal-2021-reservoir</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="332">
