@@ -6808,6 +6808,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/crd3">CRD3</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/interview">Interview</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multiwoz">MultiWOZ</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
     </paper>
     <paper id="475">
       <title>Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection</title>

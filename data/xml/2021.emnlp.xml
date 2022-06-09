@@ -4610,6 +4610,7 @@
       <url hash="58a606c5">2021.emnlp-main.336</url>
       <bibkey>li-etal-2021-learn</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
     </paper>
     <paper id="337">
       <title>Gradient-Based Adversarial Factual Consistency Evaluation for Abstractive Summarization</title>
@@ -7552,7 +7553,7 @@
       <abstract>To obtain high-quality sentence embeddings from pretrained language models (PLMs), they must either be augmented with additional pretraining objectives or finetuned on a large set of labeled text pairs. While the latter approach typically outperforms the former, it requires great human effort to generate suitable datasets of sufficient size. In this paper, we show how PLMs can be leveraged to obtain high-quality sentence embeddings without the need for labeled data, finetuning or modifications to the pretraining objective: We utilize the generative abilities of large and high-performing PLMs to generate entire datasets of labeled text pairs from scratch, which we then use for finetuning much smaller and more efficient models. Our fully unsupervised approach outperforms strong baselines on several semantic textual similarity datasets.</abstract>
       <url hash="62dc576c">2021.emnlp-main.555</url>
       <bibkey>schick-schutze-2021-generating</bibkey>
-      <pwccode url="https://github.com/timoschick/dino" additional="false">timoschick/dino</pwccode>
+      <pwccode url="https://github.com/timoschick/dino" additional="true">timoschick/dino</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
@@ -8636,6 +8637,7 @@
       <bibkey>khalifa-etal-2021-bag</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/commongen">CommonGen</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/persona-chat-1">PERSONA-CHAT</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
     </paper>
     <paper id="632">
       <title>Paraphrasing Compound Nominalizations</title>
@@ -12026,6 +12028,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mlsum">MLSUM</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi-news">Multi-News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmedqa">PubMedQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scisummnet">ScisummNet</pwcdataset>
     </paper>
     <paper id="38">
