@@ -494,7 +494,6 @@
       <doi>10.18653/v1/2020.clinicalnlp-1.32</doi>
       <video tag="video" href="https://slideslive.com/38939828"/>
       <bibkey>baez-etal-2020-chilean</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/chilean-waiting-list-corpus">Chilean Waiting List</pwcdataset>
     </paper>
     <paper id="33">
       <title>Exploring Text Specific and Blackbox Fairness Algorithms in Multimodal Clinical <fixed-case>NLP</fixed-case></title>
