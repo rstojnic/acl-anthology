@@ -3872,9 +3872,8 @@
       <url hash="2742dd4f">2021.acl-long.254</url>
       <doi>10.18653/v1/2021.acl-long.254</doi>
       <bibkey>zhu-etal-2021-tat</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/hybridqa">HybridQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
+      <pwccode url="https://github.com/NExTplusplus/TAT-QA" additional="false">NExTplusplus/TAT-QA</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/tat-qa">TAT-QA</pwcdataset>
     </paper>
     <paper id="255">
       <title>Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering</title>
