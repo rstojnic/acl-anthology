@@ -1757,7 +1757,6 @@
       <pwccode url="https://github.com/nlpcl-lab/dialog-eval-hard-negative" additional="false">nlpcl-lab/dialog-eval-hard-negative</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog-1">DailyDialog++</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/persona-chat-1">PERSONA-CHAT</pwcdataset>
     </paper>
     <paper id="121">
       <title>How Robust are Fact Checking Systems on Colloquial Claims?</title>
@@ -2289,7 +2288,6 @@
       <bibkey>wu-etal-2021-personalized</bibkey>
       <pwccode url="https://github.com/willyoung2017/per-chat" additional="false">willyoung2017/per-chat</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/pec">PEC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/persona-chat-1">PERSONA-CHAT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/personaldialog">PersonalDialog</pwcdataset>
     </paper>
     <paper id="158">

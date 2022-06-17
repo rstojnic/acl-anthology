@@ -163,7 +163,6 @@
       <doi>10.18653/v1/2021.dialdoc-1.10</doi>
       <bibkey>khandelwal-2021-weasul</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/persona-chat-1">PERSONA-CHAT</pwcdataset>
     </paper>
     <paper id="11">
       <title>Summary-Oriented Question Generation for Informational Queries</title>
