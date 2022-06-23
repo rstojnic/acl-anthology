@@ -173,7 +173,6 @@
       <abstract>Social media user generated text is actually the main resource for many NLP tasks. This text, however, does not follow the standard rules of writing. Moreover, the use of dialect such as Moroccan Arabic in written communications increases further NLP tasks complexity. A dialect is a verbal language that does not have a standard orthography. The written dialect is based on the phonetic transliteration of spoken words which leads users to improvise spelling while writing. Thus, for the same word we can find multiple forms of transliterations. Subsequently, it is mandatory to normalize these different transliterations to one canonical word form. To reach this goal, we have exploited the powerfulness of word embedding models generated with a corpus of YouTube comments. Besides, using a Moroccan Arabic dialect dictionary that provides the canonical forms, we have built a normalization dictionary that we refer to as MANorm. We have conducted several experiments to demonstrate the efficiency of MANorm, which have shown its usefulness in dialect normalization. We made MANorm freely available online.</abstract>
       <url hash="223258b3">2020.wanlp-1.14</url>
       <bibkey>zarnoufi-etal-2020-manorm</bibkey>
-      <pwccode url="https://github.com/maprocessing/manorm" additional="false">maprocessing/manorm</pwccode>
     </paper>
     <paper id="15">
       <title>A Unified Model for <fixed-case>A</fixed-case>rabizi Detection and Transliteration using Sequence-to-Sequence Models</title>
