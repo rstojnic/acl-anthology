@@ -2115,6 +2115,7 @@
       <doi>10.18653/v1/D18-1156</doi>
       <bibkey>liu-etal-2018-jointly</bibkey>
       <pwccode url="https://github.com/lx865712528/JMEE" additional="true">lx865712528/JMEE</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ace-2005">ACE 2005</pwcdataset>
     </paper>
     <paper id="157">
       <title><fixed-case>RESIDE</fixed-case>: Improving Distantly-Supervised Neural Relation Extraction using Side Information</title>
