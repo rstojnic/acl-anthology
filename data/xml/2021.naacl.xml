@@ -1118,7 +1118,7 @@
       <url hash="12e5b521">2021.naacl-main.77</url>
       <doi>10.18653/v1/2021.naacl-main.77</doi>
       <bibkey>sun-etal-2021-lightningdot</bibkey>
-      <pwccode url="https://github.com/intersun/LightningDOT" additional="false">intersun/LightningDOT</pwccode>
+      <pwccode url="https://github.com/intersun/LightningDOT" additional="true">intersun/LightningDOT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
     </paper>
     <paper id="78">
