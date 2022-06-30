@@ -1515,6 +1515,7 @@
       <bibkey>hayati-etal-2018-retrieval</bibkey>
       <pwccode url="https://github.com/sweetpeach/ReCode" additional="false">sweetpeach/ReCode</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/django">Django</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/hearthstone">Hearthstone</pwcdataset>
     </paper>
     <paper id="112">
       <title><fixed-case>SQL</fixed-case>-to-Text Generation with Graph-to-Sequence Model</title>
@@ -2636,6 +2637,7 @@
       <bibkey>iyer-etal-2018-mapping</bibkey>
       <pwccode url="https://github.com/sriniiyer/concode" additional="false">sriniiyer/concode</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/concode">CONCODE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/hearthstone">Hearthstone</pwcdataset>
     </paper>
     <paper id="193">
       <title><fixed-case>S</fixed-case>yntax<fixed-case>SQLN</fixed-case>et: Syntax Tree Networks for Complex and Cross-Domain Text-to-<fixed-case>SQL</fixed-case> Task</title>
