@@ -5961,7 +5961,7 @@
       <doi>10.18653/v1/2020.acl-main.408</doi>
       <video tag="video" href="http://slideslive.com/38928900"/>
       <bibkey>deyoung-etal-2020-eraser</bibkey>
-      <pwccode url="https://github.com/jayded/eraserbenchmark" additional="false">jayded/eraserbenchmark</pwccode>
+      <pwccode url="https://github.com/jayded/eraserbenchmark" additional="true">jayded/eraserbenchmark</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cos-e">CoS-E</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/evidence-inference">Evidence Inference</pwcdataset>
