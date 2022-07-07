@@ -4485,6 +4485,7 @@
       <url hash="28d8bf24">2020.lrec-1.363</url>
       <language>eng</language>
       <bibkey>han-etal-2020-multimwe</bibkey>
+      <pwccode url="https://github.com/poethan/MWE4MT" additional="false">poethan/MWE4MT</pwccode>
     </paper>
     <paper id="364">
       <title>A <fixed-case>M</fixed-case>yanmar (<fixed-case>B</fixed-case>urmese)-<fixed-case>E</fixed-case>nglish Named Entity Transliteration Dictionary</title>
