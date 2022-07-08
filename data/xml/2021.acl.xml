@@ -5114,6 +5114,7 @@
       <url hash="472a568f">2021.acl-long.337</url>
       <doi>10.18653/v1/2021.acl-long.337</doi>
       <bibkey>chen-etal-2021-hierarchy</bibkey>
+      <pwccode url="https://github.com/qianlima-lab/HiMatch" additional="false">qianlima-lab/HiMatch</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/eurlex57k">EURLEX57K</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rcv1">RCV1</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/web-of-science-dataset">WOS</pwcdataset>
