@@ -2211,7 +2211,7 @@
       <award>Honorable Mention for Best Short Paper</award>
       <bibkey>wu-etal-2021-applying</bibkey>
       <doi>10.18653/v1/2021.eacl-main.163</doi>
-      <pwccode url="https://github.com/shijie-wu/neural-transducer" additional="false">shijie-wu/neural-transducer</pwccode>
+      <pwccode url="https://github.com/shijie-wu/neural-transducer" additional="true">shijie-wu/neural-transducer</pwccode>
     </paper>
     <paper id="164">
       <title>Exploring Supervised and Unsupervised Rewards in Machine Translation</title>
