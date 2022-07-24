@@ -2967,6 +2967,7 @@
       <url hash="f59d3af4">2021.acl-long.197</url>
       <doi>10.18653/v1/2021.acl-long.197</doi>
       <bibkey>kim-etal-2021-self</bibkey>
+      <pwccode url="https://github.com/galsang/SG-BERT" additional="false">galsang/SG-BERT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
