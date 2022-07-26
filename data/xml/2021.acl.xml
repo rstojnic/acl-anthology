@@ -4278,7 +4278,6 @@
       <doi>10.18653/v1/2021.acl-long.280</doi>
       <bibkey>ushio-etal-2021-bert</bibkey>
       <pwccode url="https://github.com/asahi417/analogy-language-model" additional="false">asahi417/analogy-language-model</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/analogy-test">Analogy Test</pwcdataset>
     </paper>
     <paper id="281">
       <title>Exploring the Representation of Word Meanings in Context: <fixed-case>A</fixed-case> Case Study on Homonymy and Synonymy</title>
