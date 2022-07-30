@@ -3132,7 +3132,6 @@
       <revision id="1" href="D19-1225v1" hash="301b4c96"/>
       <revision id="2" href="D19-1225v2" hash="872e9d97" date="2020-07-07">Name of first author updated to "Nikita Srivatsan".</revision>
       <bibkey>srivatsan-etal-2019-deep</bibkey>
-      <pwccode url="https://bitbucket.org/NikitaSrivatsan/DeepFactorizationFontsEMNLP19" additional="false">NikitaSrivatsan/DeepFactorizationFontsEMNLP19</pwccode>
     </paper>
     <paper id="226">
       <title>Cross-lingual Semantic Specialization via Lexical Relation Induction</title>
