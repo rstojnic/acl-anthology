@@ -45,6 +45,7 @@
       <pwccode url="https://github.com/yuweihao/LV-BERT" additional="false">yuweihao/LV-BERT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openwebtext">OpenWebText</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -361,6 +362,7 @@
       <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/freegbdt" additional="false">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
@@ -2316,6 +2318,7 @@
       <doi>10.18653/v1/2021.findings-acl.168</doi>
       <bibkey>ghaddar-etal-2021-end</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
     </paper>
     <paper id="169">
@@ -2572,6 +2575,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -3839,6 +3843,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -3980,6 +3985,7 @@
       <doi>10.18653/v1/2021.findings-acl.297</doi>
       <bibkey>chakrabarty-etal-2021-figurative</bibkey>
       <pwccode url="https://github.com/tuhinjubcse/Figurative-NLI" additional="false">tuhinjubcse/Figurative-NLI</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="298">
       <title>To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text</title>
@@ -4406,6 +4412,7 @@
       <pwccode url="https://github.com/huhailinguist/ChineseNLIProbing" additional="false">huhailinguist/ChineseNLIProbing</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/clue">CLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/help">HELP</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ocnli">OCNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
@@ -4736,6 +4743,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="ebfed718">2021.findings-acl.355.OptionalSupplementaryMaterial.pdf</attachment>
       <doi>10.18653/v1/2021.findings-acl.355</doi>
       <bibkey>sotnikova-etal-2021-analyzing</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="356">
@@ -4947,6 +4955,7 @@
       <pwccode url="https://github.com/slanglab/IndiaPoliceEvents" additional="false">slanglab/IndiaPoliceEvents</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/indiapoliceevents">IndiaPoliceEvents</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="372">
       <title>Memory-Efficient Differentiable Transformer Architecture Search</title>
@@ -5238,6 +5247,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -5761,6 +5771,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mctest">MCTest</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="436">
@@ -5806,6 +5817,7 @@
       <bibkey>durrani-etal-2021-transfer</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -6662,6 +6674,7 @@
       <pwccode url="https://github.com/lancopku/cascadebert" additional="false">lancopku/cascadebert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -7040,6 +7053,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/lama">LAMA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/record">ReCoRD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
@@ -7234,6 +7248,7 @@
       <bibkey>li-etal-2021-task-adaptive</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -7726,6 +7741,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -8439,6 +8455,7 @@
       <bibkey>chen-etal-2021-factuality-checkers</bibkey>
       <pwccode url="https://github.com/zide05/advfact" additional="false">zide05/advfact</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="180">
       <title>On the Effects of Transformer Size on In- and Out-of-Domain Calibration</title>
@@ -8450,6 +8467,7 @@
       <bibkey>dan-roth-2021-effects-transformer</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -9535,6 +9553,7 @@
       <pwccode url="https://github.com/yohanjo/kenli" additional="false">yohanjo/kenli</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="265">
@@ -10189,6 +10208,7 @@
       <abstract>In this work, we address the open-world classification problem with a method called ODIST, open world classification via distributionally shifted instances. This novel and straightforward method can create out-of-domain instances from the in-domain training instances with the help of a pre-trained generative language model. Experimental results show that ODIST performs better than state-of-the-art decision boundary finding method.</abstract>
       <url hash="9322b214">2021.findings-emnlp.316</url>
       <bibkey>shu-etal-2021-odist-open</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="317">
       <title><fixed-case>LAMAD</fixed-case>: A Linguistic Attentional Model for <fixed-case>A</fixed-case>rabic Text Diacritization</title>
@@ -10286,6 +10306,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/bioasq">BioASQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrqa-2019">MRQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
@@ -10405,6 +10426,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
@@ -10541,6 +10563,7 @@
       <url hash="ea075ee8">2021.findings-emnlp.343</url>
       <bibkey>van-etal-2021-may-help</bibkey>
       <pwccode url="https://github.com/vanh17/textsim" additional="false">vanh17/textsim</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="344">
       <title>Subformer: Exploring Weight Sharing for Parameter Efficiency in Generative Transformers</title>
@@ -10966,6 +10989,7 @@
       <url hash="197ddf69">2021.findings-emnlp.375</url>
       <bibkey>sundararaman-etal-2021-learning-task</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
     </paper>
     <paper id="376">
@@ -11359,6 +11383,7 @@
       <bibkey>amirkhani-pilehvar-2021-dont-discard</bibkey>
       <pwccode url="https://github.com/h-amirkhani/debiasing-assumption" additional="false">h-amirkhani/debiasing-assumption</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="406">
       <title>Stacked <fixed-case>AMR</fixed-case> Parsing with Silver Data</title>
@@ -11430,6 +11455,7 @@
       <url hash="8487e6d0">2021.findings-emnlp.411</url>
       <attachment type="Software" hash="c617d694">2021.findings-emnlp.411.Software.zip</attachment>
       <bibkey>lauscher-etal-2021-sustainable-modular</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="412">
       <title>A Divide-And-Conquer Approach for Multi-label Multi-hop Relation Detection in Knowledge Base Question Answering</title>
@@ -11543,6 +11569,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
@@ -11567,6 +11594,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/help">HELP</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ocnli">OCNLI</pwcdataset>
     </paper>
     <paper id="422">

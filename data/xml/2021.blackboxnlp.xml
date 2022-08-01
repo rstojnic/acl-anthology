@@ -32,6 +32,7 @@
       <url hash="5426303b">2021.blackboxnlp-1.1</url>
       <bibkey>prasad-etal-2021-extent</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="2">
@@ -295,6 +296,7 @@
       <bibkey>kanashiro-pereira-etal-2021-multi</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="24">
@@ -363,6 +365,7 @@
       <url hash="a23cb68d">2021.blackboxnlp-1.29</url>
       <bibkey>fayyaz-etal-2021-models</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
     </paper>
@@ -386,6 +389,7 @@
       <url hash="414cdedf">2021.blackboxnlp-1.31</url>
       <bibkey>thukral-etal-2021-probing</bibkey>
       <pwccode url="https://github.com/kunalkukreja21/temporal-expressions-evaluation-lm" additional="false">kunalkukreja21/temporal-expressions-evaluation-lm</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="32">
       <title>How Familiar Does That Sound? Cross-Lingual Representational Similarity Analysis of Acoustic Word Embeddings</title>
@@ -515,6 +519,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hellaswag">HellaSwag</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>

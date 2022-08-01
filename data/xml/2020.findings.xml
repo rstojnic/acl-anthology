@@ -688,6 +688,7 @@
       <bibkey>lalor-yu-2020-dynamic</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -1808,6 +1809,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -3813,6 +3815,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -5054,6 +5057,7 @@
       <pwccode url="https://github.com/bazingagin/IBA" additional="false">bazingagin/IBA</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="344">
       <title>Event-Related Bias Removal for Real-time Disaster Events</title>
@@ -5332,6 +5336,7 @@
       <revision id="2" href="2020.findings-emnlp.363v2" hash="c2c8d0b4" date="2021-05-03">Minor updates on tables.</revision>
       <bibkey>vashishtha-etal-2020-temporal</bibkey>
       <pwccode url="https://github.com/sidsvash26/temporal_nli" additional="false">sidsvash26/temporal_nli</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="364">
       <title>A Pilot Study of Text-to-<fixed-case>SQL</fixed-case> Semantic Parsing for <fixed-case>V</fixed-case>ietnamese</title>
@@ -5509,6 +5514,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.374</doi>
       <video tag="video" href="https://slideslive.com/38940037"/>
       <bibkey>koksal-etal-2020-turki</bibkey>
+      <pwccode url="https://github.com/atubakoksal/annotated_tweets" additional="false">atubakoksal/annotated_tweets</pwccode>
     </paper>
     <paper id="375">
       <title>Assessing Human-Parity in Machine Translation on the Segment Level</title>
@@ -6553,6 +6559,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.447</doi>
       <bibkey>he-etal-2020-enhancing</bibkey>
       <pwccode url="https://github.com/heqi2015/ca_gcn" additional="false">heqi2015/ca_gcn</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
   </volume>
 </collection>

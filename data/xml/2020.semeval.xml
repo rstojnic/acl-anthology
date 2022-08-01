@@ -2681,6 +2681,7 @@
       <url hash="008b3d7b">2020.semeval-1.221</url>
       <bibkey>yang-etal-2020-textlearner</bibkey>
       <doi>10.18653/v1/2020.semeval-1.221</doi>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="222">
       <title><fixed-case>T</fixed-case>ë<fixed-case>X</fixed-case>tmarkers at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2020 Task 10: Emphasis Selection with Agreement Dependent Crowd Layers</title>

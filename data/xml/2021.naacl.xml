@@ -772,6 +772,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/vitaminc">VitaminC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
     </paper>
     <paper id="53">
@@ -1038,6 +1039,7 @@
       <doi>10.18653/v1/2021.naacl-main.71</doi>
       <bibkey>du-etal-2021-towards</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="72">
       <title>On Attention Redundancy: A Comprehensive Study</title>
@@ -1092,6 +1094,7 @@
       <doi>10.18653/v1/2021.naacl-main.75</doi>
       <bibkey>pezeshkpour-etal-2021-empirical</bibkey>
       <pwccode url="https://github.com/successar/instance_attributions_NLP" additional="false">successar/instance_attributions_NLP</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="76">
@@ -1491,6 +1494,7 @@
       <bibkey>hosseini-etal-2021-understanding</bibkey>
       <pwccode url="https://github.com/arianhosseini/negation-learning" additional="false">arianhosseini/negation-learning</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/lama">LAMA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
     </paper>
@@ -1524,6 +1528,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cosmosqa">CosmosQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dream">DREAM</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
@@ -1770,6 +1775,7 @@
       <doi>10.18653/v1/2021.naacl-main.121</doi>
       <bibkey>kim-etal-2021-robust</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wizard-of-wikipedia">Wizard of Wikipedia</pwcdataset>
     </paper>
     <paper id="122">
@@ -1991,6 +1997,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -3050,6 +3057,7 @@
       <pwccode url="https://github.com/TevenLeScao/pet" additional="false">TevenLeScao/pet</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
@@ -5617,6 +5625,7 @@
       <url hash="2e42eeb8">2021.naacl-main.394</url>
       <doi>10.18653/v1/2021.naacl-main.394</doi>
       <bibkey>chakrabarty-etal-2021-entrust</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="395">
       <title>Paragraph-level Simplification of Medical Texts</title>
@@ -6064,6 +6073,7 @@
       <pwccode url="https://github.com/namisan/mt-dnn" additional="false">namisan/mt-dnn</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="425">
@@ -6935,6 +6945,7 @@
       <bibkey>goel-etal-2021-robustness</bibkey>
       <pwccode url="https://github.com/robustness-gym/robustness-gym" additional="true">robustness-gym/robustness-gym</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>

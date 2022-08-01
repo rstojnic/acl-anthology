@@ -2480,6 +2480,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptual-captions">Conceptual Captions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -6170,6 +6171,7 @@
       <bibkey>zhang-etal-2020-discriminative</bibkey>
       <pwccode url="https://github.com/salesforce/DNNC-few-shot-intent" additional="false">salesforce/DNNC-few-shot-intent</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/clinc150">CLINC150</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="412">
       <title>Simple Data Augmentation with the Mask Token Improves Domain Adaptation for Dialog Act Tagging</title>
@@ -9359,6 +9361,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/liar">LIAR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multifc">MultiFC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="624">
@@ -10649,6 +10652,7 @@
       <bibkey>lei-etal-2020-likely</bibkey>
       <pwccode url="https://github.com/jayleicn/VideoLanguageFuturePred" additional="false">jayleicn/VideoLanguageFuturePred</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/vlep">VLEP</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vlogs">Vlogs</pwcdataset>
     </paper>
     <paper id="707">
@@ -11063,6 +11067,7 @@
       <bibkey>li-etal-2020-sentence</bibkey>
       <pwccode url="https://github.com/bohanli/BERT-flow" additional="true">bohanli/BERT-flow</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
@@ -11082,6 +11087,7 @@
       <bibkey>nie-etal-2020-learn</bibkey>
       <pwccode url="https://github.com/easonnie/ChaosNLI" additional="false">easonnie/ChaosNLI</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/chaosnli">ChaosNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="735">

@@ -258,6 +258,7 @@
       <url hash="b5dee3ad">2021.conll-1.19</url>
       <bibkey>hartmann-etal-2021-multilingual</bibkey>
       <pwccode url="https://github.com/mahartmann/negationminpairs" additional="false">mahartmann/negationminpairs</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="20">
@@ -371,6 +372,7 @@
       <bibkey>parrish-etal-2021-nope</bibkey>
       <pwccode url="https://github.com/nyu-mll/nope" additional="false">nyu-mll/nope</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="29">

@@ -174,6 +174,7 @@
       <url hash="b534b2f5">2021.insights-1.14</url>
       <bibkey>chopard-etal-2021-learning</bibkey>
       <pwccode url="https://github.com/chopardda/ldas-nlp" additional="false">chopardda/ldas-nlp</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="15">
@@ -220,6 +221,7 @@
       <url hash="83213fb0">2021.insights-1.18</url>
       <bibkey>bhargava-etal-2021-generalization</bibkey>
       <pwccode url="https://github.com/prajjwal1/generalize_lm_nli" additional="false">prajjwal1/generalize_lm_nli</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="19">
       <title>Challenging the Semi-Supervised <fixed-case>VAE</fixed-case> Framework for Text Classification</title>
