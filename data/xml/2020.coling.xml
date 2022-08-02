@@ -2361,6 +2361,7 @@
       <url hash="c239ea4d">2020.coling-main.178</url>
       <doi>10.18653/v1/2020.coling-main.178</doi>
       <bibkey>mordido-meinel-2020-mark</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="179">
@@ -5582,6 +5583,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cmrc-2018">CMRC 2018</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/chid">ChID</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ocnli">OCNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>

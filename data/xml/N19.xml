@@ -1254,6 +1254,7 @@
       <doi>10.18653/v1/N19-1090</doi>
       <bibkey>hu-etal-2019-improved</bibkey>
       <pwccode url="https://github.com/awslabs/sockeye" additional="false">awslabs/sockeye</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="91">
       <title>Courteously Yours: Inducing courteous behavior in Customer Care responses using Reinforced Pointer Generator Network</title>
@@ -4785,6 +4786,7 @@
       <bibkey>chen-etal-2019-large</bibkey>
       <pwccode url="https://github.com/wenhuchen/Variational-Vocabulary-Selection" additional="false">wenhuchen/Variational-Vocabulary-Selection</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="353">
@@ -5756,6 +5758,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrqa-2019">MRQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/manytypes4typescript">ManyTypes4TypeScript</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ncbi-disease-1">NCBI Disease</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
@@ -6855,6 +6858,7 @@
       <doi>10.18653/v1/N19-5002</doi>
       <video href="https://vimeo.com/347430433" tag="video"/>
       <bibkey>bowman-zhu-2019-deep</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="3">
       <title>Measuring and Modeling Language Change</title>

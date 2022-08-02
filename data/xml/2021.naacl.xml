@@ -1248,6 +1248,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/bioasq">BioASQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrqa-2019">MRQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -2704,6 +2705,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/fewglue">FewGlue</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/record">ReCoRD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
@@ -5713,6 +5715,7 @@
       <pwccode url="https://github.com/cookielee77/CLARE" additional="false">cookielee77/CLARE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
     </paper>
     <paper id="401">

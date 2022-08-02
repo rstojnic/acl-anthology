@@ -191,6 +191,7 @@
       <pwccode url="https://github.com/nyu-mll/CNLI-generalization" additional="false">nyu-mll/CNLI-generalization</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="14">

@@ -567,6 +567,7 @@
       <pwccode url="https://github.com/kakaobrain/KorNLUDatasets" additional="true">kakaobrain/KorNLUDatasets</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/kornli">KorNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/korsts">KorSTS</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
@@ -912,6 +913,7 @@
       <pwccode url="https://github.com/google-research/google-research" additional="false">google-research/google-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -4223,6 +4225,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -4620,6 +4623,7 @@
       <pwccode url="https://github.com/ZeweiChu/WikiNLI" additional="false">ZeweiChu/WikiNLI</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
     <paper id="314">
@@ -4639,6 +4643,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/ocnli">OCNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/clue">CLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
@@ -4745,6 +4750,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.322</doi>
       <bibkey>goyal-durrett-2020-evaluating</bibkey>
       <pwccode url="https://github.com/tagoyal/dae-factuality" additional="false">tagoyal/dae-factuality</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="323">
       <title>Cross-Lingual Text Classification with Minimal Resources by Transferring a Sparse Teacher</title>
@@ -5020,6 +5026,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.341</doi>
       <bibkey>morris-etal-2020-reevaluating</bibkey>
       <pwccode url="https://github.com/QData/TextAttack" additional="true">QData/TextAttack</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="342">
@@ -5499,6 +5506,7 @@
       <video tag="video" href="https://slideslive.com/38940808"/>
       <bibkey>chan-etal-2020-poison</bibkey>
       <pwccode url="https://github.com/alvinchangw/CARA_EMNLP2020" additional="true">alvinchangw/CARA_EMNLP2020</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="374">
@@ -5792,6 +5800,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.394</doi>
       <video tag="video" href="https://slideslive.com/38940806"/>
       <bibkey>longpre-etal-2020-effective</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="395">
@@ -6063,6 +6072,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.414</doi>
       <bibkey>bostrom-durrett-2020-byte</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/celex">CELEX</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="415">
@@ -6144,6 +6154,7 @@
       <bibkey>deshpande-narasimhan-2020-guiding</bibkey>
       <pwccode url="https://github.com/ameet-1997/AttentionGuidance" additional="false">ameet-1997/AttentionGuidance</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
     </paper>
     <paper id="420">

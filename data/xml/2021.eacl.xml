@@ -3195,6 +3195,7 @@
       <doi>10.18653/v1/2021.eacl-main.238</doi>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="239">
@@ -3908,6 +3909,7 @@
       <url hash="3e94b141">2021.eacl-main.291</url>
       <bibkey>yaghoobzadeh-etal-2021-increasing</bibkey>
       <doi>10.18653/v1/2021.eacl-main.291</doi>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="292">
       <title>On Robustness of Neural Semantic Parsers</title>
@@ -4693,6 +4695,7 @@
       <doi>10.18653/v1/2021.eacl-demos.22</doi>
       <pwccode url="https://github.com/machamp-nlp/machamp" additional="true">machamp-nlp/machamp</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
@@ -4952,6 +4955,7 @@
       <bibkey>zhou-etal-2021-hulk</bibkey>
       <doi>10.18653/v1/2021.eacl-demos.39</doi>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
