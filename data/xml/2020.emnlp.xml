@@ -10950,7 +10950,7 @@
       <doi>10.18653/v1/2020.emnlp-main.724</doi>
       <video tag="video" href="https://slideslive.com/38938946"/>
       <bibkey>meng-etal-2020-text</bibkey>
-      <pwccode url="https://github.com/yumeng5/LOTClass" additional="false">yumeng5/LOTClass</pwccode>
+      <pwccode url="https://github.com/yumeng5/LOTClass" additional="true">yumeng5/LOTClass</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
