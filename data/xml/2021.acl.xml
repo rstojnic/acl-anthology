@@ -10524,6 +10524,7 @@
       <bibkey>liu-liu-2021-simcls</bibkey>
       <pwccode url="https://github.com/yixinL7/SimCLS" additional="true">yixinL7/SimCLS</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/xsum">XSum</pwcdataset>
     </paper>
     <paper id="136">
       <title><fixed-case>S</fixed-case>a<fixed-case>R</fixed-case>o<fixed-case>C</fixed-case>o: Detecting Satire in a Novel <fixed-case>R</fixed-case>omanian Corpus of News Articles</title>
