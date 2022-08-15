@@ -104,6 +104,7 @@
       <url hash="3e77a666">2021.acl-long.6</url>
       <doi>10.18653/v1/2021.acl-long.6</doi>
       <bibkey>xue-etal-2021-deeprapper</bibkey>
+      <pwccode url="https://github.com/microsoft/muzic/tree/main/deeprapper" additional="false">microsoft/muzic</pwccode>
     </paper>
     <paper id="7">
       <title><fixed-case>PENS</fixed-case>: A Dataset and Generic Framework for Personalized News Headline Generation</title>
