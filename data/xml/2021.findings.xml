@@ -10733,6 +10733,7 @@
       <abstract>This paper demonstrates that aggregating crowdsourced forecasts benefits from modeling the written justifications provided by forecasters. Our experiments show that the majority and weighted vote baselines are competitive, and that the written justifications are beneficial to call a question throughout its life except in the last quarter. We also conduct an error analysis shedding light into the characteristics that make a justification unreliable.</abstract>
       <url hash="337d31d9">2021.findings-emnlp.355</url>
       <bibkey>kotamraju-blanco-2021-written-justifications</bibkey>
+      <pwccode url="https://github.com/saketh12/forecasting_emnlp2021" additional="false">saketh12/forecasting_emnlp2021</pwccode>
     </paper>
     <paper id="356">
       <title>Cleaning Dirty Books: Post-<fixed-case>OCR</fixed-case> Processing for Previously Scanned Texts</title>
