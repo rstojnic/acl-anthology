@@ -480,6 +480,7 @@
       <url hash="45f59f8a">2021.findings-acl.35</url>
       <doi>10.18653/v1/2021.findings-acl.35</doi>
       <bibkey>wang-etal-2021-link</bibkey>
+      <pwccode url="https://github.com/PaddlePaddle/Research/tree/master/KG/ACL2021_GRAN" additional="false">PaddlePaddle/Research</pwccode>
     </paper>
     <paper id="36">
       <title><fixed-case>GLGE</fixed-case>: A New General Language Generation Evaluation Benchmark</title>
