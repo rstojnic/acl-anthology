@@ -4191,6 +4191,7 @@
       <url hash="1c61ed10">2021.emnlp-main.304</url>
       <bibkey>abbasi-etal-2021-constructing</bibkey>
       <pwccode url="https://github.com/nd-hal/fair-psych-nlp" additional="false">nd-hal/fair-psych-nlp</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/psychometric-nlp">Psychometric NLP</pwcdataset>
     </paper>
     <paper id="305">
       <title><fixed-case>COUGH</fixed-case>: A Challenge Dataset and Models for <fixed-case>COVID</fixed-case>-19 <fixed-case>FAQ</fixed-case> Retrieval</title>

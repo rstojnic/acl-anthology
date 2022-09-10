@@ -5102,6 +5102,7 @@
       <url hash="44a1a675">2021.naacl-main.356</url>
       <doi>10.18653/v1/2021.naacl-main.356</doi>
       <bibkey>lu-ng-2021-constrained</bibkey>
+      <pwccode url="https://github.com/samlee946/cmtl-event-coref" additional="false">samlee946/cmtl-event-coref</pwccode>
     </paper>
     <paper id="357">
       <title>Empirical Evaluation of Pre-trained Transformers for Human-Level <fixed-case>NLP</fixed-case>: The Role of Sample Size and Dimensionality</title>
