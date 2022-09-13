@@ -8396,6 +8396,7 @@
       <doi>10.18653/v1/2020.emnlp-main.558</doi>
       <video tag="video" href="https://slideslive.com/38938845"/>
       <bibkey>zhong-etal-2020-grounded</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/cosql">CoSQL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sparc">SParC</pwcdataset>
     </paper>
     <paper id="559">
