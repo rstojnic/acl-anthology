@@ -2461,6 +2461,7 @@
       <bibkey>patel-etal-2021-nlp</bibkey>
       <pwccode url="https://github.com/arkilpatel/SVAMP" additional="false">arkilpatel/SVAMP</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/svamp">SVAMP</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
     </paper>
     <paper id="169">

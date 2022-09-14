@@ -507,6 +507,9 @@
       <url hash="d81f0397">2020.coling-main.38</url>
       <doi>10.18653/v1/2020.coling-main.38</doi>
       <bibkey>ki-etal-2020-generating</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/alg514">ALG514</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/draw-1k">DRAW-1K</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>
     </paper>
     <paper id="39">
       <title>Improving Abstractive Dialogue Summarization with Graph Structures and Topic Words</title>

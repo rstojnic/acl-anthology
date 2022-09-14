@@ -3698,6 +3698,7 @@
       <abstract>The recent algorithms for math word problems (MWP) neglect to use outside knowledge not present in the problems. Most of them only capture the word-level relationship and ignore to build hierarchical reasoning like the human being for mining the contextual structure between words and sentences. In this paper, we propose a <b>R</b>easoning with <b>P</b>re-trained <b>K</b>nowledge and <b>H</b>ierarchical <b>S</b>tructure (<b>RPKHS</b>) network, which contains a pre-trained knowledge encoder and a hierarchical reasoning encoder. Firstly, our pre-trained knowledge encoder aims at reasoning the MWP by using outside knowledge from the pre-trained transformer-based models. Secondly, the hierarchical reasoning encoder is presented for seamlessly integrating the word-level and sentence-level reasoning to bridge the entity and context domain on MWP. Extensive experiments show that our RPKHS significantly outperforms state-of-the-art approaches on two large-scale commonly-used datasets, and boosts performance from 77.4% to 83.9% on Math23K, from 75.5 to 82.2% on Math23K with 5-fold cross-validation and from 83.7% to 89.8% on MAWPS. More extensive ablations are shown to demonstrate the effectiveness and interpretability of our proposed method.</abstract>
       <url hash="877db22b">2021.emnlp-main.272</url>
       <bibkey>yu-etal-2021-improving</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
     </paper>
     <paper id="273">
@@ -4433,6 +4434,7 @@
       <abstract>As an important task in opinion mining, comparative opinion mining aims to identify comparative sentences from product reviews, extract the comparative elements, and obtain the corresponding comparative opinion tuples. However, most previous studies simply regarded comparative tuple extraction as comparative element extraction, but ignored the fact that many comparative sentences may contain multiple comparisons. The comparative opinion tuples defined in these studies also failed to explicitly provide comparative preferences. To address these limitations, in this work we first introduce a new Comparative Opinion Quintuple Extraction (COQE) task, to identify comparative sentences from product reviews and extract all comparative opinion quintuples (Subject, Object, Comparative Aspect, Comparative Opinion, Comparative Preference). Secondly, based on the existing comparative opinion mining corpora, we make supplementary annotations and construct three datasets for the COQE task. Finally, we benchmark the COQE task by proposing a new BERT-based multi-stage approach as well as three baseline systems extended from previous methods. %The new approach significantly outperforms three baseline systems on three datasets and represents a strong benchmark for COQE. Experimental results show that the new approach significantly outperforms three baseline systems on three datasets for the COQE task.</abstract>
       <url hash="86a9c3ec">2021.emnlp-main.322</url>
       <bibkey>liu-etal-2021-comparative</bibkey>
+      <pwccode url="https://github.com/nustm/coqe" additional="false">nustm/coqe</pwccode>
     </paper>
     <paper id="323">
       <title><fixed-case>CTAL</fixed-case>: Pre-training Cross-modal Transformer for Audio-and-Language Representations</title>
@@ -4798,6 +4800,7 @@
       <url hash="170b9494">2021.emnlp-main.348</url>
       <bibkey>liu-etal-2021-mathematical</bibkey>
       <pwccode url="https://github.com/tal-ai/make_emnlp2021" additional="false">tal-ai/make_emnlp2021</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mathqa">MathQA</pwcdataset>
     </paper>
     <paper id="349">
@@ -6621,6 +6624,7 @@
       <abstract>We study the problem of generating arithmetic math word problems (MWPs) given a math equation that specifies the mathematical computation and a context that specifies the problem scenario. Existing approaches are prone to generating MWPs that are either mathematically invalid or have unsatisfactory language quality. They also either ignore the context or require manual specification of a problem template, which compromises the diversity of the generated MWPs. In this paper, we develop a novel MWP generation approach that leverages i) pre-trained language models and a context keyword selection model to improve the language quality of generated MWPs and ii) an equation consistency constraint for math equations to improve the mathematical validity of the generated MWPs. Extensive quantitative and qualitative experiments on three real-world MWP datasets demonstrate the superior performance of our approach compared to various baselines.</abstract>
       <url hash="c7ab2234">2021.emnlp-main.484</url>
       <bibkey>wang-etal-2021-math</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mathqa">MathQA</pwcdataset>
     </paper>

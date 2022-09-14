@@ -7792,6 +7792,7 @@
       <url hash="47224e14">2021.findings-emnlp.127</url>
       <bibkey>wu-etal-2021-edge-enhanced</bibkey>
       <pwccode url="https://github.com/qinzhuowu/eeh_g2t" additional="false">qinzhuowu/eeh_g2t</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
     </paper>
     <paper id="128">
@@ -8662,6 +8663,7 @@
       <abstract>Math word problem (MWP) is a challenging and critical task in natural language processing. Many recent studies formalize MWP as a generation task and have adopted sequence-to-sequence models to transform problem descriptions to mathematical expressions. However, mathematical expressions are prone to minor mistakes while the generation objective does not explicitly handle such mistakes. To address this limitation, we devise a new ranking task for MWP and propose Generate &amp; Rank, a multi-task framework based on a generative pre-trained language model. By joint training with generation and ranking, the model learns from its own mistakes and is able to distinguish between correct and incorrect expressions. Meanwhile, we perform tree-based disturbance specially designed for MWP and an online update to boost the ranker. We demonstrate the effectiveness of our proposed method on the benchmark and the results show that our method consistently outperforms baselines in all datasets. Particularly, in the classical Math23k, our method is 7% (78.4% to 85.4%) higher than the state-of-the-art. Code could be found at https://github.com/huawei-noah/noah-research.</abstract>
       <url hash="611db98e">2021.findings-emnlp.195</url>
       <bibkey>shen-etal-2021-generate-rank</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
     </paper>
     <paper id="196">
@@ -9109,6 +9111,7 @@
       <url hash="8a390b06">2021.findings-emnlp.230</url>
       <bibkey>kumar-etal-2021-adversarial-examples</bibkey>
       <pwccode url="https://github.com/kevivk/mwp_adversarial" additional="false">kevivk/mwp_adversarial</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>
     </paper>
     <paper id="231">
       <title>Improving Numerical Reasoning Skills in the Modular Approach for Complex Question Answering on Text</title>
@@ -10678,6 +10681,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/math23k">Math23K</pwcdataset>
     </paper>
     <paper id="351">
