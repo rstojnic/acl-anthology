@@ -2130,6 +2130,7 @@
       <bibkey>dai-etal-2021-ultra</bibkey>
       <pwccode url="https://github.com/HKUST-KnowComp/MLMET" additional="false">HKUST-KnowComp/MLMET</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/open-entity-1">Open Entity</pwcdataset>
     </paper>
     <paper id="142">
       <title>Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning</title>
@@ -2412,6 +2413,7 @@
       <bibkey>onoe-etal-2021-modeling</bibkey>
       <pwccode url="https://github.com/yasumasaonoe/Box4Types" additional="false">yasumasaonoe/Box4Types</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/figer">FIGER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/open-entity-1">Open Entity</pwcdataset>
     </paper>
     <paper id="161">
       <title><fixed-case>C</fixed-case>hinese<fixed-case>BERT</fixed-case>: <fixed-case>C</fixed-case>hinese Pretraining Enhanced by Glyph and <fixed-case>P</fixed-case>inyin Information</title>
