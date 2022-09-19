@@ -448,7 +448,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03bd4c14">2021.findings-acl.32.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.32</doi>
       <bibkey>gritta-iacobacci-2021-xeroalign</bibkey>
-      <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/xero_align" additional="true">huawei-noah/noah-research</pwccode>
+      <pwccode url="https://github.com/huawei-noah/noah-research" additional="true">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
@@ -7666,7 +7666,6 @@
       <abstract>Although abstractive summarization models have achieved impressive results on document summarization tasks, their performance on dialogue modeling is much less satisfactory due to the crude and straight methods for dialogue encoding. To address this question, we propose a novel end-to-end Transformer-based model FinDS for abstractive dialogue summarization that leverages Finer-grain universal Dialogue semantic Structures to model dialogue and generates better summaries. Experiments on the SAMsum dataset show that FinDS outperforms various dialogue summarization approaches and achieves new state-of-the-art (SOTA) ROUGE results. Finally, we apply FinDS to a more complex scenario, showing the robustness of our model. We also release our source code.</abstract>
       <url hash="fc2b4cfb">2021.findings-emnlp.117</url>
       <bibkey>lei-etal-2021-finer-grain</bibkey>
-      <pwccode url="https://github.com/apexmeister/finds" additional="false">apexmeister/finds</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
     </paper>
     <paper id="118">

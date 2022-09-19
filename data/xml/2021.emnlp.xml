@@ -1959,7 +1959,7 @@
       <abstract>In this work, we focus on a more challenging few-shot intent detection scenario where many intents are fine-grained and semantically similar. We present a simple yet effective few-shot intent detection schema via contrastive pre-training and fine-tuning. Specifically, we first conduct self-supervised contrastive pre-training on collected intent datasets, which implicitly learns to discriminate semantically similar utterances without using any labels. We then perform few-shot intent detection together with supervised contrastive learning, which explicitly pulls utterances from the same intent closer and pushes utterances across different intents farther. Experimental results show that our proposed method achieves state-of-the-art performance on three challenging intent detection datasets under 5-shot and 10-shot settings.</abstract>
       <url hash="35bcd944">2021.emnlp-main.144</url>
       <bibkey>zhang-etal-2021-shot</bibkey>
-      <pwccode url="https://github.com/jianguoz/Few-Shot-Intent-Detection" additional="false">jianguoz/Few-Shot-Intent-Detection</pwccode>
+      <pwccode url="https://github.com/jianguoz/Few-Shot-Intent-Detection" additional="true">jianguoz/Few-Shot-Intent-Detection</pwccode>
     </paper>
     <paper id="145">
       <title>“It doesn’t look good for a date”: Transforming Critiques into Preferences for Conversational Recommendation Systems</title>
