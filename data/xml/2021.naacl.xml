@@ -6593,7 +6593,6 @@
       <doi>10.18653/v1/2021.naacl-main.459</doi>
       <bibkey>gupta-etal-2021-training</bibkey>
       <pwccode url="https://github.com/shruikan20/spoken-tutorial-dataset" additional="false">shruikan20/spoken-tutorial-dataset</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/phinc">PHINC</pwcdataset>
     </paper>
     <paper id="460">
       <title>Rethinking Perturbations in Encoder-Decoders for Fast Training</title>
