@@ -1434,6 +1434,7 @@
       <bibkey>held-etal-2021-focus</bibkey>
       <pwccode url="https://github.com/helw150/event_entity_coref_ecb_plus" additional="false">helw150/event_entity_coref_ecb_plus</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ecb">ECB+</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/gun-violence-corpus">Gun Violence Corpus</pwcdataset>
     </paper>
     <paper id="107">
       <title>Salience-Aware Event Chain Modeling for Narrative Understanding</title>

@@ -9020,6 +9020,7 @@
       <doi>10.18653/v1/2020.acl-main.608</doi>
       <video tag="video" href="http://slideslive.com/38929390"/>
       <bibkey>cao-etal-2020-unsupervised-dual</bibkey>
+      <pwccode url="https://github.com/rhythmcao/unsup-two-stage-semantic-parsing" additional="false">rhythmcao/unsup-two-stage-semantic-parsing</pwccode>
     </paper>
     <paper id="609">
       <title><fixed-case>DRTS</fixed-case> Parsing with Structure-Aware Encoding and Decoding</title>
