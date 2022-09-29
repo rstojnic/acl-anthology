@@ -3386,6 +3386,7 @@
       <bibkey>li-etal-2021-kfolden</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reuters-21578">Reuters-21578</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
     </paper>
     <paper id="249">
       <title>Frustratingly Simple Pretraining Alternatives to Masked Language Modeling</title>
@@ -8391,6 +8392,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/gmeg-wiki">GMEG-wiki</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/gmeg-yahoo">GMEG-yahoo</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/locness-corpus">WI-LOCNESS</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
     </paper>
     <paper id="612">
       <title>Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation</title>
