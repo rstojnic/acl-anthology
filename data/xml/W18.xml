@@ -10107,8 +10107,6 @@
       <doi>10.18653/v1/W18-5446</doi>
       <bibkey>wang-etal-2018-glue</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>

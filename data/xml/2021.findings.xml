@@ -5420,7 +5420,7 @@
       <url hash="bf2bb1c4">2021.findings-acl.408</url>
       <doi>10.18653/v1/2021.findings-acl.408</doi>
       <bibkey>maheshwari-etal-2021-semi</bibkey>
-      <pwccode url="https://github.com/ayushbits/Semi-Supervised-LFs-Subset-Selection" additional="true">ayushbits/Semi-Supervised-LFs-Subset-Selection</pwccode>
+      <pwccode url="https://github.com/ayushbits/Semi-Supervised-LFs-Subset-Selection" additional="false">ayushbits/Semi-Supervised-LFs-Subset-Selection</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/trec-05">TREC-05</pwcdataset>
     </paper>
     <paper id="409">
@@ -5787,7 +5787,7 @@
       <url hash="990bcbb2">2021.findings-acl.436</url>
       <doi>10.18653/v1/2021.findings-acl.436</doi>
       <bibkey>sahay-etal-2021-rule</bibkey>
-      <pwccode url="https://github.com/anshuln/Diora_with_rules" additional="true">anshuln/Diora_with_rules</pwccode>
+      <pwccode url="https://github.com/anshuln/Diora_with_rules" additional="false">anshuln/Diora_with_rules</pwccode>
     </paper>
     <paper id="437">
       <title>Are Multilingual Models the Best Choice for Moderately Under-resourced Languages? <fixed-case>A</fixed-case> Comprehensive Assessment for <fixed-case>C</fixed-case>atalan</title>
