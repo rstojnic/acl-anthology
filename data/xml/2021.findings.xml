@@ -448,7 +448,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03bd4c14">2021.findings-acl.32.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.32</doi>
       <bibkey>gritta-iacobacci-2021-xeroalign</bibkey>
-      <pwccode url="https://github.com/huawei-noah/noah-research" additional="true">huawei-noah/noah-research</pwccode>
+      <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/xero_align" additional="true">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
@@ -3541,6 +3541,7 @@
       <url hash="6ca018c9">2021.findings-acl.261</url>
       <doi>10.18653/v1/2021.findings-acl.261</doi>
       <bibkey>baziotis-etal-2021-exploring</bibkey>
+      <pwccode url="https://github.com/cbaziotis/nmt-pretraining-objectives" additional="false">cbaziotis/nmt-pretraining-objectives</pwccode>
     </paper>
     <paper id="262">
       <title>Knowledge-Grounded Dialogue Generation with Term-level De-noising</title>
@@ -4659,6 +4660,7 @@
       <url hash="e67c95f2">2021.findings-acl.348</url>
       <doi>10.18653/v1/2021.findings-acl.348</doi>
       <bibkey>turcan-etal-2021-multi</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ecpe-xia-and-ding-2019">Xia and Ding, 2019</pwcdataset>
     </paper>
     <paper id="349">
       <title>The Utility and Interplay of Gazetteers and Entity Segmentation for Named Entity Recognition in <fixed-case>E</fixed-case>nglish</title>
@@ -6781,6 +6783,7 @@
       <abstract>Emotion cause extraction (ECE) aims to extract the causes behind the certain emotion in text. Some works related to the ECE task have been published and attracted lots of attention in recent years. However, these methods neglect two major issues: 1) pay few attentions to the effect of document-level context information on ECE, and 2) lack of sufficient exploration for how to effectively use the annotated emotion clause. For the first issue, we propose a bidirectional hierarchical attention network (BHA) corresponding to the specified candidate cause clause to capture the document-level context in a structured and dynamic manner. For the second issue, we design an emotional filtering module (EF) for each layer of the graph attention network, which calculates a gate score based on the emotion clause to filter the irrelevant information. Combining the BHA and EF, the EF-BHA can dynamically aggregate the contextual information from two directions and filters irrelevant information. The experimental results demonstrate that EF-BHA achieves the competitive performances on two public datasets in different languages (Chinese and English). Moreover, we quantify the effect of context on emotion cause extraction and provide the visualization of the interactions between candidate cause clauses and contexts.</abstract>
       <url hash="908d7580">2021.findings-emnlp.51</url>
       <bibkey>hu-etal-2021-bidirectional-hierarchical</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ecpe-xia-and-ding-2019">Xia and Ding, 2019</pwcdataset>
     </paper>
     <paper id="52">
       <title>Distantly Supervised Relation Extraction in Federated Settings</title>

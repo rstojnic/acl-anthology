@@ -2306,6 +2306,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/emocause">EmoCause</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/empatheticdialogues">EmpatheticDialogues</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reccon">RECCON</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ecpe-xia-and-ding-2019">Xia and Ding, 2019</pwcdataset>
     </paper>
     <paper id="171">
       <title>Generation and Extraction Combined Dialogue State Tracking with Hierarchical Ontology Integration</title>
