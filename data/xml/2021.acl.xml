@@ -4198,6 +4198,7 @@
       <doi>10.18653/v1/2021.acl-long.274</doi>
       <bibkey>xu-etal-2021-document</bibkey>
       <pwccode url="https://github.com/RunxinXu/GIT" additional="true">RunxinXu/GIT</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/chfinann">ChFinAnn</pwcdataset>
     </paper>
     <paper id="275">
       <title>Nested Named Entity Recognition via Explicitly Excluding the Influence of the Best Path</title>

@@ -3423,7 +3423,6 @@
       <doi>10.18653/v1/N18-2050</doi>
       <bibkey>wang-etal-2018-bi</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/office-31">Office-31</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snips">SNIPS</pwcdataset>
     </paper>
     <paper id="51">
