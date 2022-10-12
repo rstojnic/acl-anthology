@@ -7299,7 +7299,7 @@
       <url hash="6756d039">2021.acl-long.482</url>
       <doi>10.18653/v1/2021.acl-long.482</doi>
       <bibkey>li-etal-2021-bertifying</bibkey>
-      <pwccode url="https://github.com/Yinghao-Li/CHMM-ALT" additional="false">Yinghao-Li/CHMM-ALT</pwccode>
+      <pwccode url="https://github.com/Yinghao-Li/CHMM-ALT" additional="true">Yinghao-Li/CHMM-ALT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/bc5cdr">BC5CDR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ncbi-disease-1">NCBI Disease</pwcdataset>
