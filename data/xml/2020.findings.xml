@@ -1888,7 +1888,7 @@
       <url hash="35e35de2">2020.findings-emnlp.128</url>
       <doi>10.18653/v1/2020.findings-emnlp.128</doi>
       <bibkey>qi-etal-2020-privacy</bibkey>
-      <pwccode url="https://github.com/JulySinceAndrew/FedNewsRec-EMNLP-Findings-2020" additional="false">JulySinceAndrew/FedNewsRec-EMNLP-Findings-2020</pwccode>
+      <pwccode url="https://github.com/JulySinceAndrew/FedNewsRec-EMNLP-Findings-2020" additional="true">JulySinceAndrew/FedNewsRec-EMNLP-Findings-2020</pwccode>
     </paper>
     <paper id="129">
       <title>ex<fixed-case>BERT</fixed-case>: Extending Pre-trained Models with Domain-specific Vocabulary Under Constrained Training Resources</title>
