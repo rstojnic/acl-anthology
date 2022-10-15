@@ -7284,7 +7284,6 @@
       <url hash="948bbd2a">2021.acl-long.481</url>
       <doi>10.18653/v1/2021.acl-long.481</doi>
       <bibkey>seo-etal-2021-attend</bibkey>
-      <pwccode url="https://github.com/ahjeongseo/MASN-pytorch" additional="false">ahjeongseo/MASN-pytorch</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
     <paper id="482">
