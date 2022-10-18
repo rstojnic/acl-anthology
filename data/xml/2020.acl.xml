@@ -10145,6 +10145,7 @@
       <video tag="video" href="http://slideslive.com/38928706"/>
       <bibkey>wang-etal-2020-hat</bibkey>
       <pwccode url="https://github.com/mit-han-lab/hardware-aware-transformers" additional="true">mit-han-lab/hardware-aware-transformers</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
     </paper>
     <paper id="687">
       <title>Hard-Coded <fixed-case>G</fixed-case>aussian Attention for Neural Machine Translation</title>

@@ -6230,6 +6230,7 @@
       <doi>10.18653/v1/2020.emnlp-main.414</doi>
       <video tag="video" href="https://slideslive.com/38938795"/>
       <bibkey>einolghozati-etal-2020-sound</bibkey>
+      <pwccode url="https://huggingface.co/datasets/facebook/content_rephrasing" additional="false">facebook/content_rephrasing</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/message-content-rephrasing">Message Content Rephrasing</pwcdataset>
     </paper>
     <paper id="415">
