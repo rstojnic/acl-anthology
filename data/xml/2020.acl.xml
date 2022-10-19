@@ -2863,6 +2863,7 @@
       <video tag="video" href="http://slideslive.com/38928769"/>
       <bibkey>sun-etal-2020-mobilebert</bibkey>
       <pwccode url="https://github.com/tensorflow/models/tree/master/official/nlp/projects/mobilebert" additional="true">tensorflow/models</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>

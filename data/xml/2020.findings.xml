@@ -4293,6 +4293,10 @@
       <doi>10.18653/v1/2020.findings-emnlp.290</doi>
       <bibkey>chen-etal-2020-multilingual</bibkey>
       <pwccode url="https://github.com/stasl0217/KEnS" additional="false">stasl0217/KEnS</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/dbp-5l-english">DBP-5L (English)</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/dbp-5l">DBP-5L (Greek)</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/dbp-5l-spanish">DBP-5L (Spanish)</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/dpb-5l-french">DPB-5L (French)</pwcdataset>
     </paper>
     <paper id="291">
       <title>Towards <fixed-case>C</fixed-case>ontrollable <fixed-case>B</fixed-case>iases in <fixed-case>L</fixed-case>anguage <fixed-case>G</fixed-case>eneration</title>
