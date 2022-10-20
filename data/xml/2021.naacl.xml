@@ -674,6 +674,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/medqa-usmle">MedQA-USMLE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/riddle-sense">Riddle Sense</pwcdataset>
     </paper>
     <paper id="46">
       <title><fixed-case>XOR</fixed-case> <fixed-case>QA</fixed-case>: Cross-lingual Open-Retrieval Question Answering</title>

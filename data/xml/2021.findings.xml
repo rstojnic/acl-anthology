@@ -1838,6 +1838,7 @@
       <url hash="4c8012e1">2021.findings-acl.131</url>
       <doi>10.18653/v1/2021.findings-acl.131</doi>
       <bibkey>lin-etal-2021-riddlesense</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/riddle-sense">Riddle Sense</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
     </paper>
@@ -9059,6 +9060,7 @@
       <pwccode url="https://github.com/aviclu/cdlm" additional="true">aviclu/cdlm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ecb">ECB+</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi-news">Multi-News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/oc">OC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/s2orc">S2ORC</pwcdataset>
     </paper>
     <paper id="226">
