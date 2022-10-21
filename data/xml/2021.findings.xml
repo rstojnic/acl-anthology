@@ -1979,6 +1979,7 @@
       <doi>10.18653/v1/2021.findings-acl.141</doi>
       <bibkey>keller-etal-2021-bert</bibkey>
       <pwccode url="https://github.com/yannikkellerde/BERT-Defense" additional="false">yannikkellerde/BERT-Defense</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="142">
       <title>Event Detection as Graph Parsing</title>
@@ -2071,6 +2072,7 @@
       <doi>10.18653/v1/2021.findings-acl.148</doi>
       <bibkey>qiu-etal-2021-improving</bibkey>
       <pwccode url="https://github.com/FFYYang/CARL_RAR" additional="false">FFYYang/CARL_RAR</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="149">
@@ -3602,6 +3604,7 @@
       <bibkey>alghanmi-etal-2021-probing</bibkey>
       <pwccode url="https://github.com/israa-alghanmi/DisKnE" additional="false">israa-alghanmi/DisKnE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/diskne">DisKnE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="267">
       <title><fixed-case>A</fixed-case>ug<fixed-case>V</fixed-case>ic: Exploiting <fixed-case>B</fixed-case>i<fixed-case>T</fixed-case>ext Vicinity for Low-Resource <fixed-case>NMT</fixed-case></title>
@@ -4455,6 +4458,7 @@
       <doi>10.18653/v1/2021.findings-acl.334</doi>
       <bibkey>zhong-etal-2021-larger</bibkey>
       <pwccode url="https://github.com/ruiqi-zhong/acl2021-instance-level" additional="false">ruiqi-zhong/acl2021-instance-level</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="335">
@@ -5269,6 +5273,7 @@
       <doi>10.18653/v1/2021.findings-acl.395</doi>
       <bibkey>kumar-talukdar-2021-reordering</bibkey>
       <pwccode url="https://github.com/SawanKumar28/pero" additional="false">SawanKumar28/pero</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="396">
@@ -11015,6 +11020,7 @@
       <abstract>This paper presents a neural framework of untied independent modules, used here for integrating off the shelf knowledge sources such as language models, lexica, POS information, and dependency relations. Each knowledge source is implemented as an independent component that can interact and share information with other knowledge sources. We report proof of concept experiments for several standard sentiment analysis tasks and show that the knowledge sources interoperate effectively without interference. As a second use-case, we show that the proposed framework is suitable for optimizing BERT-like language models even without the help of external knowledge sources. We cast each Transformer layer as a separate module and demonstrate performance improvements from this explicit integration of the different information encoded at the different Transformer layers .</abstract>
       <url hash="752a324c">2021.findings-emnlp.376</url>
       <bibkey>bagherzadeh-bergler-2021-competing-independent</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="377">

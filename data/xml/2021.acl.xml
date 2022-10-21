@@ -7950,6 +7950,7 @@
       <doi>10.18653/v1/2021.acl-long.523</doi>
       <bibkey>wu-etal-2021-polyjuice</bibkey>
       <pwccode url="https://github.com/tongshuangwu/polyjuice" additional="false">tongshuangwu/polyjuice</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -11316,6 +11317,7 @@
       <doi>10.18653/v1/2021.acl-demo.16</doi>
       <bibkey>wang-etal-2021-dodrio</bibkey>
       <pwccode url="https://github.com/poloclub/dodrio" additional="false">poloclub/dodrio</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>

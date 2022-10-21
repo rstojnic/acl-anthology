@@ -5618,6 +5618,7 @@
       <bibkey>krishna-etal-2021-hurdles</bibkey>
       <pwccode url="https://github.com/martiansideofthemoon/hurdles-longform-qa" additional="false">martiansideofthemoon/hurdles-longform-qa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/eli5">ELI5</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/kilt">KILT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pg-19">PG-19</pwcdataset>
@@ -6180,6 +6181,7 @@
       <doi>10.18653/v1/2021.naacl-main.430</doi>
       <bibkey>zhang-etal-2021-neural</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -7487,6 +7489,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/trec-covid">TREC-COVID</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webquestions">WebQuestions</pwcdataset>
     </paper>
