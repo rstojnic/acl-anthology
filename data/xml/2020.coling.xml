@@ -6959,6 +6959,7 @@
       <doi>10.18653/v1/2020.coling-main.522</doi>
       <bibkey>zhai-etal-2020-detecting</bibkey>
       <pwccode url="https://github.com/yumingzhai/nlt_xlm" additional="false">yumingzhai/nlt_xlm</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
     <paper id="523">

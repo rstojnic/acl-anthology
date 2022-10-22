@@ -3146,6 +3146,8 @@
       <doi>10.18653/v1/2020.emnlp-main.206</doi>
       <video tag="video" href="https://slideslive.com/38939061"/>
       <bibkey>iranzo-sanchez-etal-2020-direct</bibkey>
+      <pwccode url="https://github.com/jairsan/speech_translation_segmenter" additional="false">jairsan/speech_translation_segmenter</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/europarl-st">Europarl-ST</pwcdataset>
     </paper>
     <paper id="207">
       <title>Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for <fixed-case>B</fixed-case>engali-<fixed-case>E</fixed-case>nglish Machine Translation</title>

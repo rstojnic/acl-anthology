@@ -653,6 +653,7 @@
       <doi>10.18653/v1/D18-1045</doi>
       <bibkey>edunov-etal-2018-understanding</bibkey>
       <pwccode url="https://github.com/pytorch/fairseq" additional="true">pytorch/fairseq</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
     </paper>
     <paper id="46">
@@ -5455,6 +5456,7 @@
       <video href="https://vimeo.com/306147573" tag="video"/>
       <doi>10.18653/v1/D18-1398</doi>
       <bibkey>gu-etal-2018-meta</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
     </paper>
     <paper id="399">
       <title>Unsupervised Statistical Machine Translation</title>
@@ -5468,6 +5470,7 @@
       <doi>10.18653/v1/D18-1399</doi>
       <bibkey>artetxe-etal-2018-unsupervised</bibkey>
       <pwccode url="https://github.com/artetxem/vecmap" additional="true">artetxem/vecmap</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
