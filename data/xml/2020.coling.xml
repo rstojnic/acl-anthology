@@ -6109,7 +6109,7 @@
       <url hash="7004313a">2020.coling-main.459</url>
       <doi>10.18653/v1/2020.coling-main.459</doi>
       <bibkey>kalouli-etal-2020-hy</bibkey>
-      <pwccode url="https://github.com/kkalouli/hy-nli" additional="true">kkalouli/hy-nli</pwccode>
+      <pwccode url="https://github.com/kkalouli/gkr4nli" additional="true">kkalouli/gkr4nli</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
