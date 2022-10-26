@@ -2459,7 +2459,7 @@
       <doi>10.18653/v1/2020.emnlp-main.161</doi>
       <video tag="video" href="https://slideslive.com/38939211"/>
       <bibkey>li-etal-2020-hero</bibkey>
-      <pwccode url="https://github.com/linjieli222/HERO" additional="false">linjieli222/HERO</pwccode>
+      <pwccode url="https://github.com/linjieli222/HERO" additional="true">linjieli222/HERO</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/how2qa">How2QA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/how2r">How2R</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/didemo">DiDeMo</pwcdataset>
