@@ -1882,6 +1882,8 @@
       <url hash="6904f81f">2021.naacl-main.128</url>
       <doi>10.18653/v1/2021.naacl-main.128</doi>
       <bibkey>nguyen-etal-2021-rst</bibkey>
+      <pwccode url="https://github.com/tungngthanh/rst_parser" additional="false">tungngthanh/rst_parser</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/rst-dt">RST-DT</pwcdataset>
     </paper>
     <paper id="129">
       <title>Did they answer? Subjective acts and intents in conversational discourse</title>
