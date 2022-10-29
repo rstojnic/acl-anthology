@@ -6572,6 +6572,7 @@
       <bibkey>long-etal-2021-generative</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k-1">Multi30k</pwcdataset>
     </paper>
     <paper id="458">
       <title>Non-Autoregressive Translation by Learning Target Categorical Codes</title>

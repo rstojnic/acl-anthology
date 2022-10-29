@@ -5868,6 +5868,7 @@
       <doi>10.18653/v1/2020.acl-main.400</doi>
       <video tag="video" href="http://slideslive.com/38929440"/>
       <bibkey>yao-wan-2020-multimodal</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k-1">Multi30k</pwcdataset>
     </paper>
     <paper id="401">
       <title>Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis</title>

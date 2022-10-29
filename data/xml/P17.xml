@@ -2478,6 +2478,7 @@ two word-vectors results in a vector that is only a small angle away from the ve
       <bibkey>calixto-etal-2017-doubly</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k-1">Multi30k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2015">WMT 2015</pwcdataset>
     </paper>
     <paper id="176">
