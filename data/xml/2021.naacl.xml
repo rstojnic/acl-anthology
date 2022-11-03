@@ -5664,6 +5664,7 @@
       <url hash="29fd6db8">2021.naacl-main.396</url>
       <doi>10.18653/v1/2021.naacl-main.396</doi>
       <bibkey>meng-etal-2021-empirical</bibkey>
+      <pwccode url="https://github.com/memray/OpenNMT-kpg-release" additional="false">memray/OpenNMT-kpg-release</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/kp20k">KP20k</pwcdataset>
     </paper>
     <paper id="397">

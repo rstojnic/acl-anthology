@@ -5553,6 +5553,7 @@
       <url hash="8c222adc">2021.emnlp-main.404</url>
       <bibkey>lee-etal-2021-dialogue</bibkey>
       <pwccode url="https://github.com/chiahsuan156/dst-as-prompting" additional="false">chiahsuan156/dst-as-prompting</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multiwoz">MultiWOZ</pwcdataset>
     </paper>
     <paper id="405">
       <title>Signed Coreference Resolution</title>
@@ -11071,7 +11072,11 @@
       <abstract>This paper examines the challenging problem of learning representations of entities and relations in a complex multi-relational knowledge graph. We propose HittER, a Hierarchical Transformer model to jointly learn Entity-relation composition and Relational contextualization based on a source entity’s neighborhood. Our proposed model consists of two different Transformer blocks: the bottom block extracts features of each entity-relation pair in the local neighborhood of the source entity and the top block aggregates the relational information from outputs of the bottom block. We further design a masked entity prediction task to balance information from the relational context and the source entity itself. Experimental results show that HittER achieves new state-of-the-art results on multiple link prediction datasets. We additionally propose a simple approach to integrate HittER into BERT and demonstrate its effectiveness on two Freebase factoid question answering datasets.</abstract>
       <url hash="0ac9e4fe">2021.emnlp-main.812</url>
       <bibkey>chen-etal-2021-hitter</bibkey>
+      <pwccode url="" additional="true"/>
+      <pwcdataset url="https://paperswithcode.com/dataset/fb15k">FB15k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fb15k-237">FB15k-237</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
     </paper>
     <paper id="813">
       <title>Few-Shot Named Entity Recognition: An Empirical Baseline Study</title>
