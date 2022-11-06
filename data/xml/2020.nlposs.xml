@@ -186,7 +186,7 @@
       <doi>10.18653/v1/2020.nlposs-1.13</doi>
       <video tag="video" href="https://slideslive.com/38939752"/>
       <bibkey>rueter-etal-2020-open</bibkey>
-      <pwccode url="https://github.com/giellalt/lang-myv" additional="true">giellalt/lang-myv</pwccode>
+      <pwccode url="https://github.com/giellalt/lang-mdf" additional="true">giellalt/lang-mdf</pwccode>
     </paper>
     <paper id="14">
       <title>Pimlico: A toolkit for corpus-processing pipelines and reproducible experiments</title>

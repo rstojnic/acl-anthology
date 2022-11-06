@@ -176,7 +176,6 @@
       <url hash="c19a04c3">2021.conll-1.13</url>
       <bibkey>devillers-etal-2021-language</bibkey>
       <pwccode url="https://github.com/bdvllrs/generalization-vision" additional="false">bdvllrs/generalization-vision</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/cifar-10">CIFAR-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cifar-100">CIFAR-100</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cub-200-2011">CUB-200-2011</pwcdataset>
