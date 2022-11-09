@@ -2480,6 +2480,7 @@
       <url hash="3c0b54d8">N18-1182</url>
       <doi>10.18653/v1/N18-1182</doi>
       <bibkey>amiri-etal-2018-spotting</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/cifar-10">CIFAR-10</pwcdataset>
     </paper>
     <paper id="183">
       <title>The Timing of Lexical Memory Retrievals in Language Production</title>
