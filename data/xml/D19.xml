@@ -13273,6 +13273,7 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <url hash="9fb0385d">D19-5821</url>
       <doi>10.18653/v1/D19-5821</doi>
       <bibkey>chan-fan-2019-recurrent</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="22">
       <title>Let Me Know What to Ask: Interrogative-Word-Aware Question Generation</title>
