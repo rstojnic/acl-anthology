@@ -3818,7 +3818,6 @@
       <url hash="0f139229">2021.findings-acl.282</url>
       <doi>10.18653/v1/2021.findings-acl.282</doi>
       <bibkey>hou-etal-2021-learning</bibkey>
-      <pwccode url="https://github.com/AtmaHou/FewShotJoint" additional="false">AtmaHou/FewShotJoint</pwccode>
     </paper>
     <paper id="283">
       <title>Insertion-based Tree Decoding</title>
