@@ -4274,6 +4274,7 @@
       <doi>10.18653/v1/2021.eacl-main.319</doi>
       <pwccode url="https://github.com/lavis-nlp/jerex" additional="false">lavis-nlp/jerex</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/docred">DocRED</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/re-docred">Re-DocRED</pwcdataset>
     </paper>
     <paper id="320">
       <title><fixed-case>WER</fixed-case>-<fixed-case>BERT</fixed-case>: Automatic <fixed-case>WER</fixed-case> Estimation with <fixed-case>BERT</fixed-case> in a Balanced Ordinal Classification Paradigm</title>
