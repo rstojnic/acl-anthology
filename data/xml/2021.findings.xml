@@ -1682,7 +1682,7 @@
       <url hash="5702e2e8">2021.findings-acl.120</url>
       <doi>10.18653/v1/2021.findings-acl.120</doi>
       <bibkey>zhou-etal-2021-detecting</bibkey>
-      <pwccode url="https://github.com/violet-zct/fairseq-detect-hallucination" additional="false">violet-zct/fairseq-detect-hallucination</pwccode>
+      <pwccode url="https://github.com/violet-zct/fairseq-detect-hallucination" additional="true">violet-zct/fairseq-detect-hallucination</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/flores">FLoRes</pwcdataset>
     </paper>
     <paper id="121">
