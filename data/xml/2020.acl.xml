@@ -2808,7 +2808,7 @@
       <doi>10.18653/v1/2020.acl-main.192</doi>
       <video tag="video" href="http://slideslive.com/38928920"/>
       <bibkey>jiang-etal-2020-generalizing</bibkey>
-      <pwccode url="https://github.com/neulab/cmu-multinlp" additional="true">neulab/cmu-multinlp</pwccode>
+      <pwccode url="https://github.com/jzbjyb/SpanRel" additional="true">jzbjyb/SpanRel</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2012-1">CoNLL-2012</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
