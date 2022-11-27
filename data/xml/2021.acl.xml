@@ -11012,6 +11012,7 @@
       <url hash="b28576c3">2021.acl-srw.32</url>
       <doi>10.18653/v1/2021.acl-srw.32</doi>
       <bibkey>dementieva-panchenko-2021-cross</bibkey>
+      <pwccode url="https://github.com/skoltech-nlp/multilingual-fake-news" additional="false">skoltech-nlp/multilingual-fake-news</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/nela-gt-2018">NELA-GT-2018</pwcdataset>
     </paper>
     <paper id="33">
