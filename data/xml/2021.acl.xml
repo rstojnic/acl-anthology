@@ -2961,7 +2961,6 @@
       <url hash="86ff58a0">2021.acl-long.196</url>
       <doi>10.18653/v1/2021.acl-long.196</doi>
       <bibkey>chen-etal-2021-kace</bibkey>
-      <pwccode url="https://github.com/ai4nlp/kace" additional="false">ai4nlp/kace</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e-snli">e-SNLI</pwcdataset>
