@@ -5585,7 +5585,10 @@
       <bibkey>nie-etal-2020-improving</bibkey>
       <pwccode url="https://github.com/cuhksz-nlp/AESINER" additional="false">cuhksz-nlp/AESINER</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-4-0">OntoNotes 4.0</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/resume-ner">Resume NER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wnut-2016-ner">WNUT 2016 NER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wnut-2017-emerging-and-rare-entity">WNUT 2017</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/weibo-ner">Weibo NER</pwcdataset>
     </paper>
     <paper id="379">
