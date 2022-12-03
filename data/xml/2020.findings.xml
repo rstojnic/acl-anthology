@@ -1288,6 +1288,8 @@
       <url hash="b94f3f65">2020.findings-emnlp.89</url>
       <doi>10.18653/v1/2020.findings-emnlp.89</doi>
       <bibkey>fernandez-astudillo-etal-2020-transition</bibkey>
+      <pwccode url="https://github.com/IBM/transition-amr-parser" additional="false">IBM/transition-amr-parser</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ldc2017t10">LDC2017T10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="90">
@@ -4065,6 +4067,7 @@
       <bibkey>zlabinger-etal-2020-effective</bibkey>
       <pwccode url="https://github.com/Markus-Zlabinger/pico-annotation" additional="true">Markus-Zlabinger/pico-annotation</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/biosses">BIOSSES</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ebm-nlp">EBM-NLP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="275">
@@ -4262,6 +4265,7 @@
       <url hash="b611731c">2020.findings-emnlp.288</url>
       <doi>10.18653/v1/2020.findings-emnlp.288</doi>
       <bibkey>lee-etal-2020-pushing</bibkey>
+      <pwccode url="https://github.com/IBM/transition-amr-parser" additional="false">IBM/transition-amr-parser</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ldc2017t10">LDC2017T10</pwcdataset>
     </paper>
     <paper id="289">

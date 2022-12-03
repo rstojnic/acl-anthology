@@ -2071,6 +2071,7 @@
       <url hash="7819465d">N19-1150</url>
       <doi>10.18653/v1/N19-1150</doi>
       <bibkey>yang-etal-2019-predicting</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ebm-nlp">EBM-NLP</pwcdataset>
     </paper>
     <paper id="151">
       <title>Detecting Depression in Social Media using Fine-Grained Emotions</title>

@@ -8056,6 +8056,7 @@
       <bibkey>liu-etal-2021-sent2span-span</bibkey>
       <pwccode url="https://github.com/evidence-surveillance/sent2span" additional="false">evidence-surveillance/sent2span</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/blue">BLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ebm-nlp">EBM-NLP</pwcdataset>
     </paper>
     <paper id="148">
       <title>When in Doubt: Improving Classification Performance with Alternating Normalization</title>
