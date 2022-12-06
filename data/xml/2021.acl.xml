@@ -9597,6 +9597,7 @@
       <url hash="5c3bc916">2021.acl-short.68</url>
       <doi>10.18653/v1/2021.acl-short.68</doi>
       <bibkey>qin-etal-2021-improving</bibkey>
+      <pwccode url="https://github.com/synlp/AD-RDAT" additional="false">synlp/AD-RDAT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/arabic-text-diacritization">Arabic Text Diacritization</pwcdataset>
     </paper>
     <paper id="69">
