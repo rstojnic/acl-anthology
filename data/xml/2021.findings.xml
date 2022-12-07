@@ -4185,7 +4185,7 @@
       <url hash="38649ced">2021.findings-acl.311</url>
       <doi>10.18653/v1/2021.findings-acl.311</doi>
       <bibkey>garcia-olano-etal-2021-biomedical</bibkey>
-      <pwccode url="https://github.com/diegoolano/biomedical_interpretable_entity_representations" additional="false">diegoolano/biomedical_interpretable_entity_representations</pwccode>
+      <pwccode url="https://github.com/diegoolano/biomedical_interpretable_entity_representations" additional="true">diegoolano/biomedical_interpretable_entity_representations</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/medmentions">MedMentions</pwcdataset>
     </paper>
     <paper id="312">
