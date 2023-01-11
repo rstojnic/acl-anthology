@@ -2147,6 +2147,7 @@
       <bibkey>wang-etal-2021-improving</bibkey>
       <pwccode url="https://github.com/modelscope/adaseq" additional="true">modelscope/adaseq</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/bc5cdr">BC5CDR</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/cmeee">CMeEE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll">CoNLL++</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ncbi-disease-1">NCBI Disease</pwcdataset>
