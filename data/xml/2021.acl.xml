@@ -2149,6 +2149,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/bc5cdr">BC5CDR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cmeee">CMeEE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll">CoNLL++</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2000-1">CoNLL-2000</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ncbi-disease-1">NCBI Disease</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/resume-ner">Resume NER</pwcdataset>
@@ -3142,6 +3143,7 @@
       <bibkey>wang-etal-2021-automated</bibkey>
       <pwccode url="https://github.com/Alibaba-NLP/ACE" additional="true">Alibaba-NLP/ACE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2002">CoNLL 2002</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2000-1">CoNLL-2000</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
@@ -7873,7 +7875,7 @@
       <url hash="59fa12e7">2021.acl-long.518</url>
       <doi>10.18653/v1/2021.acl-long.518</doi>
       <bibkey>lee-etal-2021-learning-dense</bibkey>
-      <pwccode url="https://github.com/jhyuklee/DensePhrases" additional="true">jhyuklee/DensePhrases</pwccode>
+      <pwccode url="https://github.com/princeton-nlp/DensePhrases" additional="true">princeton-nlp/DensePhrases</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/kilt">KILT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
