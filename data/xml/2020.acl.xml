@@ -2034,6 +2034,7 @@
       <bibkey>kruiper-etal-2020-laymans</bibkey>
       <pwccode url="https://github.com/rubenkruiper/FOBIE" additional="false">rubenkruiper/FOBIE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fobie">FOBIE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb">BB</pwcdataset>
     </paper>
     <paper id="138">
       <title><fixed-case>NAT</fixed-case>: Noise-Aware Training for Robust Neural Sequence Labeling</title>

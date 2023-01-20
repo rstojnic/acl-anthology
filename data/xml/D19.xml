@@ -12804,6 +12804,9 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <url hash="657e1a4c">D19-5719</url>
       <doi>10.18653/v1/D19-5719</doi>
       <bibkey>bossy-etal-2019-bacteria</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb">BB</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb-norm-habitat">BB-norm-habitat</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb-norm-phenotype">BB-norm-phenotype</pwcdataset>
     </paper>
     <paper id="20">
       <title>Linguistically Informed Relation Extraction and Neural Architectures for Nested Named Entity Recognition in <fixed-case>B</fixed-case>io<fixed-case>NLP</fixed-case>-<fixed-case>OST</fixed-case> 2019</title>
@@ -12816,6 +12819,7 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <doi>10.18653/v1/D19-5720</doi>
       <bibkey>gupta-etal-2019-linguistically</bibkey>
       <pwccode url="https://github.com/uyaseen/bionlp-ost-2019" additional="false">uyaseen/bionlp-ost-2019</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb">BB</pwcdataset>
     </paper>
     <paper id="21">
       <title>An ensemble <fixed-case>CNN</fixed-case> method for biomedical entity normalization</title>
@@ -12829,6 +12833,10 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <url hash="91c8e6ab">D19-5721</url>
       <doi>10.18653/v1/D19-5721</doi>
       <bibkey>deng-etal-2019-ensemble</bibkey>
+      <pwccode url="https://github.com/OXPHOS/BioNLP" additional="false">OXPHOS/BioNLP</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb">BB</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb-norm-habitat">BB-norm-habitat</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb-norm-phenotype">BB-norm-phenotype</pwcdataset>
     </paper>
     <paper id="22">
       <title><fixed-case>BOUN</fixed-case>-<fixed-case>ISIK</fixed-case> Participation: An Unsupervised Approach for the Named Entity Normalization and Relation Extraction of Bacteria Biotopes</title>
@@ -12840,6 +12848,9 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <url hash="4dc34a55">D19-5722</url>
       <doi>10.18653/v1/D19-5722</doi>
       <bibkey>karadeniz-etal-2019-boun</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb">BB</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb-norm-habitat">BB-norm-habitat</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb-norm-phenotype">BB-norm-phenotype</pwcdataset>
     </paper>
     <paper id="23">
       <title>Bacteria Biotope Relation Extraction via Lexical Chains and Dependency Graphs</title>
@@ -12863,6 +12874,9 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <url hash="54076ad4">D19-5724</url>
       <doi>10.18653/v1/D19-5724</doi>
       <bibkey>mao-liu-2019-integration</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb">BB</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb-norm-habitat">BB-norm-habitat</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/bb-norm-phenotype">BB-norm-phenotype</pwcdataset>
     </paper>
     <paper id="25">
       <title><fixed-case>CRAFT</fixed-case> Shared Tasks 2019 Overview — Integrated Structure, Semantics, and Coreference</title>
