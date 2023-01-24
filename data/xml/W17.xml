@@ -6734,6 +6734,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <doi>10.18653/v1/W17-3541</doi>
       <abstract>We present a neural response generation model that generates responses conditioned on a target personality. The model learns high level features based on the target personality, and uses them to update its hidden state. Our model achieves performance improvements in both perplexity and BLEU scores over a baseline sequence-to-sequence model, and is validated by human judges.</abstract>
       <bibkey>herzig-etal-2017-neural</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/relational-strategies-in-customer-service">Relational Strategies in Customer Service (RSiCS) Dataset</pwcdataset>
     </paper>
     <paper id="42">
       <title>Neural Paraphrase Generation using Transfer Learning</title>
