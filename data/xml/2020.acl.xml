@@ -1744,7 +1744,6 @@
       <attachment type="Dataset" hash="b5d9ee54">2020.acl-main.118.Dataset.zip</attachment>
       <video tag="video" href="http://slideslive.com/38929208"/>
       <bibkey>oprea-magdy-2020-isarcasm</bibkey>
-      <pwccode url="https://github.com/silviu-oprea/isarcasm" additional="false">silviu-oprea/isarcasm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/isarcasm">iSarcasm</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sarc">SARC</pwcdataset>
     </paper>
