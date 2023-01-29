@@ -8941,6 +8941,7 @@
       <url hash="31fc690d">2021.findings-emnlp.215</url>
       <bibkey>tedeschi-etal-2021-wikineural-combined</bibkey>
       <pwccode url="https://github.com/babelscape/wikineural" additional="false">babelscape/wikineural</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikineural">WikiNEuRal</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2002">CoNLL 2002</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikiann-1">WikiAnn</pwcdataset>
