@@ -198,7 +198,6 @@
       <url hash="b26cb56f">2020.trac-1.15</url>
       <language>eng</language>
       <bibkey>gordeev-lykova-2020-bert</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/1002-hours-changsha-dialect-speech-data-by">1,002 Hours – Changsha Dialect Speech Data by Mobile Phone</pwcdataset>
     </paper>
     <paper id="16">
       <title><fixed-case>SAJA</fixed-case> at <fixed-case>TRAC</fixed-case> 2020 Shared Task: Transfer Learning for Aggressive Identification with <fixed-case>XGB</fixed-case>oost</title>

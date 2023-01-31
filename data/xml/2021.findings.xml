@@ -6794,6 +6794,7 @@
       <abstract>Emotion cause extraction (ECE) aims to extract the causes behind the certain emotion in text. Some works related to the ECE task have been published and attracted lots of attention in recent years. However, these methods neglect two major issues: 1) pay few attentions to the effect of document-level context information on ECE, and 2) lack of sufficient exploration for how to effectively use the annotated emotion clause. For the first issue, we propose a bidirectional hierarchical attention network (BHA) corresponding to the specified candidate cause clause to capture the document-level context in a structured and dynamic manner. For the second issue, we design an emotional filtering module (EF) for each layer of the graph attention network, which calculates a gate score based on the emotion clause to filter the irrelevant information. Combining the BHA and EF, the EF-BHA can dynamically aggregate the contextual information from two directions and filters irrelevant information. The experimental results demonstrate that EF-BHA achieves the competitive performances on two public datasets in different languages (Chinese and English). Moreover, we quantify the effect of context on emotion cause extraction and provide the visualization of the interactions between candidate cause clauses and contexts.</abstract>
       <url hash="908d7580">2021.findings-emnlp.51</url>
       <bibkey>hu-etal-2021-bidirectional-hierarchical</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ece">ECE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ecpe-xia-and-ding-2019">Xia and Ding, 2019</pwcdataset>
     </paper>
     <paper id="52">
@@ -7054,6 +7055,7 @@
       <abstract>Current approaches to empathetic response generation focus on learning a model to predict an emotion label and generate a response based on this label and have achieved promising results. However, the emotion cause, an essential factor for empathetic responding, is ignored. The emotion cause is a stimulus for human emotions. Recognizing the emotion cause is helpful to better understand human emotions so as to generate more empathetic responses. To this end, we propose a novel framework that improves empathetic response generation by recognizing emotion cause in conversations. Specifically, an emotion reasoner is designed to predict a context emotion label and a sequence of emotion cause-oriented labels, which indicate whether the word is related to the emotion cause. Then we devise both hard and soft gated attention mechanisms to incorporate the emotion cause into response generation. Experiments show that incorporating emotion cause information improves the performance of the model on both emotion recognition and response generation.</abstract>
       <url hash="6dfd2df8">2021.findings-emnlp.70</url>
       <bibkey>gao-etal-2021-improving-empathetic</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ece">ECE</pwcdataset>
     </paper>
     <paper id="71">
       <title>Probing Across Time: What Does <fixed-case>R</fixed-case>o<fixed-case>BERT</fixed-case>a Know and When?</title>
