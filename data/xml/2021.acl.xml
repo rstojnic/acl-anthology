@@ -5893,7 +5893,6 @@
       <doi>10.18653/v1/2021.acl-long.389</doi>
       <bibkey>lu-etal-2021-visualsparta</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco-captions">COCO Captions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
     </paper>
     <paper id="390">
