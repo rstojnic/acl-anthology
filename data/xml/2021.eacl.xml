@@ -2992,6 +2992,8 @@
       <bibkey>solawetz-larson-2021-lsoie</bibkey>
       <doi>10.18653/v1/2021.eacl-main.222</doi>
       <pwccode url="https://github.com/Jacobsolawetz/large-scale-oie" additional="false">Jacobsolawetz/large-scale-oie</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/lsoie">LSOIE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/oie2016">OIE2016</pwcdataset>
     </paper>
     <paper id="223">
       <title>Changing the Mind of Transformers for Topically-Controllable Language Generation</title>
@@ -5026,6 +5028,7 @@
       <bibkey>papadopoulos-etal-2021-penelopie</bibkey>
       <doi>10.18653/v1/2021.eacl-srw.4</doi>
       <pwccode url="https://github.com/lighteternal/PENELOPIE" additional="false">lighteternal/PENELOPIE</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/carb">CaRB</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tatoeba">Tatoeba</pwcdataset>
     </paper>
     <paper id="5">

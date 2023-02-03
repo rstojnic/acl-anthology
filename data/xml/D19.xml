@@ -8995,6 +8995,8 @@
       <attachment hash="374d73f8">D19-1651.Attachment.zip</attachment>
       <doi>10.18653/v1/D19-1651</doi>
       <bibkey>bhardwaj-etal-2019-carb</bibkey>
+      <pwccode url="https://github.com/dair-iitd/CaRB" additional="false">dair-iitd/CaRB</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/carb">CaRB</pwcdataset>
     </paper>
     <paper id="652">
       <title>Weakly Supervised Attention Networks for Entity Recognition</title>
