@@ -8554,6 +8554,8 @@
       <url hash="bc8572fc">2021.findings-emnlp.185</url>
       <bibkey>he-etal-2021-speaker-turn</bibkey>
       <pwccode url="https://github.com/zaghe568/speak-turn-emb-dialog-act-clf" additional="false">zaghe568/speak-turn-emb-dialog-act-clf</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/mrda">MRDA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/switchboard-1-corpus">Switchboard-1 Corpus</pwcdataset>
     </paper>
     <paper id="186">
       <title>Unsupervised Domain Adaptation Method with Semantic-Structural Alignment for Dependency Parsing</title>

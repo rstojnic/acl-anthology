@@ -73,7 +73,7 @@
       <url hash="1349cfa3">2021.acl-long.4</url>
       <doi>10.18653/v1/2021.acl-long.4</doi>
       <bibkey>rottger-etal-2021-hatecheck</bibkey>
-      <pwccode url="https://github.com/paul-rottger/hate-functional-tests" additional="true">paul-rottger/hate-functional-tests</pwccode>
+      <pwccode url="https://github.com/paul-rottger/hatecheck-data" additional="true">paul-rottger/hatecheck-data</pwccode>
     </paper>
     <paper id="5">
       <title>Unified Dual-view Cognitive Model for Interpretable Claim Verification</title>
@@ -2771,6 +2771,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="e630982a">2021.acl-long.183.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.acl-long.183</doi>
       <bibkey>du-etal-2021-excar</bibkey>
+      <pwccode url="https://github.com/sjcfr/ExCAR" additional="false">sjcfr/ExCAR</pwccode>
     </paper>
     <paper id="184">
       <title>Distributed Representations of Emotion Categories in Emotion Space</title>
@@ -7872,7 +7873,7 @@
       <url hash="59fa12e7">2021.acl-long.518</url>
       <doi>10.18653/v1/2021.acl-long.518</doi>
       <bibkey>lee-etal-2021-learning-dense</bibkey>
-      <pwccode url="https://github.com/jhyuklee/DensePhrases" additional="true">jhyuklee/DensePhrases</pwccode>
+      <pwccode url="https://github.com/princeton-nlp/DensePhrases" additional="true">princeton-nlp/DensePhrases</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/kilt">KILT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
