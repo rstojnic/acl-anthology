@@ -99,6 +99,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/newsqa">NewsQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/record">ReCoRD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ubuntu-dialogue-corpus">UDC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
     </paper>
     <paper id="7">
