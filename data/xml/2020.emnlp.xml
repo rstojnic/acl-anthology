@@ -172,6 +172,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qasc">QASC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/winogrande">WinoGrande</pwcdataset>
     </paper>
     <paper id="12">
@@ -459,6 +460,7 @@
       <bibkey>zhong-etal-2020-semantic</bibkey>
       <pwccode url="https://github.com/ruiqi-zhong/TestSuiteEval" additional="true">ruiqi-zhong/TestSuiteEval</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sparc">SParC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/spider-2">Spider</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
     </paper>
     <paper id="30">
@@ -8424,6 +8426,7 @@
       <video tag="video" href="https://slideslive.com/38938921"/>
       <bibkey>yao-etal-2020-imitation</bibkey>
       <pwccode url="https://github.com/sunlab-osu/MISP" additional="false">sunlab-osu/MISP</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/spider-2">Spider</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
     </paper>
     <paper id="560">

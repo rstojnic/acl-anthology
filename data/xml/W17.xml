@@ -1636,6 +1636,7 @@
       <doi>10.18653/v1/W17-0913</doi>
       <abstract>This paper describes two supervised baseline systems for the Story Cloze Test Shared Task (Mostafazadeh et al., 2016a). We first build a classifier using features based on word embeddings and semantic similarity computation. We further implement a neural LSTM system with different encoding strategies that try to model the relation between the story and the provided endings. Our experiments show that a model using representation features based on average word embedding vectors over the given story words and the candidate ending sentences words, joint with similarity features between the story and candidate ending representations performed better than the neural models. Our best model based on achieves an accuracy of 72.42, ranking 3rd in the official evaluation.</abstract>
       <bibkey>mihaylov-frank-2017-story</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
     </paper>
   </volume>
   <volume id="10">

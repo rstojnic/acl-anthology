@@ -6340,6 +6340,7 @@
       <doi>10.18653/v1/2021.naacl-main.441</doi>
       <bibkey>chen-etal-2021-shadowgnn</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/scan">SCAN</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/spider-2">Spider</pwcdataset>
     </paper>
     <paper id="442">
       <title>Contextualized and Generalized Sentence Representations by Contrastive Self-Supervised Learning: A Case Study on Discourse Relation Analysis</title>
