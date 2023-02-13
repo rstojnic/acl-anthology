@@ -2887,9 +2887,11 @@
       <doi>10.18653/v1/2021.findings-acl.210</doi>
       <bibkey>dong-etal-2021-docoie</bibkey>
       <pwccode url="https://github.com/daviddongkc/DocOIE" additional="false">daviddongkc/DocOIE</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/docoie">DocOIE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/carb">CaRB</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/oie2016">OIE2016</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qa-srl">QA-SRL</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wire57">WiRe57</pwcdataset>
     </paper>
     <paper id="211">
       <title>Event Extraction from Historical Texts: A New Dataset for Black Rebellions</title>
