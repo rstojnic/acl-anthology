@@ -872,7 +872,6 @@
       <bibkey>yamaguchi-etal-2021-dialogue</bibkey>
       <doi>10.18653/v1/2021.eacl-main.63</doi>
       <pwccode url="https://github.com/gucci-j/negotiation-breakdown-detection" additional="false">gucci-j/negotiation-breakdown-detection</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/10000-people-human-pose-recognition-data">10,000 People - Human Pose Recognition Data</pwcdataset>
     </paper>
     <paper id="64">
       <title>Neural Data-to-Text Generation with <fixed-case>LM</fixed-case>-based Text Augmentation</title>

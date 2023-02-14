@@ -1189,7 +1189,9 @@
       <url hash="7d2efc00">2021.emnlp-main.88</url>
       <bibkey>vulic-etal-2021-convfit</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/banking77">BANKING77</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/clinc150">CLINC150</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/hwu64">HWU64</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reddit-corpus">Reddit Corpus</pwcdataset>
     </paper>
     <paper id="89">
@@ -1965,6 +1967,8 @@
       <url hash="35bcd944">2021.emnlp-main.144</url>
       <bibkey>zhang-etal-2021-shot</bibkey>
       <pwccode url="https://github.com/jianguoz/Few-Shot-Intent-Detection" additional="true">jianguoz/Few-Shot-Intent-Detection</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/banking77">BANKING77</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/hwu64">HWU64</pwcdataset>
     </paper>
     <paper id="145">
       <title>“It doesn’t look good for a date”: Transforming Critiques into Preferences for Conversational Recommendation Systems</title>
