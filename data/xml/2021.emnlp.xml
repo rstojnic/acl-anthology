@@ -6329,7 +6329,7 @@
       <abstract>We propose the first general-purpose gradient-based adversarial attack against transformer models. Instead of searching for a single adversarial example, we search for a distribution of adversarial examples parameterized by a continuous-valued matrix, hence enabling gradient-based optimization. We empirically demonstrate that our white-box attack attains state-of-the-art attack performance on a variety of natural language tasks, outperforming prior work in terms of adversarial success rate with matching imperceptibility as per automated and human evaluation. Furthermore, we show that a powerful black-box transfer attack, enabled by sampling from the adversarial distribution, matches or exceeds existing methods, while only requiring hard-label outputs.</abstract>
       <url hash="41d427f7">2021.emnlp-main.464</url>
       <bibkey>guo-etal-2021-gradient</bibkey>
-      <pwccode url="https://github.com/facebookresearch/text-adversarial-attack" additional="false">facebookresearch/text-adversarial-attack</pwccode>
+      <pwccode url="https://github.com/facebookresearch/text-adversarial-attack" additional="true">facebookresearch/text-adversarial-attack</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
