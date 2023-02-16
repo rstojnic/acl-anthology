@@ -10707,8 +10707,7 @@
       <abstract>Various measures have been proposed to quantify human-like social biases in word embeddings. However, bias scores based on these measures can suffer from measurement error. One indication of measurement quality is reliability, concerning the extent to which a measure produces consistent results. In this paper, we assess three types of reliability of word embedding gender bias measures, namely test-retest reliability, inter-rater consistency and internal consistency. Specifically, we investigate the consistency of bias scores across different choices of random seeds, scoring rules and words. Furthermore, we analyse the effects of various factors on these measures’ reliability scores. Our findings inform better design of word embedding gender bias measures. Moreover, we urge researchers to be more critical about the application of such measures</abstract>
       <url hash="1c32913d">2021.emnlp-main.785</url>
       <bibkey>du-etal-2021-assessing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
+      <pwccode url="https://github.com/nlpsoc/reliability_bias" additional="false">nlpsoc/reliability_bias</pwccode>
     </paper>
     <paper id="786">
       <title>Rumor Detection on <fixed-case>T</fixed-case>witter with Claim-Guided Hierarchical Graph Attention Networks</title>
