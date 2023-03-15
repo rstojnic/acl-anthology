@@ -73,7 +73,7 @@
       <url hash="1349cfa3">2021.acl-long.4</url>
       <doi>10.18653/v1/2021.acl-long.4</doi>
       <bibkey>rottger-etal-2021-hatecheck</bibkey>
-      <pwccode url="https://github.com/paul-rottger/hate-functional-tests" additional="true">paul-rottger/hate-functional-tests</pwccode>
+      <pwccode url="https://github.com/paul-rottger/hatecheck-data" additional="true">paul-rottger/hatecheck-data</pwccode>
     </paper>
     <paper id="5">
       <title>Unified Dual-view Cognitive Model for Interpretable Claim Verification</title>
@@ -2471,7 +2471,6 @@
       <doi>10.18653/v1/2021.acl-long.163</doi>
       <bibkey>xu-etal-2021-optimizing</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/reclor">ReClor</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/spider-2">Spider</pwcdataset>
     </paper>
     <paper id="164">
       <title><fixed-case>BERTAC</fixed-case>: Enhancing Transformer-based Language Models with Adversarially Pretrained Convolutional Neural Networks</title>
@@ -2667,7 +2666,6 @@
       <bibkey>lee-etal-2021-kaggledbqa</bibkey>
       <pwccode url="https://github.com/chiahsuan156/KaggleDBQA" additional="false">chiahsuan156/KaggleDBQA</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/kaggledbqa">KaggleDBQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/spider-2">Spider</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
     </paper>
     <paper id="177">
@@ -11648,7 +11646,6 @@
       <url hash="586c232e">2021.acl-demo.36</url>
       <doi>10.18653/v1/2021.acl-demo.36</doi>
       <bibkey>xu-etal-2021-turing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/spider-2">Spider</pwcdataset>
     </paper>
     <paper id="37">
       <title>Many-to-<fixed-case>E</fixed-case>nglish Machine Translation Tools, Data, and Pretrained Models</title>

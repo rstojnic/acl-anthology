@@ -460,7 +460,6 @@
       <bibkey>zhong-etal-2020-semantic</bibkey>
       <pwccode url="https://github.com/ruiqi-zhong/TestSuiteEval" additional="true">ruiqi-zhong/TestSuiteEval</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sparc">SParC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/spider-2">Spider</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
     </paper>
     <paper id="30">
@@ -7863,7 +7862,7 @@
       <doi>10.18653/v1/2020.emnlp-main.522</doi>
       <video tag="video" href="https://slideslive.com/38939354"/>
       <bibkey>li-etal-2020-efficient</bibkey>
-      <pwccode url="https://github.com/facebookresearch/BLINK" additional="true">facebookresearch/BLINK</pwccode>
+      <pwccode url="https://github.com/facebookresearch/BLINK/tree/master/elq" additional="true">facebookresearch/BLINK</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webquestions">WebQuestions</pwcdataset>
@@ -8429,7 +8428,6 @@
       <video tag="video" href="https://slideslive.com/38938921"/>
       <bibkey>yao-etal-2020-imitation</bibkey>
       <pwccode url="https://github.com/sunlab-osu/MISP" additional="false">sunlab-osu/MISP</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/spider-2">Spider</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
     </paper>
     <paper id="560">
