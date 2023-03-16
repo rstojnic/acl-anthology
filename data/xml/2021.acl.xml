@@ -73,7 +73,7 @@
       <url hash="1349cfa3">2021.acl-long.4</url>
       <doi>10.18653/v1/2021.acl-long.4</doi>
       <bibkey>rottger-etal-2021-hatecheck</bibkey>
-      <pwccode url="https://github.com/paul-rottger/hatecheck-data" additional="true">paul-rottger/hatecheck-data</pwccode>
+      <pwccode url="https://github.com/paul-rottger/hate-functional-tests" additional="true">paul-rottger/hate-functional-tests</pwccode>
     </paper>
     <paper id="5">
       <title>Unified Dual-view Cognitive Model for Interpretable Claim Verification</title>
