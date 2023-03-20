@@ -731,7 +731,6 @@
       <url hash="c8507c71">I17-1065</url>
       <abstract>Deep learning models have recently been applied successfully in natural language processing, especially sentiment analysis. Each deep learning model has a particular advantage, but it is difficult to combine these advantages into one model, especially in the area of sentiment analysis. In our approach, Convolutional Neural Network (CNN) and Long Short Term Memory (LSTM) were utilized to learn sentiment-specific features in a freezing scheme. This scenario provides a novel and efficient way for integrating advantages of deep learning models. In addition, we also grouped documents into clusters by their similarity and applied the prediction score of Naive Bayes SVM (NBSVM) method to boost the classification accuracy of each group. The experiments show that our method achieves the state-of-the-art performance on two well-known datasets: IMDB large movie reviews for document level and Pang &amp; Lee movie reviews for sentence level.</abstract>
       <bibkey>nguyen-nguyen-2017-ensemble</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="66">
       <title>Leveraging Auxiliary Tasks for Document-Level Cross-Domain Sentiment Classification</title>

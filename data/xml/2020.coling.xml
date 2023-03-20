@@ -664,7 +664,6 @@
       <doi>10.18653/v1/2020.coling-main.49</doi>
       <bibkey>zhou-etal-2020-sentix</bibkey>
       <pwccode url="https://github.com/12190143/sentix" additional="false">12190143/sentix</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="50">
@@ -3829,7 +3828,6 @@
       <bibkey>bashier-etal-2020-rancc</bibkey>
       <pwccode url="https://github.com/housamkhalifa/rancc" additional="false">housamkhalifa/rancc</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="287">
       <title><fixed-case>L</fixed-case>ada<fixed-case>BERT</fixed-case>: Lightweight Adaptation of <fixed-case>BERT</fixed-case> through Hybrid Model Compression</title>
@@ -5916,7 +5914,6 @@
       <doi>10.18653/v1/2020.coling-main.444</doi>
       <bibkey>popovic-2020-informative</bibkey>
       <pwccode url="https://github.com/m-popovic/qrev-annotations" additional="false">m-popovic/qrev-annotations</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="445">
       <title><fixed-case>T</fixed-case>rans<fixed-case>Q</fixed-case>uest: Translation Quality Estimation with Cross-lingual Transformers</title>
@@ -6404,7 +6401,6 @@
       <doi>10.18653/v1/2020.coling-main.481</doi>
       <bibkey>edwards-etal-2020-go</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="482">
       <title>Unsupervised Fine-tuning for Text Clustering</title>
@@ -7784,7 +7780,6 @@
       <url hash="b1335bbc">2020.coling-main.585</url>
       <doi>10.18653/v1/2020.coling-main.585</doi>
       <bibkey>meng-wattenhofer-2020-geometry</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="586">
       <title>Expert Concept-Modeling Ground Truth Construction for Word Embeddings Evaluation in Concept-Focused Domains</title>

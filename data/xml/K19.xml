@@ -1163,7 +1163,6 @@
       <bibkey>madhyastha-jain-2019-model</bibkey>
       <pwccode url="https://github.com/rishj97/ModelStability" additional="false">rishj97/ModelStability</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>

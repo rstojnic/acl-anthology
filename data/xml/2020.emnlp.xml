@@ -1502,7 +1502,6 @@
       <bibkey>ng-etal-2020-ssmba</bibkey>
       <pwccode url="https://github.com/nng555/ssmba" additional="false">nng555/ssmba</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -2096,7 +2095,6 @@
       <video tag="video" href="https://slideslive.com/38939229"/>
       <bibkey>hoyle-etal-2020-improving</bibkey>
       <pwccode url="https://github.com/ahoho/kd-topic-models" additional="false">ahoho/kd-topic-models</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="138">
       <title>Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder</title>
@@ -5195,7 +5193,6 @@
       <bibkey>chen-ji-2020-learning</bibkey>
       <pwccode url="https://github.com/UVa-NLP/VMASK" additional="true">UVa-NLP/VMASK</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="348">
@@ -7433,7 +7430,6 @@
       <video tag="video" href="https://slideslive.com/38938671"/>
       <bibkey>kang-etal-2020-neural</bibkey>
       <pwccode url="https://github.com/Nardien/NMG" additional="false">Nardien/NMG</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsqa">NewsQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/emrqa">emrQA</pwcdataset>
     </paper>
@@ -7530,7 +7526,6 @@
       <video tag="video" href="https://slideslive.com/38938706"/>
       <bibkey>ma-etal-2020-adversarial</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="500">
       <title><fixed-case>BERT</fixed-case>-<fixed-case>ATTACK</fixed-case>: Adversarial Attack Against <fixed-case>BERT</fixed-case> Using <fixed-case>BERT</fixed-case></title>
@@ -8553,7 +8548,6 @@
       <bibkey>ke-etal-2020-sentilare</bibkey>
       <pwccode url="https://github.com/thu-coai/SentiLARE" additional="false">thu-coai/SentiLARE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -9613,7 +9607,6 @@
       <video tag="video" href="https://slideslive.com/38939092"/>
       <bibkey>bhattacharjee-etal-2020-bert</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="637">
       <title>Cold-start Active Learning through Self-supervised Language Modeling</title>
@@ -9628,7 +9621,6 @@
       <bibkey>yuan-etal-2020-cold</bibkey>
       <pwccode url="https://github.com/forest-snow/alps" additional="false">forest-snow/alps</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="638">
@@ -10969,7 +10961,6 @@
       <bibkey>meng-etal-2020-text</bibkey>
       <pwccode url="https://github.com/yumeng5/LOTClass" additional="true">yumeng5/LOTClass</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="725">
       <title>Neural Topic Modeling with Cycle-Consistent Adversarial Training</title>

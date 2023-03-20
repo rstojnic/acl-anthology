@@ -4388,7 +4388,6 @@
       <doi>10.18653/v1/D18-1316</doi>
       <bibkey>alzantot-etal-2018-generating</bibkey>
       <pwccode url="https://github.com/nesl/nlp_adversarial_examples" additional="true">nesl/nlp_adversarial_examples</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="317">
@@ -4427,7 +4426,6 @@
       <doi>10.18653/v1/D18-1319</doi>
       <bibkey>chirkova-etal-2018-bayesian</bibkey>
       <pwccode url="https://github.com/tipt0p/SparseBayesianRNN" additional="true">tipt0p/SparseBayesianRNN</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="320">
@@ -6530,7 +6528,6 @@
       <bibkey>fu-ma-2018-speed</bibkey>
       <pwccode url="https://github.com/tsujuifu/pytorch_lstm-shuttle" additional="false">tsujuifu/pytorch_lstm-shuttle</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cbt">CBT</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="475">
       <title>Modeling Localness for Self-Attention Networks</title>
@@ -6682,7 +6679,6 @@
       <abstract>Multi-task learning in text classification leverages implicit correlations among related tasks to extract common features and yield performance gains. However, a large body of previous work treats labels of each task as independent and meaningless one-hot vectors, which cause a loss of potential label information. In this paper, we propose Multi-Task Label Embedding to convert labels in text classification into semantic vectors, thereby turning the original tasks into vector matching tasks. Our model utilizes semantic correlations among tasks and makes it convenient to scale or transfer when new tasks are involved. Extensive experiments on five benchmark datasets for text classification show that our model can effectively improve the performances of related tasks with semantic representations of labels and additional information from each other.</abstract>
       <doi>10.18653/v1/D18-1484</doi>
       <bibkey>zhang-etal-2018-multi</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="485">

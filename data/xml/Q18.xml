@@ -260,7 +260,6 @@
       <pages>269–285</pages>
       <url hash="ef8bb85c">Q18-1020</url>
       <bibkey>mudinas-etal-2018-bootstrap</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="21">
       <title>Constructing Datasets for Multi-hop Reading Comprehension Across Documents</title>

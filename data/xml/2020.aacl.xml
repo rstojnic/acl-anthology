@@ -917,7 +917,6 @@
       <abstract>Disentangled representations have attracted increasing attention recently. However, how to transfer the desired properties of disentanglement to word representations is unclear. In this work, we propose to transform typical dense word vectors into disentangled embeddings featuring improved interpretability via encoding polysemous semantics separately. We also found the modular structure of our disentangled word embeddings helps generate more efficient and effective features for natural language processing tasks.</abstract>
       <url hash="18e4371f">2020.aacl-main.72</url>
       <bibkey>liao-etal-2020-explaining</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="73">
       <title>Multi-view Classification Model for Knowledge Graph Completion</title>

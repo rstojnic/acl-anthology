@@ -29,7 +29,6 @@
       <bibkey>maronikolakis-schutze-2021-multidomain</bibkey>
       <pwccode url="https://github.com/antmarakis/multidomain_green_nlp" additional="false">antmarakis/multidomain_green_nlp</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmed-rct">PubMed RCT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/realnews">RealNews</pwcdataset>

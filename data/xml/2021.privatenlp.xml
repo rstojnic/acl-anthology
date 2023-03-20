@@ -40,7 +40,6 @@
       <url hash="53f1718c">2021.privatenlp-1.2</url>
       <doi>10.18653/v1/2021.privatenlp-1.2</doi>
       <bibkey>xu-etal-2021-utilitarian</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="4">
       <title>An Investigation towards Differentially Private Sequence Tagging in a Federated Framework</title>

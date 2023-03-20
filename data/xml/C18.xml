@@ -2020,7 +2020,6 @@
       <abstract>Neural network based multi-task learning has achieved great success on many NLP problems, which focuses on sharing knowledge among tasks by linking some layers to enhance the performance. However, most existing approaches suffer from the interference between tasks because they lack of selection mechanism for feature sharing. In this way, the feature spaces of tasks may be easily contaminated by helpless features borrowed from others, which will confuse the models for making correct prediction. In this paper, we propose a multi-task convolutional neural network with the Leaky Unit, which has memory and forgetting mechanism to filter the feature flows between tasks. Experiments on five different datasets for text classification validate the benefits of our approach.</abstract>
       <url hash="b01b3921">C18-1175</url>
       <bibkey>xiao-etal-2018-learning</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="176">
@@ -2080,7 +2079,6 @@
       <abstract>Text classification is one of the most widely studied tasks in natural language processing. Motivated by the principle of compositionality, large multilayer neural network models have been employed for this task in an attempt to effectively utilize the constituent expressions. Almost all of the reported work train large networks using discriminative approaches, which come with a caveat of no proper capacity control, as they tend to latch on to any signal that may not generalize. Using various recent state-of-the-art approaches for text classification, we explore whether these models actually learn to compose the meaning of the sentences or still just focus on some keywords or lexicons for classifying the document. To test our hypothesis, we carefully construct datasets where the training and test splits have no direct overlap of such lexicons, but overall language structure would be similar. We study various text classifiers and observe that there is a big performance drop on these datasets. Finally, we show that even simple models with our proposed regularization techniques, which disincentivize focusing on key lexicons, can substantially improve classification accuracy.</abstract>
       <url hash="89cc387e">C18-1180</url>
       <bibkey>sachan-etal-2018-investigating</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="181">
       <title>A Review on Deep Learning Techniques Applied to Answer Selection</title>
@@ -2616,7 +2614,6 @@
       <url hash="3a390ea4">C18-1226</url>
       <bibkey>aldarmaki-diab-2018-evaluation</bibkey>
       <pwccode url="https://github.com/h-aldarmaki/sentence_eval" additional="false">h-aldarmaki/sentence_eval</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
     </paper>
@@ -2909,7 +2906,6 @@
       <url hash="9ce1b213">C18-1252</url>
       <bibkey>moss-etal-2018-using</bibkey>
       <pwccode url="https://github.com/henrymoss/COLING2018" additional="false">henrymoss/COLING2018</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="253">
       <title>Incremental Natural Language Processing: Challenges, Strategies, and Evaluation</title>
@@ -3346,7 +3342,6 @@
       <abstract>Standard word embedding algorithms learn vector representations from large corpora of text documents in an unsupervised fashion. However, the quality of word embeddings learned from these algorithms is affected by the size of training data sets. Thus, applications of these algorithms in domains with only moderate amounts of available data is limited. In this paper we introduce an algorithm that learns word embeddings jointly with a classifier. Our algorithm is called SWESA (Supervised Word Embeddings for Sentiment Analysis). SWESA leverages document label information to learn vector representations of words from a modest corpus of text documents by solving an optimization problem that minimizes a cost function with respect to both word embeddings and the weight vector used for classification. Experiments on several real world data sets show that SWESA has superior performance on domains with limited data, when compared to previously suggested approaches to word embeddings and sentiment analysis tasks.</abstract>
       <url hash="31f6a3d6">C18-1290</url>
       <bibkey>k-sarma-sethares-2018-simple</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="291">
       <title>Word-Level Loss Extensions for Neural Temporal Relation Classification</title>

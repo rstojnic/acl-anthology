@@ -41,7 +41,6 @@
       <doi>10.18653/v1/D19-1002</doi>
       <bibkey>wiegreffe-pinter-2019-attention</bibkey>
       <pwccode url="https://github.com/sarahwie/attention" additional="true">sarahwie/attention</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mimic-iii">MIMIC-III</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -1507,7 +1506,6 @@
       <bibkey>parvez-etal-2019-robust</bibkey>
       <pwccode url="https://github.com/uclanlp/Fast-and-Robust-Text-Classification" additional="false">uclanlp/Fast-and-Robust-Text-Classification</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="109">
@@ -2982,6 +2980,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cityscapes">Cityscapes</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/refcoco">RefCOCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/nuscenes">nuScenes</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/openlane-v1">ssd</pwcdataset>
     </paper>
     <paper id="216">
       <title>Fact-Checking Meets Fauxtography: Verifying Claims About Images</title>
@@ -4824,7 +4823,6 @@
       <doi>10.18653/v1/D19-1347</doi>
       <bibkey>jo-cinarel-2019-delta</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="348">
       <title>Visual Detection with Context for Document Layout Analysis</title>
@@ -5854,7 +5852,6 @@
       <doi>10.18653/v1/D19-1423</doi>
       <bibkey>jia-etal-2019-certified</bibkey>
       <pwccode url="https://worksheets.codalab.org/worksheets/0x79feda5f1998497db75422eca8fcd689" additional="true">worksheets/0x79feda5f</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="424">
@@ -6860,7 +6857,6 @@
       <bibkey>zhou-etal-2019-learning</bibkey>
       <pwccode url="https://github.com/joey1993/bert-defender" additional="false">joey1993/bert-defender</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="497">
@@ -7268,7 +7264,6 @@
       <doi>10.18653/v1/D19-1525</doi>
       <bibkey>neekhara-etal-2019-adversarial</bibkey>
       <pwccode url="https://github.com/paarthneekhara/rnn_adversarial_reprogramming" additional="false">paarthneekhara/rnn_adversarial_reprogramming</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="526">
@@ -7857,7 +7852,6 @@
       <url hash="6c8199ef">D19-1567</url>
       <doi>10.18653/v1/D19-1567</doi>
       <bibkey>madasu-anvesh-rao-2019-sequential</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="568">
@@ -12111,7 +12105,6 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <url hash="3a5b3bfb">D19-5556</url>
       <doi>10.18653/v1/D19-5556</doi>
       <bibkey>novikova-etal-2019-lexical</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="57">
       <title>Towards Actual (Not Operational) Textual Style Transfer Auto-Evaluation</title>

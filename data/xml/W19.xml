@@ -3011,7 +3011,6 @@
       <bibkey>alihosseini-etal-2019-jointly</bibkey>
       <pwccode url="https://github.com/IAmS4n/TextGenerationEvaluationMetrics" additional="true">IAmS4n/TextGenerationEvaluationMetrics</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
   </volume>
   <volume id="24">
@@ -6315,7 +6314,6 @@ In this paper, we describe a compression scheme for lexicons when represented as
       <doi>10.18653/v1/W19-3715</doi>
       <bibkey>lohar-etal-2019-building</bibkey>
       <pwccode url="https://github.com/m-popovic/imdb-corpus-for-MT" additional="false">m-popovic/imdb-corpus-for-MT</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="16">
       <title>Improving Sentiment Classification in <fixed-case>S</fixed-case>lovak Language</title>
@@ -6384,7 +6382,6 @@ In this paper, we describe a compression scheme for lexicons when represented as
       <doi>10.18653/v1/W19-3802</doi>
       <bibkey>hitti-etal-2019-proposed</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/gap-coreference-dataset">GAP Coreference Dataset</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="3">
       <title>Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis</title>
@@ -10223,7 +10220,6 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <url hash="a017d6fd">W19-4824</url>
       <doi>10.18653/v1/W19-4824</doi>
       <bibkey>tsai-etal-2019-adversarial-attack</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="25">
       <title>Open Sesame: Getting inside <fixed-case>BERT</fixed-case>’s Linguistic Knowledge</title>

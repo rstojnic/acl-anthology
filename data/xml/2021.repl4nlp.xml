@@ -179,7 +179,6 @@
       <doi>10.18653/v1/2021.repl4nlp-1.11</doi>
       <bibkey>kim-etal-2021-revisiting</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scierc">SciERC</pwcdataset>
     </paper>
     <paper id="12">

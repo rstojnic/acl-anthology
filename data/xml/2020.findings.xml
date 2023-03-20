@@ -482,7 +482,6 @@
       <url hash="a0ff56f1">2020.findings-emnlp.33</url>
       <doi>10.18653/v1/2020.findings-emnlp.33</doi>
       <bibkey>russo-etal-2020-control</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="34">
       <title>Open-Ended Visual Question Answering by Multi-Modal Domain Adaptation</title>
@@ -1731,7 +1730,6 @@
       <pwccode url="https://github.com/allenai/contrast-sets" additional="false">allenai/contrast-sets</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mc-taco">MC-TACO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/perspectrum">Perspectrum</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quoref">Quoref</pwcdataset>
@@ -2637,7 +2635,6 @@
       <url hash="3fc170c9">2020.findings-emnlp.178</url>
       <doi>10.18653/v1/2020.findings-emnlp.178</doi>
       <bibkey>zhou-etal-2020-scheduled</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
     </paper>
@@ -2964,7 +2961,6 @@
       <doi>10.18653/v1/2020.findings-emnlp.198</doi>
       <bibkey>kung-etal-2020-zero</bibkey>
       <pwccode url="https://github.com/miulab/zeroshotrationale" additional="false">miulab/zeroshotrationale</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="199">
@@ -3953,7 +3949,6 @@
       <bibkey>la-malfa-etal-2020-assessing</bibkey>
       <pwccode url="https://github.com/EmanueleLM/MCTS" additional="false">EmanueleLM/MCTS</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="267">
@@ -4941,7 +4936,6 @@
       <bibkey>ren-etal-2020-denoising</bibkey>
       <pwccode url="https://github.com/weakrules/Denoise-multi-weak-sources" additional="false">weakrules/Denoise-multi-weak-sources</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="335">
       <title>Dr. Summarize: Global Summarization of Medical Dialogue by Exploiting Local Structures.</title>
@@ -5079,7 +5073,6 @@
       <bibkey>jiang-etal-2020-inserting</bibkey>
       <pwccode url="https://github.com/bazingagin/IBA" additional="false">bazingagin/IBA</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="344">
@@ -5221,7 +5214,6 @@
       <doi>10.18653/v1/2020.findings-emnlp.353</doi>
       <bibkey>pruthi-etal-2020-weakly</bibkey>
       <pwccode url="https://github.com/danishpruthi/evidence-extraction" additional="false">danishpruthi/evidence-extraction</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="354">
       <title>Making Information Seeking Easier: An Improved Pipeline for Conversational Search</title>
@@ -6036,7 +6028,6 @@
       <doi>10.18653/v1/2020.findings-emnlp.410</doi>
       <bibkey>maini-etal-2020-pool</bibkey>
       <pwccode url="https://github.com/dair-iitd/PoolingAnalysis" additional="false">dair-iitd/PoolingAnalysis</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
     </paper>
     <paper id="411">
@@ -6434,7 +6425,6 @@
       <url hash="c050b12c">2020.findings-emnlp.436</url>
       <doi>10.18653/v1/2020.findings-emnlp.436</doi>
       <bibkey>hrinchuk-etal-2020-tensorized</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>

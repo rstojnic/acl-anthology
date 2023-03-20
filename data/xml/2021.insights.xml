@@ -234,7 +234,6 @@
       <bibkey>felhi-etal-2021-challenging</bibkey>
       <pwccode url="https://github.com/ghazi-f/challenging-ssvaes" additional="false">ghazi-f/challenging-ssvaes</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="20">
       <title>Active Learning for Argument Strength Estimation</title>

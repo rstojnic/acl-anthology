@@ -431,7 +431,6 @@
       <bibkey>li-etal-2021-dynamic</bibkey>
       <pwccode url="https://github.com/lancopku/dynamickd" additional="false">lancopku/dynamickd</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -690,7 +689,6 @@
       <pwccode url="https://github.com/mourga/contrastive-active-learning" additional="false">mourga/contrastive-active-learning</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -809,7 +807,6 @@
       <abstract>Representations from large pretrained models such as BERT encode a range of features into monolithic vectors, affording strong predictive accuracy across a range of downstream tasks. In this paper we explore whether it is possible to learn disentangled representations by identifying existing subnetworks within pretrained models that encode distinct, complementary aspects. Concretely, we learn binary masks over transformer weights or hidden units to uncover subsets of features that correlate with a specific factor of variation; this eliminates the need to train a disentangled model from scratch for a particular task. We evaluate this method with respect to its ability to disentangle representations of sentiment from genre in movie reviews, toxicity from dialect in Tweets, and syntax from semantics. By combining masking with magnitude pruning we find that we can identify sparse subnetworks within BERT that strongly encode particular aspects (e.g., semantics) while only weakly encoding others (e.g., syntax). Moreover, despite only learning masks, disentanglement-via-masking performs as well as — and often better than —previously proposed methods based on variational autoencoders and adversarial training.</abstract>
       <url hash="87689b47">2021.emnlp-main.60</url>
       <bibkey>zhang-etal-2021-disentangling</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="61">
       <title>Exploring the Role of <fixed-case>BERT</fixed-case> Token Representations to Explain Sentence Probing Results</title>
@@ -1104,7 +1101,6 @@
       <attachment type="Software" hash="1872f891">2021.emnlp-main.82.Software.zip</attachment>
       <bibkey>zhang-etal-2021-certified</bibkey>
       <pwccode url="https://github.com/foreverzyh/certified_lstms" additional="false">foreverzyh/certified_lstms</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="83">
@@ -1132,7 +1128,6 @@
       <url hash="5ebfdcb0">2021.emnlp-main.84</url>
       <bibkey>zhou-etal-2021-contrastive</bibkey>
       <pwccode url="https://github.com/wzhouad/Contra-OOD" additional="false">wzhouad/Contra-OOD</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
@@ -1564,7 +1559,6 @@
       <bibkey>ivgi-berant-2021-achieving</bibkey>
       <pwccode url="https://github.com/Mivg/robust_transformers" additional="false">Mivg/robust_transformers</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="116">
@@ -1829,7 +1823,6 @@
       <bibkey>gardner-etal-2021-competency</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/english-web-treebank">English Web Treebank</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
@@ -2124,7 +2117,6 @@
       <abstract>Homomorphic encryption (HE) and garbled circuit (GC) provide the protection for users’ privacy. However, simply mixing the HE and GC in RNN models suffer from long inference latency due to slow activation functions. In this paper, we present a novel hybrid structure of HE and GC gated recurrent unit (GRU) network, , for low-latency secure inferences. replaces computationally expensive GC-based <tex-math>tanh</tex-math> with fast GC-based <tex-math>ReLU</tex-math>, and then quantizes <tex-math>sigmoid</tex-math> and <tex-math>ReLU</tex-math> to smaller bit-length to accelerate activations in a GRU. We evaluate with multiple GRU models trained on 4 public datasets. Experimental results show achieves top-notch accuracy and improves the secure inference latency by up to <tex-math>138\times</tex-math> over one of the state-of-the-art secure networks on the Penn Treebank dataset.</abstract>
       <url hash="c9d13de1">2021.emnlp-main.156</url>
       <bibkey>feng-etal-2021-cryptogru</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="157">
       <title>Local Word Discovery for Interactive Transcription</title>
@@ -2611,7 +2603,6 @@
       <url hash="965d036a">2021.emnlp-main.192</url>
       <bibkey>liu-etal-2021-flitext</bibkey>
       <pwccode url="https://github.com/valuesimplex/flitext" additional="false">valuesimplex/flitext</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="193">
       <title>Evaluating Debiasing Techniques for Intersectional Biases</title>
@@ -3022,7 +3013,6 @@
       <bibkey>zhang-etal-2021-weakly</bibkey>
       <pwccode url="https://github.com/zhanglu-cst/classkg" additional="false">zhanglu-cst/classkg</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="223">
       <title>Efficient-<fixed-case>F</fixed-case>ed<fixed-case>R</fixed-case>ec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation</title>
@@ -3233,7 +3223,6 @@
       <pwccode url="https://github.com/menghuanlater/lfhc-gcdf-rpe" additional="false">menghuanlater/lfhc-gcdf-rpe</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cmrc">CMRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
@@ -3288,7 +3277,6 @@
       <url hash="72226ab2">2021.emnlp-main.241</url>
       <bibkey>li-etal-2021-backdoor</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="242">
@@ -3441,7 +3429,6 @@
       <bibkey>li-etal-2021-searching</bibkey>
       <pwccode url="https://github.com/rockylzy/textdefender" additional="false">rockylzy/textdefender</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="252">
       <title>Re-embedding Difficult Samples via Mutual Information Constrained Semantically Oversampling for Imbalanced Text Classification</title>
@@ -5581,7 +5568,6 @@
       <url hash="cd2ad2bf">2021.emnlp-main.406</url>
       <bibkey>schuster-etal-2021-consistent</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vitaminc">VitaminC</pwcdataset>
     </paper>
     <paper id="407">
@@ -5618,7 +5604,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ebm-nlp">EBM-NLP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/evidence-inference">Evidence Inference</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="409">
       <title>Pre-train or Annotate? Domain Adaptation with a Constrained Budget</title>
@@ -6172,7 +6157,6 @@
       <attachment type="Software" hash="afb5d814">2021.emnlp-main.452.Software.zip</attachment>
       <bibkey>fern-pope-2021-text</bibkey>
       <pwccode url="https://github.com/QuintinPope/CLOSS" additional="false">QuintinPope/CLOSS</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="453">
       <title>“Average” Approximates “First Principal Component”? An Empirical Analysis on Representations from Neural Language Models</title>
@@ -6270,7 +6254,6 @@
       <bibkey>pasunuru-etal-2021-continual</bibkey>
       <pwccode url="https://github.com/ramakanth-pasunuru/cfl-benchmark" additional="false">ramakanth-pasunuru/cfl-benchmark</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
@@ -6315,7 +6298,6 @@
       <abstract>The paradigm of pre-training followed by finetuning has become a standard procedure for NLP tasks, with a known problem of domain shift between the pre-training and downstream corpus. Previous works have tried to mitigate this problem with additional pre-training, either on the downstream corpus itself when it is large enough, or on a manually curated unlabeled corpus of a similar domain. In this paper, we address the problem for the case when the downstream corpus is too small for additional pre-training. We propose TADPOLE, a task adapted pre-training framework based on data selection techniques adapted from <i>Domain Adaptation</i>. We formulate the data selection as an anomaly detection problem that unlike existing methods works well when the downstream corpus is limited in size. It results in a scalable and efficient unsupervised technique that eliminates the need for any manual data curation. We evaluate our framework on eight tasks across four different domains: Biomedical, Computer Science, News, and Movie reviews, and compare its performance against competitive baseline techniques from the area of Domain Adaptation. Our framework outperforms all the baseline methods. On small datasets with less than 5K training examples, we get a gain of 1.82% in performance with additional pre-training for only 5% steps compared to the originally pre-trained models. It also compliments some of the other techniques such as data augmentation known for boosting performance when downstream corpus is small; highest performance is achieved when data augmentation is combined with task adapted pre-training.</abstract>
       <url hash="d3bcac39">2021.emnlp-main.463</url>
       <bibkey>madan-etal-2021-tadpole</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scierc">SciERC</pwcdataset>
     </paper>
@@ -6331,7 +6313,6 @@
       <bibkey>guo-etal-2021-gradient</bibkey>
       <pwccode url="https://github.com/facebookresearch/text-adversarial-attack" additional="true">facebookresearch/text-adversarial-attack</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="465">
@@ -7210,7 +7191,6 @@
       <url hash="e0ef9dc5">2021.emnlp-main.525</url>
       <bibkey>guerreiro-martins-2021-spectra</bibkey>
       <pwccode url="https://github.com/deep-spin/spectra-rationalization" additional="true">deep-spin/spectra-rationalization</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -8836,7 +8816,6 @@
       <url hash="cd2e10c7">2021.emnlp-main.642</url>
       <bibkey>liu-etal-2021-deep</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="643">
@@ -8941,7 +8920,6 @@
       <url hash="17cb1839">2021.emnlp-main.651</url>
       <bibkey>mozes-etal-2021-contrasting</bibkey>
       <pwccode url="https://github.com/maximilianmozes/human_adversaries" additional="false">maximilianmozes/human_adversaries</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="652">
       <title>Is Information Density Uniform in Task-Oriented Dialogues?</title>
@@ -9041,7 +9019,6 @@
       <url hash="7cd6e2cd">2021.emnlp-main.659</url>
       <bibkey>yang-etal-2021-rap</bibkey>
       <pwccode url="https://github.com/lancopku/rap" additional="false">lancopku/rap</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="660">
       <title><fixed-case>FAME</fixed-case>: <fixed-case>F</fixed-case>eature-Based Adversarial Meta-Embeddings for Robust Input Representations</title>
@@ -9065,7 +9042,6 @@
       <url hash="950f6912">2021.emnlp-main.661</url>
       <bibkey>maheshwary-etal-2021-strong</bibkey>
       <pwccode url="https://github.com/rishabhmaheshwary/query-attack" additional="false">rishabhmaheshwary/query-attack</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="662">
@@ -10494,7 +10470,6 @@
       <abstract>With the wide availability of Pre-trained Language Models (PLMs), multi-task fine-tuning across domains has been extensively applied. For tasks related to distant domains with different class label sets, PLMs may memorize non-transferable knowledge for the target domain and suffer from negative transfer. Inspired by meta-learning, we propose the Meta Distant Transfer Learning (Meta-DTL) framework to learn the cross-task knowledge for PLM-based methods. Meta-DTL first employs task representation learning to mine implicit relations among multiple tasks and classes. Based on the results, it trains a PLM-based meta-learner to capture the transferable knowledge across tasks. The weighted maximum entropy regularizers are proposed to make meta-learner more task-agnostic and unbiased. Finally, the meta-learner can be fine-tuned to fit each task with better parameter initialization. We evaluate Meta-DTL using both BERT and ALBERT on seven public datasets. Experiment results confirm the superiority of Meta-DTL as it consistently outperforms strong baselines. We find that Meta-DTL is highly effective when very few data is available for the target task.</abstract>
       <url hash="86cfed8c">2021.emnlp-main.768</url>
       <bibkey>wang-etal-2021-meta-distant</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -10980,7 +10955,6 @@
       <url hash="7ad89942">2021.emnlp-main.805</url>
       <bibkey>sanyal-ren-2021-discretized</bibkey>
       <pwccode url="https://github.com/ink-usc/dig" additional="true">ink-usc/dig</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="806">
@@ -11695,7 +11669,6 @@
       <bibkey>feldhus-etal-2021-thermostat</bibkey>
       <pwccode url="https://github.com/dfki-nlp/thermostat" additional="true">dfki-nlp/thermostat</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>

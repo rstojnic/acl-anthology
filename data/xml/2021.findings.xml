@@ -1387,7 +1387,6 @@
       <doi>10.18653/v1/2021.findings-acl.99</doi>
       <bibkey>lu-etal-2021-revcore</bibkey>
       <pwccode url="https://github.com/JD-AI-Research-NLP/RevCore" additional="false">JD-AI-Research-NLP/RevCore</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/redial">ReDial</pwcdataset>
     </paper>
     <paper id="100">
@@ -1926,7 +1925,6 @@
       <doi>10.18653/v1/2021.findings-acl.137</doi>
       <bibkey>si-etal-2021-better</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="138">
@@ -2122,7 +2120,6 @@
       <doi>10.18653/v1/2021.findings-acl.152</doi>
       <bibkey>xiong-etal-2021-fusing</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="153">
       <title><fixed-case>KACC</fixed-case>: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion</title>
@@ -2600,7 +2597,6 @@
       <attachment type="OptionalSupplementaryMaterial" hash="edd05117">2021.findings-acl.189.OptionalSupplementaryMaterial.pdf</attachment>
       <doi>10.18653/v1/2021.findings-acl.189</doi>
       <bibkey>zhou-etal-2021-attending</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="190">
       <title>Improving Event Causality Identification via Self-Supervised Representation Learning on External Causal Statement</title>
@@ -3881,7 +3877,6 @@
       <url hash="b8323536">2021.findings-acl.287</url>
       <doi>10.18653/v1/2021.findings-acl.287</doi>
       <bibkey>bao-etal-2021-defending</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="288">
@@ -4370,7 +4365,6 @@
       <url hash="d59cbdba">2021.findings-acl.327</url>
       <doi>10.18653/v1/2021.findings-acl.327</doi>
       <bibkey>zafar-etal-2021-lack</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="328">
@@ -6654,7 +6648,6 @@
       <abstract>Backdoor attack introduces artificial vulnerabilities into the model by poisoning a subset of the training data via injecting triggers and modifying labels. Various trigger design strategies have been explored to attack text classifiers, however, defending such attacks remains an open problem. In this work, we propose BFClass, a novel efficient backdoor-free training framework for text classification. The backbone of BFClass is a pre-trained discriminator that predicts whether each token in the corrupted input was replaced by a masked language model. To identify triggers, we utilize this discriminator to locate the most suspicious token from each training sample and then distill a concise set by considering their association strengths with particular labels. To recognize the poisoned subset, we examine the training samples with these identified triggers as the most suspicious token, and check if removing the trigger will change the poisoned model’s prediction. Extensive experiments demonstrate that BFClass can identify all the triggers, remove 95% poisoned training samples with very limited false alarms, and achieve almost the same performance as the models trained on the benign training data.</abstract>
       <url hash="da4de9af">2021.findings-emnlp.40</url>
       <bibkey>li-etal-2021-bfclass-backdoor</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="41">
@@ -7213,7 +7206,6 @@
       <url hash="1a8df7bb">2021.findings-emnlp.81</url>
       <bibkey>yoo-qi-2021-towards-improving</bibkey>
       <pwccode url="https://github.com/QData/TextAttack-A2T" additional="false">QData/TextAttack-A2T</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="82">
@@ -8585,7 +8577,6 @@
       <bibkey>jo-etal-2021-devils-advocate</bibkey>
       <pwccode url="https://github.com/hwiyeoljo/devilsadvocate" additional="false">hwiyeoljo/devilsadvocate</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="188">
       <title><fixed-case>S</fixed-case>ide<fixed-case>C</fixed-case>ontrol: Controlled Open-domain Dialogue Generation via Additive Side Networks</title>
@@ -8674,7 +8665,6 @@
       <bibkey>yu-etal-2021-attribute-alignment</bibkey>
       <pwccode url="https://github.com/diandyu/attribute_alignment" additional="false">diandyu/attribute_alignment</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="195">
@@ -9322,7 +9312,6 @@
       <bibkey>zhong-etal-2021-adapting-language</bibkey>
       <pwccode url="https://github.com/ruiqi-zhong/Meta-tuning" additional="false">ruiqi-zhong/Meta-tuning</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="245">
       <title>Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware Multi-Task Learning for Emotion Recognition in Conversations</title>
@@ -9349,7 +9338,6 @@
       <url hash="fec4c7db">2021.findings-emnlp.246</url>
       <bibkey>quattoni-carreras-2021-minimizing-annotation</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="247">
       <title>On the Complementarity between Pre-Training and Back-Translation for Neural Machine Translation</title>
@@ -10157,7 +10145,6 @@
       <attachment type="Software" hash="ce8f51cb">2021.findings-emnlp.309.Software.zip</attachment>
       <bibkey>sengupta-etal-2021-gated-transformer</bibkey>
       <pwccode url="https://github.com/victor7246/gated-transformer" additional="false">victor7246/gated-transformer</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
     </paper>
     <paper id="310">
@@ -10380,7 +10367,6 @@
       <abstract>Recent progress in pretrained Transformer-based language models has shown great success in learning contextual representation of text. However, due to the quadratic self-attention complexity, most of the pretrained Transformers models can only handle relatively short text. It is still a challenge when it comes to modeling very long documents. In this work, we propose to use a graph attention network on top of the available pretrained Transformers model to learn document embeddings. This graph attention network allows us to leverage the high-level semantic structure of the document. In addition, based on our graph document model, we design a simple contrastive learning strategy to pretrain our models on a large amount of unlabeled corpus. Empirically, we demonstrate the effectiveness of our approaches in document classification and document retrieval tasks.</abstract>
       <url hash="578dc8a7">2021.findings-emnlp.327</url>
       <bibkey>xu-etal-2021-contrastive-document</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openwebtext">OpenWebText</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webtext">WebText</pwcdataset>
@@ -10955,7 +10941,6 @@
       <abstract>NLP models are vulnerable to data poisoning attacks. One type of attack can plant a backdoor in a model by injecting poisoned examples in training, causing the victim model to misclassify test instances which include a specific pattern. Although defences exist to counter these attacks, they are specific to an attack type or pattern. In this paper, we propose a generic defence mechanism by making the training process robust to poisoning attacks through gradient shaping methods, based on differentially private training. We show that our method is highly effective in mitigating, or even eliminating, poisoning attacks on text classification, with only a small cost in predictive accuracy.</abstract>
       <url hash="24988dfc">2021.findings-emnlp.369</url>
       <bibkey>xu-etal-2021-mitigating-data</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="370">
       <title>Does Vision-and-Language Pretraining Improve Lexical Grounding?</title>

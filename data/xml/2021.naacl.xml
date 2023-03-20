@@ -1229,7 +1229,6 @@
       <bibkey>yu-etal-2021-fine</bibkey>
       <pwccode url="https://github.com/yueyu1030/COSINE" additional="false">yueyu1030/COSINE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
     </paper>
@@ -1247,7 +1246,6 @@
       <bibkey>cheng-etal-2021-posterior</bibkey>
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/bioasq">BioASQ</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrqa-2019">MRQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -1280,7 +1278,6 @@
       <doi>10.18653/v1/2021.naacl-main.87</doi>
       <bibkey>wang-etal-2021-certified</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="88">
       <title><fixed-case>DR</fixed-case>e<fixed-case>C</fixed-case>a: A General Task Augmentation Strategy for Few-Shot Natural Language Inference</title>
@@ -1998,7 +1995,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/drcd">DRCD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dureader">DuReader</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
@@ -2413,7 +2409,6 @@
       <doi>10.18653/v1/2021.naacl-main.165</doi>
       <bibkey>yang-etal-2021-careful</bibkey>
       <pwccode url="https://github.com/lancopku/Embedding-Poisoning" additional="false">lancopku/Embedding-Poisoning</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
@@ -3339,7 +3334,6 @@
       <doi>10.18653/v1/2021.naacl-main.228</doi>
       <bibkey>pergola-etal-2021-disentangled</bibkey>
       <pwccode url="https://github.com/gabrer/diatom" additional="false">gabrer/diatom</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="229">
       <title>Graph Ensemble Learning over Multiple Dependency Trees for Aspect-level Sentiment Classification</title>
@@ -5911,7 +5905,6 @@
       <attachment type="OptionalSupplementaryCode" hash="65e3c865">2021.naacl-main.413.OptionalSupplementaryCode.zip</attachment>
       <doi>10.18653/v1/2021.naacl-main.413</doi>
       <bibkey>subramanian-etal-2021-spanpredict</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="414">
       <title>Text Editing by Command</title>
@@ -6186,7 +6179,6 @@
       <bibkey>zhang-etal-2021-neural</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="431">
@@ -6652,7 +6644,6 @@
       <bibkey>ye-etal-2021-tr</bibkey>
       <pwccode url="https://github.com/thunlp/TR-BERT" additional="false">thunlp/TR-BERT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsqa">NewsQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
@@ -6939,7 +6930,6 @@
       <url hash="730d19d5">2021.naacl-demos.5</url>
       <doi>10.18653/v1/2021.naacl-demos.5</doi>
       <bibkey>li-etal-2021-fitannotator</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="6">
       <title>Robustness Gym: Unifying the <fixed-case>NLP</fixed-case> Evaluation Landscape</title>

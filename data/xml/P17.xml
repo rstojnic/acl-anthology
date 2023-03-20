@@ -28,7 +28,6 @@
     </abstract>
       <video href="https://vimeo.com/234952967" tag="video"/>
       <bibkey>liu-etal-2017-adversarial</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="2">
       <title>Neural End-to-End Learning for Computational Argumentation Mining</title>
@@ -484,7 +483,6 @@ two word-vectors results in a vector that is only a small angle away from the ve
       <video href="https://vimeo.com/234951882" tag="video"/>
       <bibkey>lau-etal-2017-topically</bibkey>
       <pwccode url="https://github.com/jhlau/topically-driven-language-model" additional="false">jhlau/topically-driven-language-model</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="34">
       <title>Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors</title>
@@ -2401,7 +2399,6 @@ two word-vectors results in a vector that is only a small angle away from the ve
       <abstract>Lexical ambiguity can impede NLP systems from accurate understanding of semantics. Despite its potential benefits, the integration of sense-level information into NLP systems has remained understudied. By incorporating a novel disambiguation algorithm into a state-of-the-art classification model, we create a pipeline to integrate sense-level information into downstream NLP applications. We show that a simple disambiguation of the input text can lead to consistent performance improvement on multiple topic categorization and polarity detection datasets, particularly when the fine granularity of the underlying sense inventory is reduced and the document is sufficiently large. Our results also point to the need for sense representation research to focus more on in vivo evaluations which target the performance in downstream NLP applications rather than artificial benchmarks.</abstract>
       <bibkey>pilehvar-etal-2017-towards</bibkey>
       <pwccode url="https://github.com/pilehvar/sensecnn" additional="false">pilehvar/sensecnn</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/word-sense-disambiguation-a-unified">Word Sense Disambiguation: a Unified Evaluation Framework and Empirical Comparison</pwcdataset>
     </paper>
     <paper id="171">
@@ -2437,7 +2434,6 @@ two word-vectors results in a vector that is only a small angle away from the ve
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cbt">CBT</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="173">
       <title>An Algebra for Feature Extraction</title>

@@ -4273,7 +4273,6 @@
       <url hash="a69e2c4e">W14-2614</url>
       <doi>10.3115/v1/W14-2614</doi>
       <bibkey>kim-zhang-2014-credibility</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="15">
       <title>Opinion Mining and Topic Categorization with Novel Term Weighting</title>
