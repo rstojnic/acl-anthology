@@ -2848,6 +2848,7 @@
       <bibkey>chen-etal-2020-mixtext</bibkey>
       <pwccode url="https://github.com/GT-SALT/MixText" additional="true">GT-SALT/MixText</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="195">
       <title><fixed-case>M</fixed-case>obile<fixed-case>BERT</fixed-case>: a Compact Task-Agnostic <fixed-case>BERT</fixed-case> for Resource-Limited Devices</title>
@@ -2975,6 +2976,7 @@
       <bibkey>mukherjee-hassan-awadallah-2020-xtremedistil</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="203">
       <title>A Girl Has A Name: Detecting Authorship Obfuscation</title>
@@ -3603,6 +3605,7 @@
       <video tag="video" href="http://slideslive.com/38929340"/>
       <bibkey>hendrycks-etal-2020-pretrained</bibkey>
       <pwccode url="https://github.com/camelop/NLP-Robustness" additional="false">camelop/NLP-Robustness</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/record">ReCoRD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
@@ -3998,6 +4001,7 @@
       <doi>10.18653/v1/2020.acl-main.271</doi>
       <video tag="video" href="http://slideslive.com/38929422"/>
       <bibkey>kuwabara-etal-2020-single</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rcv1">RCV1</pwcdataset>
     </paper>
     <paper id="272">
@@ -4661,6 +4665,7 @@
       <video tag="video" href="http://slideslive.com/38928757"/>
       <bibkey>ye-etal-2020-safer</bibkey>
       <pwccode url="https://github.com/lushleaf/Structure-free-certified-NLP" additional="false">lushleaf/Structure-free-certified-NLP</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="318">
       <title>A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction</title>
@@ -5681,6 +5686,7 @@
       <bibkey>mohankumar-etal-2020-towards</bibkey>
       <pwccode url="https://github.com/akashkm99/Interpretable-Attention" additional="true">akashkm99/Interpretable-Attention</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -7305,6 +7311,7 @@
       <video tag="video" href="http://slideslive.com/38929188"/>
       <bibkey>chen-etal-2020-generating-hierarchical</bibkey>
       <pwccode url="https://github.com/UVa-NLP/HEDGE" additional="true">UVa-NLP/HEDGE</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="495">
@@ -7994,6 +8001,7 @@
       <video tag="video" href="http://slideslive.com/38928950"/>
       <bibkey>zang-etal-2020-word</bibkey>
       <pwccode url="https://github.com/thunlp/SememePSO-Attack" additional="false">thunlp/SememePSO-Attack</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -8725,6 +8733,7 @@
       <doi>10.18653/v1/2020.acl-main.589</doi>
       <video tag="video" href="http://slideslive.com/38928814"/>
       <bibkey>nguyen-etal-2020-differentiable</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="590">
@@ -8791,6 +8800,7 @@
       <video tag="video" href="http://slideslive.com/38929251"/>
       <bibkey>schwartz-etal-2020-right</bibkey>
       <pwccode url="https://github.com/allenai/sledgehammer" additional="false">allenai/sledgehammer</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -10947,6 +10957,7 @@
       <video tag="video" href="http://slideslive.com/38929123"/>
       <bibkey>gururangan-etal-2020-dont</bibkey>
       <pwccode url="https://github.com/allenai/dont-stop-pretraining" additional="true">allenai/dont-stop-pretraining</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/s2orc">S2ORC</pwcdataset>
     </paper>
     <paper id="741">

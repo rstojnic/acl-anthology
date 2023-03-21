@@ -193,6 +193,7 @@
       <url hash="47861133">2021.eacl-main.13</url>
       <bibkey>mozes-etal-2021-frequency</bibkey>
       <doi>10.18653/v1/2021.eacl-main.13</doi>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="14">
@@ -554,6 +555,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cosmosqa">CosmosQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hellaswag">HellaSwag</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
@@ -2921,6 +2923,7 @@
       <url hash="34e58aaf">2021.eacl-main.217</url>
       <bibkey>zemlyanskiy-etal-2021-docent</bibkey>
       <doi>10.18653/v1/2021.eacl-main.217</doi>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/movielens">MovieLens</pwcdataset>
     </paper>
     <paper id="218">
@@ -3544,6 +3547,7 @@
       <bibkey>bashier-etal-2021-disk</bibkey>
       <doi>10.18653/v1/2021.eacl-main.263</doi>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="264">
       <title>Attention Can Reflect Syntactic Structure (If You Let It)</title>
@@ -3835,6 +3839,7 @@
       <bibkey>zeng-song-2021-variational</bibkey>
       <doi>10.18653/v1/2021.eacl-main.285</doi>
       <pwccode url="https://github.com/HKUST-KnowComp/VWS-PR" additional="false">HKUST-KnowComp/VWS-PR</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="286">
       <title>Framing Word Sense Disambiguation as a Multi-Label Problem for Model-Agnostic Knowledge Integration</title>

@@ -2838,6 +2838,7 @@
       <doi>10.18653/v1/P18-1189</doi>
       <bibkey>card-etal-2018-neural</bibkey>
       <pwccode url="https://github.com/dallascard/scholar" additional="true">dallascard/scholar</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="190">
       <title><fixed-case>NASH</fixed-case>: Toward End-to-End Neural Architecture for Generative Semantic Hashing</title>
@@ -5003,6 +5004,7 @@
       <attachment type="poster" hash="48bf3245">P18-2084.Poster.pdf</attachment>
       <doi>10.18653/v1/P18-2084</doi>
       <bibkey>torki-2018-document</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
     </paper>

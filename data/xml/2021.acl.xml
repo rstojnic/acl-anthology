@@ -400,6 +400,7 @@
       <doi>10.18653/v1/2021.acl-long.26</doi>
       <bibkey>yang-etal-2021-exploring</bibkey>
       <pwccode url="https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis" additional="false">lijiazheng99/Counterfactuals-for-Sentiment-Analysis</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="27">
       <title>Bridge-Based Active Domain Adaptation for Aspect Term Extraction</title>
@@ -582,6 +583,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="c58dcd11">2021.acl-long.40.OptionalSupplementaryMaterial.pdf</attachment>
       <doi>10.18653/v1/2021.acl-long.40</doi>
       <bibkey>chrysostomou-aletras-2021-improving</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="41">
@@ -707,6 +709,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
@@ -1055,6 +1058,7 @@
       <doi>10.18653/v1/2021.acl-long.71</doi>
       <bibkey>sikdar-etal-2021-integrated</bibkey>
       <pwccode url="https://github.com/parantapa/integrated-directional-gradients" additional="false">parantapa/integrated-directional-gradients</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="72">
@@ -1426,6 +1430,7 @@
       <bibkey>bhardwaj-etal-2021-identifiable</bibkey>
       <pwccode url="https://github.com/declare-lab/identifiable-transformers" additional="false">declare-lab/identifiable-transformers</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -2735,6 +2740,7 @@
       <bibkey>wang-etal-2021-cline</bibkey>
       <pwccode url="https://github.com/kandorm/CLINE" additional="false">kandorm/CLINE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/perspectrum">Perspectrum</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
@@ -2811,6 +2817,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/dynasent">DynaSent</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -2959,6 +2966,7 @@
       <url hash="86ff58a0">2021.acl-long.196</url>
       <doi>10.18653/v1/2021.acl-long.196</doi>
       <bibkey>chen-etal-2021-kace</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e-snli">e-SNLI</pwcdataset>
     </paper>
@@ -3510,6 +3518,7 @@
       <bibkey>duan-etal-2021-enslm</bibkey>
       <pwccode url="https://github.com/bochengroup/enslm" additional="false">bochengroup/enslm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="231">
       <title><fixed-case>L</fixed-case>ee<fixed-case>BERT</fixed-case>: Learned Early Exit for <fixed-case>BERT</fixed-case> with cross-level optimization</title>
@@ -3947,6 +3956,7 @@
       <bibkey>diao-etal-2021-taming</bibkey>
       <pwccode url="https://github.com/shizhediao/t-dna" additional="false">shizhediao/t-dna</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="260">
       <title><fixed-case>ERICA</fixed-case>: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning</title>
@@ -4183,6 +4193,7 @@
       <url hash="f03253dc">2021.acl-long.273</url>
       <doi>10.18653/v1/2021.acl-long.273</doi>
       <bibkey>zhan-etal-2021-scope</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="274">
       <title>Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker</title>
@@ -5095,6 +5106,7 @@
       <pwccode url="https://github.com/google-research/google-research/tree/master/pretrained_conv" additional="false">google-research/google-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/c4">C4</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -5143,6 +5155,7 @@
       <bibkey>chen-etal-2021-hiddencut</bibkey>
       <pwccode url="https://github.com/GT-SALT/HiddenCut" additional="false">GT-SALT/HiddenCut</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
     </paper>
     <paper id="339">
@@ -6244,6 +6257,7 @@
       <url hash="32ef3ec5">2021.acl-long.413</url>
       <doi>10.18653/v1/2021.acl-long.413</doi>
       <bibkey>luo-etal-2021-positional</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
     </paper>
@@ -6443,6 +6457,7 @@
       <doi>10.18653/v1/2021.acl-long.426</doi>
       <bibkey>zhou-etal-2021-defense</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="427">
@@ -6518,6 +6533,7 @@
       <doi>10.18653/v1/2021.acl-long.431</doi>
       <bibkey>yang-etal-2021-rethinking</bibkey>
       <pwccode url="https://github.com/lancopku/sos" additional="false">lancopku/sos</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="432">
       <title>Crowdsourcing Learning as Domain Adaptation: <fixed-case>A</fixed-case> Case Study on Named Entity Recognition</title>
@@ -7945,6 +7961,7 @@
       <bibkey>wu-etal-2021-polyjuice</bibkey>
       <pwccode url="https://github.com/tongshuangwu/polyjuice" additional="false">tongshuangwu/polyjuice</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -9187,6 +9204,7 @@
       <doi>10.18653/v1/2021.acl-short.39</doi>
       <bibkey>aithal-tan-2021-positivity</bibkey>
       <pwccode url="https://github.com/madhu-aithal/Positivity-Bias-in-Negative-Reviews" additional="false">madhu-aithal/Positivity-Bias-in-Negative-Reviews</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/peerread">PeerRead</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -10156,6 +10174,7 @@
       <bibkey>meissner-etal-2021-embracing</bibkey>
       <pwccode url="https://github.com/mariomeissner/AmbiNLI" additional="false">mariomeissner/AmbiNLI</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/chaosnli">ChaosNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
@@ -11140,6 +11159,7 @@
       <bibkey>li-etal-2021-textbox</bibkey>
       <pwccode url="https://github.com/RUCAIBox/TextBox" additional="false">RUCAIBox/TextBox</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="5">
       <title>Inside <fixed-case>ASCENT</fixed-case>: Exploring a Deep Commonsense Knowledge Base and its Usage in Question Answering</title>

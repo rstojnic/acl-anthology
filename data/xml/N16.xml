@@ -1915,6 +1915,7 @@
       <doi>10.18653/v1/N16-1174</doi>
       <bibkey>yang-etal-2016-hierarchical</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/acl-arc-1">ACL ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
     </paper>
     <paper id="175">
@@ -1949,6 +1950,7 @@
       <doi>10.18653/v1/N16-1177</doi>
       <bibkey>zhang-etal-2016-dependency</bibkey>
       <pwccode url="" additional="true"/>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="178">

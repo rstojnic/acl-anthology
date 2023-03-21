@@ -1469,6 +1469,7 @@
       <doi>10.18653/v1/P19-1103</doi>
       <bibkey>ren-etal-2019-generating</bibkey>
       <pwccode url="https://github.com/JHL-HUST/PWWS" additional="false">JHL-HUST/PWWS</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
     </paper>
     <paper id="104">
@@ -2075,6 +2076,7 @@
       <doi>10.18653/v1/P19-1145</doi>
       <bibkey>tay-etal-2019-lightweight</bibkey>
       <pwccode url="https://github.com/vanzytay/QuaternionTransformers" additional="false">vanzytay/QuaternionTransformers</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -5569,6 +5571,7 @@
       <url hash="c03c04af">P19-1395</url>
       <doi>10.18653/v1/P19-1395</doi>
       <bibkey>aghajanyan-etal-2019-towards</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="396">
@@ -7902,6 +7905,7 @@
       <attachment type="supplementary" hash="29b13efa">P19-1559.Supplementary.pdf</attachment>
       <doi>10.18653/v1/P19-1559</doi>
       <bibkey>zhang-etal-2019-generating-fluent</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="560">
@@ -7926,6 +7930,7 @@
       <doi>10.18653/v1/P19-1561</doi>
       <bibkey>pruthi-etal-2019-combating</bibkey>
       <pwccode url="https://github.com/danishpruthi/Adversarial-Misspellings" additional="true">danishpruthi/Adversarial-Misspellings</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
     </paper>
     <paper id="562">
@@ -8329,6 +8334,7 @@
       <bibkey>gururangan-etal-2019-variational</bibkey>
       <pwccode url="https://github.com/allenai/vampire" additional="false">allenai/vampire</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="591">
       <title>Task Refinement Learning for Improved Accuracy and Stability of Unsupervised Domain Adaptation</title>
@@ -8482,6 +8488,7 @@
       <doi>10.18653/v1/P19-1601</doi>
       <bibkey>dai-etal-2019-style</bibkey>
       <pwccode url="https://github.com/fastnlp/style-transformer" additional="true">fastnlp/style-transformer</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="602">
       <title>Generating Sentences from Disentangled Syntactic and Semantic Spaces</title>

@@ -1871,6 +1871,7 @@
       <doi>10.18653/v1/D15-1167</doi>
       <video href="https://vimeo.com/162148642" tag="video"/>
       <bibkey>tang-etal-2015-document</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="168">
       <title>Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings</title>
@@ -2811,6 +2812,7 @@
       <doi>10.18653/v1/D15-1251</doi>
       <video href="https://vimeo.com/170928429" tag="video"/>
       <bibkey>yogatama-etal-2015-bayesian</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="252">
       <title>A Comparative Study on Regularization Strategies for Embedding-based Neural Networks</title>
@@ -3125,6 +3127,7 @@
       <doi>10.18653/v1/D15-1280</doi>
       <video href="https://vimeo.com/173979461" tag="video"/>
       <bibkey>liu-etal-2015-multi</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="281">
@@ -3397,6 +3400,7 @@
       <url hash="cede21e4">D15-1305</url>
       <doi>10.18653/v1/D15-1305</doi>
       <bibkey>xing-etal-2015-reinforcing</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="306">
       <title>That’s So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data Augmentation Approach to Automatic Categorization of Annoying Behaviors using #petpeeve Tweets</title>

@@ -3233,6 +3233,7 @@
       <doi>10.18653/v1/N18-2034</doi>
       <bibkey>dingwall-potts-2018-mittens</bibkey>
       <pwccode url="https://github.com/roamanalytics/mittens" additional="false">roamanalytics/mittens</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="35">
       <title>Olive Oil is Made <i>of</i> Olives, Baby Oil is Made <i>for</i> Babies: Interpreting Noun Compounds Using Paraphrases in a Neural Model</title>
@@ -4275,6 +4276,7 @@
       <bibkey>chen-gimpel-2018-smaller</bibkey>
       <pwccode url="https://github.com/mingdachen/word-cluster-embedding" additional="false">mingdachen/word-cluster-embedding</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="117">
       <title>Role-specific Language Models for Processing Recorded Neuropsychological Exams</title>

@@ -2604,6 +2604,7 @@
       <url hash="4e565bf7">W16-1624</url>
       <doi>10.18653/v1/W16-1624</doi>
       <bibkey>sattigeri-j-thiagarajan-2016-sparsifying</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="25">
       <title>Why “Blow Out”? A Structural Analysis of the Movie Dialog Dataset</title>
@@ -2626,6 +2627,7 @@
       <doi>10.18653/v1/W16-1626</doi>
       <bibkey>sheikh-etal-2016-learning</bibkey>
       <pwccode url="https://github.com/mranahmd/nbow2-text-class" additional="false">mranahmd/nbow2-text-class</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="27">
       <title>A Vector Model for Type-Theoretical Semantics</title>
@@ -12881,6 +12883,7 @@
       <pages>249–258</pages>
       <url hash="5ce15077">W16-6331</url>
       <bibkey>gupta-etal-2016-opinion</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="32">
       <title>Use of Semantic Knowledge Base for Enhancement of Coherence of Code-mixed Topic-Based Aspect Clusters</title>

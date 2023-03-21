@@ -633,6 +633,7 @@
       <doi>10.18653/v1/D17-1048</doi>
       <abstract>Attention models are proposed in sentiment analysis because some words are more important than others. However,most existing methods either use local context based text information or user preference information. In this work, we propose a novel attention model trained by cognition grounded eye-tracking data. A reading prediction model is first built using eye-tracking data as dependent data and other features in the context as independent data. The predicted reading time is then used to build a cognition based attention (CBA) layer for neural sentiment analysis. As a comprehensive model, We can capture attentions of words in sentences as well as sentences in documents. Different attention mechanisms can also be incorporated to capture other aspects of attentions. Evaluations show the CBA based method outperforms the state-of-the-art local context based attention methods significantly. This brings insight to how cognition grounded data can be brought into NLP tasks.</abstract>
       <bibkey>long-etal-2017-cognition</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="49">
       <title>Author-aware Aspect Topic Sentiment Model to Retrieve Supporting Opinions from Reviews</title>
@@ -3298,6 +3299,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <doi>10.18653/v1/D17-1257</doi>
       <abstract>The number of word embedding models is growing every year. Most of them are based on the co-occurrence information of words and their contexts. However, it is still an open question what is the best definition of context. We provide a systematical investigation of 4 different syntactic context types and context representations for learning word embeddings. Comprehensive experiments are conducted to evaluate their effectiveness on 6 extrinsic and intrinsic tasks. We hope that this paper, along with the published code, would be helpful for choosing the best context type and representation for a given task.</abstract>
       <bibkey>li-etal-2017-investigating</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="258">
       <title>Does syntax help discourse segmentation? Not so much</title>

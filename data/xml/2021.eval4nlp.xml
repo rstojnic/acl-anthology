@@ -213,6 +213,7 @@
       <pages>189–199</pages>
       <url hash="13c8fc43">2021.eval4nlp-1.19</url>
       <bibkey>chen-etal-2021-error</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="20">

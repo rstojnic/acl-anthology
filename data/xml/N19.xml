@@ -54,6 +54,7 @@
       <video href="https://vimeo.com/347373924" tag="video"/>
       <doi>10.18653/v1/N19-1003</doi>
       <bibkey>amiri-2019-neural</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="4">
       <title>Neural language models as psycholinguistic subjects: Representations of syntactic state</title>
@@ -223,6 +224,7 @@
       <doi>10.18653/v1/N19-1015</doi>
       <video href="https://vimeo.com/353433493" tag="video"/>
       <bibkey>wang-etal-2019-topic</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="16">
       <title>Implementation of a <fixed-case>C</fixed-case>homsky-Schützenberger n-best parser for weighted multiple context-free grammars</title>
@@ -896,6 +898,7 @@
       <video href="https://vimeo.com/356020948" tag="video"/>
       <bibkey>hoyle-etal-2019-combining</bibkey>
       <pwccode url="https://github.com/ahoho/SentiVAE" additional="false">ahoho/SentiVAE</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="66">
       <title>Enhancing Opinion Role Labeling with Semantic-Aware Word Representations from Semantic Role Labeling</title>
@@ -1979,6 +1982,7 @@
       <url hash="6da911dc">N19-1143</url>
       <doi>10.18653/v1/N19-1143</doi>
       <bibkey>amiri-mohtarami-2019-vector</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="144">
       <title>Predicting the Type and Target of Offensive Posts in Social Media</title>
@@ -3461,6 +3465,7 @@
       <doi>10.18653/v1/N19-1255</doi>
       <video href="https://vimeo.com/355814096" tag="video"/>
       <bibkey>chen-etal-2019-self</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="256">
       <title>Adaptive Convolution for Text Classification</title>
@@ -4323,6 +4328,7 @@
       <video href="https://vimeo.com/347415373" tag="video"/>
       <bibkey>zhang-etal-2019-mitigating</bibkey>
       <pwccode url="https://github.com/xuczhang/UncertainDC" additional="false">xuczhang/UncertainDC</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="317">
       <title>Complexity-Weighted Loss and Diverse Reranking for Sentence Simplification</title>
@@ -4861,6 +4867,7 @@
       <bibkey>jain-wallace-2019-attention</bibkey>
       <pwccode url="https://github.com/successar/AttentionExplanation" additional="true">successar/AttentionExplanation</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -6627,6 +6634,7 @@
       <bibkey>akbik-etal-2019-flair</bibkey>
       <pwccode url="https://github.com/zalandoresearch/flair" additional="false">zalandoresearch/flair</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="11">
       <title><fixed-case>C</fixed-case>hat<fixed-case>E</fixed-case>val: A Tool for Chatbot Evaluation</title>

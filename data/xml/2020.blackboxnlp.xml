@@ -51,6 +51,7 @@
       <url hash="317b4a79">2020.blackboxnlp-1.3</url>
       <doi>10.18653/v1/2020.blackboxnlp-1.3</doi>
       <bibkey>zhu-etal-2020-examining</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="4">
       <title>What Happens To <fixed-case>BERT</fixed-case> Embeddings During Fine-tuning?</title>

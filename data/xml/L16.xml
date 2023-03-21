@@ -2033,6 +2033,7 @@
       <abstract>This paper presents some experiments for specialising Paragraph Vectors, a new technique for creating text fragment (phrase, sentence, paragraph, text, ...) embedding vectors, for text polarity detection. The first extension regards the injection of polarity information extracted from a polarity lexicon into embeddings and the second extension aimed at inserting word order information into Paragraph Vectors. These two extensions, when training a logistic-regression classifier on the combined embeddings, were able to produce a relevant gain in performance when compared to the standard Paragraph Vector methods proposed by Le and Mikolov (2014).</abstract>
       <url hash="74b15d56">L16-1189</url>
       <bibkey>tamburini-2016-specialising</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="190">
       <title>Evaluating Lexical Similarity to build Sentiment Similarity</title>

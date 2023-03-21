@@ -2073,6 +2073,7 @@
       <url hash="a5a79e51">W18-1205</url>
       <doi>10.18653/v1/W18-1205</doi>
       <bibkey>li-etal-2018-subword</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="6">
       <title>Discovering Phonesthemes with Sparse Regularization</title>
@@ -9873,6 +9874,7 @@
       <abstract>Natural language processing has greatly benefited from the introduction of the attention mechanism. However, standard attention models are of limited interpretability for tasks that involve a series of inference steps. We describe an iterative recursive attention model, which constructs incremental representations of input data through reusing results of previously computed queries. We train our model on sentiment classification datasets and demonstrate its capacity to identify and combine different aspects of the input in an easily interpretable manner, while obtaining performance close to the state of the art.</abstract>
       <doi>10.18653/v1/W18-5427</doi>
       <bibkey>tutek-snajder-2018-iterative</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="28">
@@ -11455,6 +11457,7 @@
       <abstract>Vaccination behaviour detection deals with predicting whether or not a person received/was about to receive a vaccine. We present our submission for vaccination behaviour detection shared task at the SMM4H workshop. Our findings are based on three prevalent text classification approaches: rule-based, statistical and deep learning-based. Our final submissions are: (1) an ensemble of statistical classifiers with task-specific features derived using lexicons, language processing tools and word embeddings; and, (2) a LSTM classifier with pre-trained language models.</abstract>
       <doi>10.18653/v1/W18-5911</doi>
       <bibkey>joshi-etal-2018-shot</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>

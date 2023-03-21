@@ -1402,6 +1402,7 @@
       <url hash="66513075">P16-1125</url>
       <doi>10.18653/v1/P16-1125</doi>
       <bibkey>wang-cho-2016-larger</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="126">
       <title>The Creation and Analysis of a Website Privacy Policy Corpus</title>

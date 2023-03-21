@@ -10666,6 +10666,7 @@
       <url hash="76c0f1c6">2020.lrec-1.856</url>
       <language>eng</language>
       <bibkey>shah-de-melo-2020-correcting</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
     </paper>
     <paper id="857">
       <title><fixed-case>K</fixed-case>id<fixed-case>S</fixed-case>pell: A Child-Oriented, Rule-Based, Phonetic Spellchecker</title>
