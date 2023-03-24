@@ -111,6 +111,7 @@
       <attachment type="Software" hash="ce213f27">2021.crac-1.8.Software.zip</attachment>
       <bibkey>stylianou-vlahavas-2021-corelm</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/cbt">CBT</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/children-s-book-test">Children's Book Test</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/lambada">LAMBADA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
