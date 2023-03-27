@@ -95,6 +95,7 @@
       <url hash="fd91193b">2020.aacl-main.7</url>
       <attachment type="Dataset" hash="e3d69c75">2020.aacl-main.7.Dataset.pdf</attachment>
       <bibkey>wenjie-etal-2020-bcth</bibkey>
+      <pwccode url="https://github.com/myazi/semhash" additional="false">myazi/semhash</pwccode>
     </paper>
     <paper id="8">
       <title>Lightweight Text Classifier using Sinusoidal Positional Encoding</title>
