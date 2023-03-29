@@ -87,7 +87,6 @@
       <url hash="67e5c981">2021.finnlp-1.8</url>
       <bibkey>chopra-ghosh-2021-term</bibkey>
       <pwccode url="https://github.com/sohomghosh/FinSim_Financial_Hypernym_detection" additional="false">sohomghosh/FinSim_Financial_Hypernym_detection</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/finsim-3">FinSim-3</pwcdataset>
     </paper>
     <paper id="9">
       <title>Yseop at <fixed-case>F</fixed-case>in<fixed-case>S</fixed-case>im-3 Shared Task 2021: Specializing Financial Domain Learning with Phrase Representations</title>
