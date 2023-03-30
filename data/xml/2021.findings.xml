@@ -2304,6 +2304,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="ac772b3f">2021.findings-acl.166.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.166</doi>
       <bibkey>botelho-etal-2021-deciphering</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/mmhs150k">MMHS150k</pwcdataset>
     </paper>
     <paper id="167">
       <title>Studying the Evolution of Scientific Topics and their Relationships</title>
