@@ -5554,6 +5554,7 @@
       <bibkey>saravia-etal-2018-carer</bibkey>
       <pwccode url="https://github.com/dair-ai/emotion_dataset" additional="false">dair-ai/emotion_dataset</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/emotion">CARER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/gun-detection-dataset">Gun Detection Dataset</pwcdataset>
     </paper>
     <paper id="405">
       <title>Noise Contrastive Estimation and Negative Sampling for Conditional Models: Consistency and Statistical Efficiency</title>
