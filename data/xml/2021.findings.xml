@@ -240,7 +240,7 @@
       <bibkey>chen-etal-2021-wikitablet</bibkey>
       <pwccode url="https://github.com/mingdachen/WikiTableT" additional="false">mingdachen/WikiTableT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitablet">WikiTableT</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/dart">dart</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/dart">DART</pwcdataset>
     </paper>
     <paper id="18">
       <title><fixed-case>C</fixed-case>o<fixed-case>D</fixed-case>esc: A Large Code–Description Parallel Dataset</title>

@@ -524,7 +524,7 @@
       <doi>10.18653/v1/2021.naacl-main.37</doi>
       <bibkey>nan-etal-2021-dart</bibkey>
       <pwccode url="https://github.com/Yale-LILY/dart" additional="true">Yale-LILY/dart</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/dart">dart</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/dart">DART</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e2e">E2E</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
