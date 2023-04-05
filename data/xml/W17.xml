@@ -964,6 +964,7 @@
       <pages>140–145</pages>
       <url hash="544e22b6">W17-0418</url>
       <bibkey>silfverberg-hulden-2017-automatic</bibkey>
+      <pwccode url="https://github.com/mpsilfve/ud-segmenter" additional="false">mpsilfve/ud-segmenter</pwccode>
     </paper>
     <paper id="19">
       <title>A Systematic Comparison of Syntactic Representations of Dependency Parsing</title>
