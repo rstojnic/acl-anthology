@@ -4391,6 +4391,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <doi>10.18653/v1/W17-2343</doi>
       <abstract>We present the work-in-progress of automating the classification of doctor-patient questions in the context of a simulated consultation with a virtual patient. We classify questions according to the computational strategy (rule-based or other) needed for looking up data in the clinical record. We compare ‘traditional’ machine learning methods (Gaussian and Multinomial Naive Bayes, and Support Vector Machines) and a neural network classifier (FastText). We obtained the best results with the SVM using semantic annotations, whereas the neural classifier achieved promising results without it.</abstract>
       <bibkey>campillos-llanos-etal-2017-automatic</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/doctor-patient-questions-french">Doctor-patient questions (French)</pwcdataset>
     </paper>
     <paper id="44">
       <title>Assessing the performance of <fixed-case>O</fixed-case>lelo, a real-time biomedical question answering application</title>
