@@ -674,6 +674,7 @@
       <doi>10.18653/v1/2020.emnlp-main.42</doi>
       <video tag="video" href="https://slideslive.com/38938969"/>
       <bibkey>chen-etal-2020-accurate</bibkey>
+      <pwccode url="https://github.com/sufe-nlp/transformer-alignment" additional="false">sufe-nlp/transformer-alignment</pwccode>
     </paper>
     <paper id="43">
       <title><fixed-case>C</fixed-case>hr<fixed-case>E</fixed-case>n: <fixed-case>C</fixed-case>herokee-<fixed-case>E</fixed-case>nglish Machine Translation for Endangered Language Revitalization</title>

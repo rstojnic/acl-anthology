@@ -3680,8 +3680,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/rocstories">ROCStories</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
     </paper>
     <paper id="271">
       <title>Multi-task Learning with Sample Re-weighting for Machine Reading Comprehension</title>
@@ -5891,6 +5891,7 @@
       <url hash="e93e5bcc">N19-2005</url>
       <doi>10.18653/v1/N19-2005</doi>
       <bibkey>liu-etal-2019-graph</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/wildreceipt">WildReceipt</pwcdataset>
     </paper>
     <paper id="6">
       <title>Diversifying Reply Suggestions Using a Matching-Conditional Variational Autoencoder</title>

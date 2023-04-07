@@ -2166,7 +2166,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <abstract>Automatic story comprehension is a fundamental challenge in Natural Language Understanding, and can enable computers to learn about social norms, human behavior and commonsense. In this paper, we present a story comprehension model that explores three distinct semantic aspects: (i) the sequence of events described in the story, (ii) its emotional trajectory, and (iii) its plot consistency. We judge the model’s understanding of real-world stories by inquiring if, like humans, it can develop an expectation of what will happen next in a given story. Specifically, we use it to predict the correct ending of a given short story from possible alternatives. The model uses a hidden variable to weigh the semantic aspects in the context of the story. Our experiments demonstrate the potential of our approach to characterize these semantic aspects, and the strength of the hidden variable based approach. The model outperforms the state-of-the-art approaches and achieves best results on a publicly available dataset.</abstract>
       <video href="https://vimeo.com/238235959" tag="video"/>
       <bibkey>chaturvedi-etal-2017-story</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/rocstories">ROCStories</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
     </paper>
     <paper id="169">
       <title>Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm</title>
