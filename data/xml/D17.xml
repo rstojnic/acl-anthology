@@ -2487,6 +2487,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <abstract>Understanding a long document requires tracking how entities are introduced and evolve over time. We present a new type of language model, EntityNLM, that can explicitly model entities, dynamically update their representations, and contextually generate their mentions. Our model is generative and flexible; it can model an arbitrary number of entities in context while generating each entity mention at an arbitrary length. In addition, it can be used for several different tasks such as language modeling, coreference resolution, and entity prediction. Experimental results with all these tasks demonstrate that our model consistently outperforms strong baselines and prior work.</abstract>
       <bibkey>ji-etal-2017-dynamic</bibkey>
       <pwccode url="https://github.com/smartschat/cort" additional="true">smartschat/cort</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
     </paper>
     <paper id="196">
       <title>Towards Quantum Language Models</title>
