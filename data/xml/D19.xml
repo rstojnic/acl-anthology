@@ -5359,6 +5359,7 @@
       <bibkey>liu-lapata-2019-text</bibkey>
       <pwccode url="https://github.com/nlpyang/PreSumm" additional="true">nlpyang/PreSumm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/webtext">WebText</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xsum">XSum</pwcdataset>
     </paper>
     <paper id="388">
