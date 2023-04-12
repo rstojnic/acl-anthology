@@ -2004,6 +2004,7 @@
       <bibkey>cao-etal-2019-multi</bibkey>
       <pwccode url="https://github.com/thunlp/MuGNN" additional="false">thunlp/MuGNN</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/dbp15k">DBP15K</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mmkg">MMKG</pwcdataset>
     </paper>
     <paper id="141">
       <title>A Neural Multi-digraph Model for <fixed-case>C</fixed-case>hinese <fixed-case>NER</fixed-case> with Gazetteers</title>

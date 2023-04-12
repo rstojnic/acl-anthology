@@ -351,6 +351,7 @@
       <bibkey>wu-etal-2019-jointly</bibkey>
       <pwccode url="https://github.com/StephanieWyt/HGCN-JE-JR" additional="false">StephanieWyt/HGCN-JE-JR</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/dbp15k">DBP15K</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mmkg">MMKG</pwcdataset>
     </paper>
     <paper id="24">
       <title>Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion</title>
@@ -5359,7 +5360,6 @@
       <bibkey>liu-lapata-2019-text</bibkey>
       <pwccode url="https://github.com/nlpyang/PreSumm" additional="true">nlpyang/PreSumm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/webtext">WebText</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xsum">XSum</pwcdataset>
     </paper>
     <paper id="388">

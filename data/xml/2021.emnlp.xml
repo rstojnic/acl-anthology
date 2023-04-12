@@ -3082,6 +3082,7 @@
       <bibkey>mao-etal-2021-alignment</bibkey>
       <pwccode url="https://github.com/maoxinn/seu" additional="false">maoxinn/seu</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/dbp15k">DBP15K</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mmkg">MMKG</pwcdataset>
     </paper>
     <paper id="227">
       <title>Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval</title>

@@ -523,7 +523,6 @@ two word-vectors results in a vector that is only a small angle away from the ve
       <video href="https://vimeo.com/234952560" tag="video"/>
       <bibkey>he-etal-2017-unsupervised</bibkey>
       <pwccode url="https://github.com/ruidan/Unsupervised-Aspect-Extraction" additional="true">ruidan/Unsupervised-Aspect-Extraction</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/10-1-hours-chinese-mandarin-synthesis-corpus">10.1 Hours - Chinese Mandarin Synthesis Corpus-Female, Customer Service</pwcdataset>
     </paper>
     <paper id="37">
       <title>Other Topics You May Also Agree or Disagree: Modeling Inter-Topic Preferences using Tweets and Matrix Factorization</title>
