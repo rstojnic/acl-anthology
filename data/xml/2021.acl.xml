@@ -8503,7 +8503,7 @@
       <url hash="2533a137">2021.acl-long.559</url>
       <doi>10.18653/v1/2021.acl-long.559</doi>
       <bibkey>shen-etal-2021-structformer</bibkey>
-      <pwccode url="https://github.com/google-research/google-research/tree/master/structformer" additional="false">google-research/google-research</pwccode>
+      <pwccode url="https://github.com/google-research/google-research/tree/master/structformer" additional="true">google-research/google-research</pwccode>
     </paper>
     <paper id="560">
       <title>Language Embeddings for Typology and Cross-lingual Transfer Learning</title>
