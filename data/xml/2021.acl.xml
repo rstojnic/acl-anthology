@@ -6978,6 +6978,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="c8bd58d3">2021.acl-long.460.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.acl-long.460</doi>
       <bibkey>kanclerz-etal-2021-controversy</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikidetox">WikiDetox</pwcdataset>
     </paper>
     <paper id="461">
       <title>Multi-perspective Coherent Reasoning for Helpfulness Prediction of Multimodal Reviews</title>
