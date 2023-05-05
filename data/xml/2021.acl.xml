@@ -3312,6 +3312,7 @@
       <doi>10.18653/v1/2021.acl-long.217</doi>
       <bibkey>lu-etal-2021-text2event</bibkey>
       <pwccode url="https://github.com/luyaojie/text2event" additional="false">luyaojie/text2event</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ace-2005">ACE 2005</pwcdataset>
     </paper>
     <paper id="218">
       <title>A Large-Scale <fixed-case>C</fixed-case>hinese Multimodal <fixed-case>NER</fixed-case> Dataset with Speech Clues</title>
