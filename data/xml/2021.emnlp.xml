@@ -1343,6 +1343,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webtext">WebText</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="99">
       <title><fixed-case>A</fixed-case>fro<fixed-case>MT</fixed-case>: Pretraining Strategies and Reproducible Benchmarks for Translation of 8 <fixed-case>A</fixed-case>frican Languages</title>
@@ -1384,6 +1385,7 @@
       <abstract>Material science synthesis procedures are a promising domain for scientific NLP, as proper modeling of these recipes could provide insight into new ways of creating materials. However, a fundamental challenge in building information extraction models for material science synthesis procedures is getting accurate labels for the materials, operations, and other entities of those procedures. We present a new corpus of entity mention annotations over 595 Material Science synthesis procedural texts (157,488 tokens), which greatly expands the training data available for the Named Entity Recognition task. We outline a new label inventory designed to provide consistent annotations and a new annotation approach intended to maximize the consistency and annotation speed of domain experts. Inter-annotator agreement studies and baseline models trained upon the data suggest that the corpus provides high-quality annotations of these mention types. This corpus helps lay a foundation for future high-quality modeling of synthesis procedures.</abstract>
       <url hash="b1672106">2021.emnlp-main.101</url>
       <bibkey>ogorman-etal-2021-ms</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="102">
       <title>Understanding Politics via Contextualized Discourse Processing</title>
@@ -7659,6 +7661,7 @@
       <pwccode url="https://github.com/nlpaueb/multi-eurlex" additional="false">nlpaueb/multi-eurlex</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/eurlex57k">EURLEX57K</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="560">
       <title>Joint Passage Ranking for Diverse Multi-Answer Retrieval</title>
@@ -10370,6 +10373,7 @@
       <url hash="70b52233">2021.emnlp-main.758</url>
       <bibkey>rodriguez-boyd-graber-2021-evaluation</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="759">
       <title>Numerical reasoning in machine reading comprehension tasks: are we there yet?</title>
@@ -11864,6 +11868,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="22">
       <title>Summary Explorer: Visualizing the State of the Art in Text Summarization</title>

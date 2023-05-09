@@ -171,6 +171,7 @@
       <abstract>A common practice in building NLP datasets, especially using crowd-sourced annotations, involves obtaining multiple annotator judgements on the same data instances, which are then flattened to produce a single “ground truth” label or score, through majority voting, averaging, or adjudication. While these approaches may be appropriate in certain annotation tasks, such aggregations overlook the socially constructed nature of human perceptions that annotations for relatively more subjective tasks are meant to capture. In particular, systematic disagreements between annotators owing to their socio-cultural backgrounds and/or lived experiences are often obfuscated through such aggregations. In this paper, we empirically demonstrate that label aggregation may introduce representational biases of individual and group perspectives. Based on this finding, we propose a set of recommendations for increased utility and transparency of datasets for downstream use cases.</abstract>
       <url hash="97be03d3">2021.law-1.14</url>
       <bibkey>prabhakaran-etal-2021-releasing</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/test">test</pwcdataset>
     </paper>
     <paper id="15">
       <title>Increasing Sentence-Level Comprehension Through Text Classification of Epistemic Functions</title>
