@@ -6141,7 +6141,6 @@
       <bibkey>yauney-mimno-2021-comparing</bibkey>
       <pwccode url="https://github.com/gyauney/data-label-alignment" additional="false">gyauney/data-label-alignment</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/mnist">MNIST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
