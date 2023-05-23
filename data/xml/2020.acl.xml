@@ -2108,6 +2108,7 @@
       <video tag="video" href="http://slideslive.com/38928889"/>
       <bibkey>alt-etal-2020-tacred</bibkey>
       <pwccode url="https://github.com/DFKI-NLP/tacrev" additional="false">DFKI-NLP/tacrev</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/tacred-revisited">TACRED-Revisited</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
     </paper>
     <paper id="143">

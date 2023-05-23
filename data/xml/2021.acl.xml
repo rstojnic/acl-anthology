@@ -6316,7 +6316,6 @@
       <url hash="a8958912">2021.acl-long.417</url>
       <doi>10.18653/v1/2021.acl-long.417</doi>
       <bibkey>jiang-etal-2021-alignment</bibkey>
-      <pwccode url="https://github.com/changmenseng/arec" additional="false">changmenseng/arec</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e-snli">e-SNLI</pwcdataset>
     </paper>

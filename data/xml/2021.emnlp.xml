@@ -10163,6 +10163,7 @@
       <url hash="e5c8a7b5">2021.emnlp-main.743</url>
       <bibkey>brazinskas-etal-2021-learning</bibkey>
       <pwccode url="https://github.com/abrazinskas/selsum" additional="false">abrazinskas/selsum</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/amasum">AmaSum</pwcdataset>
     </paper>
     <paper id="744">
       <title>Enriching and Controlling Global Semantics for Text Summarization</title>
