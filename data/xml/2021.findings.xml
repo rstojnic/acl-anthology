@@ -11666,6 +11666,7 @@
       <url hash="8de2d5fe">2021.findings-emnlp.423</url>
       <bibkey>kranzlein-etal-2021-making-heads</bibkey>
       <pwccode url="https://github.com/nert-nlp/calibration_tfg" additional="false">nert-nlp/calibration_tfg</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/mnist">MNIST</pwcdataset>
     </paper>
     <paper id="424">
       <title><fixed-case>G</fixed-case>e<fixed-case>D</fixed-case>i: Generative Discriminator Guided Sequence Generation</title>
