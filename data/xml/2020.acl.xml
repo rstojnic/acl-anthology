@@ -673,6 +673,7 @@
       <bibkey>li-etal-2020-dice</bibkey>
       <pwccode url="https://github.com/ShannonAI/dice_loss_for_NLP" additional="true">ShannonAI/dice_loss_for_NLP</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/msra-cn-ner">MSRA CN NER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-4-0">OntoNotes 4.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -7685,6 +7686,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/ace-2005">ACE 2005</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/genia">GENIA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/msra-cn-ner">MSRA CN NER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-4-0">OntoNotes 4.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
     </paper>
@@ -7816,6 +7818,7 @@
       <video tag="video" href="http://slideslive.com/38928863"/>
       <bibkey>ma-etal-2020-simplify</bibkey>
       <pwccode url="https://github.com/v-mipeng/LexiconAugmentedNER" additional="true">v-mipeng/LexiconAugmentedNER</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/msra-cn-ner">MSRA CN NER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-4-0">OntoNotes 4.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/resume-ner">Resume NER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/weibo-ner">Weibo NER</pwcdataset>
@@ -9076,6 +9079,7 @@
       <video tag="video" href="http://slideslive.com/38929311"/>
       <bibkey>li-etal-2020-flat</bibkey>
       <pwccode url="https://github.com/LeeSureman/Flat-Lattice-Transformer" additional="false">LeeSureman/Flat-Lattice-Transformer</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/msra-cn-ner">MSRA CN NER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-4-0">OntoNotes 4.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/resume-ner">Resume NER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/weibo-ner">Weibo NER</pwcdataset>
