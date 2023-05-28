@@ -3117,7 +3117,6 @@
       <url hash="cb0a6a08">2021.naacl-main.212</url>
       <doi>10.18653/v1/2021.naacl-main.212</doi>
       <bibkey>hua-etal-2021-hyperparameter</bibkey>
-      <pwccode url="https://github.com/tinghua-code/ccfi" additional="false">tinghua-code/ccfi</pwccode>
     </paper>
     <paper id="213">
       <title>On the Embeddings of Variables in Recurrent Neural Networks for Source Code</title>

@@ -5036,7 +5036,7 @@
       <abstract>Dialogue summarization has drawn much attention recently. Especially in the customer service domain, agents could use dialogue summaries to help boost their works by quickly knowing customer’s issues and service progress. These applications require summaries to contain the perspective of a single speaker and have a clear topic flow structure, while neither are available in existing datasets. Therefore, in this paper, we introduce a novel Chinese dataset for Customer Service Dialogue Summarization (CSDS). CSDS improves the abstractive summaries in two aspects: (1) In addition to the overall summary for the whole dialogue, role-oriented summaries are also provided to acquire different speakers’ viewpoints. (2) All the summaries sum up each topic separately, thus containing the topic-level structure of the dialogue. We define tasks in CSDS as generating the overall summary and different role-oriented summaries for a given dialogue. Next, we compare various summarization methods on CSDS, and experiment results show that existing methods are prone to generate redundant and incoherent summaries. Besides, the performance becomes much worse when analyzing the performance on role-oriented summaries and topic structures. We hope that this study could benchmark Chinese dialogue summarization and benefit further studies.</abstract>
       <url hash="b0fd9833">2021.emnlp-main.365</url>
       <bibkey>lin-etal-2021-csds</bibkey>
-      <pwccode url="https://github.com/xiaolinAndy/CSDS" additional="false">xiaolinAndy/CSDS</pwccode>
+      <pwccode url="https://github.com/xiaolinAndy/CSDS" additional="true">xiaolinAndy/CSDS</pwccode>
     </paper>
     <paper id="366">
       <title><fixed-case>C</fixed-case>od<fixed-case>RED</fixed-case>: A Cross-Document Relation Extraction Dataset for Acquiring Knowledge in the Wild</title>
@@ -7309,7 +7309,7 @@
       <abstract>We study generating abstractive summaries that are faithful and factually consistent with the given articles. A novel contrastive learning formulation is presented, which leverages both reference summaries, as positive training data, and automatically generated erroneous summaries, as negative training data, to train summarization systems that are better at distinguishing between them. We further design four types of strategies for creating negative samples, to resemble errors made commonly by two state-of-the-art models, BART and PEGASUS, found in our new human annotations of summary errors. Experiments on XSum and CNN/Daily Mail show that our contrastive learning framework is robust across datasets and models. It consistently produces more factual summaries than strong comparisons with post error correction, entailment-based reranking, and unlikelihood training, according to QA-based factuality evaluation. Human judges echo the observation and find that our model summaries correct more errors.</abstract>
       <url hash="7337a237">2021.emnlp-main.532</url>
       <bibkey>cao-wang-2021-cliff</bibkey>
-      <pwccode url="https://github.com/makcedward/nlpaug" additional="false">makcedward/nlpaug</pwccode>
+      <pwccode url="https://github.com/makcedward/nlpaug" additional="true">makcedward/nlpaug</pwccode>
     </paper>
     <paper id="533">
       <title>Multilingual Unsupervised Neural Machine Translation with Denoising Adapters</title>
