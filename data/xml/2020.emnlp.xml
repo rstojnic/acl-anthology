@@ -10690,7 +10690,6 @@
       <pwccode url="https://github.com/jayleicn/VideoLanguageFuturePred" additional="false">jayleicn/VideoLanguageFuturePred</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/vlep">VLEP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/vlogs">Vlogs</pwcdataset>
     </paper>
     <paper id="707">
       <title><fixed-case>X-LXMERT</fixed-case>: <fixed-case>P</fixed-case>aint, <fixed-case>C</fixed-case>aption and <fixed-case>A</fixed-case>nswer <fixed-case>Q</fixed-case>uestions with <fixed-case>M</fixed-case>ulti-<fixed-case>M</fixed-case>odal <fixed-case>T</fixed-case>ransformers</title>

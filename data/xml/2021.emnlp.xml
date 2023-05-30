@@ -5395,10 +5395,8 @@
       <bibkey>ignat-etal-2021-whyact</bibkey>
       <pwccode url="https://github.com/michigannlp/vlog_action_reason" additional="false">michigannlp/vlog_action_reason</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/whyact">WhyAct</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/vcr">VCR</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/vlogs">Vlogs</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/vlogs">IfAct</pwcdataset>
     </paper>
     <paper id="393">
       <title>Genre as Weak Supervision for Cross-lingual Dependency Parsing</title>
