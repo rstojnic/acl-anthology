@@ -1803,6 +1803,7 @@
       <url hash="499c6e38">2021.findings-acl.128</url>
       <doi>10.18653/v1/2021.findings-acl.128</doi>
       <bibkey>chen-etal-2021-semantic</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/aste">ASTE</pwcdataset>
     </paper>
     <paper id="129">
       <title><fixed-case>U</fixed-case>ser<fixed-case>A</fixed-case>dapter: Few-Shot User Learning in Sentiment Analysis</title>
@@ -9509,6 +9510,7 @@
       <url hash="f8424c82">2021.findings-emnlp.258</url>
       <bibkey>wang-etal-2021-eliminating-sentiment</bibkey>
       <pwccode url="https://github.com/wangbo9719/sarl_absa" additional="false">wangbo9719/sarl_absa</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/aste">ASTE</pwcdataset>
     </paper>
     <paper id="259">
       <title>Data Efficient Masked Language Modeling for Vision and Language</title>
@@ -11234,6 +11236,7 @@
       <url hash="1bcea74e">2021.findings-emnlp.390</url>
       <bibkey>zhang-etal-2021-aspect</bibkey>
       <pwccode url="https://github.com/isakzhang/absa-qa" additional="false">isakzhang/absa-qa</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/asqp">ASQP</pwcdataset>
     </paper>
     <paper id="391">
       <title><fixed-case>F</fixed-case>orum<fixed-case>S</fixed-case>um: A Multi-Speaker Conversation Summarization Dataset</title>

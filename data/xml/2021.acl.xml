@@ -439,6 +439,7 @@
       <pwccode url="https://github.com/nustm/acos" additional="false">nustm/acos</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/laptop-acos">Laptop-ACOS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/restaurant-acos">Restaurant-ACOS</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/acos">ACOS</pwcdataset>
     </paper>
     <paper id="30">
       <title><fixed-case>PASS</fixed-case>: Perturb-and-Select Summarizer for Product Reviews</title>
@@ -5590,6 +5591,7 @@
       <doi>10.18653/v1/2021.acl-long.367</doi>
       <bibkey>xu-etal-2021-learning</bibkey>
       <pwccode url="https://github.com/chiayewken/Span-ASTE" additional="true">chiayewken/Span-ASTE</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/aste">ASTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/aste-data-v2">ASTE-Data-V2</pwcdataset>
     </paper>
     <paper id="368">
@@ -9555,7 +9557,10 @@
       <doi>10.18653/v1/2021.acl-short.64</doi>
       <bibkey>zhang-etal-2021-towards-generative</bibkey>
       <pwccode url="https://github.com/IsakZhang/Generative-ABSA" additional="false">IsakZhang/Generative-ABSA</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/asqp">ASQP</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/aste">ASTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/aste-data-v2">ASTE-Data-V2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tasd">TASD</pwcdataset>
     </paper>
     <paper id="65">
       <title>Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation</title>

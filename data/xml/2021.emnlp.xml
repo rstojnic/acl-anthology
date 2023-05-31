@@ -4396,6 +4396,7 @@
       <url hash="981bdc4c">2021.emnlp-main.318</url>
       <bibkey>jing-etal-2021-seeking</bibkey>
       <pwccode url="https://github.com/betahj/pairabsa" additional="false">betahj/pairabsa</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/aste">ASTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/aste-data-v2">ASTE-Data-V2</pwcdataset>
     </paper>
     <paper id="319">
@@ -9954,6 +9955,10 @@
       <url hash="e8e78567">2021.emnlp-main.726</url>
       <bibkey>zhang-etal-2021-aspect-sentiment</bibkey>
       <pwccode url="https://github.com/isakzhang/absa-quad" additional="false">isakzhang/absa-quad</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/acos">ACOS</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/asqp">ASQP</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/aste">ASTE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tasd">TASD</pwcdataset>
     </paper>
     <paper id="727">
       <title>Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching</title>
@@ -10013,6 +10018,7 @@
       <url hash="c219823b">2021.emnlp-main.731</url>
       <bibkey>mukherjee-etal-2021-paste</bibkey>
       <pwccode url="https://github.com/rajdeep345/paste" additional="false">rajdeep345/paste</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/aste">ASTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/aste-data-v2">ASTE-Data-V2</pwcdataset>
     </paper>
     <paper id="732">
