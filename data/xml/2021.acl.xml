@@ -9927,6 +9927,7 @@
       <doi>10.18653/v1/2021.acl-short.90</doi>
       <bibkey>he-etal-2021-towards</bibkey>
       <pwccode url="https://github.com/UCSD-AI4H/PathVQA" additional="false">UCSD-AI4H/PathVQA</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/vqa-rad">VQA-RAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
     <paper id="91">
