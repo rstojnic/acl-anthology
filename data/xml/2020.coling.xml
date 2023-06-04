@@ -537,6 +537,7 @@
       <doi>10.18653/v1/2020.coling-main.40</doi>
       <bibkey>shang-etal-2020-speaker</bibkey>
       <pwccode url="https://bitbucket.org/guokan_shang/da-classification" additional="false">guokan_shang/da-classification</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/switchboard-dialog-act-corpus">Switchboard Dialog Act Corpus</pwcdataset>
     </paper>
     <paper id="41">
       <title><fixed-case>LAVA</fixed-case>: Latent Action Spaces via Variational Auto-encoding for Dialogue Policy Optimization</title>
@@ -2887,7 +2888,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/genwiki">GenWiki</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e2e">E2E</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/robocup">RoboCup</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
     </paper>
     <paper id="218">
       <title>Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity</title>

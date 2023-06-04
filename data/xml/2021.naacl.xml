@@ -529,7 +529,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/totto">ToTTo</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitablequestions">WikiTableQuestions</pwcdataset>
     </paper>
@@ -620,7 +619,7 @@
       <url hash="6382be74">2021.naacl-main.42</url>
       <doi>10.18653/v1/2021.naacl-main.42</doi>
       <bibkey>xia-etal-2021-metaxl</bibkey>
-      <pwccode url="https://github.com/microsoft/MetaXL" additional="false">microsoft/MetaXL</pwccode>
+      <pwccode url="https://github.com/microsoft/MetaXL" additional="true">microsoft/MetaXL</pwccode>
     </paper>
     <paper id="43">
       <title>Open Domain Question Answering over Tables via Dense Retrieval</title>
