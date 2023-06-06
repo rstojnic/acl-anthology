@@ -278,6 +278,7 @@
       <video tag="video" href="http://slideslive.com/38928835"/>
       <bibkey>chen-etal-2020-shot</bibkey>
       <pwccode url="https://github.com/czyssrs/Few-Shot-NLG" additional="true">czyssrs/Few-Shot-NLG</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
     </paper>
     <paper id="19">
       <title>Fluent Response Generation for Conversational Question Answering</title>
@@ -3588,6 +3589,7 @@
       <video tag="video" href="http://slideslive.com/38929245"/>
       <bibkey>li-rush-2020-posterior</bibkey>
       <pwccode url="https://github.com/XiangLi1999/PosteriorControl-NLG" additional="true">XiangLi1999/PosteriorControl-NLG</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
     </paper>
     <paper id="244">
       <title>Pretrained Transformers Improve Out-of-Distribution Robustness</title>

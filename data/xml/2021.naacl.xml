@@ -529,6 +529,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/totto">ToTTo</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitablequestions">WikiTableQuestions</pwcdataset>
     </paper>
@@ -5617,7 +5618,7 @@
       <attachment type="OptionalSupplementaryData" hash="031c8096">2021.naacl-main.393.OptionalSupplementaryData.zip</attachment>
       <doi>10.18653/v1/2021.naacl-main.393</doi>
       <bibkey>krishna-etal-2021-hurdles</bibkey>
-      <pwccode url="https://github.com/martiansideofthemoon/hurdles-longform-qa" additional="false">martiansideofthemoon/hurdles-longform-qa</pwccode>
+      <pwccode url="https://github.com/martiansideofthemoon/hurdles-longform-qa" additional="true">martiansideofthemoon/hurdles-longform-qa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/eli5">ELI5</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/kilt">KILT</pwcdataset>
