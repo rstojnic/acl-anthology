@@ -7274,7 +7274,9 @@
       <url hash="7eed00ed">2021.acl-long.479</url>
       <doi>10.18653/v1/2021.acl-long.479</doi>
       <bibkey>zang-etal-2021-photochat</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/photochat">PhotoChat</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/image-chat">Image-Chat</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
     <paper id="480">
