@@ -59,6 +59,7 @@
       <doi>10.18653/v1/2021.acl-long.3</doi>
       <bibkey>lu-etal-2021-engage</bibkey>
       <pwccode url="https://github.com/polyusmart/poll-question-generation" additional="false">polyusmart/poll-question-generation</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/weibopolls">WeiboPolls</pwcdataset>
     </paper>
     <paper id="4">
       <title><fixed-case>H</fixed-case>ate<fixed-case>C</fixed-case>heck: Functional Tests for Hate Speech Detection Models</title>
