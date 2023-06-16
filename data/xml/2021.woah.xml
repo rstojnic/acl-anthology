@@ -330,6 +330,7 @@
       <url hash="24ecb5e6">2021.woah-1.23</url>
       <doi>10.18653/v1/2021.woah-1.23</doi>
       <bibkey>zia-etal-2021-racist</bibkey>
+      <pwccode url="https://github.com/harisbinzia/hatefulmemes" additional="false">harisbinzia/hatefulmemes</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/hateful-memes">Hateful Memes</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hateful-memes-challenge">Hateful Memes Challenge</pwcdataset>
     </paper>
