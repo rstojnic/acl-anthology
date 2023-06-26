@@ -2644,7 +2644,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="38a95f9a">2021.acl-long.174.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.acl-long.174</doi>
       <bibkey>ou-etal-2021-integrating</bibkey>
-      <pwccode url="https://github.com/J-zin/SNUH" additional="false">J-zin/SNUH</pwccode>
+      <pwccode url="https://github.com/J-zin/SNUH" additional="true">J-zin/SNUH</pwccode>
     </paper>
     <paper id="175">
       <title><fixed-case>SMURF</fixed-case>: <fixed-case>S</fixed-case>e<fixed-case>M</fixed-case>antic and linguistic <fixed-case>U</fixed-case>nde<fixed-case>R</fixed-case>standing Fusion for Caption Evaluation via Typicality Analysis</title>
