@@ -4564,6 +4564,7 @@
       <doi>10.18653/v1/2021.acl-long.299</doi>
       <bibkey>panwar-etal-2021-tan</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp-review-polarity">Yelp Review Polarity</pwcdataset>
     </paper>
     <paper id="300">
       <title>Cross-language Sentence Selection via Data Augmentation and Rationale Training</title>
