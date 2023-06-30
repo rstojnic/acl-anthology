@@ -10112,7 +10112,7 @@
       <url hash="28aabd7b">2021.acl-short.103</url>
       <doi>10.18653/v1/2021.acl-short.103</doi>
       <bibkey>le-etal-2021-lightweight</bibkey>
-      <pwccode url="https://github.com/formiel/fairseq/blob/master/examples/speech_to_text/docs/adapters.md" additional="false">formiel/fairseq</pwccode>
+      <pwccode url="https://github.com/formiel/fairseq" additional="true">formiel/fairseq</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/must-c">MuST-C</pwcdataset>
     </paper>
     <paper id="104">
