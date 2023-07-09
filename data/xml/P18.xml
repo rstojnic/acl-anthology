@@ -119,6 +119,8 @@
       <doi>10.18653/v1/P18-1007</doi>
       <bibkey>kudo-2018-subword</bibkey>
       <pwccode url="https://github.com/google/sentencepiece" additional="true">google/sentencepiece</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/1003-people-emotional-video-data">1,003 People - Emotional Video Data</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/1003-people-driver-behavior-collection-data">1,003 People-Driver Behavior Collection Data</pwcdataset>
     </paper>
     <paper id="8">
       <title>The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation</title>
