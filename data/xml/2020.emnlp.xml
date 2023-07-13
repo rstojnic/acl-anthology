@@ -5909,6 +5909,7 @@
       <doi>10.18653/v1/2020.emnlp-main.392</doi>
       <video tag="video" href="https://slideslive.com/38939296"/>
       <bibkey>drozdov-etal-2020-unsupervised</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ptb">PTB Diagnostic ECG Database</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="393">
