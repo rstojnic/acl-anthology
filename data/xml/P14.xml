@@ -3120,7 +3120,6 @@
       <doi>10.3115/v1/P14-2131</doi>
       <attachment type="dataset" hash="3be11790">P14-2131.Datasets.txt</attachment>
       <bibkey>bansal-etal-2014-tailoring</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="132">
       <title>Observational Initialization of Type-Supervised Taggers</title>

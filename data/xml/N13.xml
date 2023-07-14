@@ -716,7 +716,6 @@
       <pages>668–672</pages>
       <url hash="e3379688">N13-1077</url>
       <bibkey>sogaard-2013-zipfian</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="78">
       <title>A Multi-Dimensional <fixed-case>B</fixed-case>ayesian Approach to Lexical Style</title>
@@ -1154,7 +1153,6 @@
       <pages>1051–1060</pages>
       <url hash="968be9f0">N13-1125</url>
       <bibkey>xue-yang-2013-dependency</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="126">
       <title>Target Language Adaptation of Discriminative Transfer Parsers</title>

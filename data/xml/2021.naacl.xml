@@ -490,7 +490,6 @@
       <url hash="0d0df6e1">2021.naacl-main.36</url>
       <doi>10.18653/v1/2021.naacl-main.36</doi>
       <bibkey>dai-etal-2021-apo</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="37">
       <title><fixed-case>DART</fixed-case>: Open-Domain Structured Data Record to Text Generation</title>
@@ -1957,7 +1956,6 @@
       <url hash="ffc26cf2">2021.naacl-main.134</url>
       <doi>10.18653/v1/2021.naacl-main.134</doi>
       <bibkey>tao-etal-2021-learning</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="135">
       <title>Mask Attention Networks: Rethinking and Strengthen Transformer</title>
@@ -2123,7 +2121,6 @@
       <bibkey>xia-etal-2021-unified</bibkey>
       <pwccode url="https://github.com/KiroSummer/opinion_mining_with_syn_cons" additional="false">KiroSummer/opinion_mining_with_syn_cons</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="145">
       <title>Target-specified Sequence Labeling with Multi-head Self-attention for Target-oriented Opinion Words Extraction</title>
@@ -3415,7 +3412,6 @@
       <doi>10.18653/v1/2021.naacl-main.234</doi>
       <bibkey>shi-etal-2021-learning</bibkey>
       <pwccode url="https://github.com/tzshi/nob-naacl21" additional="false">tzshi/nob-naacl21</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qa-srl">QA-SRL</pwcdataset>
     </paper>
     <paper id="235">
@@ -3767,7 +3763,6 @@
       <url hash="a8065e6e">2021.naacl-main.259</url>
       <doi>10.18653/v1/2021.naacl-main.259</doi>
       <bibkey>ding-gimpel-2021-flowprior</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="260">
@@ -5705,7 +5700,6 @@
       <doi>10.18653/v1/2021.naacl-main.399</doi>
       <bibkey>ding-koehn-2021-evaluating</bibkey>
       <pwccode url="https://github.com/shuoyangd/tarsius" additional="false">shuoyangd/tarsius</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/winobias">WinoBias</pwcdataset>
     </paper>

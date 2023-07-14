@@ -449,7 +449,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03bd4c14">2021.findings-acl.32.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.32</doi>
       <bibkey>gritta-iacobacci-2021-xeroalign</bibkey>
-      <pwccode url="https://github.com/huawei-noah/noah-research" additional="true">huawei-noah/noah-research</pwccode>
+      <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/xero_align" additional="true">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
@@ -1061,7 +1061,6 @@
       <url hash="cb0ef1f5">2021.findings-acl.76</url>
       <doi>10.18653/v1/2021.findings-acl.76</doi>
       <bibkey>tucker-etal-2021-modified</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="77">
       <title>Investigating Text Simplification Evaluation</title>
@@ -6672,7 +6671,6 @@
       <abstract>As it has been unveiled that pre-trained language models (PLMs) are to some extent capable of recognizing syntactic concepts in natural language, much effort has been made to develop a method for extracting complete (binary) parses from PLMs without training separate parsers. We improve upon this paradigm by proposing a novel chart-based method and an effective top-K ensemble technique. Moreover, we demonstrate that we can broaden the scope of application of the approach into multilingual settings. Specifically, we show that by applying our method on multilingual PLMs, it becomes possible to induce non-trivial parses for sentences from nine languages in an integrated and language-agnostic manner, attaining performance superior or comparable to that of unsupervised PCFGs. We also verify that our approach is robust to cross-lingual transfer. Finally, we provide analyses on the inner workings of our method. For instance, we discover universal attention heads which are consistently sensitive to syntactic information irrespective of the input language.</abstract>
       <url hash="5d1c1235">2021.findings-emnlp.41</url>
       <bibkey>kim-etal-2021-multilingual-chart-based</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="42">
       <title>Hyperbolic Geometry is Not Necessary: Lightweight <fixed-case>E</fixed-case>uclidean-Based Models for Low-Dimensional Knowledge Graph Embeddings</title>
