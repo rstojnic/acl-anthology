@@ -9091,6 +9091,7 @@
       <doi>10.18653/v1/W18-5113</doi>
       <bibkey>lee-etal-2018-comparative</bibkey>
       <pwccode url="https://github.com/younggns/comparative-abusive-lang" additional="true">younggns/comparative-abusive-lang</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/10000-people-human-pose-recognition-data">10,000 People - Human Pose Recognition Data</pwcdataset>
     </paper>
     <paper id="14">
       <title>Boosting Text Classification Performance on Sexist Tweets by Text Augmentation and Text Generation Using a Combination of Knowledge Graphs</title>
