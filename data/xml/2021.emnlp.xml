@@ -10464,6 +10464,7 @@
       <url hash="fb4e65b2">2021.emnlp-main.765</url>
       <bibkey>zhao-etal-2021-relation</bibkey>
       <pwccode url="https://github.com/ac-zyx/rocore" additional="false">ac-zyx/rocore</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
     </paper>
     <paper id="766">
       <title>Exploring Methods for Generating Feedback Comments for Writing Learning</title>

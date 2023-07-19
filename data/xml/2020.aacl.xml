@@ -1394,7 +1394,7 @@
       <abstract>In this work, we introduce a GRU-based architecture called GRUBERT that learns to map the different BERT hidden layers to fused embeddings with the aim of achieving high accuracy on the Twitter sentiment analysis task. Tweets are known for their highly diverse language, and by exploiting different linguistic information present across BERT hidden layers, we can capture the full extent of this language at the embedding level. Our method can be easily adapted to other embeddings capturing different linguistic information. We show that our method outperforms well-known heuristics of using BERT (e.g. using only the last layer) and other embeddings such as ELMo. We observe potential label noise resulting from the data acquisition process and employ early stopping as well as a voting classifier to overcome it.</abstract>
       <url hash="002a0765">2020.aacl-srw.19</url>
       <bibkey>horne-etal-2020-grubert</bibkey>
-      <pwccode url="https://github.com/zuowenwang0000/grubert-a-gru-based-method-to-fuse-bert-hidden-layers" additional="false">zuowenwang0000/grubert-a-gru-based-method-to-fuse-bert-hidden-layers</pwccode>
+      <pwccode url="https://github.com/zuowenwang0000/grubert-a-gru-based-method-to-fuse-bert-hidden-layers" additional="true">zuowenwang0000/grubert-a-gru-based-method-to-fuse-bert-hidden-layers</pwccode>
     </paper>
     <paper id="20">
       <title>Exploring Statistical and Neural Models for Noun Ellipsis Detection and Resolution in <fixed-case>E</fixed-case>nglish</title>
@@ -1540,7 +1540,7 @@
       <abstract>We introduce fairseq S2T, a fairseq extension for speech-to-text (S2T) modeling tasks such as end-to-end speech recognition and speech-to-text translation. It follows fairseq’s careful design for scalability and extensibility. We provide end-to-end workflows from data pre-processing, model training to offline (online) inference. We implement state-of-the-art RNN-based as well as Transformer-based models and open-source detailed training recipes. Fairseq’s machine translation models and language models can be seamlessly integrated into S2T workflows for multi-task learning or transfer learning. Fairseq S2T is available at https://github.com/pytorch/fairseq/tree/master/examples/speech_to_text.</abstract>
       <url hash="ba6e2aa3">2020.aacl-demo.6</url>
       <bibkey>wang-etal-2020-fairseq</bibkey>
-      <pwccode url="https://github.com/pytorch/fairseq" additional="true">pytorch/fairseq</pwccode>
+      <pwccode url="https://github.com/pytorch/fairseq/tree/master/examples/speech_to_text" additional="true">pytorch/fairseq</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/librispeech">LibriSpeech</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/must-c">MuST-C</pwcdataset>
     </paper>
