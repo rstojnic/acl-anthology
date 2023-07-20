@@ -7452,7 +7452,7 @@
       <doi>10.18653/v1/2020.emnlp-main.494</doi>
       <video tag="video" href="https://slideslive.com/38939159"/>
       <bibkey>lin-etal-2020-autoregressive</bibkey>
-      <pwccode url="https://github.com/asappresearch/imitkd" additional="false">asappresearch/imitkd</pwccode>
+      <pwccode url="https://github.com/asappresearch/imitkd" additional="true">asappresearch/imitkd</pwccode>
     </paper>
     <paper id="495">
       <title>T3: Tree-Autoencoder Constrained Adversarial Text Generation for Targeted Attack</title>
