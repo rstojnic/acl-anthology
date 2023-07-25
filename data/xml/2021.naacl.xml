@@ -2665,6 +2665,7 @@
       <doi>10.18653/v1/2021.naacl-main.182</doi>
       <bibkey>vidgen-etal-2021-introducing</bibkey>
       <pwccode url="https://github.com/dongpng/cad_naacl2021" additional="false">dongpng/cad_naacl2021</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cad">CAD</pwcdataset>
     </paper>
     <paper id="183">
       <title>Lifelong Learning of Hate Speech Classification on Social Media</title>
