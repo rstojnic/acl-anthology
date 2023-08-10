@@ -9930,7 +9930,7 @@
       <url hash="7570cc91">2021.findings-emnlp.291</url>
       <attachment type="Software" hash="6745eb5f">2021.findings-emnlp.291.Software.zip</attachment>
       <bibkey>inan-etal-2021-cosmic-coherence</bibkey>
-      <pwccode url="https://github.com/merterm/cosmic" additional="false">merterm/cosmic</pwccode>
+      <pwccode url="https://github.com/merterm/cosmic" additional="true">merterm/cosmic</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptual-captions">Conceptual Captions</pwcdataset>
     </paper>
     <paper id="292">
