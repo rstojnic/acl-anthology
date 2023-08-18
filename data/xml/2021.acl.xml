@@ -3752,6 +3752,7 @@
       <url hash="84dcc3e6">2021.acl-long.245</url>
       <doi>10.18653/v1/2021.acl-long.245</doi>
       <bibkey>tarunesh-etal-2021-machine</bibkey>
+      <pwccode url="https://github.com/ishan00/translation-for-code-switching-acl" additional="false">ishan00/translation-for-code-switching-acl</pwccode>
     </paper>
     <paper id="246">
       <title>Fast and Accurate Neural Machine Translation with Translation Memory</title>
@@ -4263,6 +4264,7 @@
       <doi>10.18653/v1/2021.acl-long.277</doi>
       <bibkey>xie-etal-2021-revisiting</bibkey>
       <pwccode url="https://github.com/redreamality/RERE-relation-extraction" additional="false">redreamality/RERE-relation-extraction</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/nyt10-hrl">NYT10-HRL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/nyt11-hrl">NYT11-HRL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
     </paper>
