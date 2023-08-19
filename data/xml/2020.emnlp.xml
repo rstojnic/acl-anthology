@@ -938,6 +938,7 @@
       <bibkey>zhang-etal-2020-learning-represent</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/refcoco">RefCOCO</pwcdataset>
     </paper>
     <paper id="61">
       <title><fixed-case>V</fixed-case>ideo2<fixed-case>C</fixed-case>ommonsense: Generating Commonsense Descriptions to Enrich Video Captioning</title>

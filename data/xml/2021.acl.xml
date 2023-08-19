@@ -10743,6 +10743,7 @@
       <doi>10.18653/v1/2021.acl-srw.8</doi>
       <bibkey>samaran-etal-2021-attending</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptual-captions">Conceptual Captions</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/refcoco">RefCOCO</pwcdataset>
     </paper>
     <paper id="9">
       <title>Video-guided Machine Translation with Spatial Hierarchical Attention Network</title>

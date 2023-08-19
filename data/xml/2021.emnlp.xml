@@ -7056,6 +7056,7 @@
       <url hash="f851e2f4">2021.emnlp-main.513</url>
       <bibkey>dou-peng-2021-improving</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/refcoco">RefCOCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
     <paper id="514">
