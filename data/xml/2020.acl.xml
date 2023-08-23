@@ -6568,7 +6568,7 @@
       <attachment type="Dataset" hash="1545b277">2020.acl-main.443.Dataset.zip</attachment>
       <video tag="video" href="http://slideslive.com/38929334"/>
       <bibkey>tabassum-etal-2020-code</bibkey>
-      <pwccode url="https://github.com/jeniyat/StackOverflowNER" additional="false">jeniyat/StackOverflowNER</pwccode>
+      <pwccode url="https://github.com/jeniyat/StackOverflowNER" additional="true">jeniyat/StackOverflowNER</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
     </paper>
     <paper id="444">
