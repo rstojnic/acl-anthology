@@ -739,6 +739,7 @@
       <abstract>This paper presents RuSentiment, a new dataset for sentiment analysis of social media posts in Russian, and a new set of comprehensive annotation guidelines that are extensible to other languages. RuSentiment is currently the largest in its class for Russian, with 31,185 posts annotated with Fleiss’ kappa of 0.58 (3 annotations per post). To diversify the dataset, 6,950 posts were pre-selected with an active learning-style strategy. We report baseline classification results, and we also release the best-performing embeddings trained on 3.2B tokens of Russian VKontakte posts.</abstract>
       <url hash="869a1f3e">C18-1064</url>
       <bibkey>rogers-etal-2018-rusentiment</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/10000-people-human-pose-recognition-data">10,000 People - Human Pose Recognition Data</pwcdataset>
     </paper>
     <paper id="65">
       <title>Self-Normalization Properties of Language Modeling</title>
