@@ -35,7 +35,6 @@
       <abstract>We release EDGAR-CORPUS, a novel corpus comprising annual reports from all the publicly traded companies in the US spanning a period of more than 25 years. To the best of our knowledge, EDGAR-CORPUS is the largest financial NLP corpus available to date. All the reports are downloaded, split into their corresponding items (sections), and provided in a clean, easy-to-use JSON format. We use EDGAR-CORPUS to train and release EDGAR-W2V, which are WORD2VEC embeddings for the financial domain. We employ these embeddings in a battery of financial NLP tasks and showcase their superiority over generic GloVe embeddings and other existing financial word embeddings. We also open-source EDGAR-CRAWLER, a toolkit that facilitates downloading and extracting future annual reports.</abstract>
       <url hash="7cc0391b">2021.econlp-1.2</url>
       <bibkey>loukas-etal-2021-edgar</bibkey>
-      <pwccode url="https://github.com/nlpaueb/edgar-crawler" additional="true">nlpaueb/edgar-crawler</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/edgar-corpus">EDGAR-CORPUS</pwcdataset>
     </paper>
     <paper id="3">
