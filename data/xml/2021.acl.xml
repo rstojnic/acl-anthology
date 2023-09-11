@@ -2148,7 +2148,7 @@
       <url hash="11c5c347">2021.acl-long.142</url>
       <doi>10.18653/v1/2021.acl-long.142</doi>
       <bibkey>wang-etal-2021-improving</bibkey>
-      <pwccode url="https://github.com/modelscope/adaseq" additional="true">modelscope/adaseq</pwccode>
+      <pwccode url="https://github.com/modelscope/AdaSeq/tree/master/examples/RaNER" additional="true">modelscope/AdaSeq</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/bc5cdr">BC5CDR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cmeee">CMeEE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll">CoNLL++</pwcdataset>
