@@ -3725,6 +3725,7 @@
       <url hash="d29c5073">2021.findings-acl.274</url>
       <doi>10.18653/v1/2021.findings-acl.274</doi>
       <bibkey>huang-etal-2021-igseg</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/vist-e">VIST-E</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vist">VIST</pwcdataset>
     </paper>
     <paper id="275">
