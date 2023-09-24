@@ -9581,7 +9581,7 @@
       <video tag="video" href="http://slideslive.com/38929193"/>
       <bibkey>martin-etal-2020-camembert</bibkey>
       <pwccode url="https://github.com/huggingface/transformers" additional="true">huggingface/transformers</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/french-wikipedia">Omronob</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/french-wikipedia">French Wikipedia</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ccnet">CCNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
