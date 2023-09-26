@@ -12661,6 +12661,7 @@
       <video tag="video" href="http://slideslive.com/38928674"/>
       <bibkey>bhatt-etal-2020-much</bibkey>
       <pwccode url="https://github.com/bhattg/Decay-RNN-ACL-SRW2020" additional="false">bhattg/Decay-RNN-ACL-SRW2020</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="34">
