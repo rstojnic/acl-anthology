@@ -2184,7 +2184,6 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <bibkey>felbo-etal-2017-using</bibkey>
       <pwccode url="https://github.com/bfelbo/deepmoji" additional="true">bfelbo/deepmoji</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mr">MR</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/scv1">SCv1</pwcdataset>
     </paper>
     <paper id="170">
       <title>Opinion Recommendation Using A Neural Model</title>
