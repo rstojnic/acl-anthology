@@ -2912,7 +2912,6 @@
       <doi>10.18653/v1/P19-1203</doi>
       <bibkey>pan-etal-2019-reinforced</bibkey>
       <pwccode url="https://github.com/ZJULearning/ReDR" additional="false">ZJULearning/ReDR</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -3203,7 +3202,6 @@
       <doi>10.18653/v1/P19-1224</doi>
       <bibkey>krishna-iyyer-2019-generating</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -6288,7 +6286,6 @@
       <pwccode url="https://github.com/ryanzhumich/editsql" additional="true">ryanzhumich/editsql</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sparc">SParC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
     </paper>
     <paper id="444">
@@ -6797,7 +6794,6 @@
       <doi>10.18653/v1/P19-1480</doi>
       <bibkey>gao-etal-2019-interconnected</bibkey>
       <pwccode url="https://github.com/Evan-Gao/conversational-QG" additional="false">Evan-Gao/conversational-QG</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="481">
@@ -8787,7 +8783,6 @@
       <url hash="fe2c26b7">P19-1622</url>
       <doi>10.18653/v1/P19-1622</doi>
       <bibkey>zhang-2019-mc</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
     </paper>
     <paper id="623">
       <title>Reducing Word Omission Errors in Neural Machine Translation: A Contrastive Learning Approach</title>

@@ -3251,7 +3251,7 @@
       <doi>10.18653/v1/N19-1241</doi>
       <bibkey>yatskar-2019-qualitative</bibkey>
       <pwccode url="https://github.com/my89/co-squac" additional="false">my89/co-squac</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">Bukachuda</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -3266,7 +3266,6 @@
       <url hash="cf993df7">N19-1242</url>
       <doi>10.18653/v1/N19-1242</doi>
       <bibkey>xu-etal-2019-bert</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
@@ -4080,7 +4079,6 @@
       <video href="https://vimeo.com/356079637" tag="video"/>
       <bibkey>clark-etal-2019-boolq</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
@@ -5755,10 +5753,10 @@
       <video href="https://vimeo.com/365139010" tag="video"/>
       <bibkey>devlin-etal-2019-bert</bibkey>
       <pwccode url="https://github.com/google-research/bert" additional="true">google-research/bert</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">Bukachuda</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cped">CPED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>

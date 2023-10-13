@@ -28,7 +28,6 @@
       <url hash="07e16bd3">2021.dialdoc-1.1</url>
       <doi>10.18653/v1/2021.dialdoc-1.1</doi>
       <bibkey>feng-2021-dialdoc</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/doc2dial-1">Doc2Dial</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrqa-2019">MRQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/doc2dial">doc2dial</pwcdataset>
@@ -88,7 +87,6 @@
       <doi>10.18653/v1/2021.dialdoc-1.5</doi>
       <bibkey>nehring-etal-2021-combining</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/clinc150">CLINC150</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="6">
@@ -123,7 +121,6 @@
       <url hash="1f197c85">2021.dialdoc-1.7</url>
       <doi>10.18653/v1/2021.dialdoc-1.7</doi>
       <bibkey>li-etal-2021-technical</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
     </paper>
     <paper id="8">
       <title>Cascaded Span Extraction and Response Generation for Document-Grounded Dialog</title>
@@ -209,7 +206,6 @@
       <url hash="10419e05">2021.dialdoc-1.13</url>
       <doi>10.18653/v1/2021.dialdoc-1.13</doi>
       <bibkey>khosla-etal-2021-team</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/doc2dial-1">Doc2Dial</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrqa-2019">MRQA</pwcdataset>
@@ -234,7 +230,6 @@
       <url hash="1cfd4ae8">2021.dialdoc-1.14</url>
       <doi>10.18653/v1/2021.dialdoc-1.14</doi>
       <bibkey>chen-etal-2021-building</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="15">

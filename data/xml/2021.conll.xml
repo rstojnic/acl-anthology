@@ -222,7 +222,6 @@
       <url hash="51efaf81">2021.conll-1.16</url>
       <bibkey>demeter-downey-2021-whos</bibkey>
       <pwccode url="https://github.com/daviddemeter/splatbenchmarks" additional="false">daviddemeter/splatbenchmarks</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/decanlp">decaNLP</pwcdataset>
     </paper>

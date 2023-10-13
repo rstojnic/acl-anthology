@@ -8644,7 +8644,6 @@
       <doi>10.18653/v1/2020.emnlp-main.573</doi>
       <video tag="video" href="https://slideslive.com/38939019"/>
       <bibkey>staliunaite-iacobacci-2020-compositional</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
     </paper>
     <paper id="574">
       <title>Attention is Not Only a Weight: Analyzing Transformers with Vector Norms</title>
@@ -9872,7 +9871,6 @@
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/doc2dial-1">Doc2Dial</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/doc2dial">doc2dial</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/doqa">DoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>

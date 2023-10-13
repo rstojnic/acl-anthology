@@ -7153,7 +7153,6 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <url hash="d1bd32fc">W19-4102</url>
       <doi>10.18653/v1/W19-4102</doi>
       <bibkey>ohsugi-etal-2019-simple</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
