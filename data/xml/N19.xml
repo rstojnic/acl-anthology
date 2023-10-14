@@ -3251,7 +3251,7 @@
       <doi>10.18653/v1/N19-1241</doi>
       <bibkey>yatskar-2019-qualitative</bibkey>
       <pwccode url="https://github.com/my89/co-squac" additional="false">my89/co-squac</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">Bukachuda</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -5753,10 +5753,10 @@
       <video href="https://vimeo.com/365139010" tag="video"/>
       <bibkey>devlin-etal-2019-bert</bibkey>
       <pwccode url="https://github.com/google-research/bert" additional="true">google-research/bert</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">Bukachuda</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cped">CPED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>

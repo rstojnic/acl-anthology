@@ -227,7 +227,7 @@
       <url hash="7976ceb5">Q19-1016</url>
       <bibkey>reddy-etal-2019-coqa</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/coqa">Bukachuda</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mctest">MCTest</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/narrativeqa">NarrativeQA</pwcdataset>
