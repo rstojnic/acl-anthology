@@ -449,7 +449,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03bd4c14">2021.findings-acl.32.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.32</doi>
       <bibkey>gritta-iacobacci-2021-xeroalign</bibkey>
-      <pwccode url="https://github.com/huawei-noah/noah-research" additional="true">huawei-noah/noah-research</pwccode>
+      <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/xero_align" additional="true">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
@@ -511,6 +511,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glge">GLGE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/clue">CLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flue-french-language-understanding-evaluation">FLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/indonlu-benchmark">IndoNLU Benchmark</pwcdataset>
@@ -2501,6 +2502,7 @@
       <url hash="56b62e54">2021.findings-acl.182</url>
       <doi>10.18653/v1/2021.findings-acl.182</doi>
       <bibkey>zheng-etal-2021-grice</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mutual">MuTual</pwcdataset>
     </paper>
     <paper id="183">
@@ -8250,6 +8252,7 @@
       <url hash="76e909e9">2021.findings-emnlp.160</url>
       <bibkey>zhao-etal-2021-ror-read</bibkey>
       <pwccode url="https://github.com/jd-ai-research-nlp/ror" additional="false">jd-ai-research-nlp/ror</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
@@ -10715,6 +10718,7 @@
       <url hash="5000e8b8">2021.findings-emnlp.350</url>
       <bibkey>zhang-etal-2021-noahqa-numerical</bibkey>
       <pwccode url="https://github.com/don-joey/noahqa" additional="false">don-joey/noahqa</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>

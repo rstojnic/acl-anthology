@@ -2676,6 +2676,7 @@
       <url hash="b1e5b74e">2020.coling-main.202</url>
       <doi>10.18653/v1/2020.coling-main.202</doi>
       <bibkey>scialom-staiano-2020-ask</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -3310,6 +3311,7 @@
       <url hash="93b02c89">2020.coling-main.247</url>
       <doi>10.18653/v1/2020.coling-main.247</doi>
       <bibkey>gupta-etal-2020-conversational</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
     </paper>
     <paper id="248">
@@ -6372,6 +6374,7 @@
       <url hash="326b6e1c">2020.coling-main.479</url>
       <doi>10.18653/v1/2020.coling-main.479</doi>
       <bibkey>xu-etal-2020-data</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
     </paper>
     <paper id="480">
       <title><fixed-case>KINNEWS</fixed-case> and <fixed-case>KIRNEWS</fixed-case>: Benchmarking Cross-Lingual Text Classification for <fixed-case>K</fixed-case>inyarwanda and <fixed-case>K</fixed-case>irundi</title>

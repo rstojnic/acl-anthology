@@ -1772,6 +1772,7 @@
       <url hash="650fb73f">2021.acl-long.118</url>
       <doi>10.18653/v1/2021.acl-long.118</doi>
       <bibkey>asai-choi-2021-challenges</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
     </paper>
@@ -3077,6 +3078,7 @@
       <bibkey>li-etal-2021-unimo</bibkey>
       <pwccode url="https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/text_generation/unimo-text" additional="true">PaddlePaddle/PaddleNLP</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli-ve">SNLI-VE</pwcdataset>
@@ -7261,6 +7263,7 @@
       <bibkey>kim-etal-2021-learn</bibkey>
       <pwccode url="https://github.com/dmis-lab/excord" additional="false">dmis-lab/excord</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/canard">CANARD</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
     </paper>
     <paper id="479">
@@ -10492,6 +10495,7 @@
       <url hash="040d1e09">2021.acl-short.130</url>
       <doi>10.18653/v1/2021.acl-short.130</doi>
       <bibkey>siblini-etal-2021-towards</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="131">

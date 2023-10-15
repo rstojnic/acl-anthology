@@ -6239,6 +6239,7 @@
       <bibkey>gao-etal-2018-neural-approaches</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/csqa">CSQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drcd">DRCD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dureader">DuReader</pwcdataset>

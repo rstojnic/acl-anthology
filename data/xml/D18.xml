@@ -3314,6 +3314,7 @@
       <attachment type="poster" hash="28e0467a">D18-1241.Poster.pdf</attachment>
       <bibkey>choi-etal-2018-quac</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsqa">NewsQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>

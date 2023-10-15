@@ -52,6 +52,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.3</doi>
       <bibkey>qi-etal-2020-stay</bibkey>
       <pwccode url="https://github.com/qipeng/stay-hungry-stay-focused" additional="false">qipeng/stay-hungry-stay-focused</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -599,6 +600,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.41</doi>
       <bibkey>lin-etal-2020-exploring</bibkey>
       <pwccode url="https://github.com/zlinao/VGLM" additional="false">zlinao/VGLM</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
     </paper>
     <paper id="42">
       <title>A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classification</title>
@@ -826,6 +828,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cjrc">CJRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cmrc">CMRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cmrc-2018">CMRC 2018</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drcd">DRCD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -1553,6 +1556,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.107</doi>
       <bibkey>dhoffschmidt-etal-2020-fquad</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fquad">FQuAD</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/korquad">KorQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>

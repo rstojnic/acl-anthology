@@ -67,6 +67,7 @@
       <url hash="2d14f552">2019.ijclclp-2.1</url>
       <language>zho</language>
       <bibkey>luo-chen-2019-ji-yu</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drcd">DRCD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/lsun">LSUN</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>

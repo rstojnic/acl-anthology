@@ -3460,6 +3460,7 @@
       <doi>10.18653/v1/D19-1249</doi>
       <bibkey>jing-etal-2019-bipar</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/bipar">BiPaR</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -13166,6 +13167,7 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <doi>10.18653/v1/D19-5812</doi>
       <bibkey>yeh-chen-2019-flowdelta</bibkey>
       <pwccode url="https://github.com/MiuLab/FlowDelta" additional="false">MiuLab/FlowDelta</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>

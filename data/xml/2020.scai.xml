@@ -56,6 +56,7 @@
       <doi>10.18653/v1/2020.scai-1.3</doi>
       <video tag="video" href="https://slideslive.com/38940064"/>
       <bibkey>kongyoung-etal-2020-multi</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
     </paper>
   </volume>

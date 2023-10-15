@@ -3266,6 +3266,7 @@
       <url hash="cf993df7">N19-1242</url>
       <doi>10.18653/v1/N19-1242</doi>
       <bibkey>xu-etal-2019-bert</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
@@ -4079,6 +4080,7 @@
       <video href="https://vimeo.com/356079637" tag="video"/>
       <bibkey>clark-etal-2019-boolq</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>

@@ -424,6 +424,7 @@
       <pwccode url="https://github.com/google-research-datasets/tydiqa" additional="true">google-research-datasets/tydiqa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydiqa-goldp">TyDiQA-GoldP</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dureader">DuReader</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>

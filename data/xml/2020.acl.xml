@@ -292,6 +292,7 @@
       <video tag="video" href="http://slideslive.com/38928997"/>
       <bibkey>baheti-etal-2020-fluent</bibkey>
       <pwccode url="https://github.com/abaheti95/QADialogSystem" additional="false">abaheti95/QADialogSystem</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -1920,6 +1921,7 @@
       <bibkey>cui-etal-2020-mutual</bibkey>
       <pwccode url="https://github.com/Nealcly/MuTual" additional="false">Nealcly/MuTual</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mutual">MuTual</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dream">DREAM</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
@@ -5310,6 +5312,7 @@
       <bibkey>niu-etal-2020-self</bibkey>
       <pwccode url="https://github.com/SparkJiao/Self-Training-MRC" additional="false">SparkJiao/Self-Training-MRC</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quasar-1">QUASAR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quasar-t">QUASAR-T</pwcdataset>
@@ -6628,7 +6631,7 @@
       <doi>10.18653/v1/2020.acl-main.447</doi>
       <video tag="video" href="http://slideslive.com/38929131"/>
       <bibkey>lo-etal-2020-s2orc</bibkey>
-      <pwccode url="https://github.com/allenai/s2orc" additional="true">allenai/s2orc</pwccode>
+      <pwccode url="https://github.com/allenai/s2-gorc" additional="true">allenai/s2-gorc</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/s2orc">S2ORC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cord-19">CORD-19</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dblp">DBLP</pwcdataset>
@@ -8960,6 +8963,7 @@
       <video tag="video" href="http://slideslive.com/38928937"/>
       <bibkey>gong-etal-2020-recurrent</bibkey>
       <pwccode url="https://github.com/HongyuGong/RCM-Question-Answering" additional="false">HongyuGong/RCM-Question-Answering</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
     </paper>

@@ -349,6 +349,7 @@
       <url hash="88e3619c">2020.ccl-1.29</url>
       <language>zho</language>
       <bibkey>qian-etal-2020-ji-yu</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/narrativeqa">NarrativeQA</pwcdataset>
@@ -974,6 +975,7 @@
       <url hash="37dd1726">2020.ccl-1.80</url>
       <language>eng</language>
       <bibkey>jing-etal-2020-combining</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quac">QuAC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>

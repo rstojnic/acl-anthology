@@ -2402,6 +2402,7 @@
       <bibkey>gu-etal-2021-chaincqg</bibkey>
       <doi>10.18653/v1/2021.eacl-main.177</doi>
       <pwccode url="https://github.com/searchableai/ChainCQG" additional="false">searchableai/ChainCQG</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
     </paper>
     <paper id="178">
       <title>The Interplay of Task Success and Dialogue Quality: An in-depth Evaluation in Task-Oriented Visual Dialogues</title>
