@@ -484,7 +484,7 @@
       <abstract>Practical dialogue systems require robust methods of detecting out-of-scope (OOS) utterances to avoid conversational breakdowns and related failure modes. Directly training a model with labeled OOS examples yields reasonable performance, but obtaining such data is a resource-intensive process. To tackle this limited-data problem, previous methods focus on better modeling the distribution of in-scope (INS) examples. We introduce GOLD as an orthogonal technique that augments existing data to train better OOS detectors operating in low-data regimes. GOLD generates pseudo-labeled candidates using samples from an auxiliary dataset and keeps only the most beneficial candidates for training through a novel filtering mechanism. In experiments across three target benchmarks, the top GOLD model outperforms all existing methods on all key metrics, achieving relative gains of 52.4%, 48.9% and 50.3% against median baseline performance. We also analyze the unique properties of OOS data to identify key factors for optimally applying our proposed method.</abstract>
       <url hash="94658ebb">2021.emnlp-main.35</url>
       <bibkey>chen-yu-2021-gold</bibkey>
-      <pwccode url="https://github.com/asappresearch/gold" additional="false">asappresearch/gold</pwccode>
+      <pwccode url="https://github.com/asappresearch/gold" additional="true">asappresearch/gold</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/rostd">ROSTD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/star">STAR</pwcdataset>
     </paper>
