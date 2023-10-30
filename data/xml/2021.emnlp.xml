@@ -5055,6 +5055,7 @@
       <url hash="e524d1d5">2021.emnlp-main.366</url>
       <bibkey>yao-etal-2021-codred</bibkey>
       <pwccode url="https://github.com/thunlp/codred" additional="false">thunlp/codred</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/codred">CodRED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bc5cdr">BC5CDR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/docred">DocRED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
