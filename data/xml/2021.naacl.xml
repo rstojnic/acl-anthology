@@ -3909,7 +3909,7 @@
       <url hash="0bf6dd05">2021.naacl-main.270</url>
       <doi>10.18653/v1/2021.naacl-main.270</doi>
       <bibkey>iida-etal-2021-tabbie</bibkey>
-      <pwccode url="https://github.com/SFIG611/tabbie" additional="false">SFIG611/tabbie</pwccode>
+      <pwccode url="https://github.com/SFIG611/tabbie" additional="true">SFIG611/tabbie</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/viznet-sato">VizNet-Sato</pwcdataset>
     </paper>
     <paper id="271">
