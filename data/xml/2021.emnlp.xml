@@ -9927,6 +9927,7 @@
       <url hash="b4b944a6">2021.emnlp-main.723</url>
       <bibkey>han-etal-2021-improving</bibkey>
       <pwccode url="https://github.com/declare-lab/multimodal-deep-learning" additional="true">declare-lab/multimodal-deep-learning</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cmu-mosi">CMU-MOSI</pwcdataset>
     </paper>
     <paper id="724">
       <title><fixed-case>BERT</fixed-case>4<fixed-case>GCN</fixed-case>: Using <fixed-case>BERT</fixed-case> Intermediate Layers to Augment <fixed-case>GCN</fixed-case> for Aspect-based Sentiment Classification</title>
