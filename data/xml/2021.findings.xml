@@ -9149,6 +9149,7 @@
       <url hash="8a390b06">2021.findings-emnlp.230</url>
       <bibkey>kumar-etal-2021-adversarial-examples</bibkey>
       <pwccode url="https://github.com/kevivk/mwp_adversarial" additional="false">kevivk/mwp_adversarial</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/asdiv">ASDiv</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mawps">MAWPS</pwcdataset>
     </paper>
     <paper id="231">
