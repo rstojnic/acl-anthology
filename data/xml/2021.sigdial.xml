@@ -177,7 +177,7 @@
       <bibkey>papangelis-etal-2021-generative</bibkey>
       <video tag="video" href="https://www.youtube.com/watch?v=NL703avDlpE"/>
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/cifar-10">Certificate Verification</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/cifar-10">CIFAR-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snips">SNIPS</pwcdataset>
     </paper>
     <paper id="13">

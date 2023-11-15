@@ -2845,8 +2845,8 @@
       <url hash="7691ff01">2021.eacl-main.212</url>
       <bibkey>jafari-etal-2021-annealing</bibkey>
       <doi>10.18653/v1/2021.eacl-main.212</doi>
+      <pwcdataset url="https://paperswithcode.com/dataset/cifar-10">CIFAR-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cifar-100">CIFAR-100</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/cifar-10">Certificate Verification</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>

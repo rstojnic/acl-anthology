@@ -2901,7 +2901,7 @@
       <pages>753–758</pages>
       <url hash="a20815d7">P13-2132</url>
       <bibkey>moran-etal-2013-variable</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/cifar-10">Certificate Verification</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/cifar-10">CIFAR-10</pwcdataset>
     </paper>
     <paper id="133">
       <title>Context Vector Disambiguation for Bilingual Lexicon Extraction from Comparable Corpora</title>
