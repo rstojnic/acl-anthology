@@ -1079,7 +1079,7 @@
       <doi>10.18653/v1/2021.naacl-main.74</doi>
       <bibkey>cao-etal-2021-low</bibkey>
       <pwccode url="https://github.com/stevenxcao/subnetwork-probing" additional="false">stevenxcao/subnetwork-probing</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="75">
       <title>An Empirical Comparison of Instance Attribution Methods for <fixed-case>NLP</fixed-case></title>
@@ -2381,7 +2381,7 @@
       <bibkey>wei-etal-2021-masked</bibkey>
       <pwccode url="https://github.com/DandyQi/MaskedCRF" additional="true">DandyQi/MaskedCRF</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="164">
       <title>Heterogeneous Graph Neural Networks for Concept Prerequisite Relation Learning in Educational Data</title>

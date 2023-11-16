@@ -379,7 +379,7 @@
       <doi>10.18653/v1/2021.findings-acl.27</doi>
       <bibkey>namysl-etal-2021-empirical</bibkey>
       <pwccode url="https://github.com/mnamysl/nat-acl2021" additional="false">mnamysl/nat-acl2021</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="28">
       <title>Spatial Dependency Parsing for Semi-Structured Document Information Extraction</title>
@@ -2245,7 +2245,7 @@
       <doi>10.18653/v1/2021.findings-acl.161</doi>
       <bibkey>cui-etal-2021-template</bibkey>
       <pwccode url="https://github.com/Nealcly/templateNER" additional="false">Nealcly/templateNER</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="162">
       <title>“Does it Matter When <fixed-case>I</fixed-case> Think You Are Lying?” Improving Deception Detection by Integrating Interlocutor’s Judgements in Conversations</title>
@@ -2281,7 +2281,7 @@
       <url hash="76ff9b21">2021.findings-acl.164</url>
       <doi>10.18653/v1/2021.findings-acl.164</doi>
       <bibkey>wang-etal-2021-structured</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="165">
       <title>End-to-End Construction of <fixed-case>NLP</fixed-case> Knowledge Graph</title>
@@ -4690,7 +4690,7 @@
       <doi>10.18653/v1/2021.findings-acl.349</doi>
       <bibkey>agarwal-nenkova-2021-utility</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/broad-twitter-corpus">Broad Twitter Corpus</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="350">
       <title>On the Cost-Effectiveness of Stacking of Neural and Non-Neural Methods for Text Classification: Scenarios and Performance Prediction</title>
@@ -5296,7 +5296,7 @@
       <url hash="dad0532b">2021.findings-acl.396</url>
       <doi>10.18653/v1/2021.findings-acl.396</doi>
       <bibkey>guo-roth-2021-constrained</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="397">
       <title>He is very intelligent, she is very beautiful? <fixed-case>O</fixed-case>n <fixed-case>M</fixed-case>itigating <fixed-case>S</fixed-case>ocial <fixed-case>B</fixed-case>iases in <fixed-case>L</fixed-case>anguage <fixed-case>M</fixed-case>odelling and <fixed-case>G</fixed-case>eneration</title>
@@ -6171,7 +6171,7 @@
       <abstract>Recent work in multilingual natural language processing has shown progress in various tasks such as natural language inference and joint multilingual translation. Despite success in learning across many languages, challenges arise where multilingual training regimes often boost performance on some languages at the expense of others. For multilingual named entity recognition (NER) we propose a simple technique that groups similar languages together by using embeddings from a pre-trained masked language model, and automatically discovering language clusters in this embedding space. Specifically, we fine-tune an XLM-Roberta model on a language identification task, and use embeddings from this model for clustering. We conduct experiments on 15 diverse languages in the WikiAnn dataset and show our technique largely outperforms three baselines: (1) training a multilingual model jointly on all available languages, (2) training one monolingual model per language, and (3) grouping languages by linguistic family. We also conduct analyses showing meaningful multilingual transfer for low-resource languages (Swahili and Yoruba), despite being automatically grouped with other seemingly disparate languages.</abstract>
       <url hash="95dd3026">2021.findings-emnlp.4</url>
       <bibkey>shaffer-2021-language-clustering</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="5">
       <title>Neural News Recommendation with Collaborative News Encoding and Structural User Encoding</title>
@@ -7280,7 +7280,7 @@
       <abstract>Task-adaptive pre-training (TAPT) and Self-training (ST) have emerged as the major semi-supervised approaches to improve natural language understanding (NLU) tasks with massive amount of unlabeled data. However, it’s unclear whether they learn similar representations or they can be effectively combined. In this paper, we show that TAPT and ST can be complementary with simple TFS protocol by following TAPT -&gt; Finetuning -&gt; Self-training (TFS) process. Experimental results show that TFS protocol can effectively utilize unlabeled data to achieve strong combined gains consistently across six datasets covering sentiment classification, paraphrase identification, natural language inference, named entity recognition and dialogue slot classification. We investigate various semi-supervised settings and consistently show that gains from TAPT and ST can be strongly additive by following TFS procedure. We hope that TFS could serve as an important semi-supervised baseline for future NLP studies.</abstract>
       <url hash="883f6169">2021.findings-emnlp.86</url>
       <bibkey>li-etal-2021-task-adaptive</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
@@ -7297,7 +7297,7 @@
       <abstract>Transformer models fine-tuned with a sequence labeling objective have become the dominant choice for named entity recognition tasks. However, a self-attention mechanism with unconstrained length can fail to fully capture local dependencies, particularly when training data is limited. In this paper, we propose a novel joint training objective which better captures the semantics of words corresponding to the same entity. By augmenting the training objective with a group-consistency loss component we enhance our ability to capture local dependencies while still enjoying the advantages of the unconstrained self-attention mechanism. On the CoNLL2003 dataset, our method achieves a test F1 of 93.98 with a single transformer model. More importantly our fine-tuned CoNLL2003 model displays significant gains in generalization to out of domain datasets: on the OntoNotes subset we achieve an F1 of 72.67 which is 0.49 points absolute better than the baseline, and on the WNUT16 set an F1 of 68.22 which is a gain of 0.48 points. Furthermore, on the WNUT17 dataset we achieve an F1 of 55.85, yielding a 2.92 point absolute improvement.</abstract>
       <url hash="dde0e6b4">2021.findings-emnlp.87</url>
       <bibkey>sung-etal-2021-cnnbif-cnn</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="88">
       <title>Compositional Generalization via Semantic Tagging</title>
@@ -7975,7 +7975,7 @@
       <abstract>In this work, we study the problem of named entity recognition (NER) in a low resource scenario, focusing on few-shot and zero-shot settings. Built upon large-scale pre-trained language models, we propose a novel NER framework, namely SpanNER, which learns from natural language supervision and enables the identification of never-seen entity classes without using in-domain labeled data. We perform extensive experiments on 5 benchmark datasets and evaluate the proposed method in the few-shot learning, domain transfer and zero-shot learning settings. The experimental results show that the proposed method can bring 10%, 23% and 26% improvements in average over the best baselines in few-shot learning, domain transfer and zero-shot learning settings respectively.</abstract>
       <url hash="889cfeb7">2021.findings-emnlp.139</url>
       <bibkey>wang-etal-2021-learning-language-description</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="140">
       <title><fixed-case>BERT</fixed-case> might be Overkill: A Tiny but Effective Biomedical Entity Linker based on Residual Convolutional Neural Networks</title>
@@ -8366,7 +8366,7 @@
       <abstract>Pre-trained language models (PrLM) have to carefully manage input units when training on a very large text with a vocabulary consisting of millions of words. Previous works have shown that incorporating span-level information over consecutive words in pre-training could further improve the performance of PrLMs. However, given that span-level clues are introduced and fixed in pre-training, previous methods are time-consuming and lack of flexibility. To alleviate the inconvenience, this paper presents a novel span fine-tuning method for PrLMs, which facilitates the span setting to be adaptively determined by specific downstream tasks during the fine-tuning phase. In detail, any sentences processed by the PrLM will be segmented into multiple spans according to a pre-sampled dictionary. Then the segmentation information will be sent through a hierarchical CNN module together with the representation outputs of the PrLM and ultimately generate a span-enhanced representation. Experiments on GLUE benchmark show that the proposed span fine-tuning method significantly enhances the PrLM, and at the same time, offer more flexibility in an efficient way.</abstract>
       <url hash="a089dab8">2021.findings-emnlp.169</url>
       <bibkey>bao-etal-2021-span-fine</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
@@ -8965,7 +8965,7 @@
       <pwccode url="https://github.com/babelscape/wikineural" additional="false">babelscape/wikineural</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikineural">WikiNEuRal</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2002">CoNLL 2002</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikiann-1">WikiAnn</pwcdataset>
     </paper>
     <paper id="216">
@@ -11498,7 +11498,7 @@
       <abstract>Adapter modules have emerged as a general parameter-efficient means to specialize a pretrained encoder to new domains. Massively multilingual transformers (MMTs) have particularly benefited from additional training of language-specific adapters. However, this approach is not viable for the vast majority of languages, due to limitations in their corpus size or compute budgets. In this work, we propose MAD-G (Multilingual ADapter Generation), which contextually generates language adapters from language representations based on typological features. In contrast to prior work, our time- and space-efficient MAD-G approach enables (1) sharing of linguistic knowledge across languages and (2) zero-shot inference by generating language adapters for unseen languages. We thoroughly evaluate MAD-G in zero-shot cross-lingual transfer on part-of-speech tagging, dependency parsing, and named entity recognition. While offering (1) improved fine-tuning efficiency (by a factor of around 50 in our experiments), (2) a smaller parameter budget, and (3) increased language coverage, MAD-G remains competitive with more expensive methods for language-specific adapter training across the board. Moreover, it offers substantial benefits for low-resource languages, particularly on the NER task in low-resource African languages. Finally, we demonstrate that MAD-G’s transfer performance can be further improved via: (i) multi-source training, i.e., by generating and combining adapters of multiple languages with available task-specific training data; and (ii) by further fine-tuning generated MAD-G adapters for languages with monolingual data.</abstract>
       <url hash="57884c12">2021.findings-emnlp.410</url>
       <bibkey>ansell-etal-2021-mad-g</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/masakhaner">MasakhaNER</pwcdataset>
     </paper>
     <paper id="411">

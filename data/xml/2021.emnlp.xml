@@ -2874,7 +2874,7 @@
       <url hash="8512cced">2021.emnlp-main.211</url>
       <bibkey>wang-etal-2021-dylex</bibkey>
       <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/NLP/dylex" additional="false">huawei-noah/noah-research</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="212">
       <title><fixed-case>M</fixed-case>ap<fixed-case>RE</fixed-case>: An Effective Semantic Mapping Approach for Low-resource Relation Extraction</title>
@@ -5146,7 +5146,7 @@
       <url hash="5af48518">2021.emnlp-main.373</url>
       <bibkey>kobayashi-etal-2021-incorporating</bibkey>
       <pwccode url="https://github.com/gorokoba560/norm-analysis-of-transformer" additional="true">gorokoba560/norm-analysis-of-transformer</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -5622,7 +5622,7 @@
       <abstract>Unsupervised Data Augmentation (UDA) is a semisupervised technique that applies a consistency loss to penalize differences between a model’s predictions on (a) observed (unlabeled) examples; and (b) corresponding ‘noised’ examples produced via data augmentation. While UDA has gained popularity for text classification, open questions linger over which design decisions are necessary and how to extend the method to sequence labeling tasks. In this paper, we re-examine UDA and demonstrate its efficacy on several sequential tasks. Our main contribution is an empirical study of UDA to establish which components of the algorithm confer benefits in NLP. Notably, although prior work has emphasized the use of clever augmentation techniques including back-translation, we find that enforcing consistency between predictions assigned to observed and randomly substituted words often yields comparable (or greater) benefits compared to these more complex perturbation models. Furthermore, we find that applying UDA’s consistency loss affords meaningful gains without any unlabeled data at all, i.e., in a standard supervised setting. In short, UDA need not be unsupervised to realize much of its noted benefits, and does not require complex data augmentation to be effective.</abstract>
       <url hash="ec528452">2021.emnlp-main.408</url>
       <bibkey>lowell-etal-2021-unsupervised</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ebm-nlp">EBM-NLP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/evidence-inference">Evidence Inference</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
@@ -5994,8 +5994,8 @@
       <url hash="0bcb5d2b">2021.emnlp-main.437</url>
       <bibkey>zhou-chen-2021-learning</bibkey>
       <pwccode url="https://github.com/wzhouad/NLL-IE" additional="false">wzhouad/NLL-IE</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll">CoNLL++</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tacred">TACRED</pwcdataset>
     </paper>
     <paper id="438">
@@ -11116,7 +11116,7 @@
       <abstract>This paper presents an empirical study to efficiently build named entity recognition (NER) systems when a small amount of in-domain labeled data is available. Based upon recent Transformer-based self-supervised pre-trained language models (PLMs), we investigate three orthogonal schemes to improve model generalization ability in few-shot settings: (1) meta-learning to construct prototypes for different entity types, (2) task-specific supervised pre-training on noisy web data to extract entity-related representations and (3) self-training to leverage unlabeled in-domain data. On 10 public NER datasets, we perform extensive empirical comparisons over the proposed schemes and their combinations with various proportions of labeled data, our experiments show that (i)in the few-shot learning setting, the proposed NER schemes significantly improve or outperform the commonly used baseline, a PLM-based linear classifier fine-tuned using domain labels. (ii) We create new state-of-the-art results on both few-shot and training-free settings compared with existing methods.</abstract>
       <url hash="57d06afa">2021.emnlp-main.813</url>
       <bibkey>huang-etal-2021-shot</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snips">SNIPS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wnut-2017-emerging-and-rare-entity">WNUT 2017</pwcdataset>
     </paper>
@@ -11297,7 +11297,7 @@
       <pwccode url="https://github.com/adapter-hub/efficient-task-transfer" additional="false">adapter-hub/efficient-task-transfer</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
@@ -12079,7 +12079,7 @@
       <abstract>Named Entity Recognition is a fundamental task in information extraction and is an essential element for various Natural Language Processing pipelines. Adversarial attacks have been shown to greatly affect the performance of text classification systems but knowledge about their effectiveness against named entity recognition models is limited. This paper investigates the effectiveness and portability of adversarial attacks from text classification to named entity recognition and the ability of adversarial training to counteract these attacks. We find that character-level and word-level attacks are the most effective, but adversarial training can grant significant protection at little to no expense of standard performance. Alongside our results, we also release SeqAttack, a framework to conduct adversarial attacks against token classification models (used in this work for named entity recognition) and a companion web application to inspect and cherry pick adversarial examples.</abstract>
       <url hash="86425ec6">2021.emnlp-demo.35</url>
       <bibkey>simoncini-spanakis-2021-seqattack</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL-2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="36">
       <title><fixed-case>InVeRo-XL</fixed-case>: <fixed-case>M</fixed-case>aking Cross-Lingual <fixed-case>S</fixed-case>emantic <fixed-case>R</fixed-case>ole <fixed-case>L</fixed-case>abeling Accessible with Intelligible Verbs and Roles</title>
