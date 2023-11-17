@@ -2261,6 +2261,7 @@
       <url hash="7fb6c527">2021.emnlp-main.166</url>
       <bibkey>qiu-etal-2021-systematic</bibkey>
       <pwccode url="https://github.com/LauraRuis/groundedSCAN" additional="true">LauraRuis/groundedSCAN</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/gscan">GSCAN</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scan">SCAN</pwcdataset>
     </paper>
     <paper id="167">

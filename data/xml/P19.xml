@@ -10300,6 +10300,7 @@
       <doi>10.18653/v1/P19-3019</doi>
       <bibkey>gehrmann-etal-2019-gltr</bibkey>
       <pwccode url="https://github.com/HendrikStrobelt/detecting-fake-text" additional="true">HendrikStrobelt/detecting-fake-text</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/10000-people-human-pose-recognition-data">10,000 People - Human Pose Recognition Data</pwcdataset>
     </paper>
     <paper id="20">
       <title><fixed-case>O</fixed-case>pen<fixed-case>K</fixed-case>iwi: An Open Source Framework for Quality Estimation</title>
