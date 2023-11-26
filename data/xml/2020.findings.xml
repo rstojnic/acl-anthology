@@ -1099,7 +1099,6 @@
       <url hash="1c6cbc62">2020.findings-emnlp.76</url>
       <doi>10.18653/v1/2020.findings-emnlp.76</doi>
       <bibkey>filippova-2020-controlled</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio inayaashaikh</pwcdataset>
     </paper>
     <paper id="77">
       <title>Sequential Span Classification with Neural Semi-<fixed-case>M</fixed-case>arkov <fixed-case>CRF</fixed-case>s for Biomedical Abstracts</title>
@@ -2796,7 +2795,6 @@
       <bibkey>chen-etal-2020-logic2text</bibkey>
       <pwccode url="https://github.com/czyssrs/Logic2Text" additional="false">czyssrs/Logic2Text</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/logic2text">Logic2Text</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio inayaashaikh</pwcdataset>
     </paper>
     <paper id="191">
       <title><fixed-case>M</fixed-case>ed<fixed-case>IC</fixed-case>a<fixed-case>T</fixed-case>: A Dataset of Medical Images, Captions, and Textual References</title>
