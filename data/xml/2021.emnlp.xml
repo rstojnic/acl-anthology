@@ -10662,6 +10662,7 @@
       <bibkey>scholak-etal-2021-picard</bibkey>
       <pwccode url="https://github.com/ElementAI/picard" additional="true">ElementAI/picard</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cosql">CoSQL</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/spider-realistic">Spider-Realistic</pwcdataset>
     </paper>
     <paper id="780">
       <title>Exploiting <fixed-case>T</fixed-case>witter as Source of Large Corpora of Weakly Similar Pairs for Semantic Sentence Embeddings</title>
