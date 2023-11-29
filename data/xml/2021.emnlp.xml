@@ -9648,6 +9648,7 @@
       <url hash="4b6052c0">2021.emnlp-main.702</url>
       <bibkey>gan-etal-2021-exploring</bibkey>
       <pwccode url="https://github.com/ygan/spider-dk" additional="false">ygan/spider-dk</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/spider-realistic">Spider-Realistic</pwcdataset>
     </paper>
     <paper id="703">
       <title>What happens if you treat ordinal ratings as interval data? Human evaluations in <fixed-case>NLP</fixed-case> are even more under-powered than you think</title>
@@ -9727,6 +9728,7 @@
       <bibkey>saparina-osokin-2021-sparqling</bibkey>
       <pwccode url="https://github.com/yandex-research/sparqling-queries" additional="false">yandex-research/sparqling-queries</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/break">BREAK</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/spider-realistic">Spider-Realistic</pwcdataset>
     </paper>
     <paper id="709">
       <title>Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs</title>
@@ -11360,7 +11362,7 @@
       <abstract>While large language models a la BERT are used ubiquitously in NLP, pretraining them is considered a luxury that only a few well-funded industry labs can afford. How can one train such models with a more modest budget? We present a recipe for pretraining a masked language model in 24 hours using a single low-end deep learning server. We demonstrate that through a combination of software optimizations, design choices, and hyperparameter tuning, it is possible to produce models that are competitive with BERT-base on GLUE tasks at a fraction of the original pretraining cost.</abstract>
       <url hash="af151510">2021.emnlp-main.831</url>
       <bibkey>izsak-etal-2021-train</bibkey>
-      <pwccode url="https://github.com/peteriz/academic-budget-bert" additional="true">peteriz/academic-budget-bert</pwccode>
+      <pwccode url="https://github.com/IntelLabs/academic-budget-bert" additional="true">IntelLabs/academic-budget-bert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>

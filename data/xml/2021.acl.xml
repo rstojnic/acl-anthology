@@ -2669,6 +2669,7 @@
       <bibkey>lee-etal-2021-kaggledbqa</bibkey>
       <pwccode url="https://github.com/chiahsuan156/KaggleDBQA" additional="false">chiahsuan156/KaggleDBQA</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/kaggledbqa">KaggleDBQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/spider-realistic">Spider-Realistic</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
     </paper>
     <paper id="177">
@@ -3001,6 +3002,7 @@
       <doi>10.18653/v1/2021.acl-long.198</doi>
       <bibkey>cao-etal-2021-lgesql</bibkey>
       <pwccode url="https://github.com/rhythmcao/text2sql-lgesql" additional="false">rhythmcao/text2sql-lgesql</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/spider-realistic">Spider-Realistic</pwcdataset>
     </paper>
     <paper id="199">
       <title>Multi-stage Pre-training over Simplified Multimodal Pre-training Models</title>
