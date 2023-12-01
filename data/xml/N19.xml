@@ -5781,8 +5781,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
     <paper id="424">
       <title>What’s in a Name? <fixed-case>R</fixed-case>educing Bias in Bios without Access to Protected Attributes</title>

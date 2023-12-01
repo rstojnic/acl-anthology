@@ -312,7 +312,6 @@
       <bibkey>lee-etal-2020-generating</bibkey>
       <pwccode url="https://github.com/seanie12/Info-HCVAE" additional="false">seanie12/Info-HCVAE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
     </paper>
     <paper id="21">
