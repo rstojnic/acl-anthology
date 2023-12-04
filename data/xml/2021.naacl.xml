@@ -387,9 +387,6 @@
       <doi>10.18653/v1/2021.naacl-main.28</doi>
       <bibkey>thakur-etal-2021-augmented</bibkey>
       <pwccode url="https://github.com/UKPLab/sentence-transformers" additional="false">UKPLab/sentence-transformers</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="29">

@@ -5665,7 +5665,6 @@
       <doi>10.18653/v1/D19-1410</doi>
       <bibkey>reimers-gurevych-2019-sentence</bibkey>
       <pwccode url="https://github.com/UKPLab/sentence-transformers" additional="true">UKPLab/sentence-transformers</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>

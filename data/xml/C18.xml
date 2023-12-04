@@ -1976,7 +1976,6 @@
       <bibkey>liu-etal-2018-task</bibkey>
       <pwccode url="https://github.com/qianliu0708/ToWE" additional="false">qianliu0708/ToWE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -2686,7 +2685,6 @@
       <url hash="218e91b0">C18-1232</url>
       <bibkey>gong-etal-2018-information</bibkey>
       <pwccode url="https://github.com/FudanNLP/Capsule4TextClassification" additional="true">FudanNLP/Capsule4TextClassification</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
