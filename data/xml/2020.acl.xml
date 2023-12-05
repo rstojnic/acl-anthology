@@ -6631,7 +6631,7 @@
       <doi>10.18653/v1/2020.acl-main.447</doi>
       <video tag="video" href="http://slideslive.com/38929131"/>
       <bibkey>lo-etal-2020-s2orc</bibkey>
-      <pwccode url="https://github.com/allenai/s2orc" additional="true">allenai/s2orc</pwccode>
+      <pwccode url="https://github.com/allenai/s2-gorc" additional="true">allenai/s2-gorc</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/s2orc">S2ORC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cord-19">CORD-19</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dblp">DBLP</pwcdataset>
@@ -8051,7 +8051,6 @@
       <video tag="video" href="http://slideslive.com/38928821"/>
       <bibkey>yanaka-etal-2020-neural</bibkey>
       <pwccode url="https://github.com/verypluming/systematicity" additional="false">verypluming/systematicity</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="544">
@@ -9762,7 +9761,6 @@
       <doi>10.18653/v1/2020.acl-main.658</doi>
       <video tag="video" href="http://slideslive.com/38929161"/>
       <bibkey>artetxe-etal-2020-call</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mldoc">MLDoc</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>

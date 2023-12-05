@@ -2773,7 +2773,6 @@
       <bibkey>yu-ettinger-2021-interplay</bibkey>
       <pwccode url="https://github.com/yulang/phrasal-composition-in-transformers" additional="true">yulang/phrasal-composition-in-transformers</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/big-bird">BiRD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -9697,7 +9696,6 @@
       <url hash="3fd96d3a">2021.findings-emnlp.272</url>
       <bibkey>storks-chai-2021-beyond-tip</bibkey>
       <pwccode url="https://github.com/sled-group/verifiable-coherent-nlu" additional="false">sled-group/verifiable-coherent-nlu</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="273">

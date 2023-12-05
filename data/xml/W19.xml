@@ -11030,7 +11030,6 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <url hash="3fa63fa5">W19-5055</url>
       <doi>10.18653/v1/W19-5055</doi>
       <bibkey>kanakarajan-etal-2019-saama</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mimic-iii">MIMIC-III</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mednli">MedNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
