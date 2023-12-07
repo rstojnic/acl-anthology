@@ -8159,6 +8159,7 @@
       <abstract>This paper describes the construction and annotation of a corpus of verbal MWEs for English, as part of the PARSEME Shared Task 1.1 on automatic identification of verbal MWEs. The criteria for corpus selection, the categories of MWEs used, and the training process are discussed, along with the particular issues that led to revisions in edition 1.1 of the annotation guidelines. Finally, an overview of the characteristics of the final annotated corpus is presented, as well as some discussion on inter-annotator agreement.</abstract>
       <bibkey>walsh-etal-2018-constructing</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/english-web-treebank">English Web Treebank</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/steusle">STREUSLE</pwcdataset>
     </paper>
     <paper id="22">
       <title>Cooperating Tools for <fixed-case>MWE</fixed-case> Lexicon Management and Corpus Annotation</title>

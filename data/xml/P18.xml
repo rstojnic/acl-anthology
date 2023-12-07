@@ -306,6 +306,7 @@
       <doi>10.18653/v1/P18-1018</doi>
       <bibkey>schneider-etal-2018-comprehensive</bibkey>
       <pwccode url="https://github.com/nert-gu/streusle" additional="false">nert-gu/streusle</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/steusle">STREUSLE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
     </paper>
     <paper id="19">

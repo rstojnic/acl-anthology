@@ -636,7 +636,6 @@
       <pwccode url="https://github.com/lancopku/IAIS" additional="false">lancopku/IAIS</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/winoground">Winoground</pwcdataset>
     </paper>
     <paper id="44">
       <title><fixed-case>KM</fixed-case>-<fixed-case>BART</fixed-case>: Knowledge Enhanced Multimodal <fixed-case>BART</fixed-case> for Visual Commonsense Generation</title>

@@ -2894,6 +2894,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/english-web-treebank">English Web Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/framenet">FrameNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/steusle">STREUSLE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
     </paper>
     <paper id="252">
