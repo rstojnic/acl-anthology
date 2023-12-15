@@ -154,7 +154,6 @@
       <url hash="b7136d60">2021.fever-1.11</url>
       <bibkey>sathe-park-2021-automatic</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="12">
       <title>Neural Re-rankers for Evidence Retrieval in the <fixed-case>FEVEROUS</fixed-case> Task</title>

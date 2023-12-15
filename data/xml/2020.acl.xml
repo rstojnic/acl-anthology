@@ -1103,7 +1103,6 @@
       <video tag="video" href="http://slideslive.com/38928923"/>
       <bibkey>shin-etal-2020-fast</bibkey>
       <pwccode url="https://github.com/joongbo/tta" additional="false">joongbo/tta</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/librispeech">LibriSpeech</pwcdataset>
     </paper>
     <paper id="77">
@@ -2912,7 +2911,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scitail">SciTail</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="198">
       <title>Stolen Probability: A Structural Weakness of Neural Language Models</title>
@@ -4891,7 +4889,6 @@
       <video tag="video" href="http://slideslive.com/38929333"/>
       <bibkey>shaar-etal-2020-known</bibkey>
       <pwccode url="https://github.com/sshaar/That-is-a-Known-Lie" additional="true">sshaar/That-is-a-Known-Lie</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="333">
       <title>Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation</title>
@@ -5511,7 +5508,6 @@
       <video tag="video" href="http://slideslive.com/38929227"/>
       <bibkey>tian-etal-2020-skep</bibkey>
       <pwccode url="https://github.com/baidu/Senta" additional="true">baidu/Senta</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -5659,7 +5655,6 @@
       <video tag="video" href="http://slideslive.com/38928943"/>
       <bibkey>abnar-zuidema-2020-quantifying</bibkey>
       <pwccode url="https://github.com/samiraabnar/attention_flow" additional="true">samiraabnar/attention_flow</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="386">
@@ -5688,7 +5683,6 @@
       <video tag="video" href="http://slideslive.com/38929301"/>
       <bibkey>mohankumar-etal-2020-towards</bibkey>
       <pwccode url="https://github.com/akashkm99/Interpretable-Attention" additional="true">akashkm99/Interpretable-Attention</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -6233,7 +6227,6 @@
       <video tag="video" href="http://slideslive.com/38928932"/>
       <bibkey>wu-etal-2020-similarity</bibkey>
       <pwccode url="https://github.com/johnmwu/contextual-corr-analysis" additional="false">johnmwu/contextual-corr-analysis</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -6492,7 +6485,6 @@
       <bibkey>iter-etal-2020-pretraining</bibkey>
       <pwccode url="https://github.com/google-research/language" additional="false">google-research/language</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/record">ReCoRD</pwcdataset>
     </paper>
     <paper id="440">
@@ -6555,7 +6547,6 @@
       <video tag="video" href="http://slideslive.com/38929272"/>
       <bibkey>ribeiro-etal-2020-beyond</bibkey>
       <pwccode url="https://github.com/marcotcr/checklist" additional="true">marcotcr/checklist</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="443">
       <title>Code and Named Entity Recognition in <fixed-case>S</fixed-case>tack<fixed-case>O</fixed-case>verflow</title>
@@ -7222,7 +7213,6 @@
       <bibkey>liang-etal-2020-towards</bibkey>
       <pwccode url="https://github.com/pliang279/sent_debias" additional="false">pliang279/sent_debias</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/meld">MELD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -10365,7 +10355,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cosmosqa">CosmosQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsqa">NewsQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qasc">QASC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quoref">Quoref</pwcdataset>
@@ -11366,7 +11355,6 @@
       <bibkey>jeretic-etal-2020-natural</bibkey>
       <pwccode url="https://github.com/alexwarstadt/data_generation" additional="false">alexwarstadt/data_generation</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imppres">IMPPRES</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
@@ -11401,7 +11389,6 @@
       <video tag="video" href="http://slideslive.com/38929067"/>
       <bibkey>utama-etal-2020-mind</bibkey>
       <pwccode url="https://github.com/UKPLab/acl2020-confidence-regularization" additional="false">UKPLab/acl2020-confidence-regularization</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
     </paper>

@@ -449,7 +449,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03bd4c14">2021.findings-acl.32.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.32</doi>
       <bibkey>gritta-iacobacci-2021-xeroalign</bibkey>
-      <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/xero_align" additional="true">huawei-noah/noah-research</pwccode>
+      <pwccode url="https://github.com/huawei-noah/noah-research" additional="true">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
@@ -1146,7 +1146,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikihop">WikiHop</pwcdataset>
     </paper>
     <paper id="82">
@@ -1982,7 +1981,6 @@
       <doi>10.18653/v1/2021.findings-acl.141</doi>
       <bibkey>keller-etal-2021-bert</bibkey>
       <pwccode url="https://github.com/yannikkellerde/BERT-Defense" additional="false">yannikkellerde/BERT-Defense</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="142">
       <title>Event Detection as Graph Parsing</title>
@@ -2075,7 +2073,6 @@
       <doi>10.18653/v1/2021.findings-acl.148</doi>
       <bibkey>qiu-etal-2021-improving</bibkey>
       <pwccode url="https://github.com/FFYYang/CARL_RAR" additional="false">FFYYang/CARL_RAR</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="149">
@@ -2164,7 +2161,6 @@
       <doi>10.18653/v1/2021.findings-acl.155</doi>
       <bibkey>aribandi-etal-2021-reliable</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/crows-pairs">CrowS-Pairs</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/stereoset">StereoSet</pwcdataset>
@@ -3612,7 +3608,6 @@
       <bibkey>alghanmi-etal-2021-probing</bibkey>
       <pwccode url="https://github.com/israa-alghanmi/DisKnE" additional="false">israa-alghanmi/DisKnE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/diskne">DisKnE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="267">
       <title><fixed-case>A</fixed-case>ug<fixed-case>V</fixed-case>ic: Exploiting <fixed-case>B</fixed-case>i<fixed-case>T</fixed-case>ext Vicinity for Low-Resource <fixed-case>NMT</fixed-case></title>
@@ -4467,7 +4462,6 @@
       <doi>10.18653/v1/2021.findings-acl.334</doi>
       <bibkey>zhong-etal-2021-larger</bibkey>
       <pwccode url="https://github.com/ruiqi-zhong/acl2021-instance-level" additional="false">ruiqi-zhong/acl2021-instance-level</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="335">
@@ -5283,7 +5277,6 @@
       <doi>10.18653/v1/2021.findings-acl.395</doi>
       <bibkey>kumar-talukdar-2021-reordering</bibkey>
       <pwccode url="https://github.com/SawanKumar28/pero" additional="false">SawanKumar28/pero</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="396">
@@ -5782,7 +5775,6 @@
       <doi>10.18653/v1/2021.findings-acl.434</doi>
       <bibkey>yin-etal-2021-batchmixup</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="435">
       <title><fixed-case>D</fixed-case>oc<fixed-case>NLI</fixed-case>: A Large-scale Dataset for Document-level Natural Language Inference</title>
@@ -8505,7 +8497,6 @@
       <url hash="6aaef4f7">2021.findings-emnlp.180</url>
       <bibkey>dan-roth-2021-effects-transformer</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -11053,7 +11044,6 @@
       <abstract>This paper presents a neural framework of untied independent modules, used here for integrating off the shelf knowledge sources such as language models, lexica, POS information, and dependency relations. Each knowledge source is implemented as an independent component that can interact and share information with other knowledge sources. We report proof of concept experiments for several standard sentiment analysis tasks and show that the knowledge sources interoperate effectively without interference. As a second use-case, we show that the proposed framework is suitable for optimizing BERT-like language models even without the help of external knowledge sources. We cast each Transformer layer as a separate module and demonstrate performance improvements from this explicit integration of the different information encoded at the different Transformer layers .</abstract>
       <url hash="752a324c">2021.findings-emnlp.376</url>
       <bibkey>bagherzadeh-bergler-2021-competing-independent</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="377">
@@ -11177,7 +11167,6 @@
       <abstract>Understanding when a text snippet does not provide a sought after information is an essential part of natural language utnderstanding. Recent work (SQuAD 2.0; Rajpurkar et al., 2018) has attempted to make some progress in this direction by enriching the SQuAD dataset for the Extractive QA task with unanswerable questions. However, as we show, the performance of a top system trained on SQuAD 2.0 drops considerably in out-of-domain scenarios, limiting its use in practical situations. In order to study this we build an out-of-domain corpus, focusing on simple event-based questions and distinguish between two types of IDK questions: competitive questions, where the context includes an entity of the same type as the expected answer, and simpler, non-competitive questions where there is no entity of the same type in the context. We find that SQuAD 2.0-based models fail even in the case of the simpler questions. We then analyze the similarities and differences between the IDK phenomenon in Extractive QA and the Recognizing Textual Entailments task (RTE; Dagan et al., 2013) and investigate the extent to which the latter can be used to improve the performance.</abstract>
       <url hash="eaa61c84">2021.findings-emnlp.385</url>
       <bibkey>sulem-etal-2021-know-dont</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="386">
@@ -11624,7 +11613,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/atomic">ATOMIC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>

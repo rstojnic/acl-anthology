@@ -1213,7 +1213,6 @@
       <url hash="f0d9c044">2020.lrec-1.94</url>
       <language>eng</language>
       <bibkey>kumar-etal-2020-amused</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="95">
       <title>An Annotation Approach for Social and Referential Gaze in Dialogue</title>
@@ -1574,7 +1573,6 @@
       <bibkey>sileo-etal-2020-discsense</bibkey>
       <pwccode url="https://github.com/synapse-developpement/DiscSense" additional="false">synapse-developpement/DiscSense</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/discovery">Discovery Dataset</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="126">
       <title><fixed-case>T</fixed-case>heme<fixed-case>P</fixed-case>ro: A Toolkit for the Analysis of Thematic Progression</title>

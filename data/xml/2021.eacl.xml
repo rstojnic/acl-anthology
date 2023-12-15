@@ -553,7 +553,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cosmosqa">CosmosQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hellaswag">HellaSwag</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
@@ -1196,7 +1195,6 @@
       <doi>10.18653/v1/2021.eacl-main.88</doi>
       <pwccode url="https://github.com/uclanlp/synpg" additional="false">uclanlp/synpg</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/billion-word-benchmark">Billion Word Benchmark</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paranmt-50m">PARANMT-50M</pwcdataset>
     </paper>
     <paper id="89">
@@ -1462,7 +1460,6 @@
       <bibkey>kaneko-bollegala-2021-debiasing</bibkey>
       <doi>10.18653/v1/2021.eacl-main.107</doi>
       <pwccode url="https://github.com/kanekomasahiro/context-debias" additional="true">kanekomasahiro/context-debias</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -2582,7 +2579,6 @@
       <url hash="a35f94a3">2021.eacl-main.191</url>
       <bibkey>perez-mayos-etal-2021-evolution</bibkey>
       <doi>10.18653/v1/2021.eacl-main.191</doi>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="192">
@@ -5110,7 +5106,6 @@
       <bibkey>simoulin-crabbe-2021-contrasting</bibkey>
       <doi>10.18653/v1/2021.eacl-srw.11</doi>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="12">

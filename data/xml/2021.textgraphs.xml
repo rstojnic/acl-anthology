@@ -217,7 +217,6 @@
       <doi>10.18653/v1/2021.textgraphs-1.15</doi>
       <pwccode url="https://github.com/kaimihata/geo-bert" additional="false">kaimihata/geo-bert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="16">

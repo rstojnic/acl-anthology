@@ -85,7 +85,6 @@
       <url hash="d4d93efb">2021.semeval-1.5</url>
       <doi>10.18653/v1/2021.semeval-1.5</doi>
       <bibkey>zhang-etal-2021-ta</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsroom">NEWSROOM</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/recam">ReCAM</pwcdataset>
@@ -678,7 +677,6 @@
       <url hash="a1b607d1">2021.semeval-1.52</url>
       <doi>10.18653/v1/2021.semeval-1.52</doi>
       <bibkey>koksal-etal-2021-boun</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tabfact">TabFact</pwcdataset>
     </paper>

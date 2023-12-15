@@ -558,7 +558,6 @@
       <bibkey>warstadt-etal-2019-neural</bibkey>
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="41">
       <title>Perturbation Based Learning for Structured <fixed-case>NLP</fixed-case> Tasks with Application to Dependency Parsing</title>

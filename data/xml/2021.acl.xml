@@ -1074,7 +1074,6 @@
       <doi>10.18653/v1/2021.acl-long.72</doi>
       <bibkey>giorgi-etal-2021-declutr</bibkey>
       <pwccode url="https://github.com/JohnGiorgi/DeCLUTR" additional="true">JohnGiorgi/DeCLUTR</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openwebtext">OpenWebText</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
@@ -1256,7 +1255,6 @@
       <doi>10.18653/v1/2021.acl-long.84</doi>
       <bibkey>xin-etal-2021-art</bibkey>
       <pwccode url="https://github.com/castorini/transformers-selective" additional="false">castorini/transformers-selective</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
@@ -2982,7 +2980,6 @@
       <doi>10.18653/v1/2021.acl-long.197</doi>
       <bibkey>kim-etal-2021-self</bibkey>
       <pwccode url="https://github.com/galsang/SG-BERT" additional="false">galsang/SG-BERT</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="198">
@@ -4507,7 +4504,6 @@
       <pwccode url="https://github.com/princeton-nlp/LM-BFF" additional="true">princeton-nlp/LM-BFF</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
@@ -4633,7 +4629,6 @@
       <doi>10.18653/v1/2021.acl-long.304</doi>
       <bibkey>kim-etal-2021-linguist</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
@@ -5909,7 +5904,6 @@
       <doi>10.18653/v1/2021.acl-long.389</doi>
       <bibkey>lu-etal-2021-visualsparta</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
     </paper>
     <paper id="390">
       <title>Few-Shot Text Ranking with Meta Adapted Synthetic Weak Supervision</title>
@@ -7977,7 +7971,6 @@
       <doi>10.18653/v1/2021.acl-long.523</doi>
       <bibkey>wu-etal-2021-polyjuice</bibkey>
       <pwccode url="https://github.com/tongshuangwu/polyjuice" additional="false">tongshuangwu/polyjuice</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -8097,7 +8090,6 @@
       <doi>10.18653/v1/2021.acl-long.531</doi>
       <bibkey>lan-etal-2021-neural</bibkey>
       <pwccode url="https://github.com/chaojiang06/neural-Jacana" additional="false">chaojiang06/neural-Jacana</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsela">Newsela</pwcdataset>
@@ -8431,7 +8423,6 @@
       <url hash="5c0773eb">2021.acl-long.553</url>
       <doi>10.18653/v1/2021.acl-long.553</doi>
       <bibkey>emami-etal-2021-adept</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
@@ -8643,7 +8634,6 @@
       <bibkey>aghajanyan-etal-2021-intrinsic</bibkey>
       <pwccode url="https://github.com/rabeehk/compacter" additional="true">rabeehk/compacter</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -9696,7 +9686,6 @@
       <pwccode url="https://github.com/Sara-Rajaee/clusterbased_isotropy_enhancement" additional="false">Sara-Rajaee/clusterbased_isotropy_enhancement</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
@@ -10182,7 +10171,6 @@
       <url hash="8fc933c8">2021.acl-short.108</url>
       <doi>10.18653/v1/2021.acl-short.108</doi>
       <bibkey>han-etal-2021-robust</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="109">
       <title>Embracing Ambiguity: <fixed-case>S</fixed-case>hifting the Training Target of <fixed-case>NLI</fixed-case> Models</title>
@@ -11352,7 +11340,6 @@
       <doi>10.18653/v1/2021.acl-demo.16</doi>
       <bibkey>wang-etal-2021-dodrio</bibkey>
       <pwccode url="https://github.com/poloclub/dodrio" additional="false">poloclub/dodrio</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>

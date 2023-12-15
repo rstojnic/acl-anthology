@@ -624,7 +624,6 @@
       <bibkey>liu-etal-2020-empirical</bibkey>
       <pwccode url="https://github.com/tyliupku/nli-debiasing-datasets" additional="false">tyliupku/nli-debiasing-datasets</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
@@ -679,7 +678,6 @@
       <bibkey>dwojak-etal-2020-dataset</bibkey>
       <pwccode url="https://github.com/applicaai/multi-property-extraction" additional="false">applicaai/multi-property-extraction</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikireading-recycled">WikiReading Recycled</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikireading">WikiReading</pwcdataset>

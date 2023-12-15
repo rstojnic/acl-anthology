@@ -5779,7 +5779,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scierc">SciERC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
     </paper>
     <paper id="424">
@@ -6417,7 +6416,6 @@
       <attachment type="poster" hash="cdd5e584">N19-3016.Poster.pdf</attachment>
       <bibkey>balazs-matsuo-2019-gating</bibkey>
       <pwccode url="https://github.com/jabalazs/gating" additional="false">jabalazs/gating</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>

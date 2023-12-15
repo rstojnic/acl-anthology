@@ -1226,7 +1226,6 @@
       <pwccode url="https://github.com/yueyu1030/COSINE" additional="false">yueyu1030/COSINE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
     </paper>
     <paper id="85">
@@ -3258,7 +3257,6 @@
       <bibkey>patel-etal-2021-game</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -4419,7 +4417,6 @@
       <doi>10.18653/v1/2021.naacl-main.306</doi>
       <bibkey>chen-etal-2021-explaining</bibkey>
       <pwccode url="https://github.com/UVa-NLP/GMASK" additional="false">UVa-NLP/GMASK</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e-snli">e-SNLI</pwcdataset>
@@ -5217,7 +5214,6 @@
       <pwccode url="https://github.com/HLR/SpartQA-baselines" additional="true">HLR/SpartQA-baselines</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/spartqa-1">SPARTQA -</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/nlvr">NLVR</pwcdataset>
     </paper>
     <paper id="365">
@@ -5616,7 +5612,6 @@
       <bibkey>krishna-etal-2021-hurdles</bibkey>
       <pwccode url="https://github.com/martiansideofthemoon/hurdles-longform-qa" additional="true">martiansideofthemoon/hurdles-longform-qa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/eli5">ELI5</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/kilt">KILT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pg-19">PG-19</pwcdataset>
@@ -5718,7 +5713,6 @@
       <bibkey>li-etal-2021-contextualized</bibkey>
       <pwccode url="https://github.com/cookielee77/CLARE" additional="false">cookielee77/CLARE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
     </paper>
@@ -6178,7 +6172,6 @@
       <doi>10.18653/v1/2021.naacl-main.430</doi>
       <bibkey>zhang-etal-2021-neural</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
