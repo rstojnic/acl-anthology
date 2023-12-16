@@ -231,6 +231,7 @@
       <bibkey>gari-soler-apidianaki-2020-multisem</bibkey>
       <doi>10.18653/v1/2020.semeval-1.18</doi>
       <pwccode url="https://github.com/ainagari/semeval2020-task3-multisem" additional="false">ainagari/semeval2020-task3-multisem</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/opusparcus">Opusparcus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
     </paper>
@@ -2119,6 +2120,7 @@
       <url hash="05a4a907">2020.semeval-1.176</url>
       <bibkey>gopalan-hopkins-2020-reed</bibkey>
       <doi>10.18653/v1/2020.semeval-1.176</doi>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sentimix">SentiMix</pwcdataset>
     </paper>
     <paper id="177">

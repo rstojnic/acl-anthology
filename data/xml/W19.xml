@@ -7700,6 +7700,7 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <doi>10.18653/v1/W19-4302</doi>
       <bibkey>peters-etal-2019-tune</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -10817,6 +10818,7 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <doi>10.18653/v1/W19-5039</doi>
       <bibkey>ben-abacha-etal-2019-overview</bibkey>
       <pwccode url="https://github.com/abachaa/MEDIQA2019" additional="false">abachaa/MEDIQA2019</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/medquad">MedQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
@@ -14063,6 +14065,7 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <url hash="9b228715">W19-5945</url>
       <doi>10.18653/v1/W19-5945</doi>
       <bibkey>keizer-etal-2019-user</bibkey>
+      <pwccode url="https://bitbucket.org/skeizer/madrigal" additional="false">skeizer/madrigal</pwccode>
     </paper>
     <paper id="46">
       <title>Dialogue Act Classification in Team Communication for Robot Assisted Disaster Response</title>
@@ -14480,6 +14483,7 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <abstract>Sentiment analysis has become very popular in both research and business due to the increasing amount of opinionated text from Internet users. Standard sentiment analysis deals with classifying the overall sentiment of a text, but this doesn’t include other important information such as towards which entity, topic or aspect within the text the sentiment is directed. Aspect-based sentiment analysis (ABSA) is a more complex task that consists in identifying both sentiments and aspects. This paper shows the potential of using the contextual word representations from the pre-trained language model BERT, together with a fine-tuning method with additional generated text, in order to solve out-of-domain ABSA and outperform previous state-of-the-art results on SemEval-2015 Task 12 subtask 2 and SemEval-2016 Task 5. To the best of our knowledge, no other existing work has been done on out-of-domain ABSA for aspect classification.</abstract>
       <url hash="daea37d8">W19-6120</url>
       <bibkey>hoang-etal-2019-aspect</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="21">
       <title>Political Stance in <fixed-case>D</fixed-case>anish</title>

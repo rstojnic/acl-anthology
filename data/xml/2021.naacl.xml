@@ -2945,7 +2945,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wizard-of-wikipedia">Wizard of Wikipedia</pwcdataset>
@@ -3257,6 +3256,7 @@
       <bibkey>patel-etal-2021-game</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -3749,7 +3749,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="259">
       <title><fixed-case>F</fixed-case>low<fixed-case>P</fixed-case>rior: Learning Expressive Priors for Latent Variable Sentence Models</title>
@@ -4417,6 +4416,7 @@
       <doi>10.18653/v1/2021.naacl-main.306</doi>
       <bibkey>chen-etal-2021-explaining</bibkey>
       <pwccode url="https://github.com/UVa-NLP/GMASK" additional="false">UVa-NLP/GMASK</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e-snli">e-SNLI</pwcdataset>
@@ -5198,7 +5198,6 @@
       <bibkey>yadav-etal-2021-want</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qasc">QASC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="364">
       <title><fixed-case>SPARTQA</fixed-case>: A Textual Question Answering Benchmark for Spatial Reasoning</title>
@@ -5214,6 +5213,7 @@
       <pwccode url="https://github.com/HLR/SpartQA-baselines" additional="true">HLR/SpartQA-baselines</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/spartqa-1">SPARTQA -</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/nlvr">NLVR</pwcdataset>
     </paper>
     <paper id="365">
@@ -5574,7 +5574,6 @@
       <url hash="7ddaf53b">2021.naacl-main.390</url>
       <doi>10.18653/v1/2021.naacl-main.390</doi>
       <bibkey>zhang-de-marneffe-2021-identifying</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="391">
       <title>Modeling Human Mental States with an Entity-based Narrative Graph</title>
@@ -5612,6 +5611,7 @@
       <bibkey>krishna-etal-2021-hurdles</bibkey>
       <pwccode url="https://github.com/martiansideofthemoon/hurdles-longform-qa" additional="true">martiansideofthemoon/hurdles-longform-qa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/eli5">ELI5</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/kilt">KILT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pg-19">PG-19</pwcdataset>
@@ -5713,6 +5713,7 @@
       <bibkey>li-etal-2021-contextualized</bibkey>
       <pwccode url="https://github.com/cookielee77/CLARE" additional="false">cookielee77/CLARE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
     </paper>
@@ -6172,6 +6173,7 @@
       <doi>10.18653/v1/2021.naacl-main.430</doi>
       <bibkey>zhang-etal-2021-neural</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -6944,7 +6946,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="7">
       <title><fixed-case>E</fixed-case>vent<fixed-case>P</fixed-case>lus: A Temporal Event Understanding Pipeline</title>

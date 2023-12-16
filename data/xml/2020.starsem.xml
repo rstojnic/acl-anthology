@@ -227,6 +227,7 @@
       <abstract>Author obfuscation is the task of masking the author of a piece of text, with applications in privacy. Recent advances in deep neural networks have boosted author identification performance making author obfuscation more challenging. Existing approaches to author obfuscation are largely heuristic. Obfuscation can, however, be thought of as the construction of adversarial examples to attack author identification, suggesting that the deep learning architectures used for adversarial attacks could have application here. Current architectures are proposed to construct adversarial examples against classification-based models, which in author identification would exclude the high-performing similarity-based models employed when facing large number of authorial classes. In this paper, we propose the first deep learning architecture for constructing adversarial examples against similarity-based learners, and explore its application to author obfuscation. We analyse the output from both success in obfuscation and language acceptability, as well as comparing the performance with some common baselines, and showing promising results in finding a balance between safety and soundness of the perturbed texts.</abstract>
       <url hash="cc47636f">2020.starsem-1.19</url>
       <bibkey>saedi-dras-2020-large</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
   </volume>
 </collection>

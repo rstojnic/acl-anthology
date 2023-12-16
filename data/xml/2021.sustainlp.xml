@@ -185,7 +185,6 @@
       <bibkey>he-etal-2021-distiller</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="14">
       <title>Shrinking Bigfoot: Reducing wav2vec 2.0 footprint</title>

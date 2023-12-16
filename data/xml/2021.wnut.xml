@@ -391,7 +391,6 @@
       <bibkey>bhardwaj-etal-2021-knowledge</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="34">
       <title>Integrating Transformers and Knowledge Graphs for <fixed-case>T</fixed-case>witter Stance Detection</title>

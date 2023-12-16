@@ -568,6 +568,7 @@
       <pwccode url="https://github.com/kakaobrain/KorNLUDatasets" additional="true">kakaobrain/KorNLUDatasets</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/kornli">KorNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/korsts">KorSTS</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
@@ -1596,7 +1597,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="110">
       <title>Learning to Generate Clinically Coherent Chest <fixed-case>X</fixed-case>-Ray Reports</title>
@@ -2221,6 +2221,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.151</doi>
       <bibkey>dai-etal-2020-cost</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/2010-i2b2-va">2010 i2b2/VA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="152">
@@ -2528,7 +2529,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mctest">MCTest</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/mmlu">MMLU</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/narrativeqa">NarrativeQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsqa">NewsQA</pwcdataset>
@@ -4523,6 +4523,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.305</doi>
       <bibkey>mussmann-etal-2020-importance</bibkey>
       <pwccode url="https://worksheets.codalab.org/worksheets/0x39ba5559790b4099a7ff75f916ce19a4" additional="false">worksheets/0x39ba5559</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikiqa">WikiQA</pwcdataset>
     </paper>
     <paper id="306">
@@ -4660,7 +4661,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
     <paper id="315">
@@ -5077,6 +5077,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.343</doi>
       <bibkey>jiang-etal-2020-inserting</bibkey>
       <pwccode url="https://github.com/bazingagin/IBA" additional="false">bazingagin/IBA</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
@@ -5815,6 +5816,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.394</doi>
       <video tag="video" href="https://slideslive.com/38940806"/>
       <bibkey>longpre-etal-2020-effective</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -6168,6 +6170,7 @@
       <video tag="video" href="https://slideslive.com/38939446"/>
       <bibkey>deshpande-narasimhan-2020-guiding</bibkey>
       <pwccode url="https://github.com/ameet-1997/AttentionGuidance" additional="false">ameet-1997/AttentionGuidance</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
     </paper>
@@ -6274,6 +6277,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.426</doi>
       <bibkey>chen-etal-2020-finding</bibkey>
       <pwccode url="https://github.com/hannahxchen/automatic-paraphrase-dataset-augmentation" additional="false">hannahxchen/automatic-paraphrase-dataset-augmentation</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="427">
       <title>Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion</title>
@@ -6584,6 +6588,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.447</doi>
       <bibkey>he-etal-2020-enhancing</bibkey>
       <pwccode url="https://github.com/heqi2015/ca_gcn" additional="false">heqi2015/ca_gcn</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
   </volume>

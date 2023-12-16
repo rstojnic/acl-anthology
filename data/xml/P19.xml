@@ -8674,6 +8674,7 @@
       <url hash="4562abfd">P19-1615</url>
       <doi>10.18653/v1/P19-1615</doi>
       <bibkey>banerjee-etal-2019-careful</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>

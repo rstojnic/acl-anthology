@@ -767,6 +767,7 @@
       <bibkey>zhao-etal-2019-moverscore</bibkey>
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="54">
       <title>Select and Attend: Towards Controllable Content Selection in Text Generation</title>
@@ -4000,6 +4001,7 @@
       <bibkey>warstadt-etal-2019-investigating</bibkey>
       <pwccode url="https://github.com/alexwarstadt/data_generation" additional="false">alexwarstadt/data_generation</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="287">
@@ -5579,6 +5581,7 @@
       <bibkey>yin-etal-2019-benchmarking</bibkey>
       <pwccode url="https://github.com/yinwenpeng/BenchmarkingZeroShot" additional="true">yinwenpeng/BenchmarkingZeroShot</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
     </paper>
     <paper id="405">
@@ -5864,6 +5867,7 @@
       <url hash="6207bd28">D19-1424</url>
       <doi>10.18653/v1/D19-1424</doi>
       <bibkey>hao-etal-2019-visualizing</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -6168,7 +6172,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="446">
       <title>Machine Translation With Weakly Paired Documents</title>
@@ -13576,7 +13579,6 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <doi>10.18653/v1/D19-6004</doi>
       <bibkey>kavumba-etal-2019-choosing</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="5">
       <title>Commonsense about Human Senses: Labeled Data Collection Processes</title>

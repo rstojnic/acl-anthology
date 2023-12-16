@@ -69,6 +69,7 @@
       <pwccode url="https://github.com/wtma/CharBERT" additional="false">wtma/CharBERT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -905,6 +906,7 @@
       <doi>10.18653/v1/2020.coling-main.67</doi>
       <bibkey>mosbach-etal-2020-closer</bibkey>
       <pwccode url="https://github.com/uds-lsv/rc-probing" additional="false">uds-lsv/rc-probing</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="68">
       <title>Modeling language evolution and feature dynamics in a realistic geographic environment</title>
@@ -4352,6 +4354,7 @@
       <doi>10.18653/v1/2020.coling-main.326</doi>
       <bibkey>joshi-etal-2020-devil</bibkey>
       <pwccode url="https://github.com/brihijoshi/granular-similarity-COLING-2020" additional="false">brihijoshi/granular-similarity-COLING-2020</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="327">
       <title><fixed-case>C</fixed-case>o<fixed-case>LAKE</fixed-case>: Contextualized Language and Knowledge Embedding</title>
@@ -5666,7 +5669,6 @@
       <url hash="6faffeca">2020.coling-main.425</url>
       <doi>10.18653/v1/2020.coling-main.425</doi>
       <bibkey>indurthi-etal-2020-predicting</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/superglue">SuperGLUE</pwcdataset>
     </paper>
     <paper id="426">
       <title><fixed-case>GP</fixed-case>ol<fixed-case>S</fixed-case>: A Contextual Graph-Based Language Model for Analyzing Parliamentary Debates and Political Cohesion</title>
@@ -6080,6 +6082,7 @@
       <url hash="e8fca78e">2020.coling-main.457</url>
       <doi>10.18653/v1/2020.coling-main.457</doi>
       <bibkey>bonadiman-moschitti-2020-study</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -6833,6 +6836,7 @@
       <url hash="362f2902">2020.coling-main.515</url>
       <doi>10.18653/v1/2020.coling-main.515</doi>
       <bibkey>emami-etal-2020-analysis</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/winogrande">WinoGrande</pwcdataset>
     </paper>
