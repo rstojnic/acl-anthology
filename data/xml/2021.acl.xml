@@ -151,7 +151,7 @@
       <pwccode url="https://github.com/garyyufei/acl2021mf" additional="false">garyyufei/acl2021mf</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commongen">CommonGen</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/nocaps">nocaps</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/nocaps">NoCaps</pwcdataset>
     </paper>
     <paper id="10">
       <title>Generalising Multilingual Concept-to-Text <fixed-case>NLG</fixed-case> with Language Agnostic Delexicalisation</title>
