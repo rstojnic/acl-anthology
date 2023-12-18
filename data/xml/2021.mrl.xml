@@ -56,7 +56,7 @@
       <abstract>Multilingual language models exhibit better performance for some languages than for others (Singh et al., 2019), and many languages do not seem to benefit from multilingual sharing at all, presumably as a result of poor multilingual segmentation (Pyysal o et al., 2020). This work explores the idea of learning multilingual language models based on clustering of monolingual segments. We show significant improvements over standard multilingual segmentation and training across nine languages on a question answering task, both in a small model regime and for a model of the size of BERT-base.</abstract>
       <url hash="73ca47c3">2021.mrl-1.3</url>
       <bibkey>bassani-etal-2021-clustering</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
     </paper>
     <paper id="4">
       <title>Do not neglect related languages: The case of low-resource <fixed-case>O</fixed-case>ccitan cross-lingual word embeddings</title>

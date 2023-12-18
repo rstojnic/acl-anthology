@@ -1333,7 +1333,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsqa">NewsQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
     </paper>
     <paper id="87">
       <title>Unsupervised Adaptation of Question Answering Systems via Generative Self-training</title>
@@ -4421,7 +4421,6 @@
       <doi>10.18653/v1/2020.emnlp-main.295</doi>
       <video tag="video" href="https://slideslive.com/38939335"/>
       <bibkey>jia-etal-2020-neural</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="296">
       <title>Coarse-to-Fine Query Focused Multi-Document Summarization</title>
@@ -5368,7 +5367,7 @@
       <video tag="video" href="https://slideslive.com/38938905"/>
       <bibkey>wang-etal-2020-negative</bibkey>
       <pwccode url="https://github.com/iedwardwangi/MetaAdapter" additional="false">iedwardwangi/MetaAdapter</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydiqa-goldp">TyDiQA-GoldP</pwcdataset>
     </paper>
     <paper id="360">

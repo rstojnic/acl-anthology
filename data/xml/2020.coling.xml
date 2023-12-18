@@ -8269,7 +8269,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cord-19">CORD-19</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
     </paper>
     <paper id="9">
       <title><fixed-case>X</fixed-case>plai<fixed-case>NLI</fixed-case>: Explainable Natural Language Inference through Visual Analytics</title>

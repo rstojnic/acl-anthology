@@ -5504,6 +5504,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
     </paper>
     <paper id="373">

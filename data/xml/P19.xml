@@ -1981,6 +1981,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tacred">TACRED</pwcdataset>
     </paper>
@@ -6238,7 +6239,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scitail">SciTail</pwcdataset>
     </paper>
     <paper id="442">

@@ -1770,7 +1770,7 @@
       <bibkey>asai-choi-2021-challenges</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
     </paper>
     <paper id="119">
       <title>A Gradually Soft Multi-Task and Data-Augmented Approach to Medical Question Understanding</title>
@@ -4054,7 +4054,7 @@
       <pwccode url="https://github.com/bozheng-hit/xTune" additional="false">bozheng-hit/xTune</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydiqa-goldp">TyDiQA-GoldP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
@@ -4076,7 +4076,7 @@
       <pwccode url="https://github.com/CZWin32768/XLM-Align" additional="false">CZWin32768/XLM-Align</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
     </paper>
@@ -4697,7 +4697,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/bucc">BUCC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
     </paper>
@@ -9776,7 +9776,7 @@
       <pwccode url="https://github.com/NavidRajabi/EMQA" additional="false">NavidRajabi/EMQA</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
     </paper>
     <paper id="80">
       <title>Embedding Time Differences in Context-sensitive Neural Networks for Learning Time to Event</title>

@@ -5775,6 +5775,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/record">ReCoRD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scierc">SciERC</pwcdataset>

@@ -1480,6 +1480,7 @@
       <bibkey>yang-2018-convolutional</bibkey>
       <pwccode url="https://github.com/bloomberg/cnn-rnf" additional="true">bloomberg/cnn-rnf</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikiqa">WikiQA</pwcdataset>
     </paper>
     <paper id="110">
@@ -4809,6 +4810,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mr">MR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/subj">SUBJ</pwcdataset>
     </paper>
     <paper id="351">
@@ -5626,7 +5628,6 @@
       <doi>10.18653/v1/D18-1409</doi>
       <bibkey>dong-etal-2018-banditsum</bibkey>
       <pwccode url="https://github.com/yuedongP/BanditSum" additional="false">yuedongP/BanditSum</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="410">
       <title>A Word-Complexity Lexicon and A Neural Readability Ranking Model for Lexical Simplification</title>
@@ -6091,7 +6092,6 @@
       <doi>10.18653/v1/D18-1442</doi>
       <bibkey>chen-etal-2018-iterative</bibkey>
       <pwccode url="https://github.com/yingtaomj/Iterative-Document-Representation-Learning-Towards-Summarization-with-Polishing" additional="false">yingtaomj/Iterative-Document-Representation-Learning-Towards-Summarization-with-Polishing</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="443">
       <title>Bottom-Up Abstractive Summarization</title>

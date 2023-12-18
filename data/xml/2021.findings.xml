@@ -1144,7 +1144,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikihop">WikiHop</pwcdataset>
     </paper>
@@ -1481,7 +1481,7 @@
       <url hash="49004d00">2021.findings-acl.106</url>
       <doi>10.18653/v1/2021.findings-acl.106</doi>
       <bibkey>ponti-etal-2021-minimax</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
     </paper>
     <paper id="107">
       <title>On-the-Fly Attention Modulation for Neural Generation</title>
@@ -3463,7 +3463,7 @@
       <url hash="a234a635">2021.findings-acl.254</url>
       <doi>10.18653/v1/2021.findings-acl.254</doi>
       <bibkey>khanuja-etal-2021-mergedistill</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
     </paper>
     <paper id="255">
@@ -7143,7 +7143,7 @@
       <bibkey>fan-etal-2021-discovering-representation</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
     </paper>
     <paper id="76">
@@ -7590,7 +7590,7 @@
       <pwccode url="https://github.com/salrowili/arabictransformer" additional="false">salrowili/arabictransformer</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/arcd">ARCD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
     </paper>
     <paper id="109">
       <title>Which is Making the Contribution: Modulating Unimodal and Cross-modal Dynamics for Multimodal Sentiment Analysis</title>
@@ -8824,7 +8824,6 @@
       <url hash="9b11542f">2021.findings-emnlp.204</url>
       <bibkey>huguet-cabot-navigli-2021-rebel-relation</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ade-corpus">Adverse Drug Events (ADE) Corpus</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/docred">DocRED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/re-tacred">Re-TACRED</pwcdataset>
     </paper>
     <paper id="205">
@@ -9804,7 +9803,7 @@
       <bibkey>faisal-etal-2021-sd-qa</bibkey>
       <pwccode url="https://github.com/ffaisal93/sd-qa" additional="false">ffaisal93/sd-qa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
     </paper>
     <paper id="282">
       <title>The Low-Resource Double Bind: An Empirical Study of Pruning for Low-Resource Machine Translation</title>

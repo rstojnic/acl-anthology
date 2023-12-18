@@ -1696,7 +1696,7 @@
       <bibkey>chi-etal-2021-mt6</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikilingua">WikiLingua</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
@@ -3527,7 +3527,7 @@
       <pwccode url="https://github.com/bozheng-hit/vocapxlm" additional="false">bozheng-hit/vocapxlm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
     </paper>
@@ -4554,7 +4554,6 @@
       <abstract>Sentence extractive summarization shortens a document by selecting sentences for a summary while preserving its important contents. However, constructing a coherent and informative summary is difficult using a pre-trained BERT-based encoder since it is not explicitly trained for representing the information of sentences in a document. We propose a nested tree-based extractive summarization model on RoBERTa (NeRoBERTa), where nested tree structures consist of syntactic and discourse trees in a given document. Experimental results on the CNN/DailyMail dataset showed that NeRoBERTa outperforms baseline models in ROUGE. Human evaluation results also showed that NeRoBERTa achieves significantly better scores than the baselines in terms of coherence and yields comparable scores to the state-of-the-art models.</abstract>
       <url hash="463fd16e">2021.emnlp-main.330</url>
       <bibkey>kwon-etal-2021-considering</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="331">
       <title>Frame Semantic-Enhanced Sentence Modeling for Sentence-level Extractive Text Summarization</title>
@@ -6422,7 +6421,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/reddit">Reddit</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reddit-tifu">Reddit TIFU</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
     </paper>
     <paper id="469">
@@ -6727,7 +6726,7 @@
       <bibkey>chada-natarajan-2021-fewshotqa</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mrqa-2019">MRQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
     </paper>
     <paper id="492">
       <title>Multi-stage Training with Improved Negative Contrast for Neural Passage Retrieval</title>
@@ -9601,7 +9600,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/indonlg">IndoNLG</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/gem">GEM</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/liputan6">Liputan6</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
     </paper>
     <paper id="700">
       <title>Is Multi-Hop Reasoning Really Explainable? Towards Benchmarking Reasoning Interpretability</title>
@@ -10950,7 +10949,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mewsli-9">Mewsli-9</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tatoeba">Tatoeba</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydiqa-goldp">TyDiQA-GoldP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xcopa">XCOPA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
@@ -11360,6 +11359,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
     </paper>
     <paper id="832">

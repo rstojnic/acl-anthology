@@ -4187,7 +4187,6 @@
       <doi>10.18653/v1/D19-1300</doi>
       <bibkey>luo-etal-2019-reading</bibkey>
       <pwccode url="https://github.com/LLluoling/HER" additional="false">LLluoling/HER</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="301">
       <title>Contrastive Attention Mechanism for Abstractive Sentence Summarization</title>
@@ -7473,6 +7472,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="540">
       <title>Bridging the Gap between Relevance Matching and Semantic Matching for Short Text Similarity Modeling</title>

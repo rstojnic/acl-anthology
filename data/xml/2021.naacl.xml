@@ -4089,7 +4089,7 @@
       <bibkey>mhamdi-etal-2021-x</bibkey>
       <pwccode url="https://github.com/meryemmhamdi1/meta_cross_nlu_qa" additional="false">meryemmhamdi1/meta_cross_nlu_qa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydiqa-goldp">TyDiQA-GoldP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
@@ -4133,7 +4133,7 @@
       <bibkey>calixto-etal-2021-wikipedia</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDi QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xl-wic">XL-WiC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xquad">XQuAD</pwcdataset>
