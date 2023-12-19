@@ -219,6 +219,7 @@
       <doi>10.18653/v1/2021.acl-long.14</doi>
       <bibkey>song-etal-2021-bob</bibkey>
       <pwccode url="https://github.com/songhaoyu/BoB" additional="false">songhaoyu/BoB</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cmnli">CMNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/convai2">ConvAI2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/personaldialog">PersonalDialog</pwcdataset>
@@ -7835,6 +7836,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="516">

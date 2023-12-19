@@ -223,7 +223,7 @@
       <bibkey>valentino-etal-2021-unification</bibkey>
       <doi>10.18653/v1/2021.eacl-main.15</doi>
       <pwccode url="https://github.com/ai-systems/unification_reconstruction_explanations" additional="false">ai-systems/unification_reconstruction_explanations</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/worldtree">Worldtree</pwcdataset>
     </paper>
     <paper id="16">

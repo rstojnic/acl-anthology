@@ -167,7 +167,7 @@
       <doi>10.18653/v1/2020.emnlp-main.11</doi>
       <video tag="video" href="https://slideslive.com/38939163"/>
       <bibkey>banerjee-baral-2020-self</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/atomic">ATOMIC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
@@ -5367,7 +5367,6 @@
       <video tag="video" href="https://slideslive.com/38938905"/>
       <bibkey>wang-etal-2020-negative</bibkey>
       <pwccode url="https://github.com/iedwardwangi/MetaAdapter" additional="false">iedwardwangi/MetaAdapter</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydiqa-goldp">TyDiQA-GoldP</pwcdataset>
     </paper>
     <paper id="360">
@@ -6578,7 +6577,7 @@
       <bibkey>hardalov-etal-2020-exams</bibkey>
       <pwccode url="https://github.com/mhardalov/exams-qa" additional="true">mhardalov/exams-qa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/exams">EXAMS</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -11309,6 +11308,7 @@
       <pwccode url="https://github.com/dallascard/NLP-power-analysis" additional="true">dallascard/NLP-power-analysis</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>

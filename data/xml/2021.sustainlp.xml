@@ -70,7 +70,7 @@
       <url hash="63f61f70">2021.sustainlp-1.5</url>
       <bibkey>gupta-etal-2021-memory</bibkey>
       <pwccode url="https://github.com/ag1988/top_k_attention" additional="false">ag1988/top_k_attention</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
@@ -143,7 +143,7 @@
       <url hash="499d3240">2021.sustainlp-1.10</url>
       <bibkey>wang-etal-2021-semantic</bibkey>
       <pwccode url="https://github.com/posuer/social-commonsense-knolwedge" additional="false">posuer/social-commonsense-knolwedge</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/atomic">ATOMIC</pwcdataset>
     </paper>
     <paper id="11">

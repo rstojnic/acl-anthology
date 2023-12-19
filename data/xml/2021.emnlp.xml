@@ -1540,7 +1540,7 @@
       <attachment type="Software" hash="822c363a">2021.emnlp-main.113.Software.zip</attachment>
       <bibkey>branco-etal-2021-shortcutted</bibkey>
       <pwccode url="https://github.com/nlx-group/shortcutted-commonsense-reasoning" additional="false">nlx-group/shortcutted-commonsense-reasoning</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/piqa">PIQA</pwcdataset>
@@ -3369,6 +3369,7 @@
       <abstract>Inspired by mutual information (MI) based feature selection in SVMs and logistic regression, in this paper, we propose MI-based layer-wise pruning: for each layer of a multi-layer neural network, neurons with higher values of MI with respect to preserved neurons in the upper layer are preserved. Starting from the top softmax layer, layer-wise pruning proceeds in a top-down fashion until reaching the bottom word embedding layer. The proposed pruning strategy offers merits over weight-based pruning techniques: (1) it avoids irregular memory access since representations and matrices can be squeezed into their smaller but dense counterparts, leading to greater speedup; (2) in a manner of top-down pruning, the proposed method operates from a more global perspective based on training signals in the top layer, and prunes each layer by propagating the effect of global signals through layers, leading to better performances at the same sparsity level. Extensive experiments show that at the same sparsity level, the proposed strategy offers both greater speedup and higher performances than weight-based pruning methods (e.g., magnitude pruning, movement pruning).</abstract>
       <url hash="8aea531e">2021.emnlp-main.246</url>
       <bibkey>fan-etal-2021-layer</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -6754,7 +6755,7 @@
       <abstract>Our goal is to deliver a new task and leaderboard to stimulate research on question answering and pre-trained language models (PTLMs) to understand a significant instructional document, e.g., an introductory college textbook or a manual. PTLMs have shown great success in many question-answering tasks, given significant supervised training, but much less so in zero-shot settings. We propose a new task that includes two college-level introductory texts in the social sciences (American Government 2e) and humanities (U.S. History), hundreds of true/false statements based on review questions written by the textbook authors, validation/development tests based on the first eight chapters of the textbooks, blind tests based on the remaining textbook chapters, and baseline results given state-of-the-art PTLMs. Since the questions are balanced, random performance should be ~50%. T5, fine-tuned with BoolQ achieves the same performance, suggesting that the textbook’s content is not pre-represented in the PTLM. Taking the exam closed book, but having read the textbook (i.e., adding the textbook to T5’s pre-training), yields at best minor improvement (56%), suggesting that the PTLM may not have “understood” the textbook (or perhaps misunderstood the questions). Performance is better (~60%) when the exam is taken open-book (i.e., allowing the machine to automatically retrieve a paragraph and use it to answer the question).</abstract>
       <url hash="586e0f3f">2021.emnlp-main.493</url>
       <bibkey>ciosici-etal-2021-perhaps</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -7729,7 +7730,7 @@
       <url hash="10f8ae31">2021.emnlp-main.564</url>
       <bibkey>holtzman-etal-2021-surface</bibkey>
       <pwccode url="https://github.com/peterwestuw/surface-form-competition" additional="false">peterwestuw/surface-form-competition</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
@@ -7848,7 +7849,7 @@
       <bibkey>ye-etal-2021-crossfit</bibkey>
       <pwccode url="https://github.com/INK-USC/CrossFit" additional="true">INK-USC/CrossFit</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quoref">Quoref</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
@@ -8028,7 +8029,7 @@
       <url hash="52b7078a">2021.emnlp-main.585</url>
       <bibkey>dalvi-etal-2021-explaining</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/entailmentbank">EntailmentBank</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/proofwriter">ProofWriter</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/worldtree">Worldtree</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/eqasc">eQASC</pwcdataset>
@@ -9466,7 +9467,7 @@
       <url hash="d3058e6e">2021.emnlp-main.693</url>
       <bibkey>dzendzik-etal-2021-english</bibkey>
       <pwccode url="https://github.com/dariad/rczoo" additional="false">dariad/rczoo</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/amazonqa">AmazonQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bipar">BiPaR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
@@ -10949,7 +10950,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mewsli-9">Mewsli-9</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tatoeba">Tatoeba</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydiqa-goldp">TyDiQA-GoldP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xcopa">XCOPA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>

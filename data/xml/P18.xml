@@ -6236,7 +6236,7 @@
       <url hash="01513ba1">P18-5002</url>
       <doi>10.18653/v1/P18-5002</doi>
       <bibkey>gao-etal-2018-neural-approaches</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/csqa">CSQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>

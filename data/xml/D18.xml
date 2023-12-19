@@ -6229,7 +6229,7 @@
       <doi>10.18653/v1/D18-1453</doi>
       <bibkey>sugawara-etal-2018-makes</bibkey>
       <pwccode url="https://github.com/Alab-NII/mrc-heuristics" additional="false">Alab-NII/mrc-heuristics</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mcscript">MCScript</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mctest">MCTest</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>

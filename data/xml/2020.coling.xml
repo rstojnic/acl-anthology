@@ -1575,6 +1575,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -3409,6 +3410,7 @@
       <bibkey>wang-etal-2020-chinese-bert</bibkey>
       <pwccode url="https://github.com/ylwangy/BERT_zh_Analysis" additional="false">ylwangy/BERT_zh_Analysis</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/clue">CLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/cmnli">CMNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
     </paper>
     <paper id="255">
@@ -4077,6 +4079,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -5589,6 +5592,7 @@
       <bibkey>xu-etal-2020-clue</bibkey>
       <pwccode url="https://github.com/CLUEbenchmark/CLUE" additional="true">CLUEbenchmark/CLUE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/clue">CLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/cmnli">CMNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cmrc">CMRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cmrc-2018">CMRC 2018</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/chid">ChID</pwcdataset>

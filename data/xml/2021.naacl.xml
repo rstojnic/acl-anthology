@@ -2015,6 +2015,7 @@
       <bibkey>lai-etal-2021-lattice</bibkey>
       <pwccode url="https://github.com/alibaba/AliceMind" additional="true">alibaba/AliceMind</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/clue">CLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/cmnli">CMNLI</pwcdataset>
     </paper>
     <paper id="138">
       <title>Modeling Event Plausibility with Consistent Conceptual Abstraction</title>
@@ -5246,7 +5247,7 @@
       <url hash="a3985c3c">2021.naacl-main.366</url>
       <doi>10.18653/v1/2021.naacl-main.366</doi>
       <bibkey>lin-etal-2021-differentiable</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/genericskb">GenericsKB</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
@@ -5739,6 +5740,7 @@
       <bibkey>parvez-chang-2021-evaluating</bibkey>
       <pwccode url="https://github.com/rizwan09/NLPDV" additional="false">rizwan09/NLPDV</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>

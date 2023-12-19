@@ -419,7 +419,7 @@
       <doi>10.18653/v1/N19-1030</doi>
       <bibkey>ni-etal-2019-learning</bibkey>
       <pwccode url="https://github.com/nijianmo/arc-etrr-code" additional="true">nijianmo/arc-etrr-code</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
     </paper>
@@ -3674,7 +3674,7 @@
       <video href="https://vimeo.com/364746823" tag="video"/>
       <bibkey>sun-etal-2019-improving</bibkey>
       <pwccode url="https://github.com/nlpdata/strategy" additional="false">nlpdata/strategy</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mctest">MCTest</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
@@ -3742,7 +3742,7 @@
       <video href="https://vimeo.com/361693315" tag="video"/>
       <bibkey>yadav-etal-2019-alignment</bibkey>
       <pwccode url="https://github.com/vikas95/AHE" additional="false">vikas95/AHE</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikiqa">WikiQA</pwcdataset>
     </paper>
