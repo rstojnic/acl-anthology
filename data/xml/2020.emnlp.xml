@@ -167,7 +167,6 @@
       <doi>10.18653/v1/2020.emnlp-main.11</doi>
       <video tag="video" href="https://slideslive.com/38939163"/>
       <bibkey>banerjee-baral-2020-self</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/atomic">ATOMIC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>

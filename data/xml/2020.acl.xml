@@ -1677,7 +1677,6 @@
       <doi>10.18653/v1/2020.acl-main.115</doi>
       <video tag="video" href="http://slideslive.com/38929178"/>
       <bibkey>sahin-etal-2020-puzzling</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/gqa">GQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
@@ -10359,7 +10358,6 @@
       <attachment type="Dataset" hash="584c3dd6">2020.acl-main.701.Dataset.tgz</attachment>
       <video tag="video" href="http://slideslive.com/38928793"/>
       <bibkey>dunietz-etal-2020-test</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cosmosqa">CosmosQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>

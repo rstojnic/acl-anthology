@@ -3630,7 +3630,6 @@
       <url hash="8d722b51">D19-1260</url>
       <doi>10.18653/v1/D19-1260</doi>
       <bibkey>yadav-etal-2019-quick</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
     </paper>
     <paper id="261">
@@ -3913,7 +3912,6 @@
       <doi>10.18653/v1/D19-1281</doi>
       <bibkey>khot-etal-2019-whats</bibkey>
       <pwccode url="https://github.com/allenai/missing-fact" additional="false">allenai/missing-fact</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -13049,7 +13047,6 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <doi>10.18653/v1/D19-5804</doi>
       <bibkey>pan-etal-2019-improving-question</bibkey>
       <pwccode url="https://github.com/nlpdata/external" additional="false">nlpdata/external</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
     </paper>

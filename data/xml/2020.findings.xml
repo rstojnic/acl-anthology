@@ -1315,7 +1315,6 @@
       <video tag="video" href="https://slideslive.com/38940138"/>
       <bibkey>yang-etal-2020-generative</bibkey>
       <pwccode url="https://github.com/yangyiben/G-DAUG-c-Generative-Data-Augmentation-for-Commonsense-Reasoning" additional="false">yangyiben/G-DAUG-c-Generative-Data-Augmentation-for-Commonsense-Reasoning</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/codah">CODAH</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hellaswag">HellaSwag</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
@@ -4702,7 +4701,6 @@
       <doi>10.18653/v1/2020.findings-emnlp.317</doi>
       <video tag="video" href="https://slideslive.com/38940132"/>
       <bibkey>shah-etal-2020-expect</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qasc">QASC</pwcdataset>
     </paper>
     <paper id="318">
@@ -6077,7 +6075,6 @@
       <doi>10.18653/v1/2020.findings-emnlp.413</doi>
       <bibkey>sampat-etal-2020-visuo</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ai2d">AI2D</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tqa">TQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vcr">VCR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>

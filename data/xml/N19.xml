@@ -3674,7 +3674,6 @@
       <video href="https://vimeo.com/364746823" tag="video"/>
       <bibkey>sun-etal-2019-improving</bibkey>
       <pwccode url="https://github.com/nlpdata/strategy" additional="false">nlpdata/strategy</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mctest">MCTest</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>

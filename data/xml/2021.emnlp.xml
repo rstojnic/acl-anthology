@@ -1540,7 +1540,6 @@
       <attachment type="Software" hash="822c363a">2021.emnlp-main.113.Software.zip</attachment>
       <bibkey>branco-etal-2021-shortcutted</bibkey>
       <pwccode url="https://github.com/nlx-group/shortcutted-commonsense-reasoning" additional="false">nlx-group/shortcutted-commonsense-reasoning</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/piqa">PIQA</pwcdataset>
@@ -6755,7 +6754,6 @@
       <abstract>Our goal is to deliver a new task and leaderboard to stimulate research on question answering and pre-trained language models (PTLMs) to understand a significant instructional document, e.g., an introductory college textbook or a manual. PTLMs have shown great success in many question-answering tasks, given significant supervised training, but much less so in zero-shot settings. We propose a new task that includes two college-level introductory texts in the social sciences (American Government 2e) and humanities (U.S. History), hundreds of true/false statements based on review questions written by the textbook authors, validation/development tests based on the first eight chapters of the textbooks, blind tests based on the remaining textbook chapters, and baseline results given state-of-the-art PTLMs. Since the questions are balanced, random performance should be ~50%. T5, fine-tuned with BoolQ achieves the same performance, suggesting that the textbook’s content is not pre-represented in the PTLM. Taking the exam closed book, but having read the textbook (i.e., adding the textbook to T5’s pre-training), yields at best minor improvement (56%), suggesting that the PTLM may not have “understood” the textbook (or perhaps misunderstood the questions). Performance is better (~60%) when the exam is taken open-book (i.e., allowing the machine to automatically retrieve a paragraph and use it to answer the question).</abstract>
       <url hash="586e0f3f">2021.emnlp-main.493</url>
       <bibkey>ciosici-etal-2021-perhaps</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
@@ -7849,7 +7847,6 @@
       <bibkey>ye-etal-2021-crossfit</bibkey>
       <pwccode url="https://github.com/INK-USC/CrossFit" additional="true">INK-USC/CrossFit</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/anli">ANLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quoref">Quoref</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
@@ -8029,7 +8026,6 @@
       <url hash="52b7078a">2021.emnlp-main.585</url>
       <bibkey>dalvi-etal-2021-explaining</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/entailmentbank">EntailmentBank</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/proofwriter">ProofWriter</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/worldtree">Worldtree</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/eqasc">eQASC</pwcdataset>
@@ -9467,7 +9463,6 @@
       <url hash="d3058e6e">2021.emnlp-main.693</url>
       <bibkey>dzendzik-etal-2021-english</bibkey>
       <pwccode url="https://github.com/dariad/rczoo" additional="false">dariad/rczoo</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/amazonqa">AmazonQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bipar">BiPaR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>

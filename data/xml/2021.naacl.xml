@@ -5247,7 +5247,6 @@
       <url hash="a3985c3c">2021.naacl-main.366</url>
       <doi>10.18653/v1/2021.naacl-main.366</doi>
       <bibkey>lin-etal-2021-differentiable</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/arc">ARC (AI2 Reasoning Challenge)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/genericskb">GenericsKB</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
