@@ -1788,6 +1788,7 @@
       <bibkey>chen-etal-2019-global</bibkey>
       <pwccode url="https://github.com/czyssrs/GloREPlus" additional="false">czyssrs/GloREPlus</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/gloreplus">GloREPlus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/kinetics-400-1">Kinetics 400</pwcdataset>
     </paper>
     <paper id="128">
       <title>Graph Neural Networks with Generated Parameters for Relation Extraction</title>
