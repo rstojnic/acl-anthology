@@ -5265,6 +5265,7 @@
       <url hash="e8e89df6">2021.emnlp-main.383</url>
       <bibkey>meng-etal-2021-mixture</bibkey>
       <pwccode url="https://github.com/cambridgeltl/mop" additional="false">cambridgeltl/mop</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/medqa-usmle">MedQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmedqa">PubMedQA</pwcdataset>
     </paper>
     <paper id="384">
@@ -6421,6 +6422,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/reddit">Reddit</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reddit-tifu">Reddit TIFU</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
     </paper>
@@ -9573,6 +9575,7 @@
       <bibkey>li-etal-2021-mlec</bibkey>
       <pwccode url="https://github.com/judenpech/mlec-qa" additional="false">judenpech/mlec-qa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/headqa">HeadQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/medqa-usmle">MedQA</pwcdataset>
     </paper>
     <paper id="699">
       <title><fixed-case>I</fixed-case>ndo<fixed-case>NLG</fixed-case>: Benchmark and Resources for Evaluating <fixed-case>I</fixed-case>ndonesian Natural Language Generation</title>
