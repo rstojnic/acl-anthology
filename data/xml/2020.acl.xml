@@ -7966,7 +7966,6 @@
       <bibkey>xu-etal-2020-incorporating</bibkey>
       <pwccode url="https://github.com/neulab/external-knowledge-codegen" additional="true">neulab/external-knowledge-codegen</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conala">CoNaLa</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/conala-ext">CoNaLa-Ext</pwcdataset>
     </paper>
     <paper id="539">
       <title><fixed-case>L</fixed-case>ogical<fixed-case>F</fixed-case>act<fixed-case>C</fixed-case>hecker: Leveraging Logical Operations for Fact Checking with Graph Module Network</title>

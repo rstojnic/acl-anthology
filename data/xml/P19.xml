@@ -6342,7 +6342,6 @@
       <doi>10.18653/v1/P19-1447</doi>
       <bibkey>yin-neubig-2019-reranking</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/conala">CoNaLa</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/conala-ext">CoNaLa-Ext</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/django">Django</pwcdataset>
     </paper>
     <paper id="448">
