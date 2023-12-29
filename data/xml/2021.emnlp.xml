@@ -12104,6 +12104,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/pubmedqa">PubMedQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scisummnet">ScisummNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/summscreen">SummScreen</pwcdataset>
     </paper>
     <paper id="38">
       <title>Chandler: An Explainable Sarcastic Response Generator</title>

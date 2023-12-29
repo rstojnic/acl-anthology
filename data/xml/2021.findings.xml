@@ -11067,6 +11067,7 @@
       <bibkey>zhang-etal-2021-exploratory-study</bibkey>
       <pwccode url="https://github.com/chatc/longdialsumm" additional="false">chatc/longdialsumm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/summscreen">SummScreen</pwcdataset>
     </paper>
     <paper id="378">
       <title>Improving Text Auto-Completion with Next Phrase Prediction</title>
@@ -11249,6 +11250,7 @@
       <url hash="8c82a10a">2021.findings-emnlp.391</url>
       <bibkey>khalman-etal-2021-forumsum-multi</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/summscreen">SummScreen</pwcdataset>
     </paper>
     <paper id="392">
       <title>Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based <fixed-case>QA</fixed-case> Framework</title>
