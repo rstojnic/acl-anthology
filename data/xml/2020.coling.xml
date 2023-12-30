@@ -1747,7 +1747,7 @@
       <bibkey>ananthram-etal-2020-event</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rcv1">RCV1</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="132">
       <title>Using a Penalty-based Loss Re-estimation Method to Improve Implicit Discourse Relation Classification</title>
@@ -4215,6 +4215,8 @@
       <doi>10.18653/v1/2020.coling-main.315</doi>
       <bibkey>yu-poesio-2020-multitask</bibkey>
       <pwccode url="https://github.com/juntaoy/dali-bridging" additional="false">juntaoy/dali-bridging</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/bashi">BASHI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="316">
       <title>Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution</title>
@@ -4427,6 +4429,8 @@
       <url hash="347fb2e4">2020.coling-main.331</url>
       <doi>10.18653/v1/2020.coling-main.331</doi>
       <bibkey>kobayashi-ng-2020-bridging</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/bashi">BASHI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="332">
       <title>An analysis of language models for metaphor recognition</title>
@@ -7144,6 +7148,7 @@
       <doi>10.18653/v1/2020.coling-main.537</doi>
       <bibkey>hou-2020-fine</bibkey>
       <pwccode url="https://github.com/IBM/bridging-resolution" additional="false">IBM/bridging-resolution</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="538">
       <title>Free the Plural: Unrestricted Split-Antecedent Anaphora Resolution</title>
@@ -7512,7 +7517,7 @@
       <url hash="ddc3de6d">2020.coling-main.565</url>
       <doi>10.18653/v1/2020.coling-main.565</doi>
       <bibkey>mandya-etal-2020-graph</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tacred">TACRED</pwcdataset>
     </paper>
     <paper id="566">
@@ -7531,7 +7536,7 @@
       <bibkey>zhu-etal-2020-towards</bibkey>
       <pwccode url="https://github.com/Spico197/NYT-H" additional="false">Spico197/NYT-H</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/nyt-h">NYT-H</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tacred">TACRED</pwcdataset>
     </paper>
     <paper id="567">

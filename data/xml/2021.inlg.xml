@@ -89,7 +89,7 @@
       <abstract>We address the task of antonym prediction in a context, which is a fill-in-the-blanks problem. This task setting is unique and practical because it requires contrastiveness to the other word and naturalness as a text in filling a blank. We propose methods for fine-tuning pre-trained masked language models (BERT) for context-aware antonym prediction. The experimental results demonstrate that these methods have positive impacts on the prediction of antonyms within a context. Moreover, human evaluation reveals that more than 85% of predictions using the proposed method are acceptable as antonyms.</abstract>
       <url hash="ffc3387c">2021.inlg-1.6</url>
       <bibkey>niwa-etal-2021-predicting</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task 9: Hypernym Discovery</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task-9</pwcdataset>
     </paper>
     <paper id="7">
       <title>Examining Covert Gender Bias: A Case Study in <fixed-case>T</fixed-case>urkish and <fixed-case>E</fixed-case>nglish Machine Translation Models</title>

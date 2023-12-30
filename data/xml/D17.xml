@@ -74,7 +74,7 @@
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/tacred">TACRED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/re-tacred">Re-TACRED</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="5">
       <title>Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach</title>
@@ -619,7 +619,7 @@
       <abstract>We propose a novel framework based on neural networks to identify the sentiment of opinion targets in a comment/review. Our framework adopts multiple-attention mechanism to capture sentiment features separated by a long distance, so that it is more robust against irrelevant information. The results of multiple attentions are non-linearly combined with a recurrent neural network, which strengthens the expressive power of our model for handling more complications. The weighted-memory mechanism not only helps us avoid the labor-intensive feature engineering work, but also provides a tailor-made memory for different opinion targets of a sentence. We examine the merit of our model on four datasets: two are from SemEval2014, i.e. reviews of restaurants and laptops; a twitter dataset, for testing its performance on social media data; and a Chinese news comment dataset, for testing its language sensitivity. The experimental results show that our model consistently outperforms the state-of-the-art methods on different types of data.</abstract>
       <bibkey>chen-etal-2017-recurrent</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="48">
       <title>A Cognition Based Attention Model for Sentiment Analysis</title>
@@ -2459,7 +2459,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <doi>10.18653/v1/D17-1193</doi>
       <abstract>Word embeddings are used with success for a variety of tasks involving lexical semantic similarities between individual words. Using unsupervised methods and just cosine similarity, encouraging results were obtained for analogical similarities. In this paper, we explore the potential of pre-trained word embeddings to identify generic types of semantic relations in an unsupervised experiment. We propose a new relational similarity measure based on the combination of word2vec’s CBOW input and output vectors which outperforms concurrent vector representations, when used for unsupervised clustering on SemEval 2010 Relation Classification data.</abstract>
       <bibkey>gabor-etal-2017-exploring</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="194">
       <title>Temporal dynamics of semantic relations in word embeddings: an application to predicting armed conflict participants</title>
@@ -2545,6 +2545,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <attachment type="attachment" hash="fa67f6ae">D17-1200.Attachment.zip</attachment>
       <abstract>Automatically understanding the plot of novels is important both for informing literary scholarship and applications such as summarization or recommendation. Various models have addressed this task, but their evaluation has remained largely intrinsic and qualitative. Here, we propose a principled and scalable framework leveraging expert-provided semantic tags (e.g., mystery, pirates) to evaluate plot representations in an extrinsic fashion, assessing their ability to produce locally coherent groupings of novels (micro-clusters) in model space. We present a deep recurrent autoencoder model that learns richly structured multi-view plot representations, and show that they i) yield better micro-clusters than less structured representations; and ii) are interpretable, and thus useful for further literary analysis or labeling of the emerging micro-clusters.</abstract>
       <bibkey>frermann-szarvas-2017-inducing</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/characterrelations">characterRelations</pwcdataset>
     </paper>
     <paper id="201">
       <title>Initializing Convolutional Filters with Semantic Features for Text Classification</title>
@@ -3657,7 +3658,7 @@ and <i>efficiency</i> of on-line policy optimization compared to other companion
       <doi>10.18653/v1/D17-1285</doi>
       <abstract>Mining biomedical text offers an opportunity to automatically discover important facts and infer associations among them. As new scientific findings appear across a large collection of biomedical publications, our aim is to tap into this literature to automate biomedical knowledge extraction and identify important insights from them. Towards that goal, we develop a system with novel deep neural networks to extract insights on biomedical literature. Evaluation shows our system is able to provide insights with competitive accuracy of human acceptance and its relation extraction component outperforms previous work.</abstract>
       <bibkey>he-etal-2017-insight</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="286">
       <title>Word Etymology as Native Language Interference</title>
@@ -3885,7 +3886,7 @@ and <i>efficiency</i> of on-line policy optimization compared to other companion
       <video href="https://vimeo.com/238233708" tag="video"/>
       <bibkey>gella-etal-2017-image</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="304">
       <title>Neural Machine Translation with Source Dependency Representation</title>

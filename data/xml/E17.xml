@@ -89,7 +89,7 @@
       <abstract>The fundamental role of hypernymy in NLP has motivated the development of many methods for the automatic identification of this relation, most of which rely on word distribution. We investigate an extensive number of such unsupervised measures, using several distributional semantic models that differ by context type and feature weighting. We analyze the performance of the different methods based on their linguistic motivation. Comparison to the state-of-the-art supervised methods shows that while supervised methods generally outperform the unsupervised ones, the former are sensitive to the distribution of training instances, hurting their reliability. Being based on general linguistic hypotheses and independent from training data, unsupervised measures are more robust, and therefore are still useful artillery for hypernymy detection.</abstract>
       <bibkey>shwartz-etal-2017-hypernyms</bibkey>
       <pwccode url="https://github.com/vered1986/UnsupervisedHypernymy" additional="false">vered1986/UnsupervisedHypernymy</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task 9: Hypernym Discovery</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task-9</pwcdataset>
     </paper>
     <paper id="8">
       <title>Distinguishing Antonyms and Synonyms in a Pattern-based Neural Network</title>
@@ -957,7 +957,6 @@
       <url hash="8ad8d8df">E17-1086</url>
       <abstract>In this paper, we present a novel unsupervised algorithm for word sense disambiguation (WSD) at the document level. Our algorithm is inspired by a widely-used approach in the field of genetics for whole genome sequencing, known as the Shotgun sequencing technique. The proposed WSD algorithm is based on three main steps. First, a brute-force WSD algorithm is applied to short context windows (up to 10 words) selected from the document in order to generate a short list of likely sense configurations for each window. In the second step, these local sense configurations are assembled into longer composite configurations based on suffix and prefix matching. The resulted configurations are ranked by their length, and the sense of each word is chosen based on a voting scheme that considers only the top k configurations in which the word appears. We compare our algorithm with other state-of-the-art unsupervised WSD algorithms and demonstrate better performance, sometimes by a very large margin. We also show that our algorithm can yield better performance than the Most Common Sense (MCS) baseline on one data set. Moreover, our algorithm has a very small number of parameters, is robust to parameter tuning, and, unlike other bio-inspired methods, it gives a deterministic solution (it does not involve random choices).</abstract>
       <bibkey>butnaru-etal-2017-shotgunwsd</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013">SemEval 2013</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senseval-2-1">Senseval-2</pwcdataset>
     </paper>
     <paper id="87">

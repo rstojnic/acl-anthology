@@ -1204,7 +1204,7 @@
       <url hash="ea6810fb">K19-1090</url>
       <doi>10.18653/v1/K19-1090</doi>
       <bibkey>cheng-etal-2019-variational</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="91">
       <title>Learning to Detect Opinion Snippet for Aspect-Based Sentiment Analysis</title>

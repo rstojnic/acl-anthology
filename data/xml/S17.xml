@@ -2355,7 +2355,7 @@ of average. Among 39 submissions to this task, we ranked 10th. </abstract>
       <doi>10.18653/v1/S17-2168</doi>
       <abstract>This paper presents our relation extraction system for subtask C of SemEval-2017 Task 10: ScienceIE. Assuming that the keyphrases are already annotated in the input data, our work explores a wide range of linguistic features, applies various feature selection techniques, optimizes the hyper parameters and class weights and experiments with different problem formulations (single classification model vs individual classifiers for each keyphrase type, single-step classifier vs pipeline classifier for hyponym relations). Performance of five popular classification algorithms are evaluated for each problem formulation along with feature selection. The best setting achieved an F1 score of 71.0% for synonym and 30.0% for hyponym relation on the test data.</abstract>
       <bibkey>barik-marsi-2017-ntnu</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="169">
       <title><fixed-case>LABDA</fixed-case> at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2017 Task 10: Relation Classification between keyphrases via Convolutional Neural Network</title>

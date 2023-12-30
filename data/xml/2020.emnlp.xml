@@ -1896,7 +1896,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semantic-textual-similarity-2012-2016">Semantic Textual Similarity (2012 - 2016)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="125">
@@ -4316,7 +4315,7 @@
       <video tag="video" href="https://slideslive.com/38939301"/>
       <bibkey>xu-etal-2020-aspect</bibkey>
       <pwccode url="https://github.com/xuuuluuu/Aspect-Sentiment-Classification" additional="false">xuuuluuu/Aspect-Sentiment-Classification</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="289">
       <title>Emotion-Cause Pair Extraction as Sequence Labeling Based on A Novel Tagging Scheme</title>
@@ -4469,7 +4468,7 @@
       <pwccode url="https://github.com/thunlp/RE-Context-or-Names" additional="false">thunlp/RE-Context-or-Names</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel-2-0">FewRel 2.0</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tacred">TACRED</pwcdataset>
     </paper>
     <paper id="299">
@@ -10886,7 +10885,7 @@
       <doi>10.18653/v1/2020.emnlp-main.719</doi>
       <video tag="video" href="https://slideslive.com/38939322"/>
       <bibkey>pouran-ben-veyseh-etal-2020-introducing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="720">
       <title><fixed-case>E</fixed-case>mo<fixed-case>T</fixed-case>ag1200: Understanding the Association between Emojis and Emotions</title>
@@ -11105,7 +11104,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semantic-textual-similarity-2012-2016">Semantic Textual Similarity (2012 - 2016)</pwcdataset>
     </paper>
     <paper id="734">
       <title>What Can We Learn from Collective Human Opinions on Natural Language Inference Data?</title>

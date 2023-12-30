@@ -1912,6 +1912,7 @@
       <url hash="43ddf872">2021.naacl-main.131</url>
       <doi>10.18653/v1/2021.naacl-main.131</doi>
       <bibkey>kobayashi-ng-2021-bridging</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="132">
       <title>Explicitly Modeling Syntax in Language Models with Incremental Parsing and a Dynamic Oracle</title>
@@ -2145,7 +2146,7 @@
       <doi>10.18653/v1/2021.naacl-main.146</doi>
       <bibkey>dai-etal-2021-syntax</bibkey>
       <pwccode url="https://github.com/ROGERDJQ/RoBERTaABSA" additional="false">ROGERDJQ/RoBERTaABSA</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="147">
       <title>Domain Divergences: A Survey and Empirical Analysis</title>
@@ -4705,6 +4706,7 @@
       <doi>10.18653/v1/2021.naacl-main.327</doi>
       <bibkey>pandit-hou-2021-probing</bibkey>
       <pwccode url="https://github.com/oapandit/probBertForbridging" additional="false">oapandit/probBertForbridging</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="328">
       <title>Is Incoherence Surprising? Targeted Evaluation of Coherence Prediction from Language Models</title>

@@ -237,7 +237,7 @@
       <doi>10.18653/v1/K18-1018</doi>
       <bibkey>li-etal-2018-hierarchical</bibkey>
       <pwccode url="https://github.com/DUT-LiuYang/Aspect-Sentiment-Analysis" additional="false">DUT-LiuYang/Aspect-Sentiment-Analysis</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="19">
       <title>Bidirectional Generative Adversarial Networks for Neural Machine Translation</title>

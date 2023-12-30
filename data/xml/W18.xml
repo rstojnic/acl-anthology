@@ -1367,6 +1367,7 @@
       <url hash="c49ea55b">W18-0703</url>
       <doi>10.18653/v1/W18-0703</doi>
       <bibkey>roesiger-2018-rule</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="4">
       <title>A Predictive Model for Notional Anaphora in <fixed-case>E</fixed-case>nglish</title>
@@ -1398,6 +1399,7 @@
       <url hash="3e967a2f">W18-0706</url>
       <doi>10.18653/v1/W18-0706</doi>
       <bibkey>pagel-roesiger-2018-towards</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="7">
       <title>Detecting and Resolving Shell Nouns in <fixed-case>G</fixed-case>erman</title>

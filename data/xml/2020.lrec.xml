@@ -1573,7 +1573,7 @@
       <language>eng</language>
       <bibkey>sileo-etal-2020-discsense</bibkey>
       <pwccode url="https://github.com/synapse-developpement/DiscSense" additional="false">synapse-developpement/DiscSense</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/discovery">Discovery Dataset</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/discovery">Discovery</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
     </paper>
     <paper id="126">
@@ -7611,7 +7611,7 @@
       <language>eng</language>
       <bibkey>rietzler-etal-2020-adapt</bibkey>
       <pwccode url="https://github.com/deepopinion/domain-adapted-atsc" additional="true">deepopinion/domain-adapted-atsc</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="608">
       <title>An Empirical Examination of Online Restaurant Reviews</title>

@@ -1321,7 +1321,7 @@
       <doi>10.18653/v1/P18-1087</doi>
       <bibkey>li-etal-2018-transformation</bibkey>
       <pwccode url="https://github.com/lixin4ever/TNet" additional="true">lixin4ever/TNet</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="88">
       <title>Target-Sensitive Memory Networks for Aspect Sentiment Classification</title>
@@ -1336,7 +1336,7 @@
       <video href="https://vimeo.com/285801326" tag="video"/>
       <doi>10.18653/v1/P18-1088</doi>
       <bibkey>wang-etal-2018-target</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="89">
       <title>Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification</title>
@@ -3479,7 +3479,6 @@
       <doi>10.18653/v1/P18-1230</doi>
       <bibkey>luo-etal-2018-incorporating</bibkey>
       <pwccode url="https://github.com/jimiyulu/WSD_MemNN" additional="false">jimiyulu/WSD_MemNN</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013">SemEval 2013</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/word-sense-disambiguation-a-unified">Word Sense Disambiguation: a Unified Evaluation Framework and Empirical Comparison</pwcdataset>
     </paper>
     <paper id="231">
@@ -3532,7 +3531,7 @@
       <attachment type="poster" hash="64d7b17e">P18-1234.Poster.pdf</attachment>
       <doi>10.18653/v1/P18-1234</doi>
       <bibkey>xue-li-2018-aspect</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="235">
       <title>A Helping Hand: Transfer Learning for Deep Sentiment Analysis</title>
@@ -5008,7 +5007,7 @@
       <bibkey>torki-2018-document</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="85">
       <title>Learning with Structured Representations for Negation Scope Extraction</title>
@@ -5113,7 +5112,7 @@
       <doi>10.18653/v1/P18-2092</doi>
       <bibkey>he-etal-2018-exploiting</bibkey>
       <pwccode url="https://github.com/ruidan/Aspect-level-sentiment" additional="false">ruidan/Aspect-level-sentiment</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="93">
       <title>Modeling Sentiment Association in Discourse for Humor Recognition</title>
@@ -5140,7 +5139,7 @@
       <doi>10.18653/v1/P18-2094</doi>
       <bibkey>xu-etal-2018-double</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="95">
       <title>Will it Blend? Blending Weak and Strong Labeled Data in a Neural Network for Argumentation Mining</title>

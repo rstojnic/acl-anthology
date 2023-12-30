@@ -965,7 +965,7 @@
       <url hash="bb1e00d7">2020.aacl-main.75</url>
       <bibkey>han-etal-2020-data</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="76">
       <title>Robustness and Reliability of Gender Bias Assessment in Word Embeddings: The Role of Base Pairs</title>

@@ -923,6 +923,7 @@
       <doi>10.18653/v1/N19-1067</doi>
       <video href="https://vimeo.com/355760337" tag="video"/>
       <bibkey>kim-klinger-2019-frowning</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/characterrelations">characterRelations</pwcdataset>
     </paper>
     <paper id="68">
       <title>Generalizing Unmasking for Short Texts</title>
@@ -3270,7 +3271,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ms-marco">MS MARCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="243">
       <title>Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text</title>
@@ -3518,7 +3519,7 @@
       <video href="https://vimeo.com/355827037" tag="video"/>
       <bibkey>fan-etal-2019-target</bibkey>
       <pwccode url="https://github.com/NJUNLP/TOWE" additional="false">NJUNLP/TOWE</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="260">
       <title>Abstractive Summarization of <fixed-case>R</fixed-case>eddit Posts with Multi-level Memory Networks</title>
@@ -4049,7 +4050,7 @@
       <doi>10.18653/v1/N19-1298</doi>
       <bibkey>can-etal-2019-richer</bibkey>
       <pwccode url="https://github.com/catcd/RbSP" additional="false">catcd/RbSP</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="299">
       <title>Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases</title>
@@ -4775,7 +4776,7 @@
       <video href="https://vimeo.com/364816868" tag="video"/>
       <bibkey>sileo-etal-2019-mining</bibkey>
       <pwccode url="https://github.com/synapse-developpement/Discovery" additional="false">synapse-developpement/Discovery</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/discovery">Discovery Dataset</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/discovery">Discovery</pwcdataset>
     </paper>
     <paper id="352">
       <title>How Large a Vocabulary Does Text Classification Need? A Variational Approach to Vocabulary Selection</title>

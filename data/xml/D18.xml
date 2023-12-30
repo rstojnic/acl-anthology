@@ -1848,7 +1848,7 @@
       <abstract>We introduce a novel parameterized convolutional neural network for aspect level sentiment classification. Using parameterized filters and parameterized gates, we incorporate aspect information into convolutional neural networks (CNN). Experiments demonstrate that our parameterized filters and parameterized gates effectively capture the aspect-specific features, and our CNN-based models achieve excellent results on SemEval 2014 datasets.</abstract>
       <doi>10.18653/v1/D18-1136</doi>
       <bibkey>huang-carley-2018-parameterized</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="137">
       <title>Improving Multi-label Emotion Classification via Sentiment Classification with Dual Attention Transfer Network</title>
@@ -3004,6 +3004,8 @@
       <abstract>Previous work on bridging anaphora resolution (Poesio et al., 2004; Hou et al., 2013) use syntactic preposition patterns to calculate word relatedness. However, such patterns only consider NPs’ head nouns and hence do not fully capture the semantics of NPs. Recently, Hou (2018) created word embeddings (embeddings_PP) to capture associative similarity (i.e., relatedness) between nouns by exploring the syntactic structure of noun phrases. But embeddings_PP only contains word representations for nouns. In this paper, we create new word vectors by combining embeddings_PP with GloVe. This new word embeddings (embeddings_bridging) are a more general lexical knowledge resource for bridging and allow us to represent the meaning of an NP beyond its head easily. We therefore develop a deterministic approach for bridging anaphora resolution, which represents the semantics of an NP based on its head noun and modifications. We show that this simple approach achieves the competitive results compared to the best system in Hou et al. (2013) which explores Markov Logic Networks to model the problem. Additionally, we further improve the results for bridging anaphora resolution reported in Hou (2018) by combining our simple deterministic approach with Hou et al. (2013)’s best system MLN II.</abstract>
       <doi>10.18653/v1/D18-1219</doi>
       <bibkey>hou-2018-deterministic</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/bashi">BASHI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="220">
       <title>A Knowledge Hunting Framework for Common Sense Reasoning</title>
@@ -3449,7 +3451,7 @@
       <doi>10.18653/v1/D18-1250</doi>
       <bibkey>le-etal-2018-large</bibkey>
       <pwccode url="https://github.com/aidantee/MASS" additional="true">aidantee/MASS</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="251">
       <title>Possessors Change Over Time: A Case Study with Artworks</title>
@@ -5181,7 +5183,7 @@
       <doi>10.18653/v1/D18-1377</doi>
       <bibkey>majumder-etal-2018-iarm</bibkey>
       <pwccode url="https://github.com/senticnet/IARM" additional="false">senticnet/IARM</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="378">
       <title><fixed-case>L</fixed-case>imbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations</title>
@@ -5214,7 +5216,7 @@
       <abstract>We propose a novel multi-grained attention network (MGAN) model for aspect level sentiment classification. Existing approaches mostly adopt coarse-grained attention mechanism, which may bring information loss if the aspect has multiple words or larger context. We propose a fine-grained attention mechanism, which can capture the word-level interaction between aspect and context. And then we leverage the fine-grained and coarse-grained attention mechanisms to compose the MGAN framework. Moreover, unlike previous works which train each aspect with its context separately, we design an aspect alignment loss to depict the aspect-level interactions among the aspects that have the same context. We evaluate the proposed approach on three datasets: laptop and restaurant are from SemEval 2014, and the last one is a twitter dataset. Experimental results show that the multi-grained attention network consistently outperforms the state-of-the-art methods on all three datasets. We also conduct experiments to evaluate the effectiveness of aspect alignment loss, which indicates the aspect-level interactions can bring extra useful information and further improve the performance.</abstract>
       <doi>10.18653/v1/D18-1380</doi>
       <bibkey>fan-etal-2018-multi</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="381">
       <title>Attentive Gated Lexicon Reader with Contrastive Contextual Co-Attention for Sentiment Classification</title>
@@ -7106,7 +7108,7 @@
       <doi>10.18653/v1/D18-1514</doi>
       <bibkey>han-etal-2018-fewrel</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mini-imagenet">mini-Imagenet</pwcdataset>
     </paper>
     <paper id="515">
@@ -7219,7 +7221,6 @@
       <doi>10.18653/v1/D18-1523</doi>
       <bibkey>amrami-goldberg-2018-word</bibkey>
       <pwccode url="https://github.com/asafamr/SymPatternWSI" additional="false">asafamr/SymPatternWSI</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013">SemEval 2013</pwcdataset>
     </paper>
     <paper id="524">
       <title><fixed-case>I</fixed-case>nfer<fixed-case>L</fixed-case>ite: Simple Universal Sentence Representations from Natural Language Inference Data</title>

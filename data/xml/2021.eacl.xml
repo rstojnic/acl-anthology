@@ -1601,6 +1601,7 @@
       <bibkey>fang-etal-2021-chemu</bibkey>
       <doi>10.18653/v1/2021.eacl-main.116</doi>
       <pwccode url="https://github.com/biaoyanf/chemu-ref" additional="false">biaoyanf/chemu-ref</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/bashi">BASHI</pwcdataset>
     </paper>
     <paper id="117">
       <title>Syntactic Nuclei in Dependency Parsing – A Multilingual Exploration</title>
@@ -1845,7 +1846,6 @@
       <bibkey>alhuzali-ananiadou-2021-spanemo</bibkey>
       <doi>10.18653/v1/2021.eacl-main.135</doi>
       <pwccode url="https://github.com/hasanhuz/SpanEmo" additional="false">hasanhuz/SpanEmo</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-1">SemEval-2018 Task 1</pwcdataset>
     </paper>
     <paper id="136">
       <title>Exploiting Position and Contextual Word Embeddings for Keyphrase Extraction from Scientific Papers</title>

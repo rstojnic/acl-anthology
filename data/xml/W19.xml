@@ -10364,7 +10364,7 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <bibkey>chauhan-etal-2019-reflex</bibkey>
       <pwccode url="https://github.com/geetickachauhan/relation-extraction" additional="false">geetickachauhan/relation-extraction</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ddi">DDI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="5">
       <title>Analysing Representations of Memory Impairment in a Clinical Notes Classification Model</title>

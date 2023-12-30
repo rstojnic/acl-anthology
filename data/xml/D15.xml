@@ -701,7 +701,7 @@
       <url hash="248ddf57">D15-1062</url>
       <doi>10.18653/v1/D15-1062</doi>
       <bibkey>xu-etal-2015-semantic</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="63">
       <title>A Baseline Temporal Tagger for all Languages</title>
@@ -2309,7 +2309,7 @@
       <bibkey>gormley-etal-2015-improved</bibkey>
       <pwccode url="https://github.com/mgormley/pacaya" additional="false">mgormley/pacaya</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ace-2005">ACE 2005</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="206">
       <title>Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths</title>
@@ -2324,7 +2324,7 @@
       <doi>10.18653/v1/D15-1206</doi>
       <video href="https://vimeo.com/164556762" tag="video"/>
       <bibkey>xu-etal-2015-classifying</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="207">
       <title>A Computational Cognitive Model of Novel Word Generalization</title>

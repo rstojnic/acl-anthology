@@ -719,7 +719,7 @@
       <doi>10.3115/v1/P15-1061</doi>
       <bibkey>dos-santos-etal-2015-classifying</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="62">
       <title>Semantic Representations for Domain Adaptation: A Case Study on the Tree Kernel-based Method for Relation Extraction</title>
@@ -2468,7 +2468,7 @@
       <url hash="2494fff2">P15-2047</url>
       <doi>10.3115/v1/P15-2047</doi>
       <bibkey>liu-etal-2015-dependency</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="48">
       <title>Embedding Methods for Fine Grained Entity Type Classification</title>

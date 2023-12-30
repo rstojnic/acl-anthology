@@ -3884,7 +3884,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <abstract>We propose a novel attention mechanism for a Convolutional Neural Network (CNN)-based Drug-Drug Interaction (DDI) extraction model. CNNs have been shown to have a great potential on DDI extraction tasks; however, attention mechanisms, which emphasize important words in the sentence of a target-entity pair, have not been investigated with the CNNs despite the fact that attention mechanisms are shown to be effective for a general domain relation classification task. We evaluated our model on the Task 9.2 of the DDIExtraction-2013 shared task. As a result, our attention mechanism improved the performance of our base CNN-based DDI model, and the model achieved an F-score of 69.12%, which is competitive with the state-of-the-art models.</abstract>
       <bibkey>asada-etal-2017-extracting</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ddi">DDI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="3">
       <title>Insights into Analogy Completion from the Biomedical Domain</title>

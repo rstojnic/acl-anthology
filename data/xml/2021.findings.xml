@@ -448,7 +448,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03bd4c14">2021.findings-acl.32.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.32</doi>
       <bibkey>gritta-iacobacci-2021-xeroalign</bibkey>
-      <pwccode url="https://github.com/huawei-noah/noah-research" additional="true">huawei-noah/noah-research</pwccode>
+      <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/xero_align" additional="true">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
@@ -3035,7 +3035,7 @@
       <doi>10.18653/v1/2021.findings-acl.221</doi>
       <bibkey>chen-etal-2021-relation</bibkey>
       <pwccode url="https://github.com/cuhksz-nlp/re-tamm" additional="false">cuhksz-nlp/re-tamm</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="222">
       <title><fixed-case>PLATO-2</fixed-case>: Towards Building an Open-Domain Chatbot via Curriculum Learning</title>
@@ -3502,7 +3502,7 @@
       <url hash="6b292782">2021.findings-acl.257</url>
       <doi>10.18653/v1/2021.findings-acl.257</doi>
       <bibkey>bai-etal-2021-hypernym</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task 9: Hypernym Discovery</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task-9</pwcdataset>
     </paper>
     <paper id="258">
       <title>Modeling the Influence of Verb Aspect on the Activation of Typical Event Locations with <fixed-case>BERT</fixed-case></title>
@@ -7723,6 +7723,8 @@
       <url hash="cce16319">2021.findings-emnlp.119</url>
       <bibkey>hou-2021-end-end</bibkey>
       <pwccode url="https://github.com/IBM/bridging-resolution" additional="false">IBM/bridging-resolution</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/bashi">BASHI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="120">
       <title><fixed-case>E</fixed-case>vent<fixed-case>KE</fixed-case>: Event-Enhanced Knowledge Graph Embedding</title>

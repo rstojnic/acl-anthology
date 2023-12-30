@@ -690,7 +690,7 @@
       <pwccode url="https://github.com/epfml/sent2vec" additional="true">epfml/sent2vec</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="50">
       <title>Learning Domain Representation for Multi-Domain Sentiment Classification</title>
@@ -2814,6 +2814,7 @@
       <url hash="b965d2ff">N18-2001</url>
       <doi>10.18653/v1/N18-2001</doi>
       <bibkey>hou-2018-enhanced</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="2">
       <title>Gender Bias in Coreference Resolution</title>

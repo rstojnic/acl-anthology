@@ -669,7 +669,7 @@
       <doi>10.18653/v1/P19-1048</doi>
       <bibkey>he-etal-2019-interactive</bibkey>
       <pwccode url="https://github.com/lixin4ever/E2E-TBSA" additional="true">lixin4ever/E2E-TBSA</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="49">
       <title>Decompositional Argument Mining: A General Purpose Approach for Argument Graph Construction</title>
@@ -740,7 +740,7 @@
       <doi>10.18653/v1/P19-1053</doi>
       <bibkey>tang-etal-2019-progressive</bibkey>
       <pwccode url="https://github.com/DeepLearnXMU/PSSAttention" additional="false">DeepLearnXMU/PSSAttention</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="54">
       <title>Classification and Clustering of Arguments with Contextualized Word Embeddings</title>
@@ -1025,7 +1025,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/docred">DocRED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bc5cdr">BC5CDR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="75">
       <title><fixed-case>C</fixed-case>h<fixed-case>ID</fixed-case>: A Large-scale <fixed-case>C</fixed-case>hinese <fixed-case>ID</fixed-case>iom Dataset for Cloze Test</title>
@@ -1870,7 +1870,7 @@
       <doi>10.18653/v1/P19-1132</doi>
       <bibkey>wang-etal-2019-extracting</bibkey>
       <pwccode url="https://github.com/helloeve/mre-in-one-pass" additional="false">helloeve/mre-in-one-pass</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="133">
       <title>Unsupervised Information Extraction: Regularizing Discriminative Approaches with Relation Distribution Losses</title>
@@ -3971,7 +3971,7 @@
       <bibkey>baldini-soares-etal-2019-matching</bibkey>
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tacred">TACRED</pwcdataset>
     </paper>
     <paper id="280">
@@ -4629,7 +4629,7 @@
       <url hash="d6644cd7">P19-1327</url>
       <doi>10.18653/v1/P19-1327</doi>
       <bibkey>held-habash-2019-effectiveness</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task 9: Hypernym Discovery</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task-9</pwcdataset>
     </paper>
     <paper id="328">
       <title><fixed-case>BERT</fixed-case>-based Lexical Substitution</title>
@@ -4875,7 +4875,7 @@
       <video tag="video" href="https://vimeo.com/384961759"/>
       <doi>10.18653/v1/P19-1344</doi>
       <bibkey>ma-etal-2019-exploring</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="345">
       <title>Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network</title>
@@ -8158,7 +8158,7 @@
       <video tag="video" href="https://vimeo.com/385434452"/>
       <doi>10.18653/v1/P19-1577</doi>
       <bibkey>loukachevitch-2019-corpus</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task 9: Hypernym Discovery</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task-9</pwcdataset>
     </paper>
     <paper id="578">
       <title>Confusionset-guided Pointer Networks for <fixed-case>C</fixed-case>hinese Spelling Check</title>
@@ -9708,7 +9708,7 @@
       <doi>10.18653/v1/P19-2035</doi>
       <bibkey>bao-etal-2019-attention</bibkey>
       <pwccode url="https://github.com/LingxB/atlx" additional="false">LingxB/atlx</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="36">
       <title>Controllable Text Simplification with Lexical Constraint Loss</title>

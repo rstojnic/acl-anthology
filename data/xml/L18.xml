@@ -553,6 +553,7 @@
       <author><first>Ina</first> <last>Rösiger</last></author>
       <url hash="f04611f1">L18-1058</url>
       <bibkey>rosiger-2018-bashi</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/bashi">BASHI</pwcdataset>
     </paper>
     <paper id="59">
       <title><fixed-case>SACR</fixed-case>: A Drag-and-Drop Based Tool for Coreference Annotation</title>

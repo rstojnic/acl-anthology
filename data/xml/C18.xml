@@ -759,7 +759,7 @@
       <abstract>Aspect-level sentiment analysis aims to distinguish the sentiment polarity of each specific aspect term in a given sentence. Both industry and academia have realized the importance of the relationship between aspect term and sentence, and made attempts to model the relationship by designing a series of attention models. However, most existing methods usually neglect the fact that the position information is also crucial for identifying the sentiment polarity of the aspect term. When an aspect term occurs in a sentence, its neighboring words should be given more attention than other words with long distance. Therefore, we propose a position-aware bidirectional attention network (PBAN) based on bidirectional GRU. PBAN not only concentrates on the position information of aspect terms, but also mutually models the relation between aspect term and sentence by employing bidirectional attention mechanism. The experimental results on SemEval 2014 Datasets demonstrate the effectiveness of our proposed PBAN model.</abstract>
       <url hash="f8fa9ec3">C18-1066</url>
       <bibkey>gu-etal-2018-position</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="67">
       <title>Dynamic Feature Selection with Attention in Incremental Parsing</title>
@@ -1094,7 +1094,7 @@
       <abstract>Aspect-level sentiment classification aims to determine the sentiment polarity of a review sentence towards an opinion target. A sentence could contain multiple sentiment-target pairs; thus the main challenge of this task is to separate different opinion contexts for different targets. To this end, attention mechanism has played an important role in previous state-of-the-art neural models. The mechanism is able to capture the importance of each context word towards a target by modeling their semantic associations. We build upon this line of research and propose two novel approaches for improving the effectiveness of attention. First, we propose a method for target representation that better captures the semantic meaning of the opinion target. Second, we introduce an attention model that incorporates syntactic information into the attention mechanism. We experiment on attention-based LSTM (Long Short-Term Memory) models using the datasets from SemEval 2014, 2015, and 2016. The experimental results show that the conventional attention-based LSTM can be substantially improved by incorporating the two approaches.</abstract>
       <url hash="f78486af">C18-1096</url>
       <bibkey>he-etal-2018-effective</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="97">
       <title>Bringing replication and reproduction together with generalisability in <fixed-case>NLP</fixed-case>: Three reproduction studies for Target Dependent Sentiment Analysis</title>
@@ -1117,7 +1117,7 @@
       <abstract>Rationale-based models provide a unique way to provide justifiable results for relation classification models by identifying rationales (key words and phrases that a person can use to justify the relation in the sentence) during the process. However, existing generative networks used to extract rationales come with a trade-off between extracting diversified rationales and achieving good classification results. In this paper, we propose a multilevel heuristic approach to regulate rationale extraction to avoid extracting monotonous rationales without compromising classification performance. In our model, rationale selection is regularized by a semi-supervised process and features from different levels: word, syntax, sentence, and corpus. We evaluate our approach on the SemEval 2010 dataset that includes 19 relation classes and the quality of extracted rationales with our manually-labeled rationales. Experiments show a significant improvement in classification performance and a 20% gain in rationale interpretability compared to state-of-the-art approaches.</abstract>
       <url hash="65c8ed57">C18-1098</url>
       <bibkey>hsu-etal-2018-multilevel</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="99">
       <title>Adversarial Multi-lingual Neural Relation Extraction</title>
@@ -2426,7 +2426,7 @@
       <abstract>This paper proposes a simple CNN model for creating general-purpose sentence embeddings that can transfer easily across domains and can also act as effective initialization for downstream tasks. Recently, averaging the embeddings of words in a sentence has proven to be a surprisingly successful and efficient way of obtaining sentence embeddings. However, these models represent a sentence, only in terms of features of words or uni-grams in it. In contrast, our model (CSE) utilizes both features of words and n-grams to encode sentences, which is actually a generalization of these bag-of-words models. The extensive experiments demonstrate that CSE performs better than average models in transfer learning setting and exceeds the state of the art in supervised learning setting by initializing the parameters with the pre-trained sentence embeddings.</abstract>
       <url hash="89f98abd">C18-1209</url>
       <bibkey>jiao-etal-2018-convolutional</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="210">
       <title>Rich Character-Level Information for <fixed-case>K</fixed-case>orean Morphological Analysis and Part-of-Speech Tagging</title>
@@ -3432,6 +3432,8 @@
       <abstract>Recent work on bridging resolution has so far been based on the corpus ISNotes (Markert et al. 2012), as this was the only corpus available with unrestricted bridging annotation. Hou et al. 2014’s rule-based system currently achieves state-of-the-art performance on this corpus, as learning-based approaches suffer from the lack of available training data. Recently, a number of new corpora with bridging annotations have become available. To test the generalisability of the approach by Hou et al. 2014, we apply a slightly extended rule-based system to these corpora. Besides the expected out-of-domain effects, we also observe low performance on some of the in-domain corpora. Our analysis shows that this is the result of two very different phenomena being defined as bridging, namely referential and lexical bridging. We also report that filtering out gold or predicted coreferent anaphors before applying the bridging resolution system helps improve bridging resolution.</abstract>
       <url hash="d673c42e">C18-1298</url>
       <bibkey>roesiger-etal-2018-bridging</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/bashi">BASHI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/isnotes">ISNotes</pwcdataset>
     </paper>
     <paper id="299">
       <title>Semi-Supervised Disfluency Detection</title>
@@ -3795,7 +3797,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pit">PIT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/trecqa">TrecQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikiqa">WikiQA</pwcdataset>
     </paper>

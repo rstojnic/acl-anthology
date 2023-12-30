@@ -816,7 +816,7 @@
       <url hash="fb311513">P16-1072</url>
       <doi>10.18653/v1/P16-1072</doi>
       <bibkey>cai-etal-2016-bidirectional</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="73">
       <title>Sentence Rewriting for Semantic Parsing</title>
@@ -1381,7 +1381,7 @@
       <url hash="fcc5ed4f">P16-1123</url>
       <doi>10.18653/v1/P16-1123</doi>
       <bibkey>wang-etal-2016-relation</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="124">
       <title>Knowledge Base Completion via Coupled Path Ranking</title>
@@ -2435,7 +2435,7 @@
       <bibkey>takase-etal-2016-composing</bibkey>
       <pwccode url="https://github.com/takase/relPatSim" additional="false">takase/relPatSim</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/relational-pattern-similarity-dataset">Relational Pattern Similarity Dataset</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="216">
       <title>The More Antecedents, the Merrier: Resolving Multi-Antecedent Anaphors</title>
@@ -3010,7 +3010,7 @@
       <url hash="763a89bc">P16-2034</url>
       <doi>10.18653/v1/P16-2034</doi>
       <bibkey>zhou-etal-2016-attention</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="35">
       <title>The red one!: On learning to refer to things based on discriminative properties</title>

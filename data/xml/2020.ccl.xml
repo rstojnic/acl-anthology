@@ -402,7 +402,7 @@
       <url hash="e4f33983">2020.ccl-1.33</url>
       <language>zho</language>
       <bibkey>xia-etal-2020-ji</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="34">
       <title>小样本关系分类研究综述(Few-Shot Relation Classification: A Survey)</title>

@@ -299,7 +299,7 @@
       <url hash="ca51d6c8">S14-2004</url>
       <doi>10.3115/v1/S14-2004</doi>
       <bibkey>pontiki-etal-2014-semeval</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval 2014 Task 4 Sub Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="5">
       <title><fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val 2014 Task 5 - <fixed-case>L</fixed-case>2 Writing Assistant</title>
@@ -359,7 +359,7 @@
       <doi>10.3115/v1/S14-2009</doi>
       <bibkey>rosenthal-etal-2014-semeval</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013-task-2">SemEval-2013 Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013-task-2">SemEval-2013 Task-2</pwcdataset>
     </paper>
     <paper id="10">
       <title><fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2014 Task 10: Multilingual Semantic Textual Similarity</title>
@@ -377,7 +377,7 @@
       <url hash="684c01b9">S14-2010</url>
       <doi>10.3115/v1/S14-2010</doi>
       <bibkey>agirre-etal-2014-semeval</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="11">
       <title><fixed-case>AI</fixed-case>-<fixed-case>KU</fixed-case>: Using Co-Occurrence Modeling for Semantic Similarity</title>
@@ -694,7 +694,7 @@
       <url hash="2cc9c723">S14-2039</url>
       <doi>10.3115/v1/S14-2039</doi>
       <bibkey>sultan-etal-2014-dls</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="40">
       <title><fixed-case>D</fixed-case>uluth : Measuring Cross-Level Semantic Similarity with First and Second Order Dictionary Overlaps</title>
@@ -1494,7 +1494,7 @@
       <url hash="ec538d07">S14-2115</url>
       <doi>10.3115/v1/S14-2115</doi>
       <bibkey>dos-santos-2014-think</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013-task-2">SemEval-2013 Task 2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013-task-2">SemEval-2013 Task-2</pwcdataset>
     </paper>
     <paper id="116">
       <title><fixed-case>T</fixed-case>hink<fixed-case>M</fixed-case>iners: Disorder Recognition using Conditional Random Fields and Distributional Semantics</title>

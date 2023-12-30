@@ -723,7 +723,7 @@
       <url hash="ea24391b">N16-1065</url>
       <doi>10.18653/v1/N16-1065</doi>
       <bibkey>vu-etal-2016-combining</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="66">
       <title>Building <fixed-case>C</fixed-case>hinese Affective Resources in Valence-Arousal Dimensions</title>
@@ -1185,7 +1185,7 @@
       <url hash="c67eb1f2">N16-1108</url>
       <doi>10.18653/v1/N16-1108</doi>
       <bibkey>he-lin-2016-pairwise</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/trecqa">TrecQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikiqa">WikiQA</pwcdataset>
     </paper>
@@ -1788,8 +1788,8 @@
       <bibkey>hill-etal-2016-learning</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/subj">SUBJ</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="163">
       <title>Retrofitting Sense-Specific Word Vectors Using Parallel Text</title>

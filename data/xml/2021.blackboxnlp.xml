@@ -258,7 +258,7 @@
       <abstract>The high performance of large pretrained language models (LLMs) such as BERT on NLP tasks has prompted questions about BERT’s linguistic capabilities, and how they differ from humans’. In this paper, we approach this question by examining BERT’s knowledge of lexical semantic relations. We focus on hypernymy, the “is-a” relation that relates a word to a superordinate category. We use a prompting methodology to simply ask BERT what the hypernym of a given word is. We find that, in a setting where all hypernyms are guessable via prompting, BERT knows hypernyms with up to 57% accuracy. Moreover, BERT with prompting outperforms other unsupervised models for hypernym discovery even in an unconstrained scenario. However, BERT’s predictions and performance on a dataset containing uncommon hyponyms and hypernyms indicate that its knowledge of hypernymy is still limited.</abstract>
       <url hash="dcd6a6db">2021.blackboxnlp-1.20</url>
       <bibkey>hanna-marecek-2021-analyzing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task 9: Hypernym Discovery</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task-9</pwcdataset>
     </paper>
     <paper id="21">
       <title>An in-depth look at <fixed-case>E</fixed-case>uclidean disk embeddings for structure preserving parsing</title>
@@ -367,7 +367,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task 8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
     </paper>
     <paper id="30">
       <title>Learning Mathematical Properties of Integers</title>

@@ -1049,7 +1049,7 @@
       <url hash="bc2aec7f">S16-1096</url>
       <doi>10.18653/v1/S16-1096</doi>
       <bibkey>bechara-etal-2016-wolvesaar</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="97">
       <title><fixed-case>DTS</fixed-case>im at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2016 Task 1: Semantic Similarity Model Including Multi-Level Alignment and Vector-Based Compositional Semantics</title>
@@ -1140,7 +1140,7 @@
       <url hash="2b0a5b6d">S16-1105</url>
       <doi>10.18653/v1/S16-1105</doi>
       <bibkey>wu-etal-2016-bit</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">STS 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="106">
       <title><fixed-case>RICOH</fixed-case> at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2016 Task 1: <fixed-case>IR</fixed-case>-based Semantic Textual Similarity Estimation</title>
