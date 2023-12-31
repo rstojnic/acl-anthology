@@ -3054,7 +3054,6 @@
       <doi>10.18653/v1/P16-2038</doi>
       <bibkey>sogaard-goldberg-2016-deep</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ccgbank">CCGbank</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="39">
       <title>Domain Specific Named Entity Recognition Referring to the Real World by Deep Neural Networks</title>

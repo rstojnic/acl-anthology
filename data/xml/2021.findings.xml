@@ -448,7 +448,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03bd4c14">2021.findings-acl.32.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.32</doi>
       <bibkey>gritta-iacobacci-2021-xeroalign</bibkey>
-      <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/xero_align" additional="true">huawei-noah/noah-research</pwccode>
+      <pwccode url="https://github.com/huawei-noah/noah-research" additional="true">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
@@ -750,8 +750,7 @@
       <bibkey>lal-etal-2021-tellmewhy</bibkey>
       <revision id="1" href="2021.findings-acl.53v1" hash="0288b199"/>
       <revision id="2" href="2021.findings-acl.53v2" hash="8940e02d" date="2021-09-21">minor fixes in table 4 and figure 3</revision>
-      <pwcdataset url="https://paperswithcode.com/dataset/narrativeqa">NarrativeQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/rocstories">ROCStories</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/tellmewhy">TellMeWhy</pwcdataset>
     </paper>
     <paper id="54">
       <title>Dialogue in the Wild: Learning from a Deployed Role-Playing Game with Humans and Bots</title>
@@ -1840,7 +1839,7 @@
       <url hash="4c8012e1">2021.findings-acl.131</url>
       <doi>10.18653/v1/2021.findings-acl.131</doi>
       <bibkey>lin-etal-2021-riddlesense</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/riddle-sense">Riddle Sense</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/riddle-sense">RiddleSense</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
     </paper>
@@ -11627,6 +11626,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/winogrande">WinoGrande</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/winowhy">WinoWhy</pwcdataset>
     </paper>
     <paper id="421">
       <title>Does Putting a Linguist in the Loop Improve <fixed-case>NLU</fixed-case> Data Collection?</title>

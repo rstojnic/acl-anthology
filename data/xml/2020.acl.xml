@@ -2818,6 +2818,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/oie2016">OIE2016</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="193">
       <title>Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling</title>
@@ -7532,9 +7533,7 @@
       <video tag="video" href="http://slideslive.com/38928876"/>
       <bibkey>zhang-etal-2020-winowhy</bibkey>
       <pwccode url="https://github.com/HKUST-KnowComp/WinoWhy" additional="false">HKUST-KnowComp/WinoWhy</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/winogrande">WinoGrande</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/winowhy">WinoWhy</pwcdataset>
     </paper>
     <paper id="509">
       <title>Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity</title>
@@ -8186,7 +8185,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi-news">Multi-News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/reddit">Reddit</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reddit-tifu">Reddit TIFU</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
     </paper>
@@ -9363,6 +9361,7 @@
       <doi>10.18653/v1/2020.acl-main.631</doi>
       <video tag="video" href="http://slideslive.com/38928808"/>
       <bibkey>li-etal-2020-conditional</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="632">
       <title>Exploiting Personal Characteristics of Debaters for Predicting Persuasiveness</title>

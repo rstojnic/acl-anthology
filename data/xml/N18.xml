@@ -690,7 +690,6 @@
       <pwccode url="https://github.com/epfml/sent2vec" additional="true">epfml/sent2vec</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="50">
       <title>Learning Domain Representation for Multi-Domain Sentiment Classification</title>
@@ -2305,7 +2304,6 @@
       <bibkey>li-etal-2018-delete</bibkey>
       <pwccode url="https://github.com/lijuncen/Sentiment-and-Style-Transfer" additional="true">lijuncen/Sentiment-and-Style-Transfer</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/gyafc">GYAFC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/yelp2018">Yelp2018</pwcdataset>
     </paper>
     <paper id="170">
       <title>Adversarial Example Generation with Syntactically Controlled Paraphrase Networks</title>

@@ -2983,6 +2983,7 @@
       <bibkey>kim-etal-2021-self</bibkey>
       <pwccode url="https://github.com/galsang/SG-BERT" additional="false">galsang/SG-BERT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="198">
@@ -3189,7 +3190,6 @@
       <bibkey>yang-etal-2021-neural</bibkey>
       <pwccode url="https://github.com/sustcsonglin/TN-PCFG" additional="false">sustcsonglin/TN-PCFG</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ptb">PTB Diagnostic ECG Database</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="210">
       <title>Ruddit: <fixed-case>N</fixed-case>orms of Offensiveness for <fixed-case>E</fixed-case>nglish <fixed-case>R</fixed-case>eddit Comments</title>
@@ -4032,7 +4032,7 @@
       <bibkey>barnes-etal-2021-structured</bibkey>
       <pwccode url="https://github.com/jerbarnes/sentiment_graphs" additional="true">jerbarnes/sentiment_graphs</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC_fine</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC (fine-grained)</pwcdataset>
     </paper>
     <paper id="264">
       <title>Consistency Regularization for Cross-Lingual Fine-Tuning</title>
@@ -6791,6 +6791,7 @@
       <url hash="ae4b801b">2021.acl-long.447</url>
       <doi>10.18653/v1/2021.acl-long.447</doi>
       <bibkey>zhao-etal-2021-closer</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/marc">MARC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mldoc">MLDoc</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
@@ -7130,6 +7131,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/jfleg">JFLEG</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/piqa">PIQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/winowhy">WinoWhy</pwcdataset>
     </paper>
     <paper id="470">
       <title>Long-Span Summarization via Local Attention and Content Selection</title>
@@ -9695,7 +9697,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
     </paper>
     <paper id="74">
@@ -10152,6 +10153,7 @@
       <url hash="f88c733a">2021.acl-short.106</url>
       <doi>10.18653/v1/2021.acl-short.106</doi>
       <bibkey>castellucci-etal-2021-learning</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/marc">MARC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
     </paper>
     <paper id="107">

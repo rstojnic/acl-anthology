@@ -1952,7 +1952,6 @@
       <pages>1983–1995</pages>
       <url hash="bb447dab">D13-1204</url>
       <bibkey>spitkovsky-etal-2013-breaking</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="205">
       <title>Cross-Lingual Discriminative Learning of Sequence Models with Posterior Regularization</title>

@@ -7744,7 +7744,7 @@
       <language>eng</language>
       <bibkey>ovrelid-etal-2020-fine</bibkey>
       <pwccode url="https://github.com/ltgoslo/norec_fine" additional="false">ltgoslo/norec_fine</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC_fine</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC (fine-grained)</pwcdataset>
     </paper>
     <paper id="619">
       <title>The Design and Construction of a <fixed-case>C</fixed-case>hinese Sarcasm Dataset</title>

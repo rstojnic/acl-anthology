@@ -1384,6 +1384,7 @@
       <abstract>Aspect extraction is a widely researched field of natural language processing in which aspects are identified from the text as a means for information. For example, in aspect-based sentiment analysis (ABSA), aspects need to be first identified. Previous studies have introduced various approaches to increasing accuracy, although leaving room for further improvement. In a practical situation where the examined dataset is lacking labels, to fine-tune the process a novel unsupervised approach is proposed, combining a lexical rule-based approach with coreference resolution. The model increases accuracy through the recognition and removal of coreferring aspects. Experimental evaluations are performed on two benchmark datasets, demonstrating the greater performance of our approach to extracting coherent aspects through outperforming the baseline approaches.</abstract>
       <url hash="96563206">2020.aacl-srw.18</url>
       <bibkey>mai-zhang-2020-aspect</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="19">
       <title><fixed-case>GRUBERT</fixed-case>: A <fixed-case>GRU</fixed-case>-Based Method to Fuse <fixed-case>BERT</fixed-case> Hidden Layers for <fixed-case>T</fixed-case>witter Sentiment Analysis</title>

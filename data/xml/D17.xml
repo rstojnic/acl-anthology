@@ -2625,7 +2625,6 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <abstract>Transfer and multi-task learning have traditionally focused on either a single source-target pair or very few, similar tasks. Ideally, the linguistic levels of morphology, syntax and semantics would benefit each other by being trained in a single model. We introduce a joint many-task model together with a strategy for successively growing its depth to solve increasingly complex tasks. Higher layers include shortcut connections to lower-level task predictions to reflect linguistic hierarchies. We use a simple regularization term to allow for optimizing all model weights to improve one task’s loss without exhibiting catastrophic interference of the other tasks. Our single end-to-end model obtains state-of-the-art or competitive results on five different tasks from tagging, parsing, relatedness, and entailment tasks.</abstract>
       <bibkey>hashimoto-etal-2017-joint</bibkey>
       <pwccode url="https://github.com/hassyGo/charNgram2vec" additional="true">hassyGo/charNgram2vec</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="207">
       <title>Earth Mover’s Distance Minimization for Unsupervised Bilingual Lexicon Induction</title>
@@ -3886,7 +3885,6 @@ and <i>efficiency</i> of on-line policy optimization compared to other companion
       <video href="https://vimeo.com/238233708" tag="video"/>
       <bibkey>gella-etal-2017-image</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="304">
       <title>Neural Machine Translation with Source Dependency Representation</title>

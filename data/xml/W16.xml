@@ -1759,7 +1759,6 @@
       <url hash="ae2a0c24">W16-1201</url>
       <doi>10.18653/v1/W16-1201</doi>
       <bibkey>aldarmaki-diab-2016-learning</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="2">
       <title>Should Have, Would Have, Could Have. Investigating Verb Group Representations for Parsing with <fixed-case>U</fixed-case>niversal <fixed-case>D</fixed-case>ependencies.</title>

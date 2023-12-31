@@ -69,6 +69,7 @@
       <video href="https://vimeo.com/305203914" tag="video"/>
       <doi>10.18653/v1/D18-1004</doi>
       <bibkey>wang-jurgens-2018-going</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/social-support">Social Support</pwcdataset>
     </paper>
     <paper id="5">
       <title>Detecting Gang-Involved Escalation on Social Media Using Context</title>

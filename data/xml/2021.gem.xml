@@ -201,7 +201,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/e2e">E2E</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlsum">MLSUM</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sgd">SGD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/totto">ToTTo</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/turkcorpus">TurkCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>

@@ -943,6 +943,7 @@
       <doi>10.18653/v1/2020.coling-main.70</doi>
       <bibkey>zhao-etal-2020-attention</bibkey>
       <pwccode url="https://github.com/1429904852/ATN" additional="false">1429904852/ATN</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="71">
       <title>Label Correction Model for Aspect-based Sentiment Analysis</title>
@@ -982,6 +983,7 @@
       <bibkey>yang-etal-2020-constituency</bibkey>
       <pwccode url="https://github.com/leekum2018/cle4ate" additional="false">leekum2018/cle4ate</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="74">
       <title>A Corpus for Argumentative Writing Support in <fixed-case>G</fixed-case>erman</title>
@@ -7720,7 +7722,7 @@
       <doi>10.18653/v1/2020.coling-main.579</doi>
       <bibkey>caswell-etal-2020-language</bibkey>
       <pwccode url="https://github.com/google-research-datasets/TF-IDF-IIF-top100-wordlists" additional="false">google-research-datasets/TF-IDF-IIF-top100-wordlists</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/ccnet">CCNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/lti-langid-corpus">LTI LangID Corpus</pwcdataset>
     </paper>
     <paper id="580">
       <title>Constructing A Multi-hop <fixed-case>QA</fixed-case> Dataset for Comprehensive Evaluation of Reasoning Steps</title>

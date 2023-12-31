@@ -1185,7 +1185,6 @@
       <url hash="c67eb1f2">N16-1108</url>
       <doi>10.18653/v1/N16-1108</doi>
       <bibkey>he-lin-2016-pairwise</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/trecqa">TrecQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikiqa">WikiQA</pwcdataset>
     </paper>
@@ -1789,7 +1788,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/subj">SUBJ</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="163">
       <title>Retrofitting Sense-Specific Word Vectors Using Parallel Text</title>

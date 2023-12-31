@@ -1218,6 +1218,7 @@
       <url hash="11c9ee64">K19-1091</url>
       <doi>10.18653/v1/K19-1091</doi>
       <bibkey>hu-etal-2019-learning</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="92">
       <title>Multi-Level Sentiment Analysis of <fixed-case>P</fixed-case>ol<fixed-case>E</fixed-case>mo 2.0: Extended Corpus of Multi-Domain Consumer Reviews</title>

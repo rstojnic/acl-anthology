@@ -1044,6 +1044,7 @@
       <url hash="5d10f530">E17-1094</url>
       <abstract>We consider entity-level sentiment analysis in Arabic, a morphologically rich language with increasing resources. We present a system that is applied to complex posts written in response to Arabic newspaper articles. Our goal is to identify important entity “targets” within the post along with the polarity expressed about each target. We achieve significant improvements over multiple baselines, demonstrating that the use of specific morphological representations improves the performance of identifying both important targets and their sentiment, and that the use of distributional semantic clusters further boosts performances for these representations, especially when richer linguistic resources are not available.</abstract>
       <bibkey>farra-mckeown-2017-smarties</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="95">
       <title>Exploring Convolutional Neural Networks for Sentiment Analysis of <fixed-case>S</fixed-case>panish tweets</title>

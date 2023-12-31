@@ -1781,6 +1781,7 @@
       <url hash="948705cf">S18-1149</url>
       <doi>10.18653/v1/S18-1149</doi>
       <bibkey>hassan-etal-2018-umduluth</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2018-task-9-hypernym-discovery">SemEval-2018 Task-9</pwcdataset>
     </paper>
     <paper id="150">
       <title><fixed-case>EXPR</fixed-case> at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2018 Task 9: A Combined Approach for Hypernym Discovery</title>

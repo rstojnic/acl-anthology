@@ -748,6 +748,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.52</doi>
       <bibkey>meng-etal-2020-structure</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="53">
       <title><fixed-case>PB</fixed-case>o<fixed-case>S</fixed-case>: Probabilistic Bag-of-Subwords for Generalizing Word Embedding</title>
@@ -4607,9 +4608,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.311</doi>
       <bibkey>li-etal-2020-unqovering</bibkey>
       <pwccode url="https://github.com/allenai/unqover" additional="false">allenai/unqover</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/newsqa">NewsQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/stereoset">StereoSet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/unqover">UnQover</pwcdataset>
     </paper>
     <paper id="312">
       <title>A Semantics-based Approach to Disclosure Classification in User-Generated Online Content</title>

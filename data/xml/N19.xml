@@ -490,6 +490,7 @@
       <doi>10.18653/v1/N19-1035</doi>
       <bibkey>sun-etal-2019-utilizing</bibkey>
       <pwccode url="https://github.com/HSLCY/ABSA-BERT-pair" additional="true">HSLCY/ABSA-BERT-pair</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="36">
       <title>A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification</title>
@@ -1738,7 +1739,6 @@
       <doi>10.18653/v1/N19-1125</doi>
       <video href="https://vimeo.com/360643280" tag="video"/>
       <bibkey>gao-etal-2019-jointly</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/reddit">Reddit</pwcdataset>
     </paper>
     <paper id="126">
       <title><fixed-case>D</fixed-case>isentangling <fixed-case>L</fixed-case>anguage and <fixed-case>K</fixed-case>nowledge in <fixed-case>T</fixed-case>ask-<fixed-case>O</fixed-case>riented <fixed-case>D</fixed-case>ialogs</title>

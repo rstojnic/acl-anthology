@@ -324,6 +324,7 @@
       <abstract>Aspect term extraction aims to extract aspect terms from a review sentence that users have expressed opinions on. One of the remaining challenges for aspect term extraction resides in the lack of sufficient annotated data. While self-training is potentially an effective method to address this issue, the pseudo-labels it yields on unlabeled data could induce noise. In this paper, we use two means to alleviate the noise in the pseudo-labels. One is that inspired by the curriculum learning, we refine the conventional self-training to progressive self-training. Specifically, the base model infers pseudo-labels on a progressive subset at each iteration, where samples in the subset become harder and more numerous as the iteration proceeds. The other is that we use a discriminator to filter the noisy pseudo-labels. Experimental results on four SemEval datasets show that our model significantly outperforms the previous baselines and achieves state-of-the-art performance.</abstract>
       <url hash="9ceb2642">2021.emnlp-main.23</url>
       <bibkey>wang-etal-2021-progressive</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="24">
       <title>Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification</title>
@@ -4248,6 +4249,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/winogrande">WinoGrande</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/winowhy">WinoWhy</pwcdataset>
     </paper>
     <paper id="308">
       <title>Pseudo Zero Pronoun Resolution Improves Zero Anaphora Resolution</title>
@@ -6414,7 +6416,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/reddit">Reddit</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reddit-tifu">Reddit TIFU</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -9145,6 +9146,7 @@
       <abstract>Large scale multilingual pre-trained language models have shown promising results in zero- and few-shot cross-lingual tasks. However, recent studies have shown their lack of generalizability when the languages are structurally dissimilar. In this work, we propose a novel fine-tuning method based on co-training that aims to learn more generalized semantic equivalences as a complementary to multilingual language modeling using the unlabeled data in the target language. We also propose an adaption method based on contrastive learning to better capture the semantic relationship in the parallel data, when a few translation pairs are available. To show our method’s effectiveness, we conduct extensive experiments on cross-lingual inference and review classification tasks across various languages. We report significant gains compared to directly fine-tuning multilingual pre-trained models and other semi-supervised alternatives.</abstract>
       <url hash="ee99e4db">2021.emnlp-main.668</url>
       <bibkey>yu-joty-2021-effective</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/marc">MARC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
     <paper id="669">
@@ -9169,7 +9171,7 @@
       <attachment type="Software" hash="837e5225">2021.emnlp-main.670.Software.zip</attachment>
       <bibkey>emelin-sennrich-2021-wino</bibkey>
       <pwccode url="https://github.com/demelin/wino-x" additional="false">demelin/wino-x</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/winogrande">WinoGrande</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wino-x">Wino-X</pwcdataset>
     </paper>
     <paper id="671">
       <title>One Source, Two Targets: <fixed-case>C</fixed-case>hallenges and Rewards of Dual Decoding</title>
@@ -9925,6 +9927,7 @@
       <abstract>Graph-based Aspect-based Sentiment Classification (ABSC) approaches have yielded state-of-the-art results, expecially when equipped with contextual word embedding from pre-training language models (PLMs). However, they ignore sequential features of the context and have not yet made the best of PLMs. In this paper, we propose a novel model, BERT4GCN, which integrates the grammatical sequential features from the PLM of BERT, and the syntactic knowledge from dependency graphs. BERT4GCN utilizes outputs from intermediate layers of BERT and positional information between words to augment GCN (Graph Convolutional Network) to better encode the dependency graphs for the downstream classification. Experimental results demonstrate that the proposed BERT4GCN outperforms all state-of-the-art baselines, justifying that augmenting GCN with the grammatical features from intermediate layers of BERT can significantly empower ABSC models.</abstract>
       <url hash="3b6f6e0c">2021.emnlp-main.724</url>
       <bibkey>xiao-etal-2021-bert4gcn</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="725">
       <title>Does Social Pressure Drive Persuasion in Online Fora?</title>
@@ -10137,6 +10140,7 @@
       <bibkey>salemi-etal-2021-arman</bibkey>
       <pwccode url="https://github.com/alirezasalemi7/arman" additional="false">alirezasalemi7/arman</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cc100">CC100</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/parsinlu">ParsiNLU</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/perkey">PerKey</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pn-summary">pn-summary</pwcdataset>
     </paper>

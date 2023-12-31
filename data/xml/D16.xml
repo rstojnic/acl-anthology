@@ -1863,7 +1863,6 @@
       <doi>10.18653/v1/D16-1157</doi>
       <attachment type="attachment" hash="cd611ab1">D16-1157.Attachment.zip</attachment>
       <bibkey>wieting-etal-2016-charagram</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="158">
       <title>Length bias in Encoder Decoder Models and a Case for Global Conditioning</title>

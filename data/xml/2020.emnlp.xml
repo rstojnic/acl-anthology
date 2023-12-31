@@ -5514,6 +5514,7 @@
       <doi>10.18653/v1/2020.emnlp-main.369</doi>
       <video tag="video" href="https://slideslive.com/38938794"/>
       <bibkey>keung-etal-2020-multilingual</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/marc">MARC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/amazon-product-data">Amazon Product Data</pwcdataset>
     </paper>
     <paper id="370">
@@ -5903,7 +5904,6 @@
       <video tag="video" href="https://slideslive.com/38939296"/>
       <bibkey>drozdov-etal-2020-unsupervised</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ptb">PTB Diagnostic ECG Database</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="393">
       <title>Utility is in the Eye of the User: A Critique of <fixed-case>NLP</fixed-case> Leaderboards</title>
@@ -8517,6 +8517,7 @@
       <video tag="video" href="https://slideslive.com/38938865"/>
       <bibkey>dai-etal-2020-multi</bibkey>
       <pwccode url="https://github.com/flak300S/emnlp2020_CNE-net" additional="false">flak300S/emnlp2020_CNE-net</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="566">
       <title>Train No Evil: Selective Masking for Task-Guided Pre-Training</title>
@@ -8989,7 +8990,6 @@
       <video tag="video" href="https://slideslive.com/38939108"/>
       <bibkey>galkin-etal-2020-message</bibkey>
       <pwccode url="https://github.com/migalkin/StarE" additional="false">migalkin/StarE</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wd50k">WD50K</pwcdataset>
     </paper>
     <paper id="597">
       <title>Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations</title>

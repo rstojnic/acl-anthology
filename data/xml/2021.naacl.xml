@@ -589,7 +589,6 @@
       <pwccode url="https://github.com/google-research/multilingual-t5" additional="true">google-research/multilingual-t5</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mc4">mC4</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/c4">C4</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/danetqa">DaNetQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/lidirus">LiDiRus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/muserc">MuSeRC</pwcdataset>
@@ -617,6 +616,7 @@
       <doi>10.18653/v1/2021.naacl-main.42</doi>
       <bibkey>xia-etal-2021-metaxl</bibkey>
       <pwccode url="https://github.com/microsoft/MetaXL" additional="true">microsoft/MetaXL</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/marc">MARC</pwcdataset>
     </paper>
     <paper id="43">
       <title>Open Domain Question Answering over Tables via Dense Retrieval</title>
@@ -668,7 +668,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/riddle-sense">Riddle Sense</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/riddle-sense">RiddleSense</pwcdataset>
     </paper>
     <paper id="46">
       <title><fixed-case>XOR</fixed-case> <fixed-case>QA</fixed-case>: Cross-lingual Open-Retrieval Question Answering</title>
@@ -1708,7 +1708,6 @@
       <bibkey>yang-etal-2021-pcfgs</bibkey>
       <pwccode url="https://github.com/sustcsonglin/TN-PCFG" additional="false">sustcsonglin/TN-PCFG</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ptb">PTB Diagnostic ECG Database</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="118">
       <title><fixed-case>GEMNET</fixed-case>: Effective Gated Gazetteer Representations for Recognizing Complex Entities in Low-context Input</title>

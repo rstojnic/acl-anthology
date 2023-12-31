@@ -62,7 +62,7 @@
       <url hash="a9eecc98">2021.nodalida-main.4</url>
       <bibkey>kutuzov-etal-2021-large</bibkey>
       <pwccode url="https://github.com/ltgoslo/NorBERT" additional="true">ltgoslo/NorBERT</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC_fine</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC (fine-grained)</pwcdataset>
     </paper>
     <paper id="5">
       <title>Extremely low-resource machine translation for closely related languages</title>
@@ -354,7 +354,7 @@
       <bibkey>maehlum-etal-2021-negation</bibkey>
       <pwccode url="https://github.com/ltgoslo/norec_neg" additional="false">ltgoslo/norec_neg</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/norec">NoReC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC_fine</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC (fine-grained)</pwcdataset>
     </paper>
     <paper id="31">
       <title>What Taggers Fail to Learn, Parsers Need the Most</title>
@@ -628,6 +628,7 @@
       <abstract>We present an open-source toolkit for Danish Natural Language Processing, enabling easy access to Danish NLP’s latest advancements. The toolkit features wrapper-functions for loading models and datasets in a unified way using third-party NLP frameworks. The toolkit is developed to enhance community building, understanding the need from industry and knowledge sharing. As an example of this, we present Angry Tweets: An Annotation Game to create awareness of Danish NLP and create a new sentiment-annotated dataset.</abstract>
       <url hash="92f983af">2021.nodalida-main.53</url>
       <bibkey>pauli-etal-2021-danlp</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/angry-tweets">Angry Tweets</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dane">DaNE</pwcdataset>
     </paper>
     <paper id="54">

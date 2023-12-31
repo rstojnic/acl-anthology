@@ -3042,6 +3042,7 @@
       <attachment type="presentation" hash="5ad40b45">P18-1202.Presentation.pdf</attachment>
       <doi>10.18653/v1/P18-1202</doi>
       <bibkey>wang-pan-2018-recursive</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
     </paper>
     <paper id="203">
       <title><fixed-case>D</fixed-case>eep <fixed-case>D</fixed-case>yna-<fixed-case>Q</fixed-case>: Integrating Planning for Task-Completion Dialogue Policy Learning</title>
@@ -5007,7 +5008,6 @@
       <bibkey>torki-2018-document</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
     </paper>
     <paper id="85">
       <title>Learning with Structured Representations for Negation Scope Extraction</title>
