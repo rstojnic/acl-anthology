@@ -6300,6 +6300,7 @@
       <doi>10.18653/v1/2020.coling-main.472</doi>
       <bibkey>park-caragea-2020-scientific</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval2017">SemEval-2017 Task-10</pwcdataset>
     </paper>
     <paper id="473">
       <title>Exploiting Microblog Conversation Structures to Detect Rumors</title>

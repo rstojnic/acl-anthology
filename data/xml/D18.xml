@@ -1045,7 +1045,6 @@
       <doi>10.18653/v1/D18-1075</doi>
       <bibkey>luo-etal-2018-auto</bibkey>
       <pwccode url="https://github.com/lancopku/AMM" additional="false">lancopku/AMM</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
     </paper>
     <paper id="76">
       <title>A Dataset for Document Grounded Conversations</title>
@@ -4963,6 +4962,7 @@
       <bibkey>luan-etal-2018-multi</bibkey>
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/scierc">SciERC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval2017">SemEval-2017 Task-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semantic-scholar">Semantic Scholar</pwcdataset>
     </paper>
     <paper id="361">
@@ -6926,6 +6926,7 @@
       <video href="https://vimeo.com/306154470" tag="video"/>
       <doi>10.18653/v1/D18-1501</doi>
       <bibkey>white-etal-2018-lexicosyntactic</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/megaveridicality">MegaVeridicality</pwcdataset>
     </paper>
     <paper id="502">
       <title>Dual Fixed-Size Ordinally Forgetting Encoding (<fixed-case>FOFE</fixed-case>) for Competitive Neural Language Models</title>

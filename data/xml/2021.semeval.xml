@@ -776,6 +776,7 @@
       <url hash="4963cbad">2021.semeval-1.60</url>
       <doi>10.18653/v1/2021.semeval-1.60</doi>
       <bibkey>martin-pedersen-2021-duluth</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval2017">SemEval-2017 Task-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semeval-2021-task-11-nlpcontributiongraph">SemEval-2021 Task-11</pwcdataset>
     </paper>
     <paper id="61">

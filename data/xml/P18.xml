@@ -3216,7 +3216,6 @@
       <doi>10.18653/v1/P18-1213</doi>
       <bibkey>rashkin-etal-2018-modeling</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/story-commonsense">Story Commonsense</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/rocstories">ROCStories</pwcdataset>
     </paper>
     <paper id="214">
       <title>A Deep Relevance Model for Zero-Shot Document Filtering</title>

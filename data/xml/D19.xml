@@ -4153,8 +4153,8 @@
       <doi>10.18653/v1/D19-1298</doi>
       <bibkey>xiao-carenini-2019-extractive</bibkey>
       <pwccode url="https://github.com/Wendy-Xiao/Extsumm_local_global_context" additional="false">Wendy-Xiao/Extsumm_local_global_context</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/arxiv">Arxiv HEP-TH citation graph</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arxiv">arXiv</pwcdataset>
     </paper>
     <paper id="299">
       <title>Enhancing Neural Data-To-Text Generation Models with External Background Knowledge</title>

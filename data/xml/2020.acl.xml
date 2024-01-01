@@ -486,8 +486,6 @@
       <doi>10.18653/v1/2020.acl-main.32</doi>
       <video tag="video" href="http://slideslive.com/38928999"/>
       <bibkey>wang-etal-2020-neural-topic</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/20-newsgroups">20 Newsgroups</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/covid-19-twitter-chatter-dataset">COVID-19 Twitter Chatter Dataset</pwcdataset>
     </paper>
     <paper id="33">
       <title>Text Classification with Negative Supervision</title>
@@ -1626,6 +1624,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/klej">KLEJ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/opensubtitles">OpenSubtitles</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/psc">PSC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/polemo-2-0">PolEmo 2.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="112">
@@ -2772,6 +2772,7 @@
       <bibkey>brantley-etal-2020-active</bibkey>
       <pwccode url="https://github.com/xkianteb/leaqi" additional="false">xkianteb/leaqi</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval2017">SemEval-2017 Task-10</pwcdataset>
     </paper>
     <paper id="190">
       <title><fixed-case>E</fixed-case>xp<fixed-case>BERT</fixed-case>: Representation Engineering with Natural Language Explanations</title>

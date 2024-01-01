@@ -3357,6 +3357,7 @@
       <url hash="2a55063e">W19-2602</url>
       <doi>10.18653/v1/W19-2602</doi>
       <bibkey>agrawal-etal-2019-scalable</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval2017">SemEval-2017 Task-10</pwcdataset>
     </paper>
     <paper id="3">
       <title>Understanding the Polarity of Events in the Biomedical Literature: Deep Learning vs. Linguistically-informed Methods</title>
@@ -14675,7 +14676,7 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <url hash="88e2c62f">W19-6138</url>
       <bibkey>derczynski-kjeldsen-2019-bornholmsk</bibkey>
       <pwccode url="https://github.com/StrombergNLP/bornholmsk" additional="false">StrombergNLP/bornholmsk</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/bornholmsk-parallel">Bornholm parallel</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/bornholmsk-parallel">Bornholmsk</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
     </paper>
     <paper id="39">

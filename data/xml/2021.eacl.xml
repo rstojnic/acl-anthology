@@ -826,6 +826,7 @@
       <pwccode url="https://github.com/IBM/science-result-extractor" additional="false">IBM/science-result-extractor</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/scierc">SciERC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scirex">SciREX</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval2017">SemEval-2017 Task-10</pwcdataset>
     </paper>
     <paper id="60">
       <title>Top-down Discourse Parsing via Sequence Labelling</title>
@@ -3456,6 +3457,7 @@
       <url hash="2f4c3e81">2021.eacl-main.257</url>
       <bibkey>li-etal-2021-mtop</bibkey>
       <doi>10.18653/v1/2021.eacl-main.257</doi>
+      <pwcdataset url="https://paperswithcode.com/dataset/mtop">MTOP</pwcdataset>
     </paper>
     <paper id="258">
       <title>Adapting Event Extractors to Medical Data: Bridging the Covariate Shift</title>

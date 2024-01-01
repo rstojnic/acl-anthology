@@ -1231,6 +1231,7 @@
       <attachment hash="eb2ab600">K19-1092.Attachment.zip</attachment>
       <doi>10.18653/v1/K19-1092</doi>
       <bibkey>kocon-etal-2019-multi</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/polemo-2-0">PolEmo 2.0</pwcdataset>
     </paper>
     <paper id="93">
       <title>A Personalized Sentiment Model with Textual and Contextual Information</title>

@@ -2933,7 +2933,6 @@
       <bibkey>henderson-etal-2020-convert</bibkey>
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/dstc7-task-1">DSTC7 Task 1</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/reddit-corpus">Reddit Corpus</pwcdataset>
     </paper>
     <paper id="197">
       <title>Computer Assisted Translation with Neural Quality Estimation and Automatic Post-Editing</title>

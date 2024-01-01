@@ -4091,6 +4091,7 @@
       <abstract>In this paper, we present a system, LanguageNet, which can help second language learners to search for different meanings and usages of a word. We disambiguate word senses based on the pairs of an English word and its corresponding Chinese translations in a parallel corpus, UM-Corpus. The process involved performing word alignment, learning vector space representations of words and training a classifier to distinguish words into groups of senses. LanguageNet directly shows the definition of a sense, bilingual synonyms and sense relevant examples.</abstract>
       <url hash="fa858738">C18-2022</url>
       <bibkey>cheng-etal-2018-languagenet</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/languagenet">LanguageNet</pwcdataset>
     </paper>
     <paper id="23">
       <title>Automatic Curation and Visualization of Crime Related Information from Incrementally Crawled Multi-source News Reports</title>

@@ -2739,7 +2739,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll">CoNLL++</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/reddit-corpus">Reddit Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -4024,9 +4023,9 @@
       <bibkey>cohan-etal-2018-discourse</bibkey>
       <pwccode url="https://github.com/acohan/long-summarization" additional="true">acohan/long-summarization</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/arxiv-summarization-dataset">arXiv Summarization Dataset</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arxiv">Arxiv HEP-TH citation graph</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arxiv">arXiv</pwcdataset>
     </paper>
     <paper id="98">
       <title>A Mixed Hierarchical Attention Based Encoder-Decoder Approach for Standard Table Summarization</title>
@@ -4566,6 +4565,7 @@
       <bibkey>ammar-etal-2018-construction</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/semantic-scholar">Semantic Scholar</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bc5cdr">BC5CDR</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval2017">SemEval-2017 Task-10</pwcdataset>
     </paper>
     <paper id="12">
       <title>Can Neural Machine Translation be Improved with User Feedback?</title>

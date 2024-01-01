@@ -173,6 +173,7 @@
       <pages>146–156</pages>
       <url hash="be9a2fa6">2021.eval4nlp-1.15</url>
       <bibkey>rubino-etal-2021-error</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/opus">OPUS</pwcdataset>
     </paper>
     <paper id="16">
       <title>Reference-Free Word- and Sentence-Level Translation Evaluation with Token-Matching Metrics</title>

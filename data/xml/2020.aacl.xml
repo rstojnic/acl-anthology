@@ -640,9 +640,9 @@
       <url hash="2c00c7e2">2020.aacl-main.51</url>
       <bibkey>xiao-carenini-2020-systematically</bibkey>
       <pwccode url="https://github.com/Wendy-Xiao/redundancy_reduction_longdoc" additional="false">Wendy-Xiao/redundancy_reduction_longdoc</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/arxiv">Arxiv HEP-TH citation graph</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arxiv">arXiv</pwcdataset>
     </paper>
     <paper id="52">
       <title>A Cascade Approach to Neural Abstractive Summarization with Content Selection and Fusion</title>

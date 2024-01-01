@@ -62,7 +62,6 @@
       <url hash="a9eecc98">2021.nodalida-main.4</url>
       <bibkey>kutuzov-etal-2021-large</bibkey>
       <pwccode url="https://github.com/ltgoslo/NorBERT" additional="true">ltgoslo/NorBERT</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC (fine-grained)</pwcdataset>
     </paper>
     <paper id="5">
       <title>Extremely low-resource machine translation for closely related languages</title>
@@ -354,7 +353,6 @@
       <bibkey>maehlum-etal-2021-negation</bibkey>
       <pwccode url="https://github.com/ltgoslo/norec_neg" additional="false">ltgoslo/norec_neg</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/norec">NoReC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/norec-fine">NoReC (fine-grained)</pwcdataset>
     </paper>
     <paper id="31">
       <title>What Taggers Fail to Learn, Parsers Need the Most</title>

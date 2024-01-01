@@ -115,7 +115,6 @@
       <doi>10.18653/v1/P16-1009</doi>
       <bibkey>sennrich-etal-2016-improving</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/bucc">BUCC</pwcdataset>
     </paper>
     <paper id="10">
       <title>Graph-Based Translation Via Graph Segmentation</title>

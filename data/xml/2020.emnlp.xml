@@ -11363,10 +11363,10 @@
       <doi>10.18653/v1/2020.emnlp-main.748</doi>
       <video tag="video" href="https://slideslive.com/38938995"/>
       <bibkey>pilault-etal-2020-extractive</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/arxiv">Arxiv HEP-TH citation graph</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsroom">NEWSROOM</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webtext">WebText</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/arxiv">arXiv</pwcdataset>
     </paper>
     <paper id="749">
       <title>Multi-Fact Correction in Abstractive Text Summarization</title>
