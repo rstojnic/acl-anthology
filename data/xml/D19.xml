@@ -5943,7 +5943,6 @@
       <attachment hash="3844c416">D19-1430.Attachment.zip</attachment>
       <doi>10.18653/v1/D19-1430</doi>
       <bibkey>wu-etal-2019-exploiting</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="431">
       <title>Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs</title>
@@ -7026,7 +7025,7 @@
       <bibkey>qin-etal-2019-counterfactual</bibkey>
       <pwccode url="https://github.com/qkaren/Counterfactual-StoryRW" additional="false">qkaren/Counterfactual-StoryRW</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/timetravel">TimeTravel</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">Story Cloze</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
     </paper>
     <paper id="510">
       <title>Encode, Tag, Realize: High-Precision Text Editing</title>
@@ -8519,7 +8518,7 @@
       <pwccode url="https://github.com/calclavia/story-generation" additional="false">calclavia/story-generation</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">Story Cloze</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webtext">WebText</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/writingprompts">WritingPrompts</pwcdataset>
     </paper>
@@ -11369,7 +11368,7 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <doi>10.18653/v1/D19-5409</doi>
       <bibkey>gliwa-etal-2019-samsum</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="10">
       <title>A Closer Look at Data Bias in Neural Extractive Summarization Models</title>

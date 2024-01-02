@@ -298,8 +298,6 @@
       <doi>10.18653/v1/P19-1019</doi>
       <bibkey>artetxe-etal-2019-effective</bibkey>
       <pwccode url="https://github.com/artetxem/monoses" additional="false">artetxem/monoses</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="20">
       <title>Effective Adversarial Regularization for Neural Machine Translation</title>
@@ -9041,6 +9039,7 @@
       <bibkey>calixto-etal-2019-latent</bibkey>
       <pwccode url="https://github.com/iacercalixto/variational_mmt" additional="false">iacercalixto/variational_mmt</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="643">
       <title>Identifying Visible Actions in Lifestyle Vlogs</title>
@@ -9204,6 +9203,7 @@
       <bibkey>ive-etal-2019-distilling</bibkey>
       <pwccode url="https://github.com/ImperialNLP/MMT-Delib" additional="false">ImperialNLP/MMT-Delib</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="654">
       <title><fixed-case>VIFIDEL</fixed-case>: Evaluating the Visual Fidelity of Image Descriptions</title>

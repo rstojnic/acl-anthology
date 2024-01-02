@@ -1937,8 +1937,7 @@
       <bibkey>hamborg-donnay-2021-newsmtsc</bibkey>
       <doi>10.18653/v1/2021.eacl-main.142</doi>
       <pwccode url="https://github.com/fhamborg/newsmtsc" additional="false">fhamborg/newsmtsc</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/newstsc">NewsTSC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/polusa">POLUSA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/newstsc">NewsMTSC</pwcdataset>
     </paper>
     <paper id="143">
       <title>Cross-lingual Contextualized Topic Models with Zero-shot Learning</title>
@@ -4893,6 +4892,7 @@
       <url hash="229ebcb8">2021.eacl-demos.34</url>
       <bibkey>nieminen-2021-opus</bibkey>
       <doi>10.18653/v1/2021.eacl-demos.34</doi>
+      <pwcdataset url="https://paperswithcode.com/dataset/opus-mt">OPUS-MT</pwcdataset>
     </paper>
     <paper id="35">
       <title>Domain Expert Platform for Goal-Oriented Dialog Collection</title>

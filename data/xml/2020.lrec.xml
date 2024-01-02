@@ -7022,7 +7022,7 @@
       <language>eng</language>
       <bibkey>jorgensen-etal-2020-norne</bibkey>
       <pwccode url="https://github.com/ltgoslo/norne" additional="false">ltgoslo/norne</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/groningen-meaning-bank">Groningen Meaning Bank</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/norne">NorNE</pwcdataset>
     </paper>
     <paper id="560">
       <title>Tag Me If You Can! Semantic Annotation of Biodiversity Metadata with the <fixed-case>QEMP</fixed-case> Corpus and the <fixed-case>B</fixed-case>iodiv<fixed-case>T</fixed-case>agger</title>

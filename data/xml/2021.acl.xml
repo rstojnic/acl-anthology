@@ -1275,6 +1275,7 @@
       <doi>10.18653/v1/2021.acl-long.85</doi>
       <bibkey>xu-etal-2021-unsupervised</bibkey>
       <pwccode url="https://github.com/rivercold/BERT-unsupervised-OOD" additional="false">rivercold/BERT-unsupervised-OOD</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -1758,7 +1759,7 @@
       <doi>10.18653/v1/2021.acl-long.117</doi>
       <bibkey>feng-etal-2021-language</bibkey>
       <pwccode url="https://github.com/xcfcode/PLM_annotator" additional="false">xcfcode/PLM_annotator</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="118">
       <title>Challenges in Information-Seeking <fixed-case>QA</fixed-case>: Unanswerable Questions and Paragraph Retrieval</title>
@@ -8163,7 +8164,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/convosumm">ConvoSumm</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cqasumm">CQASUMM</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="536">
       <title>Improving Factual Consistency of Abstractive Summarization via Question Answering</title>
@@ -8198,7 +8199,7 @@
       <pwccode url="https://github.com/ZhangShiyue/EmailSum" additional="false">ZhangShiyue/EmailSum</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/emailsum">EmailSum</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/crd3">CRD3</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="538">
       <title>Cross-Lingual Abstractive Summarization with Limited Parallel Resources</title>

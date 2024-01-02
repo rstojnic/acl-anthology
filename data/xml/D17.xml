@@ -1379,6 +1379,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <abstract>We introduce multi-modal, attention-based neural machine translation (NMT) models which incorporate visual features into different parts of both the encoder and the decoder. Global image features are extracted using a pre-trained convolutional neural network and are incorporated (i) as words in the source sentence, (ii) to initialise the encoder hidden state, and (iii) as additional data to initialise the decoder hidden state. In our experiments, we evaluate translations into English and German, how different strategies to incorporate global image features compare and which ones perform best. We also study the impact that adding synthetic multi-modal, multilingual data brings and find that the additional data have a positive impact on multi-modal NMT models. We report new state-of-the-art results and our best models also significantly improve on a comparable phrase-based Statistical MT (PBSMT) model trained on the Multi30k data set according to all metrics evaluated. To the best of our knowledge, it is the first time a purely neural model significantly improves over a PBSMT model on all metrics evaluated on this data set.</abstract>
       <bibkey>calixto-liu-2017-incorporating</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="106">
       <title>Mapping Instructions and Visual Observations to Actions with Reinforcement Learning</title>
@@ -2165,7 +2166,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <abstract>Automatic story comprehension is a fundamental challenge in Natural Language Understanding, and can enable computers to learn about social norms, human behavior and commonsense. In this paper, we present a story comprehension model that explores three distinct semantic aspects: (i) the sequence of events described in the story, (ii) its emotional trajectory, and (iii) its plot consistency. We judge the model’s understanding of real-world stories by inquiring if, like humans, it can develop an expectation of what will happen next in a given story. Specifically, we use it to predict the correct ending of a given short story from possible alternatives. The model uses a hidden variable to weigh the semantic aspects in the context of the story. Our experiments demonstrate the potential of our approach to characterize these semantic aspects, and the strength of the hidden variable based approach. The model outperforms the state-of-the-art approaches and achieves best results on a publicly available dataset.</abstract>
       <video href="https://vimeo.com/238235959" tag="video"/>
       <bibkey>chaturvedi-etal-2017-story</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">Story Cloze</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
     </paper>
     <paper id="169">
       <title>Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm</title>
@@ -2485,7 +2486,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <abstract>Understanding a long document requires tracking how entities are introduced and evolve over time. We present a new type of language model, EntityNLM, that can explicitly model entities, dynamically update their representations, and contextually generate their mentions. Our model is generative and flexible; it can model an arbitrary number of entities in context while generating each entity mention at an arbitrary length. In addition, it can be used for several different tasks such as language modeling, coreference resolution, and entity prediction. Experimental results with all these tasks demonstrate that our model consistently outperforms strong baselines and prior work.</abstract>
       <bibkey>ji-etal-2017-dynamic</bibkey>
       <pwccode url="https://github.com/smartschat/cort" additional="true">smartschat/cort</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">Story Cloze</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
     </paper>
     <paper id="196">
       <title>Towards Quantum Language Models</title>

@@ -115,7 +115,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reddit-conversation-corpus">Reddit Conversation Corpus</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="8">
       <title>Controllable Neural Dialogue Summarization with Personal Named Entity Planning</title>
@@ -4638,7 +4638,7 @@
       <bibkey>li-etal-2021-learn</bibkey>
       <pwccode url="https://github.com/hrlinlp/coconet" additional="false">hrlinlp/coconet</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="337">
       <title>Gradient-Based Adversarial Factual Consistency Evaluation for Abstractive Summarization</title>
@@ -6863,7 +6863,7 @@
       <url hash="712d3676">2021.emnlp-main.499</url>
       <bibkey>mehnaz-etal-2021-gupshup</bibkey>
       <pwccode url="https://github.com/midas-research/gupshup" additional="false">midas-research/gupshup</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="500">
       <title><fixed-case>B</fixed-case>i<fixed-case>SECT</fixed-case>: Learning to Split and Rephrase Sentences with Bitexts</title>
@@ -7287,7 +7287,7 @@
       <url hash="62be795e">2021.emnlp-main.530</url>
       <bibkey>chen-yang-2021-simple</bibkey>
       <pwccode url="https://github.com/gt-salt/coda" additional="false">gt-salt/coda</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="531">
       <title>Finding a Balanced Degree of Automation for Summary Evaluation</title>
@@ -8689,7 +8689,7 @@
       <url hash="c8d26f1e">2021.emnlp-main.631</url>
       <bibkey>khalifa-etal-2021-bag</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/commongen">CommonGen</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="632">
       <title>Paraphrasing Compound Nominalizations</title>
@@ -11618,6 +11618,7 @@
       <url hash="215ff6d1">2021.emnlp-demo.4</url>
       <bibkey>steffen-van-genabith-2021-transins</bibkey>
       <pwccode url="https://github.com/dfki-mlt/transins" additional="false">dfki-mlt/transins</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/opus-mt">OPUS-MT</pwcdataset>
     </paper>
     <paper id="5">
       <title><fixed-case>ET</fixed-case>: A Workstation for Querying, Editing and Evaluating Annotated Corpora</title>
@@ -12102,7 +12103,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mlsum">MLSUM</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi-news">Multi-News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmedqa">PubMedQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scisummnet">ScisummNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/summscreen">SummScreen</pwcdataset>
     </paper>

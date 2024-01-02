@@ -5082,6 +5082,7 @@
       <bibkey>nishihara-etal-2020-supervised</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k-entities">Flickr30K Entities</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="381">
       <title>Investigating Catastrophic Forgetting During Continual Training for Neural Machine Translation</title>
@@ -5531,6 +5532,7 @@
       <bibkey>li-etal-2020-emergent</bibkey>
       <pwccode url="https://github.com/cambridgeltl/ECNMT" additional="false">cambridgeltl/ECNMT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="417">
       <title><fixed-case>C</fixed-case>ontra<fixed-case>CAT</fixed-case>: Contrastive Coreference Analytical Templates for Machine Translation</title>

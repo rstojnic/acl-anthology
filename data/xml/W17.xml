@@ -1636,7 +1636,7 @@
       <doi>10.18653/v1/W17-0913</doi>
       <abstract>This paper describes two supervised baseline systems for the Story Cloze Test Shared Task (Mostafazadeh et al., 2016a). We first build a classifier using features based on word embeddings and semantic similarity computation. We further implement a neural LSTM system with different encoding strategies that try to model the relation between the story and the provided endings. Our experiments show that a model using representation features based on average word embedding vectors over the given story words and the candidate ending sentences words, joint with similarity features between the story and candidate ending representations performed better than the neural models. Our best model based on achieves an accuracy of 72.42, ranking 3rd in the official evaluation.</abstract>
       <bibkey>mihaylov-frank-2017-story</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">Story Cloze</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
     </paper>
   </volume>
   <volume id="10">
@@ -6314,6 +6314,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <pwccode url="https://github.com/cltl/DutchDescriptions" additional="false">cltl/DutchDescriptions</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="4">
       <title>Content Selection for Real-time Sports News Construction from Commentary Texts</title>
@@ -8676,6 +8677,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/verse">Verse</pwcdataset>
     </paper>
     <paper id="19">
@@ -9064,6 +9066,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <url hash="18a92292">W17-4747</url>
       <doi>10.18653/v1/W17-4747</doi>
       <bibkey>calixto-etal-2017-dcu</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2015">WMT 2015</pwcdataset>
     </paper>
     <paper id="48">
@@ -10085,7 +10088,6 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <abstract>We report on our experiments with N-gram and embedding based feature representations for Native Language Identification (NLI) as a part of the NLI Shared Task 2017 (team name: NLI-ISU). Our best performing system on the test set for written essays had a macro F1 of 0.8264 and was based on word uni, bi and trigram features. We explored n-grams covering word, character, POS and word-POS mixed representations for this task. For embedding based feature representations, we employed both word and document embeddings. We had a relatively poor performance with all embedding representations compared to n-grams, which could be because of the fact that embeddings capture semantic similarities whereas L1 differences are more stylistic in nature.</abstract>
       <bibkey>vajjala-banerjee-2017-study</bibkey>
       <pwccode url="https://github.com/nishkalavallabhi/NLIST2017" additional="false">nishkalavallabhi/NLIST2017</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/italki-nli">italki NLI</pwcdataset>
     </paper>
     <paper id="27">
       <title>A Shallow Neural Network for Native Language Identification with Character N-grams</title>
@@ -10107,7 +10109,6 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <doi>10.18653/v1/W17-5028</doi>
       <abstract>This paper describes our results at the NLI shared task 2017. We participated in essays, speech, and fusion task that uses text, speech, and i-vectors for the task of identifying the native language of the given input. In the essay track, a linear SVM system using word bigrams and character 7-grams performed the best. In the speech track, an LDA classifier based only on i-vectors performed better than a combination system using text features from speech transcriptions and i-vectors. In the fusion task, we experimented with systems that used combination of i-vectors with higher order n-grams features, combination of i-vectors with word unigrams, a mean probability ensemble, and a stacked ensemble system. Our finding is that word unigrams in combination with i-vectors achieve higher score than systems trained with larger number of <tex-math>n</tex-math>-gram features. Our best-performing systems achieved F1-scores of 87.16%, 83.33% and 91.75% on the essay track, the speech track and the fusion track respectively. </abstract>
       <bibkey>rama-coltekin-2017-fewer</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/italki-nli">italki NLI</pwcdataset>
     </paper>
     <paper id="29">
       <title>Structured Generation of Technical Reading Lists</title>

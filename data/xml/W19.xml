@@ -7741,6 +7741,7 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <url hash="c2fbeac1">W19-4305</url>
       <doi>10.18653/v1/W19-4305</doi>
       <bibkey>vazquez-etal-2019-multilingual</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="6">
       <title>Efficient Language Modeling with Automatic Relevance Determination in Recurrent Neural Networks</title>
@@ -11589,7 +11590,7 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <doi>10.18653/v1/W19-5302</doi>
       <attachment type="presentation" hash="23b70463">W19-5302.Presentation.pdf</attachment>
       <bibkey>ma-etal-2019-results</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt19-metrics-task">WMT19 Metrics Task</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt19-metrics-task">WMT 2019 Metrics Task</pwcdataset>
     </paper>
     <paper id="3">
       <title>Findings of the First Shared Task on Machine Translation Robustness</title>
@@ -11744,9 +11745,6 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <url hash="98a93471">W19-5314</url>
       <doi>10.18653/v1/W19-5314</doi>
       <bibkey>ding-tao-2019-university</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016-news">WMT 2016 News</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2018">WMT 2018</pwcdataset>
     </paper>
     <paper id="15">
       <title><fixed-case>U</fixed-case>d<fixed-case>S</fixed-case>-<fixed-case>DFKI</fixed-case> Participation at <fixed-case>WMT</fixed-case> 2019: Low-Resource (en-gu) and Coreference-Aware (en-de) Systems</title>

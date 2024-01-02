@@ -3608,7 +3608,7 @@
       <pwccode url="https://github.com/allenai/arc-solvers" additional="false">allenai/arc-solvers</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">Story Cloze</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tqa">TQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/worldtree">Worldtree</pwcdataset>
     </paper>
@@ -5474,7 +5474,6 @@
       <pwccode url="https://github.com/artetxem/vecmap" additional="true">artetxem/vecmap</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="400">
       <title>A Visual Attention Grounding Neural Model for Multimodal Machine Translation</title>
@@ -5490,6 +5489,7 @@
       <doi>10.18653/v1/D18-1400</doi>
       <bibkey>zhou-etal-2018-visual</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="401">
       <title>Sentiment Classification towards Question-Answering with Hierarchical Matching Network</title>

@@ -3788,7 +3788,6 @@
       <doi>10.18653/v1/W16-2209</doi>
       <bibkey>sennrich-haddow-2016-linguistic</bibkey>
       <pwccode url="https://github.com/rsennrich/wmt16-scripts" additional="false">rsennrich/wmt16-scripts</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="10">
       <title>A Framework for Discriminative Rule Selection in Hierarchical <fixed-case>M</fixed-case>oses</title>
@@ -4593,6 +4592,7 @@
       <url hash="1f1722cd">W16-2362</url>
       <doi>10.18653/v1/W16-2362</doi>
       <bibkey>rodriguez-guasch-costa-jussa-2016-wmt</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="63">
       <title><fixed-case>SHEF</fixed-case>-Multimodal: Grounding Machine Translation on Images</title>
@@ -6560,9 +6560,7 @@
       <url hash="db735aa0">W16-3210</url>
       <doi>10.18653/v1/W16-3210</doi>
       <bibkey>elliott-etal-2016-multi30k</bibkey>
-      <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="11">
       <title>“Look, some Green Circles!”: Learning to Quantify from Images</title>

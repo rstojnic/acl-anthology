@@ -5878,6 +5878,7 @@
       <doi>10.18653/v1/2020.acl-main.400</doi>
       <video tag="video" href="http://slideslive.com/38929440"/>
       <bibkey>yao-wan-2020-multimodal</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="401">
       <title>Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis</title>
@@ -6650,7 +6651,6 @@
       <video tag="video" href="http://slideslive.com/38929447"/>
       <bibkey>mathur-etal-2020-tangled</bibkey>
       <pwccode url="https://github.com/nitikam/tangled" additional="false">nitikam/tangled</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt19-metrics-task">WMT19 Metrics Task</pwcdataset>
     </paper>
     <paper id="449">
       <title>A Transformer-based Approach for Source Code Summarization</title>

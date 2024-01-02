@@ -1326,7 +1326,7 @@
       <url hash="74221b78">2021.naacl-main.91</url>
       <doi>10.18653/v1/2021.naacl-main.91</doi>
       <bibkey>agrawal-etal-2021-assessing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt19-metrics-task">WMT19 Metrics Task</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt19-metrics-task">WMT 2019 Metrics Task</pwcdataset>
     </paper>
     <paper id="92">
       <title>The Curious Case of Hallucinations in Neural Machine Translation</title>
@@ -1595,7 +1595,7 @@
       <doi>10.18653/v1/2021.naacl-main.109</doi>
       <bibkey>chen-yang-2021-structure</bibkey>
       <pwccode url="https://github.com/GT-SALT/Structure-Aware-BART" additional="false">GT-SALT/Structure-Aware-BART</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="110">
       <title>A New Approach to Overgenerating and Scoring Abstractive Summaries</title>
@@ -6561,6 +6561,7 @@
       <bibkey>long-etal-2021-generative</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="458">
       <title>Non-Autoregressive Translation by Learning Target Categorical Codes</title>
@@ -6818,7 +6819,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/crd3">CRD3</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/interview">Interview</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multiwoz">MultiWOZ</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="475">
       <title>Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection</title>

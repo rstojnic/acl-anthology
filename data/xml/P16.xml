@@ -1823,7 +1823,6 @@
       <doi>10.18653/v1/P16-1160</doi>
       <bibkey>chung-etal-2016-character</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2015">WMT 2015</pwcdataset>
     </paper>
     <paper id="161">
       <title>Target-Side Context for Discriminative Models in Statistical Machine Translation</title>
@@ -1848,7 +1847,6 @@
       <attachment type="software" hash="0c9fa3b6">P16-1162.Software.zip</attachment>
       <bibkey>sennrich-etal-2016-neural</bibkey>
       <pwccode url="https://github.com/rsennrich/subword-nmt" additional="true">rsennrich/subword-nmt</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2015">WMT 2015</pwcdataset>
     </paper>
     <paper id="163">
       <title>Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network</title>

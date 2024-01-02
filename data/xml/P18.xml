@@ -92,7 +92,6 @@
       <doi>10.18653/v1/P18-1005</doi>
       <bibkey>yang-etal-2018-unsupervised</bibkey>
       <pwccode url="https://github.com/ZhenYangIACAS/unsupervised-NMT" additional="false">ZhenYangIACAS/unsupervised-NMT</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="6">
       <title>Triangular Architecture for Rare Language Translation</title>

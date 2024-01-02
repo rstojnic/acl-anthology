@@ -171,7 +171,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qasc">QASC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">Story Cloze</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/storycloze">StoryCloze</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/winogrande">WinoGrande</pwcdataset>
     </paper>
     <paper id="12">
@@ -4867,6 +4867,7 @@
       <doi>10.18653/v1/2020.emnlp-main.325</doi>
       <video tag="video" href="https://slideslive.com/38939148"/>
       <bibkey>lu-etal-2020-supervised</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="326">
       <title>Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems</title>
@@ -5029,7 +5030,7 @@
       <video tag="video" href="https://slideslive.com/38938747"/>
       <bibkey>chen-yang-2020-multi</bibkey>
       <pwccode url="https://github.com/GT-SALT/Multi-View-Seq2Seq" additional="false">GT-SALT/Multi-View-Seq2Seq</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
     <paper id="337">
       <title>Few-Shot Learning for Opinion Summarization</title>
