@@ -2012,7 +2012,7 @@
       <doi>10.18653/v1/D18-1149</doi>
       <bibkey>lee-etal-2018-deterministic</bibkey>
       <pwccode url="https://github.com/nyu-dl/dl4mt-nonauto" additional="true">nyu-dl/dl4mt-nonauto</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016-news">WMT 2016 News</pwcdataset>
@@ -4913,7 +4913,7 @@
       <video href="https://vimeo.com/305929800" tag="video"/>
       <doi>10.18653/v1/D18-1357</doi>
       <bibkey>zheng-etal-2018-multi</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="358">
       <title>Knowledge Graph Embedding with Hierarchical Relation Structure</title>
@@ -5488,7 +5488,7 @@
       <video href="https://vimeo.com/306149028" tag="video"/>
       <doi>10.18653/v1/D18-1400</doi>
       <bibkey>zhou-etal-2018-visual</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="401">
@@ -5987,7 +5987,7 @@
       <abstract>Generating natural questions from an image is a semantic task that requires using visual and language modality to learn multimodal representations. Images can have multiple visual and language contexts that are relevant for generating questions namely places, captions, and tags. In this paper, we propose the use of exemplars for obtaining the relevant context. We obtain this by using a Multimodal Differential Network to produce natural and engaging questions. The generated questions show a remarkable similarity to the natural questions as validated by a human study. Further, we observe that the proposed approach substantially improves over state-of-the-art benchmarks on the quantitative metrics (BLEU, METEOR, ROUGE, and CIDEr).</abstract>
       <doi>10.18653/v1/D18-1434</doi>
       <bibkey>patro-etal-2018-multimodal</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vqg">VQG</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
@@ -6003,8 +6003,8 @@
       <abstract>Current image captioning approaches generate descriptions which lack specific information, such as named entities that are involved in the images. In this paper we propose a new task which aims to generate informative image captions, given images and hashtags as input. We propose a simple but effective approach to tackle this problem. We first train a convolutional neural networks - long short term memory networks (CNN-LSTM) model to generate a template caption based on the input image. Then we use a knowledge graph based collective inference algorithm to fill in the template with specific named entities retrieved via the hashtags. Experiments on a new benchmark dataset collected from Flickr show that our model generates news-style image descriptions with much richer information. Our model outperforms unimodal baselines significantly with various evaluation metrics.</abstract>
       <doi>10.18653/v1/D18-1435</doi>
       <bibkey>lu-etal-2018-entity</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="436">
       <title>Learning to Describe Differences Between Pairs of Similar Images</title>
@@ -6030,7 +6030,7 @@
       <abstract>Despite continuously improving performance, contemporary image captioning models are prone to “hallucinating” objects that are not actually in a scene. One problem is that standard metrics only measure similarity to ground truth captions and may not fully capture image relevance. In this work, we propose a new image relevance metric to evaluate current models with veridical visual labels and assess their rate of object hallucination. We analyze how captioning model architectures and learning objectives contribute to object hallucination, explore when hallucination is likely due to image misclassification or language priors, and assess how well current sentence metrics capture object hallucination. We investigate these questions on the standard image captioning benchmark, MSCOCO, using a diverse set of models. Our analysis yields several interesting findings, including that models which score best on standard sentence metrics do not always have lower hallucination and that models which hallucinate more tend to make errors driven by language priors.</abstract>
       <doi>10.18653/v1/D18-1437</doi>
       <bibkey>rohrbach-etal-2018-object</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="438">
       <title>Abstractive Text-Image Summarization Using Multi-Modal Attentional Hierarchical <fixed-case>RNN</fixed-case></title>
@@ -6640,6 +6640,7 @@
       <pwccode url="https://github.com/Zminghua/SentEncoding" additional="false">Zminghua/SentEncoding</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
     <paper id="482">

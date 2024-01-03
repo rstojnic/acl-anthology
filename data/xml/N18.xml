@@ -526,7 +526,7 @@
       <video href="http://vimeo.com/276453229" tag="video"/>
       <bibkey>wang-etal-2018-scene</bibkey>
       <pwccode url="https://github.com/Yusics/bist-parser" additional="true">Yusics/bist-parser</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
@@ -542,8 +542,8 @@
       <doi>10.18653/v1/N18-1038</doi>
       <video href="http://vimeo.com/277631178" tag="video"/>
       <bibkey>kiela-etal-2018-learning</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -575,8 +575,8 @@
       <doi>10.18653/v1/N18-1040</doi>
       <video href="http://vimeo.com/276455887" tag="video"/>
       <bibkey>chao-etal-2018-negative</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco-qa">COCO-QA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual7w">Visual7W</pwcdataset>
@@ -2673,7 +2673,7 @@
       <url hash="d02fdc27">N18-1198</url>
       <doi>10.18653/v1/N18-1198</doi>
       <bibkey>wang-etal-2018-object</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="199">
       <title>Quantifying the Visual Concreteness of Words and Topics in Multimodal Datasets</title>
@@ -2687,9 +2687,9 @@
       <doi>10.18653/v1/N18-1199</doi>
       <bibkey>hessel-etal-2018-quantifying</bibkey>
       <pwccode url="https://github.com/victorssilva/concreteness" additional="false">victorssilva/concreteness</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="200">
       <title>Speaker Naming in Movies</title>
@@ -3642,7 +3642,7 @@
       <video href="http://vimeo.com/276898131" tag="video"/>
       <bibkey>madhyastha-etal-2018-defoiling</bibkey>
       <pwccode url="https://github.com/sheffieldnlp/foildataset" additional="false">sheffieldnlp/foildataset</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="70">
       <title>Pragmatically Informative Image Captioning with Character-Level Inference</title>
@@ -4319,7 +4319,7 @@
       <doi>10.18653/v1/N18-2120</doi>
       <bibkey>manjunatha-etal-2018-learning</bibkey>
       <pwccode url="https://github.com/superhans/colorfromlanguage" additional="false">superhans/colorfromlanguage</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="121">
       <title>Punny Captions: Witty Wordplay in Image Descriptions</title>
@@ -4356,7 +4356,7 @@
       <doi>10.18653/v1/N18-2123</doi>
       <bibkey>cirik-etal-2018-visual</bibkey>
       <pwccode url="https://github.com/volkancirik/neural-sieves-refexp" additional="false">volkancirik/neural-sieves-refexp</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="124">
       <title>Visually Guided Spatial Relation Extraction from Text</title>

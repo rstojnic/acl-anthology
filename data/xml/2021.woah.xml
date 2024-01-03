@@ -343,8 +343,8 @@
       <url hash="19fb4464">2021.woah-1.24</url>
       <doi>10.18653/v1/2021.woah-1.24</doi>
       <bibkey>kougia-pavlopoulos-2021-multimodal</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hateful-memes">Hateful Memes</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
   </volume>
 </collection>

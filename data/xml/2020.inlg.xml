@@ -102,7 +102,7 @@
       <abstract>In this paper we consider the problem of optimizing neural Referring Expression Generation (REG) models with sequence level objectives. Recently reinforcement learning (RL) techniques have been adopted to train deep end-to-end systems to directly optimize sequence-level objectives. However, there are two issues associated with RL training: (1) effectively applying RL is challenging, and (2) the generated sentences lack in diversity and naturalness due to deficiencies in the generated word distribution, smaller vocabulary size, and repetitiveness of frequent words and phrases. To alleviate these issues, we propose a novel strategy for training REG models, using minimum risk training (MRT) with maximum likelihood estimation (MLE) and we show that our approach outperforms RL w.r.t naturalness and diversity of the output. Specifically, our approach achieves an increase in CIDEr scores between 23%-57% in two datasets. We further demonstrate the robustness of the proposed method through a detailed comparison with different REG models.</abstract>
       <url hash="7b6bba92">2020.inlg-1.7</url>
       <bibkey>panagiaris-etal-2020-improving</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/refcoco">RefCOCO</pwcdataset>
     </paper>
     <paper id="8">
@@ -472,7 +472,7 @@
       <revision id="1" href="2020.inlg-1.39v1" hash="6f5e132d"/>
       <revision id="2" href="2020.inlg-1.39v2" hash="b3d358cf" date="2021-03-26">Table 2 was a copy-paste of Table 1 (VQA1.0) by mistake. It now displays results for the second dataset (VQA COCO) as expected.</revision>
       <bibkey>scialom-etal-2020-bert</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vqg">VQG</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>

@@ -713,7 +713,7 @@
       <url hash="0603d245">2021.findings-acl.50</url>
       <doi>10.18653/v1/2021.findings-acl.50</doi>
       <bibkey>su-etal-2021-keep</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="51">
       <title>Contrastive Fine-tuning Improves Robustness for Neural Rankers</title>
@@ -933,7 +933,7 @@
       <url hash="b86b619e">2021.findings-acl.66</url>
       <doi>10.18653/v1/2021.findings-acl.66</doi>
       <bibkey>tu-etal-2021-hashing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="67">
       <title>Can the Transformer Learn Nested Recursion with Symbol Masking?</title>
@@ -1895,7 +1895,7 @@
       <doi>10.18653/v1/2021.findings-acl.135</doi>
       <bibkey>lin-wan-2021-pushing</bibkey>
       <pwccode url="https://github.com/l-zhe/btmpg" additional="false">l-zhe/btmpg</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="136">
       <title>Few-shot Knowledge Graph-to-Text Generation with Pretrained Language Models</title>
@@ -3354,9 +3354,9 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03b8ec3a">2021.findings-acl.246.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.246</doi>
       <bibkey>pramanick-etal-2021-detecting</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hateful-memes">Hateful Memes</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hateful-memes-challenge">Hateful Memes Challenge</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="247">
       <title>Progressive Multi-Granularity Training for Non-Autoregressive Translation</title>
@@ -4063,8 +4063,8 @@
       <url hash="819e8276">2021.findings-acl.302</url>
       <doi>10.18653/v1/2021.findings-acl.302</doi>
       <bibkey>banerjee-etal-2021-weaqa</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/gqa">GQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qa-srl">QA-SRL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
@@ -4326,7 +4326,7 @@
       <url hash="444199eb">2021.findings-acl.323</url>
       <doi>10.18653/v1/2021.findings-acl.323</doi>
       <bibkey>yawei-fan-2021-probing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="324">
       <title>The interplay between language similarity and script on a novel multi-layer <fixed-case>A</fixed-case>lgerian dialect corpus</title>
@@ -5702,7 +5702,7 @@
       <doi>10.18653/v1/2021.findings-acl.428</doi>
       <bibkey>diao-etal-2021-tilgan</bibkey>
       <pwccode url="https://github.com/shizhediao/tilgan" additional="false">shizhediao/tilgan</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="429">
       <title>John praised <fixed-case>M</fixed-case>ary because _he_? Implicit Causality Bias and Its Interaction with Explicit Cues in <fixed-case>LM</fixed-case>s</title>
@@ -8396,7 +8396,7 @@
       <abstract>Image captioning systems are expected to have the ability to combine individual concepts when describing scenes with concept combinations that are not observed during training. In spite of significant progress in image captioning with the help of the autoregressive generation framework, current approaches fail to generalize well to novel concept combinations. We propose a new framework that revolves around probing several similar image caption training instances (retrieval), performing analogical reasoning over relevant entities in retrieved prototypes (analogy), and enhancing the generation process with reasoning outcomes (composition). Our method augments the generation model by referring to the neighboring instances in the training set to produce novel concept combinations in generated captions. We perform experiments on the widely used image captioning benchmarks. The proposed models achieve substantial improvement over the compared baselines on both composition-related evaluation metrics and conventional image captioning metrics.</abstract>
       <url hash="450b8024">2021.findings-emnlp.171</url>
       <bibkey>shi-etal-2021-retrieval-analogy</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="172">
       <title><fixed-case>TURINGBENCH</fixed-case>: A Benchmark Environment for <fixed-case>T</fixed-case>uring Test in the Age of Neural Text Generation</title>
@@ -9567,6 +9567,7 @@
       <url hash="bcdb0a27">2021.findings-emnlp.262</url>
       <bibkey>min-etal-2021-locality-preserving</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
@@ -9963,9 +9964,9 @@
       <abstract>Both image-caption pairs and translation pairs provide the means to learn deep representations of and connections between languages. We use both types of pairs in MURAL (MUltimodal, MUltitask Representations Across Languages), a dual encoder that solves two tasks: 1) image-text matching and 2) translation pair matching. By incorporating billions of translation pairs, MURAL extends ALIGN (Jia et al.)–a state-of-the-art dual encoder learned from 1.8 billion noisy image-text pairs. When using the same encoders, MURAL’s performance matches or exceeds ALIGN’s cross-modal retrieval performance on well-resourced languages across several datasets. More importantly, it considerably improves performance on under-resourced languages, showing that text-text learning can overcome a paucity of image-caption examples for these languages. On the Wikipedia Image-Text dataset, for example, MURAL-base improves zero-shot mean recall by 8.1% on average for eight under-resourced languages and by 6.8% on average when fine-tuning. We additionally show that MURAL’s text representations cluster not only with respect to genealogical connections but also based on areal linguistics, such as the Balkan Sprachbund.</abstract>
       <url hash="3685978e">2021.findings-emnlp.293</url>
       <bibkey>jain-etal-2021-mural-multimodal</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cxc">CxC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wit">WIT</pwcdataset>
     </paper>
     <paper id="294">
@@ -11098,8 +11099,8 @@
       <bibkey>pramanick-etal-2021-momenta-multimodal</bibkey>
       <pwccode url="https://github.com/lcs2-iiitd/momenta" additional="false">lcs2-iiitd/momenta</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/harm-c">Harm-C</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hateful-memes">Hateful Memes</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="380">
       <title><fixed-case>NICE</fixed-case>: Neural Image Commenting with Empathy</title>
@@ -11116,7 +11117,7 @@
       <url hash="f98f5532">2021.findings-emnlp.380</url>
       <attachment type="Software" hash="4ecd000a">2021.findings-emnlp.380.Software.zip</attachment>
       <bibkey>chen-etal-2021-nice-neural</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="381">
       <title><fixed-case>HAC</fixed-case>onv<fixed-case>GNN</fixed-case>: Hierarchical Attention Based Convolutional Graph Neural Network for Code Documentation Generation in <fixed-case>J</fixed-case>upyter Notebooks</title>

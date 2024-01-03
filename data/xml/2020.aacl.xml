@@ -524,7 +524,7 @@
       <abstract>Recent work in unsupervised parsing has tried to incorporate visual information into learning, but results suggest that these models need linguistic bias to compete against models that only rely on text. This work proposes grammar induction models which use visual information from images for labeled parsing, and achieve state-of-the-art results on grounded grammar induction on several languages. Results indicate that visual information is especially helpful in languages where high frequency words are more broadly distributed. Comparison between models with and without visual information shows that the grounded models are able to use visual information for proposing noun phrases, gathering useful information from images for unknown words, and achieving better performance at prepositional phrase attachment prediction.</abstract>
       <url hash="bba4f1ed">2020.aacl-main.42</url>
       <bibkey>jin-schuler-2020-grounded</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="43">
       <title>Heads-up! Unsupervised Constituency Parsing via Self-Attention Heads</title>
@@ -629,7 +629,7 @@
       <abstract>Many top-performing image captioning models rely solely on object features computed with an object detection model to generate image descriptions. However, recent studies propose to directly use scene graphs to introduce information about object relations into captioning, hoping to better describe interactions between objects. In this work, we thoroughly investigate the use of scene graphs in image captioning. We empirically study whether using additional scene graph encoders can lead to better image descriptions and propose a conditional graph attention network (C-GAT), where the image captioning decoder state is used to condition the graph updates. Finally, we determine to what extent noise in the predicted scene graphs influence caption quality. Overall, we find no significant difference between models that use scene graph features and models that only use object detection features across different captioning metrics, which suggests that existing scene graph generation models are still too noisy to be useful in image captioning. Moreover, although the quality of predicted scene graphs is very low in general, when using high quality scene graphs we obtain gains of up to 3.3 CIDEr compared to a strong Bottom-Up Top-Down baseline.</abstract>
       <url hash="fcacefff">2020.aacl-main.50</url>
       <bibkey>milewski-etal-2020-scene</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="51">
       <title>Systematically Exploring Redundancy Reduction in Summarizing Long Documents</title>
@@ -1160,7 +1160,7 @@
       <url hash="55f2bbad">2020.aacl-main.90</url>
       <bibkey>gupta-etal-2020-unified</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mcvqa">MCVQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
     <paper id="91">

@@ -1116,7 +1116,7 @@
       <doi>10.18653/v1/2021.naacl-main.77</doi>
       <bibkey>sun-etal-2021-lightningdot</bibkey>
       <pwccode url="https://github.com/intersun/LightningDOT" additional="true">intersun/LightningDOT</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="78">
       <title>Measuring Social Biases in Grounded Vision and Language Embeddings</title>
@@ -2234,8 +2234,8 @@
       <attachment type="OptionalSupplementaryData" hash="f66c37cb">2021.naacl-main.153.OptionalSupplementaryData.zip</attachment>
       <doi>10.18653/v1/2021.naacl-main.153</doi>
       <bibkey>ramnath-etal-2021-worldly</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/places">Places</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/simplequestions">SimpleQuestions</pwcdataset>
     </paper>
@@ -4118,7 +4118,7 @@
       <url hash="f8eba6c3">2021.naacl-main.285</url>
       <doi>10.18653/v1/2021.naacl-main.285</doi>
       <bibkey>fei-etal-2021-cross</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="286">
       <title><fixed-case>W</fixed-case>ikipedia Entities as Rendezvous across Languages: Grounding Multilingual Language Models by Predicting <fixed-case>W</fixed-case>ikipedia Hyperlinks</title>
@@ -6043,7 +6043,7 @@
       <url hash="81ce6752">2021.naacl-main.422</url>
       <doi>10.18653/v1/2021.naacl-main.422</doi>
       <bibkey>ilharco-etal-2021-probing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
@@ -6559,8 +6559,8 @@
       <url hash="2a5a5564">2021.naacl-main.457</url>
       <doi>10.18653/v1/2021.naacl-main.457</doi>
       <bibkey>long-etal-2021-generative</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="458">
@@ -7438,9 +7438,9 @@
       <abstract>In primary school, children’s books, as well as in modern language learning apps, multi-modal learning strategies like illustrations of terms and phrases are used to support reading comprehension. Also, several studies in educational psychology suggest that integrating cross-modal information will improve reading comprehension. We claim that state-of- he-art multi-modal transformers, which could be used in a language learner context to improve human reading, will perform poorly because of the short and relatively simple textual data those models are trained with. To prove our hypotheses, we collected a new multi-modal image-retrieval dataset based on data from Wikipedia. In an in-depth data analysis, we highlight the differences between our dataset and other popular datasets. Additionally, we evaluate several state-of-the-art multi-modal transformers on text-image retrieval on our dataset and analyze their meager results, which verify our claims.</abstract>
       <url hash="d8aae487">2021.naacl-srw.21</url>
       <bibkey>schneider-etal-2021-towards</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptual-captions">Conceptual Captions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikicaps">WikiCaps</pwcdataset>
     </paper>
   </volume>

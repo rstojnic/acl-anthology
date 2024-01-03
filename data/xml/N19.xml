@@ -2629,7 +2629,7 @@
       <url hash="5780de1a">N19-1194</url>
       <doi>10.18653/v1/N19-1194</doi>
       <bibkey>acharya-etal-2019-vqd</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/refcoco">RefCOCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
@@ -3601,8 +3601,8 @@
       <video href="https://vimeo.com/361582708" tag="video"/>
       <bibkey>shekhar-etal-2019-beyond</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/guesswhat">GuessWhat?!</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visdial">VisDial</pwcdataset>
     </paper>
     <paper id="266">
@@ -3616,7 +3616,7 @@
       <doi>10.18653/v1/N19-1266</doi>
       <video href="https://vimeo.com/361585429" tag="video"/>
       <bibkey>yao-etal-2019-world</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visdial">VisDial</pwcdataset>
     </paper>
     <paper id="267">
@@ -4312,7 +4312,7 @@
       <bibkey>hashimoto-tsuruoka-2019-accelerated</bibkey>
       <pwccode url="https://github.com/hassyGo/NLG-RL" additional="false">hassyGo/NLG-RL</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/aspec">ASPEC</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="316">
       <title>Mitigating Uncertainty in Document Classification</title>
@@ -6822,7 +6822,7 @@
       <url hash="3545aa22">N19-4024</url>
       <doi>10.18653/v1/N19-4024</doi>
       <bibkey>cascante-bonilla-etal-2019-chat</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/shapes-1">SHAPES</pwcdataset>
     </paper>
   </volume>

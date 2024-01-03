@@ -113,7 +113,7 @@
       <bibkey>zou-etal-2021-low</bibkey>
       <pwccode url="https://github.com/rowitzou/dams" additional="false">rowitzou/dams</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reddit-conversation-corpus">Reddit Conversation Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
@@ -595,7 +595,7 @@
       <abstract>An overarching goal of natural language processing is to enable machines to communicate seamlessly with humans. However, natural language can be ambiguous or unclear. In cases of uncertainty, humans engage in an interactive process known as repair: asking questions and seeking clarification until their uncertainty is resolved. We propose a framework for building a visually grounded question-asking model capable of producing polar (yes-no) clarification questions to resolve misunderstandings in dialogue. Our model uses an expected information gain objective to derive informative questions from an off-the-shelf image captioner without requiring any supervised question-answer data. We demonstrate our model’s ability to pose questions that improve communicative success in a goal-oriented 20 questions game with synthetic and human answerers.</abstract>
       <url hash="3eac608c">2021.emnlp-main.44</url>
       <bibkey>white-etal-2021-open</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/shapeworld">ShapeWorld</pwcdataset>
     </paper>
     <paper id="45">
@@ -886,7 +886,7 @@
       <url hash="62ac87aa">2021.emnlp-main.66</url>
       <bibkey>ma-etal-2021-semantic</bibkey>
       <pwccode url="https://github.com/nianzuma/semantic-novelty-detection-in-natural-language-descriptions" additional="false">nianzuma/semantic-novelty-detection-in-natural-language-descriptions</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
     </paper>
     <paper id="67">
@@ -1259,7 +1259,7 @@
       <url hash="3065b40e">2021.emnlp-main.93</url>
       <bibkey>weber-etal-2021-extend</bibkey>
       <pwccode url="https://github.com/leonweber/extend" additional="false">leonweber/extend</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="94">
       <title>Zero-Shot Information Extraction as a Unified Text-to-Triple Translation</title>
@@ -2063,8 +2063,8 @@
       <attachment type="Software" hash="ceabaa30">2021.emnlp-main.151.Software.zip</attachment>
       <bibkey>wang-etal-2021-gender</bibkey>
       <pwccode url="https://github.com/kuanghuei/SCAN" additional="false">kuanghuei/SCAN</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="152">
       <title>Style Pooling: Automatic Text Style Obfuscation for Improved Classification Fairness</title>
@@ -2220,8 +2220,8 @@
       <abstract>One challenge in evaluating visual question answering (VQA) models in the cross-dataset adaptation setting is that the distribution shifts are multi-modal, making it difficult to identify if it is the shifts in visual or language features that play a key role. In this paper, we propose a semi-automatic framework for generating disentangled shifts by introducing a controllable visual question-answer generation (VQAG) module that is capable of generating highly-relevant and diverse question-answer pairs with the desired dataset style. We use it to create CrossVQA, a collection of test splits for assessing VQA generalization based on the VQA2, VizWiz, and Open Images datasets. We provide an analysis of our generated datasets and demonstrate its utility by using them to evaluate several state-of-the-art VQA systems. One important finding is that the visual shifts in cross-dataset VQA matter more than the language shifts. More broadly, we present a scalable framework for systematically evaluating the machine with little human intervention.</abstract>
       <url hash="cd78b493">2021.emnlp-main.164</url>
       <bibkey>akula-etal-2021-crossvqa</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/gqa">GQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vcr">VCR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vqg">VQG</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
@@ -2703,7 +2703,7 @@
       <abstract>A long-standing issue with paraphrase generation is the lack of reliable supervision signals. In this paper, we propose a new unsupervised paradigm for paraphrase generation based on the assumption that the probabilities of generating two sentences with the same meaning given the same context should be the same. Inspired by this fundamental idea, we propose a pipelined system which consists of paraphrase candidate generation based on contextual language models, candidate filtering using scoring functions, and paraphrase model training based on the selected candidates. The proposed paradigm offers merits over existing paraphrase generation methods: (1) using the context regularizer on meanings, the model is able to generate massive amounts of high-quality paraphrase pairs; (2) the combination of the huge amount of paraphrase candidates and further diversity-promoting filtering yields paraphrases with more lexical and syntactic diversity; and (3) using human-interpretable scoring functions to select paraphrase pairs from candidates, the proposed framework provides a channel for developers to intervene with the data generation process, leading to a more controllable model. Experimental results across different tasks and datasets demonstrate that the proposed paradigm significantly outperforms existing paraphrase approaches in both supervised and unsupervised setups.</abstract>
       <url hash="f4b77498">2021.emnlp-main.199</url>
       <bibkey>meng-etal-2021-conrpg</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="200">
       <title>Building the Directed Semantic Graph for Coherent Long Text Generation</title>
@@ -5366,8 +5366,8 @@
       <url hash="55fdb197">2021.emnlp-main.390</url>
       <attachment type="Software" hash="a12b6638">2021.emnlp-main.390.Software.zip</attachment>
       <bibkey>mazuecos-etal-2021-region</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/guesswhat">GuessWhat?!</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visdial">VisDial</pwcdataset>
     </paper>
     <paper id="391">
@@ -5699,7 +5699,7 @@
       <abstract>This paper focuses on paraphrase generation,which is a widely studied natural language generation task in NLP. With the development of neural models, paraphrase generation research has exhibited a gradual shift to neural methods in the recent years. This has provided architectures for contextualized representation of an input text and generating fluent, diverseand human-like paraphrases. This paper surveys various approaches to paraphrase generation with a main focus on neural methods.</abstract>
       <url hash="fc8044b8">2021.emnlp-main.414</url>
       <bibkey>zhou-bhat-2021-paraphrase</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="415">
       <title>Exposure Bias versus Self-Recovery: Are Distortions Really Incremental for Autoregressive Text Generation?</title>
@@ -6305,6 +6305,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
     </paper>
@@ -6391,6 +6392,7 @@
       <pwccode url="https://github.com/amazon-research/sentence-representations" additional="false">amazon-research/sentence-representations</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
@@ -6585,7 +6587,7 @@
       <abstract>Paraphrase generation is a longstanding NLP task that has diverse applications on downstream NLP tasks. However, the effectiveness of existing efforts predominantly relies on large amounts of golden labeled data. Though unsupervised endeavors have been proposed to alleviate this issue, they may fail to generate meaningful paraphrases due to the lack of supervision signals. In this work, we go beyond the existing paradigms and propose a novel approach to generate high-quality paraphrases with data of weak supervision. Specifically, we tackle the weakly-supervised paraphrase generation problem by: (1) obtaining abundant weakly-labeled parallel sentences via retrieval-based pseudo paraphrase expansion; and (2) developing a meta-learning framework to progressively select valuable samples for fine-tuning a pre-trained language model BART on the sentential paraphrasing task. We demonstrate that our approach achieves significant improvements over existing unsupervised approaches, and is even comparable in performance with supervised state-of-the-arts.</abstract>
       <url hash="1a9935ee">2021.emnlp-main.480</url>
       <bibkey>ding-etal-2021-learning</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="481">
       <title>Effective Convolutional Attention Network for Multi-label Clinical Document Classification</title>
@@ -6900,6 +6902,7 @@
       <url hash="706ceda5">2021.emnlp-main.502</url>
       <bibkey>yang-etal-2021-universal</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
@@ -7038,7 +7041,7 @@
       <url hash="63c28a40">2021.emnlp-main.512</url>
       <bibkey>kil-etal-2021-discovering</bibkey>
       <pwccode url="https://github.com/heendung/simpleaug" additional="false">heendung/simpleaug</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering-v2-0">Visual Question Answering v2.0</pwcdataset>
@@ -7051,7 +7054,7 @@
       <abstract>Phrase grounding aims to map textual phrases to their associated image regions, which can be a prerequisite for multimodal reasoning and can benefit tasks requiring identifying objects based on language. With pre-trained vision-and-language models achieving impressive performance across tasks, it remains unclear if we can directly utilize their learned embeddings for phrase grounding without fine-tuning. To this end, we propose a method to extract matched phrase-region pairs from pre-trained vision-and-language embeddings and propose four fine-tuning objectives to improve the model phrase grounding ability using image-caption data without any supervised grounding signals. Experiments on two representative datasets demonstrate the effectiveness of our objectives, outperforming baseline models in both weakly-supervised and supervised phrase grounding settings. In addition, we evaluate the aligned embeddings on several other downstream tasks and show that we can achieve better phrase grounding without sacrificing representation generality.</abstract>
       <url hash="f851e2f4">2021.emnlp-main.513</url>
       <bibkey>dou-peng-2021-improving</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/refcoco">RefCOCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
@@ -7276,7 +7279,7 @@
       <abstract>Summarization evaluation remains an open research problem: current metrics such as ROUGE are known to be limited and to correlate poorly with human judgments. To alleviate this issue, recent work has proposed evaluation metrics which rely on question answering models to assess whether a summary contains all the relevant information in its source document. Though promising, the proposed approaches have so far failed to correlate better than ROUGE with human judgments. In this paper, we extend previous approaches and propose a unified framework, named QuestEval. In contrast to established metrics such as ROUGE or BERTScore, QuestEval does not require any ground-truth reference. Nonetheless, QuestEval substantially improves the correlation with human judgments over four evaluation dimensions (consistency, coherence, fluency, and relevance), as shown in extensive experiments.</abstract>
       <url hash="cf58cfa9">2021.emnlp-main.529</url>
       <bibkey>scialom-etal-2021-questeval</bibkey>
-      <pwccode url="https://github.com/recitalAI/QuestEval" additional="true">recitalAI/QuestEval</pwccode>
+      <pwccode url="https://github.com/recitalAI/QuestEval" additional="false">recitalAI/QuestEval</pwccode>
     </paper>
     <paper id="530">
       <title>Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue Summarization</title>
@@ -10790,6 +10793,7 @@
       <bibkey>cao-etal-2021-pause</bibkey>
       <pwccode url="https://github.com/eqtpartners/pause" additional="false">eqtpartners/pause</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
@@ -11157,7 +11161,7 @@
       <url hash="db428beb">2021.emnlp-main.817</url>
       <bibkey>colombo-etal-2021-automatic</bibkey>
       <pwccode url="" additional="true"/>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="818">

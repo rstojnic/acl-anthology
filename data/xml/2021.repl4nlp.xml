@@ -124,6 +124,7 @@
       <doi>10.18653/v1/2021.repl4nlp-1.7</doi>
       <bibkey>peng-etal-2021-structure</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>

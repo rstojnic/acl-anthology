@@ -149,8 +149,8 @@
       <doi>10.18653/v1/2021.acl-long.9</doi>
       <bibkey>wang-etal-2021-mention</bibkey>
       <pwccode url="https://github.com/garyyufei/acl2021mf" additional="false">garyyufei/acl2021mf</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commongen">CommonGen</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/nocaps">NoCaps</pwcdataset>
     </paper>
     <paper id="10">
@@ -614,8 +614,8 @@
       <url hash="f8ad6328">2021.acl-long.42</url>
       <doi>10.18653/v1/2021.acl-long.42</doi>
       <bibkey>xu-etal-2021-e2e</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
@@ -635,8 +635,8 @@
       <doi>10.18653/v1/2021.acl-long.43</doi>
       <bibkey>ren-etal-2021-learning</bibkey>
       <pwccode url="https://github.com/lancopku/IAIS" additional="false">lancopku/IAIS</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="44">
       <title><fixed-case>KM</fixed-case>-<fixed-case>BART</fixed-case>: Knowledge Enhanced Multimodal <fixed-case>BART</fixed-case> for Visual Commonsense Generation</title>
@@ -653,9 +653,9 @@
       <doi>10.18653/v1/2021.acl-long.44</doi>
       <bibkey>xing-etal-2021-km</bibkey>
       <pwccode url="https://github.com/FomalhautB/KM-BART-ACL" additional="false">FomalhautB/KM-BART-ACL</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptual-captions">Conceptual Captions</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
@@ -2984,6 +2984,7 @@
       <bibkey>kim-etal-2021-self</bibkey>
       <pwccode url="https://github.com/galsang/SG-BERT" additional="false">galsang/SG-BERT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-2014">SemEval-2014 Task-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
@@ -3014,10 +3015,10 @@
       <doi>10.18653/v1/2021.acl-long.199</doi>
       <bibkey>liu-etal-2021-multi</bibkey>
       <pwccode url="https://github.com/lttsmn/LXMERT-S" additional="false">lttsmn/LXMERT-S</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptual-captions">Conceptual Captions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/gqa">GQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
     </paper>
     <paper id="200">
@@ -3078,9 +3079,9 @@
       <doi>10.18653/v1/2021.acl-long.202</doi>
       <bibkey>li-etal-2021-unimo</bibkey>
       <pwccode url="https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/text_generation/unimo-text" additional="true">PaddlePaddle/PaddleNLP</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli-ve">SNLI-VE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -3524,8 +3525,8 @@
       <doi>10.18653/v1/2021.acl-long.230</doi>
       <bibkey>duan-etal-2021-enslm</bibkey>
       <pwccode url="https://github.com/bochengroup/enslm" additional="false">bochengroup/enslm</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="231">
       <title><fixed-case>L</fixed-case>ee<fixed-case>BERT</fixed-case>: Learned Early Exit for <fixed-case>BERT</fixed-case> with cross-level optimization</title>
@@ -5907,7 +5908,7 @@
       <url hash="6ccc40d2">2021.acl-long.389</url>
       <doi>10.18653/v1/2021.acl-long.389</doi>
       <bibkey>lu-etal-2021-visualsparta</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="390">
       <title>Few-Shot Text Ranking with Meta Adapted Synthetic Weak Supervision</title>
@@ -5969,6 +5970,7 @@
       <bibkey>yan-etal-2021-consert</bibkey>
       <pwccode url="https://github.com/yym6472/ConSERT" additional="false">yym6472/ConSERT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
@@ -6111,6 +6113,7 @@
       <pwccode url="https://github.com/yanzhangnlp/bsl" additional="false">yanzhangnlp/bsl</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
@@ -6238,8 +6241,8 @@
       <url hash="35e8f58a">2021.acl-long.411</url>
       <doi>10.18653/v1/2021.acl-long.411</doi>
       <bibkey>hsu-etal-2021-text</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ljspeech">LJSpeech</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/places205">Places205</pwcdataset>
     </paper>
     <paper id="412">
@@ -6605,7 +6608,7 @@
       <doi>10.18653/v1/2021.acl-long.435</doi>
       <bibkey>liang-etal-2021-maria</bibkey>
       <pwccode url="https://github.com/jokieleung/Maria" additional="false">jokieleung/Maria</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reddit-conversation-corpus">Reddit Conversation Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
     </paper>
@@ -7280,8 +7283,8 @@
       <doi>10.18653/v1/2021.acl-long.479</doi>
       <bibkey>zang-etal-2021-photochat</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/photochat">PhotoChat</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/image-chat">Image-Chat</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
     <paper id="480">
@@ -7856,8 +7859,8 @@
       <doi>10.18653/v1/2021.acl-long.516</doi>
       <bibkey>dimitrov-etal-2021-detecting</bibkey>
       <pwccode url="https://github.com/di-dimitrov/propaganda-techniques-in-memes" additional="false">di-dimitrov/propaganda-techniques-in-memes</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hateful-memes">Hateful Memes</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="517">
       <title>On the Efficacy of Adversarial Data Collection for Question Answering: Results from a Large-Scale Randomized Study</title>
@@ -9180,7 +9183,7 @@
       <doi>10.18653/v1/2021.acl-short.36</doi>
       <bibkey>shi-etal-2021-enhancing</bibkey>
       <pwccode url="https://github.com/gitsamshi/nli-image-caption" additional="false">gitsamshi/nli-image-caption</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="37">
@@ -9401,6 +9404,7 @@
       <doi>10.18653/v1/2021.acl-short.52</doi>
       <bibkey>tsukagoshi-etal-2021-defsent</bibkey>
       <pwccode url="https://github.com/hppRC/defsent" additional="false">hppRC/defsent</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="53">
@@ -9697,6 +9701,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
     </paper>
@@ -10774,8 +10779,8 @@
       <url hash="5b8d534e">2021.acl-srw.11</url>
       <doi>10.18653/v1/2021.acl-srw.11</doi>
       <bibkey>testoni-bernardi-2021-ive</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/guesswhat">GuessWhat?!</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="12">
       <title>How do different factors Impact the Inter-language Similarity? A Case Study on <fixed-case>I</fixed-case>ndian languages</title>
@@ -11178,8 +11183,8 @@
       <doi>10.18653/v1/2021.acl-demo.4</doi>
       <bibkey>li-etal-2021-textbox</bibkey>
       <pwccode url="https://github.com/RUCAIBox/TextBox" additional="false">RUCAIBox/TextBox</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="5">
       <title>Inside <fixed-case>ASCENT</fixed-case>: Exploring a Deep Commonsense Knowledge Base and its Usage in Question Answering</title>
@@ -11593,8 +11598,8 @@
       <doi>10.18653/v1/2021.acl-demo.31</doi>
       <bibkey>neumann-etal-2021-pawls</bibkey>
       <pwccode url="https://github.com/allenai/pawls" additional="false">allenai/pawls</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/docbank">DocBank</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="32">
       <title><fixed-case>T</fixed-case>wee<fixed-case>NLP</fixed-case>: A <fixed-case>T</fixed-case>witter Exploration Portal for Natural Language Processing</title>

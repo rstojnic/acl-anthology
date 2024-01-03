@@ -505,7 +505,7 @@
       <abstract>Recent work has adopted models of pragmatic reasoning for the generation of informative language in, e.g., image captioning. We propose a simple but highly effective relaxation of fully rational decoding, based on an existing incremental and character-level approach to pragmatically informative neural image captioning. We implement a mixed, ‘fast’ and ‘slow’, speaker that applies pragmatic reasoning occasionally (only word-initially), while unrolling the language model. In our evaluation, we find that increased informativeness through pragmatic decoding generally lowers quality and, somewhat counter-intuitively, increases repetitiveness in captions. Our mixed speaker, however, achieves a good balance between quality and informativeness.</abstract>
       <url hash="5bfa463c">2021.inlg-1.41</url>
       <bibkey>zarriess-etal-2021-decoding</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/coco">COCO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="42">
       <title><fixed-case>G</fixed-case>raph<fixed-case>P</fixed-case>lan: Story Generation by Planning with Event Graph</title>
