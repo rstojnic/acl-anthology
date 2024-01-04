@@ -2870,11 +2870,11 @@
       <video tag="video" href="http://slideslive.com/38928769"/>
       <bibkey>sun-etal-2020-mobilebert</bibkey>
       <pwccode url="https://github.com/tensorflow/models/tree/master/official/nlp/projects/mobilebert" additional="true">tensorflow/models</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="196">
       <title>On Importance Sampling-Based Evaluation of Latent Language Models</title>
@@ -3617,6 +3617,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/record">ReCoRD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="245">
       <title>Robust Encodings: A Framework for Combating Adversarial Typos</title>
@@ -3636,6 +3637,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="246">
       <title>Showing Your Work Doesn’t Always Work</title>
@@ -4580,6 +4582,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="311">
       <title>Roles and Utilization of Attention Heads in Transformer-based Neural Language Models</title>
@@ -5020,6 +5023,8 @@
       <bibkey>yin-etal-2020-sentibert</bibkey>
       <pwccode url="https://github.com/WadeYin9712/SentiBERT" additional="true">WadeYin9712/SentiBERT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="342">
       <title>Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction</title>
@@ -5515,6 +5520,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="375">
       <title>Do Neural Language Models Show Preferences for Syntactic Formalisms?</title>
@@ -5662,6 +5668,7 @@
       <pwccode url="https://github.com/samiraabnar/attention_flow" additional="true">samiraabnar/attention_flow</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="386">
       <title>Towards Faithfully Interpretable <fixed-case>NLP</fixed-case> Systems: How Should We Define and Evaluate Faithfulness?</title>
@@ -6237,6 +6244,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="423">
       <title><fixed-case>S</fixed-case>ense<fixed-case>BERT</fixed-case>: Driving Some Sense into <fixed-case>BERT</fixed-case></title>
@@ -7225,6 +7233,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/meld">MELD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="489">
@@ -7286,6 +7295,7 @@
       <pwccode url="https://github.com/xhan77/influence-function-analysis" additional="false">xhan77/influence-function-analysis</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="493">
       <title>Finding Universal Grammatical Relations in Multilingual <fixed-case>BERT</fixed-case></title>
@@ -8005,6 +8015,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="541">
       <title>Benchmarking Multimodal Regex Synthesis with Complex Structures</title>
@@ -12441,6 +12452,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="17">
       <title>Non-Topical Coherence in Social Talk: A Call for Dialogue Model Enrichment</title>

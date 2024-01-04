@@ -3908,6 +3908,7 @@
       <pwccode url="https://github.com/dpressel/baseline" additional="false">dpressel/baseline</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wnut-2017-emerging-and-rare-entity">WNUT 2017</pwcdataset>
     </paper>
     <paper id="7">
@@ -4626,6 +4627,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/microsoft-research-social-media-conversation">Microsoft Research Social Media Conversation Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="5">
       <title>Text Completion using Context-Integrated Dependency Parsing</title>
@@ -9879,6 +9881,7 @@
       <bibkey>tutek-snajder-2018-iterative</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="28">
       <title>Interpreting Word-Level Hidden State Behaviour of Character-Level <fixed-case>LSTM</fixed-case> Language Models</title>
@@ -10119,6 +10122,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
     </paper>
@@ -12711,6 +12715,7 @@
       <pwccode url="https://github.com/pxuab/emo2vec_wassa_paper" additional="false">pxuab/emo2vec_wassa_paper</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="44">
       <title>Learning representations for sentiment classification using Multi-task framework</title>

@@ -337,6 +337,8 @@
       <bibkey>chen-etal-2021-reinforced</bibkey>
       <pwccode url="https://github.com/nustm/rcda" additional="false">nustm/rcda</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="25">
       <title>Idiosyncratic but not Arbitrary: Learning Idiolects in Online Registers Reveals Distinctive yet Consistent Individual Styles</title>
@@ -437,6 +439,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="32">
       <title>Few-Shot Text Generation with Natural Language Instructions</title>
@@ -695,6 +698,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="52">
       <title>Conditional <fixed-case>P</fixed-case>oisson Stochastic Beams</title>
@@ -860,6 +864,8 @@
       <bibkey>rajagopal-etal-2021-selfexplain</bibkey>
       <pwccode url="https://github.com/dheerajrajagopal/SelfExplain" additional="true">dheerajrajagopal/SelfExplain</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="65">
       <title>Memory and Knowledge Augmented Language Models for Inferring Salience in Long-Form Stories</title>
@@ -1109,6 +1115,7 @@
       <pwccode url="https://github.com/foreverzyh/certified_lstms" additional="false">foreverzyh/certified_lstms</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="83">
       <title><fixed-case>R</fixed-case>e<fixed-case>G</fixed-case>en: <fixed-case>R</fixed-case>einforcement Learning for Text and Knowledge Base Generation using Pretrained Language Models</title>
@@ -1137,6 +1144,7 @@
       <pwccode url="https://github.com/wzhouad/Contra-OOD" additional="false">wzhouad/Contra-OOD</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="85">
@@ -1276,7 +1284,6 @@
       <pwccode url="https://github.com/cgraywang/deepex" additional="false">cgraywang/deepex</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/oie2016">OIE2016</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tacred">TACRED</pwcdataset>
     </paper>
     <paper id="95">
@@ -1566,6 +1573,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="116">
       <title>Debiasing Methods in Natural Language Understanding Make Bias More Accessible</title>
@@ -1654,6 +1662,7 @@
       <pwccode url="https://github.com/john-hewitt/conditional-probing" additional="false">john-hewitt/conditional-probing</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="123">
       <title><fixed-case>GFST</fixed-case>: <fixed-case>G</fixed-case>ender-Filtered Self-Training for More Accurate Gender in Translation</title>
@@ -2100,6 +2109,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="155">
       <title>Fairness-aware Class Imbalanced Learning</title>
@@ -2274,6 +2284,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="168">
       <title>Neural Path Hunter: Reducing Hallucination in Dialogue Systems via Path Grounding</title>
@@ -3008,6 +3019,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="222">
       <title>Weakly-supervised Text Classification Based on Keyword Graph</title>
@@ -3135,6 +3147,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="231">
@@ -3254,6 +3267,7 @@
       <bibkey>liu-etal-2021-adversarial</bibkey>
       <pwccode url="https://github.com/pai-smallisallyourneed/mixup-amp" additional="false">pai-smallisallyourneed/mixup-amp</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="239">
       <title>Is this the end of the gold standard? A straightforward reference-less grammatical error correction metric</title>
@@ -3293,6 +3307,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="242">
       <title><fixed-case>GAML</fixed-case>-<fixed-case>BERT</fixed-case>: Improving <fixed-case>BERT</fixed-case> Early Exiting by Gradient Aligned Mutual Learning</title>
@@ -3371,6 +3386,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="247">
       <title>Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification</title>
@@ -4954,6 +4970,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/goemotions">GoEmotions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/isear">ISEAR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="360">
       <title>Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection</title>
@@ -4997,6 +5015,7 @@
       <bibkey>hsu-etal-2021-semantics</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mams">MAMS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/stocknet-1">StockNet</pwcdataset>
     </paper>
     <paper id="363">
@@ -5117,6 +5136,7 @@
       <pwccode url="https://github.com/yangyi-chen/maya" additional="false">yangyi-chen/maya</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="372">
       <title>All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality</title>
@@ -5142,6 +5162,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="374">
       <title>Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer</title>
@@ -5158,6 +5179,7 @@
       <pwccode url="https://github.com/thunlp/styleattack" additional="false">thunlp/styleattack</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/hate-speech">Hate Speech</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="375">
       <title>Sociolectal Analysis of Pretrained Language Models</title>
@@ -6237,6 +6259,7 @@
       <bibkey>jin-etal-2021-instance</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="458">
       <title>Distributionally Robust Multilingual Machine Translation</title>
@@ -6308,6 +6331,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="463">
       <title><fixed-case>TADPOLE</fixed-case>: <fixed-case>T</fixed-case>ask <fixed-case>AD</fixed-case>apted <fixed-case>P</fixed-case>re-Training via <fixed-case>A</fixed-case>n<fixed-case>O</fixed-case>ma<fixed-case>L</fixed-case>y <fixed-case>D</fixed-case><fixed-case>E</fixed-case>tection</title>
@@ -7233,6 +7258,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="527">
       <title>Adversarial Regularization as Stackelberg Game: An Unrolled Optimization Approach</title>
@@ -7254,6 +7280,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="528">
       <title>Aspect-Controllable Opinion Summarization</title>
@@ -7735,6 +7762,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hellaswag">HellaSwag</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="565">
       <title>Entity-Based Knowledge Conflicts in Question Answering</title>
@@ -8294,6 +8322,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="604">
       <title>Highly Parallel Autoregressive Entity Linking with Discriminative Correction</title>
@@ -8507,6 +8536,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/topical-chat">Topical-Chat</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/usr-personachat">USR-PersonaChat</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/usr-topicalchat">USR-TopicalChat</pwcdataset>
@@ -8837,6 +8867,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="643">
       <title>Balancing Methods for Multi-label Text Classification with Long-Tailed Class Distribution</title>
@@ -9759,6 +9790,8 @@
       <pwccode url="https://github.com/lancopku/text-autoaugment" additional="false">lancopku/text-autoaugment</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="712">
       <title>Distilling Relation Embeddings from Pretrained Language Models</title>
@@ -9825,6 +9858,7 @@
       <bibkey>goswami-etal-2021-cross</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/bucc">BUCC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
@@ -9859,6 +9893,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="719">
       <title>Bridging Perception, Memory, and Inference through Semantic Relations</title>
@@ -10296,6 +10332,7 @@
       <pwccode url="https://github.com/thunlp/ONION" additional="true">thunlp/ONION</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="753">
       <title>Value-aware Approximate Attention</title>
@@ -10508,6 +10545,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="769">
       <title><fixed-case>U</fixed-case>ni<fixed-case>KER</fixed-case>: A Unified Framework for Combining Embedding and Definite Horn Rule Reasoning for Knowledge Graph Inference</title>
@@ -10993,6 +11031,7 @@
       <pwccode url="https://github.com/ink-usc/dig" additional="true">ink-usc/dig</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="806">
       <title>Putting Words in <fixed-case>BERT</fixed-case>’s Mouth: Navigating Contextualized Vector Spaces with Pseudowords</title>
@@ -11323,6 +11362,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="830">
       <title>Finetuning Pretrained Transformers into <fixed-case>RNN</fixed-case>s</title>
@@ -11420,6 +11460,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="836">
       <title>Self-training with Few-shot Rationalization</title>

@@ -305,6 +305,7 @@
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="27">
       <title>Coordination Boundary Identification with Similarity and Replaceability</title>
@@ -1442,6 +1443,7 @@
       <abstract>In this paper, we investigate the effectiveness of different affective lexicons through sentiment analysis of phrases. We examine how phrases can be represented through manually prepared lexicons, extended lexicons using computational methods, or word embedding. Comparative studies clearly show that word embedding using unsupervised distributional method outperforms manually prepared lexicons no matter what affective models are used in the lexicons. Our conclusion is that although different affective lexicons are cognitively backed by theories, they do not show any advantage over the automatically obtained word embedding.</abstract>
       <bibkey>li-etal-2017-manually</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="26">
       <title><fixed-case>MTNA</fixed-case>: A Neural Multi-task Model for Aspect Category Classification and Aspect Term Extraction On Restaurant Reviews</title>

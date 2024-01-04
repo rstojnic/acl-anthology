@@ -667,6 +667,8 @@
       <pwccode url="https://github.com/12190143/sentix" additional="false">12190143/sentix</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="50">
       <title><fixed-case>B</fixed-case>ayes-enhanced Lifelong Attention Networks for Sentiment Classification</title>
@@ -1425,6 +1427,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="107">
       <title>Always Keep your Target in Mind: Studying Semantics and Improving Performance of Neural Lexical Substitution</title>
@@ -1580,6 +1583,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="119">
       <title>Harnessing Cross-lingual Features to Improve Cognate Detection for Low-resource Languages</title>
@@ -1699,6 +1703,7 @@
       <bibkey>le-zuidema-2020-dolfin</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="128">
       <title>Contextual Argument Component Classification for Class Discussions</title>
@@ -4084,6 +4089,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="306">
       <title>Handling Anomalies of Synthetic Questions in Unsupervised Question Answering</title>
@@ -4622,6 +4628,8 @@
       <bibkey>castellana-bacciu-2020-learning</bibkey>
       <pwccode url="https://github.com/danielecastellana22/tensor-tree-nn" additional="false">danielecastellana22/tensor-tree-nn</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="347">
       <title>Second-Order Unsupervised Neural Dependency Parsing</title>
@@ -4729,6 +4737,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
     </paper>
     <paper id="355">
@@ -8152,6 +8161,7 @@
       <doi>10.18653/v1/2020.coling-main.611</doi>
       <bibkey>jindal-etal-2020-augmenting</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="612">
       <title>Neural Language Modeling for Named Entity Recognition</title>

@@ -1950,6 +1950,8 @@
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="178">
       <title><fixed-case>MGNC</fixed-case>-<fixed-case>CNN</fixed-case>: A Simple Approach to Exploiting Multiple Word Embeddings for Sentence Classification</title>
@@ -1961,6 +1963,7 @@
       <doi>10.18653/v1/N16-1178</doi>
       <bibkey>zhang-etal-2016-mgnc</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="179">
       <title>Improving sentence compression by learning to predict gaze</title>

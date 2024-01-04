@@ -2474,6 +2474,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="270">
       <title>A Survey on Automatically-Constructed <fixed-case>W</fixed-case>ord<fixed-case>N</fixed-case>ets and their Evaluation: Lexical and Word Embedding-based Approaches</title>

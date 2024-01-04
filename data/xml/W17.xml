@@ -11778,6 +11778,7 @@ with emotion annotation. We (a) analyse annotation reliability and annotation me
       <bibkey>nejat-etal-2017-exploring</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="36">
       <title>Predicting Causes of Reformulation in Intelligent Assistants</title>

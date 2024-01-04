@@ -663,6 +663,7 @@
       <bibkey>lai-etal-2019-many</bibkey>
       <pwccode url="https://github.com/BoulderDS/feature-importance" additional="false">BoulderDS/feature-importance</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="47">
       <title>Enhancing Local Feature Extraction with Global Representation for Neural Text Classification</title>
@@ -1512,6 +1513,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="109">
       <title>Commonsense Knowledge Mining from Pretrained Models</title>
@@ -1580,6 +1582,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="114">
       <title>Incorporating Contextual and Syntactic Structures Improves Semantic Similarity Modeling</title>
@@ -5134,7 +5137,6 @@
       <doi>10.18653/v1/D19-1371</doi>
       <bibkey>beltagy-etal-2019-scibert</bibkey>
       <pwccode url="https://github.com/allenai/scibert" additional="true">allenai/scibert</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/acl-arc-1">ACL ARC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bc5cdr">BC5CDR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/chemprot">ChemProt</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ebm-nlp">EBM-NLP</pwcdataset>
@@ -5143,7 +5145,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/microsoft-academic-graph">Microsoft Academic Graph</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ncbi-disease-1">NCBI Disease</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paper-field">Paper Field</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scicite">SciCite</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scierc">SciERC</pwcdataset>
     </paper>
@@ -5262,6 +5263,8 @@
       <pwccode url="https://github.com/N-Almarwani/DCT_Sentence_Embedding" additional="false">N-Almarwani/DCT_Sentence_Embedding</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="381">
@@ -5865,6 +5868,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="425">
       <title>Topics to Avoid: Demoting Latent Confounds in Text Classification</title>
@@ -6110,6 +6114,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="442">
       <title>Neural <fixed-case>G</fixed-case>aussian Copula for Variational Autoencoder</title>
@@ -6165,6 +6170,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="446">
       <title>Machine Translation With Weakly Paired Documents</title>
@@ -6853,6 +6859,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="497">
       <title>A Neural Citation Count Prediction Model based on Peer Review Text</title>
@@ -7850,6 +7857,7 @@
       <bibkey>madasu-anvesh-rao-2019-sequential</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="568">
       <title>The Role of Pragmatic and Discourse Context in Determining Argument Impact</title>
@@ -13286,7 +13294,6 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <url hash="9fb0385d">D19-5821</url>
       <doi>10.18653/v1/D19-5821</doi>
       <bibkey>chan-fan-2019-recurrent</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="22">
       <title>Let Me Know What to Ask: Interrogative-Word-Aware Question Generation</title>

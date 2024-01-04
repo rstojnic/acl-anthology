@@ -1090,6 +1090,7 @@
       <pwccode url="https://github.com/successar/instance_attributions_NLP" additional="false">successar/instance_attributions_NLP</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="76">
       <title>Generalization in Instruction Following Systems</title>
@@ -1245,6 +1246,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="86">
       <title>Understanding Hard Negatives in Noise Contrastive Estimation</title>
@@ -1998,6 +2000,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="137">
       <title>Lattice-<fixed-case>BERT</fixed-case>: Leveraging Multi-Granularity Representations in <fixed-case>C</fixed-case>hinese Pre-trained Language Models</title>
@@ -2408,6 +2411,8 @@
       <pwccode url="https://github.com/lancopku/Embedding-Poisoning" additional="false">lancopku/Embedding-Poisoning</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
@@ -3258,6 +3263,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="224">
       <title>Incorporating External Knowledge to Enhance Tabular Reasoning</title>
@@ -4211,6 +4217,7 @@
       <pwccode url="https://github.com/Hsuan-Tung/universal_attack_natural_trigger" additional="false">Hsuan-Tung/universal_attack_natural_trigger</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="292">
       <title><fixed-case>Q</fixed-case>uadruplet<fixed-case>BERT</fixed-case>: An Efficient Model For Embedding-Based Large-Scale Retrieval</title>
@@ -4399,6 +4406,7 @@
       <pwccode url="https://github.com/chong-z/nlp-second-order-attack" additional="false">chong-z/nlp-second-order-attack</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="306">
       <title>Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks</title>
@@ -5766,6 +5774,7 @@
       <bibkey>zhang-hashimoto-2021-inductive</bibkey>
       <pwccode url="https://github.com/tatsu-lab/mlm_inductive_bias" additional="false">tatsu-lab/mlm_inductive_bias</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="405">
       <title>Limitations of Autoregressive Models and Their Alternatives</title>
@@ -6108,6 +6117,8 @@
       <bibkey>du-etal-2021-self</bibkey>
       <pwccode url="https://github.com/facebookresearch/SentAugment" additional="false">facebookresearch/SentAugment</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="427">
       <title>Supporting Clustering with Contrastive Learning</title>
@@ -6126,7 +6137,6 @@
       <doi>10.18653/v1/2021.naacl-main.427</doi>
       <bibkey>zhang-etal-2021-supporting</bibkey>
       <pwccode url="https://github.com/amazon-research/sccl" additional="true">amazon-research/sccl</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
     </paper>
     <paper id="428">
       <title><fixed-case>TITA</fixed-case>: A Two-stage Interaction and Topic-Aware Text Matching Model</title>
@@ -6176,6 +6186,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="431">
       <title>Discrete Argument Representation Learning for Interactive Argument Pair Identification</title>
@@ -7365,6 +7376,7 @@
       <bibkey>ide-kawahara-2021-multi</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="16">
       <title>Comparison of Grammatical Error Correction Using Back-Translation Models</title>
@@ -7480,6 +7492,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/trec-covid">TREC-COVID</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webquestions">WebQuestions</pwcdataset>

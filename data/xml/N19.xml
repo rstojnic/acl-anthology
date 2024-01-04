@@ -1597,6 +1597,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="116">
       <title>Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Auto-Encoders</title>
@@ -1771,6 +1772,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="128">
       <title><fixed-case>W</fixed-case>i<fixed-case>C</fixed-case>: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations</title>
@@ -1857,6 +1859,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="134">
       <title>Adaptation of Hierarchical Structured Models for Speech Act Recognition in Asynchronous Conversation</title>
@@ -3202,7 +3205,6 @@
       <revision id="2" href="N19-1237v2" hash="b1eb40aa">No description of the changes were recorded.</revision>
       <doi>10.18653/v1/N19-1237</doi>
       <bibkey>hosking-riedel-2019-evaluating</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="238">
       <title><fixed-case>T</fixed-case>ext <fixed-case>G</fixed-case>eneration from <fixed-case>K</fixed-case>nowledge <fixed-case>G</fixed-case>raphs with <fixed-case>G</fixed-case>raph <fixed-case>T</fixed-case>ransformers</title>
@@ -5762,7 +5764,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coqa">CoQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrqa-2019">MRQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/manytypes4typescript">ManyTypes4TypeScript</pwcdataset>
@@ -5770,7 +5771,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ncbi-disease-1">NCBI Disease</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/photochat">PhotoChat</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/record">ReCoRD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -6423,6 +6423,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="17">

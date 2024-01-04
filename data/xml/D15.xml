@@ -1049,6 +1049,7 @@
       <doi>10.18653/v1/D15-1092</doi>
       <bibkey>chen-etal-2015-sentence</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="93">
       <title>Learning Timeline Difference for Text Categorization</title>
@@ -3130,6 +3131,7 @@
       <bibkey>liu-etal-2015-multi</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="281">
       <title>Verbal and Nonverbal Clues for Real-life Deception Detection</title>

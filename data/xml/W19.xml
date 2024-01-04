@@ -6466,6 +6466,7 @@ In this paper, we describe a compression scheme for lexicons when represented as
       <bibkey>bhaskaran-bhallamudi-2019-good</bibkey>
       <pwccode url="https://github.com/jayadevbhaskaran/gendered-sentiment" additional="false">jayadevbhaskaran/gendered-sentiment</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="10">
       <title>Debiasing Embeddings for Reduced Gender Bias in Text Classification</title>
@@ -7706,6 +7707,7 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="3">
       <title>Generative Adversarial Networks for Text Using Word2vec Intermediaries</title>

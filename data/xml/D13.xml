@@ -866,8 +866,6 @@
       <pages>891–896</pages>
       <url hash="042a5cca">D13-1090</url>
       <bibkey>ji-eisenstein-2013-discriminative</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="91">
@@ -1628,6 +1626,7 @@
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="171">
       <title>Open Domain Targeted Sentiment</title>

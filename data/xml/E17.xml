@@ -46,6 +46,7 @@
       <abstract>Neural networks with attention have proven effective for many natural language processing tasks. In this paper, we develop attention mechanisms for uncertainty detection. In particular, we generalize standardly used attention mechanisms by introducing external attention and sequence-preserving attention. These novel architectures differ from standard approaches in that they use external resources to compute attention weights and preserve sequence information. We compare them to other configurations along different dimensions of attention. Our novel architectures set the new state of the art on a Wikipedia benchmark dataset and perform similar to the state-of-the-art model on a biomedical benchmark which uses a large set of linguistic features.</abstract>
       <bibkey>adel-schutze-2017-exploring</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="4">
       <title>Classifying Illegal Activities on Tor Network Based on Web Textual Contents</title>
@@ -2106,6 +2107,8 @@
       <abstract>The success of sentence classification often depends on understanding both the syntactic and semantic properties of word-phrases. Recent progress on this task has been based on exploiting the grammatical structure of sentences but often this structure is difficult to parse and noisy. In this paper, we propose a structure-independent ‘Gated Representation Alignment’ (GRA) model that blends a phrase-focused Convolutional Neural Network (CNN) approach with sequence-oriented Recurrent Neural Network (RNN). Our novel alignment mechanism allows the RNN to selectively include phrase information in a word-by-word sentence representation, and to do this without awareness of the syntactic structure. An empirical evaluation of GRA shows higher prediction accuracy (up to 4.6%) of fine-grained sentiment ratings, when compared to other structure-independent baselines. We also show comparable results to several structure-dependent methods. Finally, we analyzed the effect of our alignment mechanism and found that this is critical to the effectiveness of the CNN-RNN hybrid.</abstract>
       <bibkey>hsu-etal-2017-hybrid</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="72">
       <title>Multivariate <fixed-case>G</fixed-case>aussian Document Representation from Word Embeddings for Text Categorization</title>

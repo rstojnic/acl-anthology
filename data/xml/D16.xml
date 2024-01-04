@@ -155,6 +155,7 @@
       <bibkey>liu-etal-2016-deep-multi</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="13">
       <title>Natural Language Comprehension with the <fixed-case>E</fixed-case>pi<fixed-case>R</fixed-case>eader</title>
@@ -2037,6 +2038,7 @@
       <attachment type="attachment" hash="a83bc89a">D16-1173.Attachment.zip</attachment>
       <bibkey>hu-etal-2016-deep</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="174">
       <title>De-Conflated Semantic Representations</title>

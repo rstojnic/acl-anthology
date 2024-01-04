@@ -924,9 +924,7 @@
       <video href="https://vimeo.com/238236002" tag="video"/>
       <bibkey>conneau-etal-2017-supervised</bibkey>
       <pwccode url="https://github.com/facebookresearch/InferSent" additional="true">facebookresearch/InferSent</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
@@ -1627,6 +1625,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <abstract>Idioms are peculiar linguistic constructions that impose great challenges for representing the semantics of language, especially in current prevailing end-to-end neural models, which assume that the semantics of a phrase or sentence can be literally composed from its constitutive words. In this paper, we propose an idiom-aware distributed semantic model to build representation of sentences on the basis of understanding their contained idioms. Our models are grounded in the literal-first psycholinguistic hypothesis, which can adaptively learn semantic compositionality of a phrase literally or idiomatically. To better evaluate our models, we also construct an idiom-enriched sentiment classification dataset with considerable scale and abundant peculiarities of idioms. The qualitative and quantitative experimental analyses demonstrate the efficacy of our models.</abstract>
       <bibkey>liu-etal-2017-idiom</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="125">
       <title>Macro Grammars and Holistic Triggering for Efficient Semantic Parsing</title>
@@ -2563,6 +2562,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <bibkey>li-etal-2017-initializing</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="202">
       <title>Shortest-Path Graph Kernels for Document Similarity</title>

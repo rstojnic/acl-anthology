@@ -2482,6 +2482,7 @@
       <bibkey>wang-etal-2016-combination</bibkey>
       <pwccode url="https://github.com/ultimate010/crnn" additional="false">ultimate010/crnn</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="230">
       <title>Stance Classification in Rumours as a Sequential Task Exploiting the Tree Structure of Social Media Conversations</title>

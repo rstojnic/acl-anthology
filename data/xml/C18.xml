@@ -978,6 +978,7 @@
       <url hash="6ad54d1d">C18-1085</url>
       <bibkey>ye-etal-2018-encoding</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="86">
       <title>Multi-Task Neural Models for Translating Between Styles Within and Across Languages</title>
@@ -1995,6 +1996,7 @@
       <url hash="67eb6089">C18-1173</url>
       <bibkey>zhao-etal-2018-adaptive</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="174">
       <title>Lyrics Segmentation: Textual Macrostructure Detection using Convolutions</title>
@@ -2021,6 +2023,7 @@
       <bibkey>xiao-etal-2018-learning</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="176">
       <title>Towards an argumentative content search engine using weak supervision</title>

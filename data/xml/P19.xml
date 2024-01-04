@@ -1035,7 +1035,7 @@
       <url hash="a6b4f482">P19-1075</url>
       <doi>10.18653/v1/P19-1075</doi>
       <bibkey>zheng-etal-2019-chid</bibkey>
-      <pwccode url="https://github.com/chujiezheng/ChID-Dataset" additional="true">chujiezheng/ChID-Dataset</pwccode>
+      <pwccode url="https://github.com/zhengcj1/ChID-Dataset" additional="true">zhengcj1/ChID-Dataset</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/chid">ChID</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cbt">CBT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cloth">CLOTH</pwcdataset>
@@ -1973,11 +1973,9 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/figer">FIGER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/open-entity-1">Open Entity</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
@@ -2192,6 +2190,8 @@
       <pwccode url="https://github.com/pratogab/rae" additional="false">pratogab/rae</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="154">
       <title>Open Vocabulary Learning for Neural <fixed-case>C</fixed-case>hinese <fixed-case>P</fixed-case>inyin <fixed-case>IME</fixed-case></title>
@@ -4846,6 +4846,8 @@
       <bibkey>zhang-zhang-2019-tree</bibkey>
       <pwccode url="https://github.com/fred2008/TCMSA" additional="false">fred2008/TCMSA</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="343">
       <title>Improved Sentiment Detection via Label Transfer from Monolingual to Synthetic Code-Switched Text</title>
@@ -5431,6 +5433,7 @@
       <bibkey>margatina-etal-2019-attention</bibkey>
       <pwccode url="https://github.com/mourga/affective-attention" additional="false">mourga/affective-attention</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="386">
       <title>The <fixed-case>K</fixed-case>now<fixed-case>R</fixed-case>ef Coreference Corpus: Removing Gender and Number Cues for Difficult Pronominal Anaphora Resolution</title>
@@ -6318,6 +6321,7 @@
       <bibkey>kayal-tsatsaronis-2019-eigensent</bibkey>
       <pwccode url="https://github.com/DeepK/hoDMD-experiments" additional="false">DeepK/hoDMD-experiments</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="446">
       <title><fixed-case>S</fixed-case>em<fixed-case>B</fixed-case>leu: A Robust Metric for <fixed-case>AMR</fixed-case> Parsing Evaluation</title>
@@ -6479,6 +6483,8 @@
       <bibkey>zhang-etal-2019-latent</bibkey>
       <pwccode url="https://github.com/Ehaschia/bi-tree-lstm-crf" additional="false">Ehaschia/bi-tree-lstm-crf</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-5">SST-5</pwcdataset>
     </paper>
     <paper id="458">
       <title>An Investigation of Transfer Learning-Based Sentiment Analysis in <fixed-case>J</fixed-case>apanese</title>
@@ -8400,6 +8406,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="596">
       <title>Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural <fixed-case>NLG</fixed-case></title>
@@ -8539,6 +8546,7 @@
       <bibkey>roy-grangier-2019-unsupervised</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="606">
       <title>Storyboarding of Recipes: Grounded Contextual Generation</title>
@@ -10450,6 +10458,7 @@
       <doi>10.18653/v1/P19-3029</doi>
       <bibkey>wohlwend-etal-2019-flambe</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
     <paper id="30">
       <title>A Modular Tool for Automatic Summarization</title>
