@@ -298,6 +298,8 @@
       <doi>10.18653/v1/P19-1019</doi>
       <bibkey>artetxe-etal-2019-effective</bibkey>
       <pwccode url="https://github.com/artetxem/monoses" additional="false">artetxem/monoses</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="20">
       <title>Effective Adversarial Regularization for Neural Machine Translation</title>
@@ -1035,7 +1037,7 @@
       <url hash="a6b4f482">P19-1075</url>
       <doi>10.18653/v1/P19-1075</doi>
       <bibkey>zheng-etal-2019-chid</bibkey>
-      <pwccode url="https://github.com/zhengcj1/ChID-Dataset" additional="true">zhengcj1/ChID-Dataset</pwccode>
+      <pwccode url="https://github.com/chujiezheng/ChID-Dataset" additional="true">chujiezheng/ChID-Dataset</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/chid">ChID</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cbt">CBT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cloth">CLOTH</pwcdataset>
@@ -1973,9 +1975,12 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/figer">FIGER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fewrel">FewRel</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/open-entity-1">Open Entity</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
@@ -6240,6 +6245,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
@@ -6344,6 +6350,7 @@
       <doi>10.18653/v1/P19-1447</doi>
       <bibkey>yin-neubig-2019-reranking</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/conala">CoNaLa</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conala-ext">CoNaLa-Ext</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/django">Django</pwcdataset>
     </paper>
     <paper id="448">

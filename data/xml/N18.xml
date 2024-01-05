@@ -2160,6 +2160,7 @@
       <doi>10.18653/v1/N18-1158</doi>
       <bibkey>narayan-etal-2018-ranking</bibkey>
       <pwccode url="https://github.com/shashiongithub/Refresh" additional="false">shashiongithub/Refresh</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="159">
       <title>Relational Summarization for Corpus Analysis</title>
@@ -2304,6 +2305,7 @@
       <bibkey>li-etal-2018-delete</bibkey>
       <pwccode url="https://github.com/lijuncen/Sentiment-and-Style-Transfer" additional="true">lijuncen/Sentiment-and-Style-Transfer</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/gyafc">GYAFC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp2018">Yelp2018</pwcdataset>
     </paper>
     <paper id="170">
       <title>Adversarial Example Generation with Syntactically Controlled Paraphrase Networks</title>
@@ -2739,6 +2741,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll">CoNLL++</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/reddit-corpus">Reddit Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -2922,6 +2925,7 @@
       <url hash="43f4f8c9">N18-2009</url>
       <doi>10.18653/v1/N18-2009</doi>
       <bibkey>li-etal-2018-guiding</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="10">
       <title>Natural Language Generation by Hierarchical Decoding with Linguistic Patterns</title>
@@ -3773,6 +3777,7 @@
       <revision id="1" href="N18-2078v1" hash="8ae4f45c"/>
       <revision id="2" href="N18-2078v2" hash="be7c24a0" date="2020-07-07">Changed the name of one of the authors.</revision>
       <bibkey>marcheggiani-etal-2018-exploiting</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="79">
       <title>Incremental Decoding and Training Methods for Simultaneous Translation in Neural Machine Translation</title>
@@ -3930,6 +3935,7 @@
       <doi>10.18653/v1/N18-2090</doi>
       <bibkey>song-etal-2018-leveraging</bibkey>
       <pwccode url="https://github.com/freesunshine0316/MPQG" additional="false">freesunshine0316/MPQG</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="91">
       <title>Robust Machine Comprehension Models via Adversarial Training</title>

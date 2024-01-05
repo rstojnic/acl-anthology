@@ -866,6 +866,8 @@
       <pages>891–896</pages>
       <url hash="042a5cca">D13-1090</url>
       <bibkey>ji-eisenstein-2013-discriminative</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
     </paper>
     <paper id="91">
@@ -1951,6 +1953,7 @@
       <pages>1983–1995</pages>
       <url hash="bb447dab">D13-1204</url>
       <bibkey>spitkovsky-etal-2013-breaking</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="205">
       <title>Cross-Lingual Discriminative Learning of Sequence Models with Posterior Regularization</title>

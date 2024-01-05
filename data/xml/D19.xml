@@ -4188,6 +4188,7 @@
       <doi>10.18653/v1/D19-1300</doi>
       <bibkey>luo-etal-2019-reading</bibkey>
       <pwccode url="https://github.com/LLluoling/HER" additional="false">LLluoling/HER</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="301">
       <title>Contrastive Attention Mechanism for Abstractive Sentence Summarization</title>
@@ -5084,6 +5085,7 @@
       <bibkey>jiang-etal-2019-improved</bibkey>
       <pwccode url="https://github.com/jiangyingjunn/i-darts" additional="false">jiangyingjunn/i-darts</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ptb">PTB Diagnostic ECG Database</pwcdataset>
     </paper>
     <paper id="368">
       <title>Using Pairwise Occurrence Information to Improve Knowledge Graph Completion on Large-Scale Datasets</title>
@@ -5137,6 +5139,7 @@
       <doi>10.18653/v1/D19-1371</doi>
       <bibkey>beltagy-etal-2019-scibert</bibkey>
       <pwccode url="https://github.com/allenai/scibert" additional="true">allenai/scibert</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/acl-arc-1">ACL ARC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bc5cdr">BC5CDR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/chemprot">ChemProt</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ebm-nlp">EBM-NLP</pwcdataset>
@@ -5145,6 +5148,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/microsoft-academic-graph">Microsoft Academic Graph</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ncbi-disease-1">NCBI Disease</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paper-field">Paper Field</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scicite">SciCite</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scierc">SciERC</pwcdataset>
     </paper>
@@ -5947,6 +5951,7 @@
       <attachment hash="3844c416">D19-1430.Attachment.zip</attachment>
       <doi>10.18653/v1/D19-1430</doi>
       <bibkey>wu-etal-2019-exploiting</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="431">
       <title>Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs</title>
@@ -7104,6 +7109,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/nlvr">NLVR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering-v2-0">Visual Question Answering v2.0</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/vizwiz">VizWiz</pwcdataset>
     </paper>
     <paper id="515">
       <title>Phrase Grounding by Soft-Label Chain Conditional Random Field</title>
@@ -13294,6 +13300,7 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <url hash="9fb0385d">D19-5821</url>
       <doi>10.18653/v1/D19-5821</doi>
       <bibkey>chan-fan-2019-recurrent</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="22">
       <title>Let Me Know What to Ask: Interrogative-Word-Aware Question Generation</title>
@@ -13550,6 +13557,7 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <pwccode url="https://github.com/namisan/mt-dnn" additional="true">namisan/mt-dnn</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/record">ReCoRD</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wnli">WNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
     </paper>
     <paper id="3">

@@ -1407,6 +1407,7 @@
       <abstract>Determining the intended sense of words in text – word sense disambiguation (WSD) – is a long-standing problem in natural language processing. Recently, researchers have shown promising results using word vectors extracted from a neural network language model as features in WSD algorithms. However, a simple average or concatenation of word vectors for each word in a text loses the sequential and syntactic information of the text. In this paper, we study WSD with a sequence learning neural net, LSTM, to better capture the sequential and syntactic patterns of the text. To alleviate the lack of training data in all-words WSD, we employ the same LSTM in a semi-supervised label propagation classifier. We demonstrate state-of-the-art results, especially on verbs.</abstract>
       <bibkey>yuan-etal-2016-semi</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/senseval-2-1">Senseval-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013">Temp6</pwcdataset>
     </paper>
     <paper id="131">
       <title>Fast Gated Neural Domain Adaptation: Language Model as a Case Study</title>
@@ -3678,6 +3679,7 @@
       <url hash="bf22af37">C16-1337</url>
       <abstract>We propose a structured generative latent variable model that integrates information from multiple contextual representations for Word Sense Induction. Our approach jointly models global lexical, local lexical and dependency syntactic context. Each context type is associated with a latent variable and the three types of variables share a hierarchical structure. We use skip-gram based word and dependency context embeddings to construct all three types of representations, reducing the total number of parameters to be estimated and enabling better generalization. We describe an EM algorithm to efficiently estimate model parameters and use the Integrated Complete Likelihood criterion to automatically estimate the number of senses. Our model achieves state-of-the-art results on the SemEval-2010 and SemEval-2013 Word Sense Induction datasets.</abstract>
       <bibkey>komninos-manandhar-2016-structured</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013">Temp6</pwcdataset>
     </paper>
   </volume>
   <volume id="2">

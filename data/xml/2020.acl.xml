@@ -312,6 +312,7 @@
       <bibkey>lee-etal-2020-generating</bibkey>
       <pwccode url="https://github.com/seanie12/Info-HCVAE" additional="false">seanie12/Info-HCVAE</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
     </paper>
     <paper id="21">
@@ -486,6 +487,8 @@
       <doi>10.18653/v1/2020.acl-main.32</doi>
       <video tag="video" href="http://slideslive.com/38928999"/>
       <bibkey>wang-etal-2020-neural-topic</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/20-newsgroups">20 Newsgroups</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/covid-19-twitter-chatter-dataset">COVID-19 Twitter Chatter Dataset</pwcdataset>
     </paper>
     <paper id="33">
       <title>Text Classification with Negative Supervision</title>
@@ -2870,6 +2873,7 @@
       <video tag="video" href="http://slideslive.com/38928769"/>
       <bibkey>sun-etal-2020-mobilebert</bibkey>
       <pwccode url="https://github.com/tensorflow/models/tree/master/official/nlp/projects/mobilebert" additional="true">tensorflow/models</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
@@ -2910,6 +2914,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -4494,6 +4499,7 @@
       <video tag="video" href="http://slideslive.com/38928856"/>
       <bibkey>wang-etal-2020-structure</bibkey>
       <pwccode url="https://github.com/Alibaba-NLP/MultilangStructureKD" additional="false">Alibaba-NLP/MultilangStructureKD</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2016">Temp3</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
     </paper>
     <paper id="305">
@@ -4997,6 +5003,7 @@
       <video tag="video" href="http://slideslive.com/38928872"/>
       <bibkey>wei-etal-2020-dont</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2016">Temp3</pwcdataset>
     </paper>
     <paper id="340">
       <title>Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis</title>
@@ -7975,6 +7982,7 @@
       <bibkey>xu-etal-2020-incorporating</bibkey>
       <pwccode url="https://github.com/neulab/external-knowledge-codegen" additional="true">neulab/external-knowledge-codegen</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conala">CoNaLa</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conala-ext">CoNaLa-Ext</pwcdataset>
     </paper>
     <paper id="539">
       <title><fixed-case>L</fixed-case>ogical<fixed-case>F</fixed-case>act<fixed-case>C</fixed-case>hecker: Leveraging Logical Operations for Fact Checking with Graph Module Network</title>

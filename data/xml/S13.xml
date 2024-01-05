@@ -924,6 +924,7 @@
       <pages>300–306</pages>
       <url hash="7d9f2962">S13-2050</url>
       <bibkey>baskaya-etal-2013-ai</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013">Temp6</pwcdataset>
     </paper>
     <paper id="51">
       <title>unimelb: Topic Modelling-based Word Sense Induction</title>

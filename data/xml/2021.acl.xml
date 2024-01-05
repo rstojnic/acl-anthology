@@ -1691,6 +1691,7 @@
       <bibkey>hosking-lapata-2021-factorising</bibkey>
       <pwccode url="https://github.com/tomhosking/separator" additional="false">tomhosking/separator</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/paralex">Paralex</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
     </paper>
     <paper id="113">
       <title><fixed-case>A</fixed-case>gg<fixed-case>G</fixed-case>en: Ordering and Aggregating while Generating</title>
@@ -3160,6 +3161,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2000-1">CoNLL-2000</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semeval-2014-task-4-sub-task-2">SemEval-2014 Task-4</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2016">Temp3</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tweebank">Tweebank</pwcdataset>
     </paper>
     <paper id="207">
@@ -5921,6 +5923,7 @@
       <url hash="6ccc40d2">2021.acl-long.389</url>
       <doi>10.18653/v1/2021.acl-long.389</doi>
       <bibkey>lu-etal-2021-visualsparta</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="390">
@@ -8670,6 +8673,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>

@@ -93,6 +93,7 @@
       <doi>10.18653/v1/P18-1005</doi>
       <bibkey>yang-etal-2018-unsupervised</bibkey>
       <pwccode url="https://github.com/ZhenYangIACAS/unsupervised-NMT" additional="false">ZhenYangIACAS/unsupervised-NMT</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="6">
       <title>Triangular Architecture for Rare Language Translation</title>
@@ -534,6 +535,7 @@
       <bibkey>finegan-dollak-etal-2018-improving</bibkey>
       <pwccode url="https://github.com/jkkummerfeld/text2sql-data" additional="false">jkkummerfeld/text2sql-data</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
     </paper>
     <paper id="34">
@@ -3218,6 +3220,7 @@
       <doi>10.18653/v1/P18-1213</doi>
       <bibkey>rashkin-etal-2018-modeling</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/story-commonsense">Story Commonsense</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/rocstories">ROCStories</pwcdataset>
     </paper>
     <paper id="214">
       <title>A Deep Relevance Model for Zero-Shot Document Filtering</title>
@@ -3481,6 +3484,7 @@
       <doi>10.18653/v1/P18-1230</doi>
       <bibkey>luo-etal-2018-incorporating</bibkey>
       <pwccode url="https://github.com/jimiyulu/WSD_MemNN" additional="false">jimiyulu/WSD_MemNN</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013">Temp6</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/word-sense-disambiguation-a-unified">Word Sense Disambiguation: a Unified Evaluation Framework and Empirical Comparison</pwcdataset>
     </paper>
     <paper id="231">

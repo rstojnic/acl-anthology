@@ -115,6 +115,7 @@
       <doi>10.18653/v1/P16-1009</doi>
       <bibkey>sennrich-etal-2016-improving</bibkey>
       <pwccode url="" additional="true"/>
+      <pwcdataset url="https://paperswithcode.com/dataset/bucc">BUCC</pwcdataset>
     </paper>
     <paper id="10">
       <title>Graph-Based Translation Via Graph Segmentation</title>
@@ -972,6 +973,7 @@
       <bibkey>kadlec-etal-2016-text</bibkey>
       <pwccode url="https://github.com/rkadlec/asreader" additional="true">rkadlec/asreader</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/cbt">CBT</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/children-s-book-test">Children's Book Test</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ptr-nets">PTR_NETS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/searchqa">SearchQA</pwcdataset>
@@ -1823,6 +1825,7 @@
       <doi>10.18653/v1/P16-1160</doi>
       <bibkey>chung-etal-2016-character</bibkey>
       <pwccode url="" additional="true"/>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2015">WMT 2015</pwcdataset>
     </paper>
     <paper id="161">
       <title>Target-Side Context for Discriminative Models in Statistical Machine Translation</title>
@@ -1847,6 +1850,7 @@
       <attachment type="software" hash="0c9fa3b6">P16-1162.Software.zip</attachment>
       <bibkey>sennrich-etal-2016-neural</bibkey>
       <pwccode url="https://github.com/rsennrich/subword-nmt" additional="true">rsennrich/subword-nmt</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2015">WMT 2015</pwcdataset>
     </paper>
     <paper id="163">
       <title>Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network</title>
@@ -2517,6 +2521,7 @@
       <doi>10.18653/v1/P16-1223</doi>
       <bibkey>chen-etal-2016-thorough</bibkey>
       <pwccode url="https://github.com/danqi/rc-cnn-dailymail" additional="true">danqi/rc-cnn-dailymail</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mctest">MCTest</pwcdataset>
     </paper>
     <paper id="224">
@@ -3051,6 +3056,7 @@
       <doi>10.18653/v1/P16-2038</doi>
       <bibkey>sogaard-goldberg-2016-deep</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ccgbank">CCGbank</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="39">
       <title>Domain Specific Named Entity Recognition Referring to the Real World by Deep Neural Networks</title>

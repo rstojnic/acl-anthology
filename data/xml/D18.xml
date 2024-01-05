@@ -1045,6 +1045,7 @@
       <doi>10.18653/v1/D18-1075</doi>
       <bibkey>luo-etal-2018-auto</bibkey>
       <pwccode url="https://github.com/lancopku/AMM" additional="false">lancopku/AMM</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
     </paper>
     <paper id="76">
       <title>A Dataset for Document Grounded Conversations</title>
@@ -4793,6 +4794,7 @@
       <bibkey>jin-szolovits-2018-hierarchical</bibkey>
       <pwccode url="https://github.com/jind11/HSLN-Joint-Sentence-Classification" additional="false">jind11/HSLN-Joint-Sentence-Classification</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmed-rct">PubMed RCT</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
     </paper>
     <paper id="350">
       <title>Investigating Capsule Networks with Dynamic Routing for Text Classification</title>
@@ -5474,6 +5476,7 @@
       <pwccode url="https://github.com/artetxem/vecmap" additional="true">artetxem/vecmap</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/europarl">Europarl</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wmt-2014">WMT 2014</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="400">
       <title>A Visual Attention Grounding Neural Model for Multimodal Machine Translation</title>
@@ -5633,6 +5636,7 @@
       <doi>10.18653/v1/D18-1409</doi>
       <bibkey>dong-etal-2018-banditsum</bibkey>
       <pwccode url="https://github.com/yuedongP/BanditSum" additional="false">yuedongP/BanditSum</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="410">
       <title>A Word-Complexity Lexicon and A Neural Readability Ranking Model for Lexical Simplification</title>
@@ -6097,6 +6101,7 @@
       <doi>10.18653/v1/D18-1442</doi>
       <bibkey>chen-etal-2018-iterative</bibkey>
       <pwccode url="https://github.com/yingtaomj/Iterative-Document-Representation-Learning-Towards-Summarization-with-Polishing" additional="false">yingtaomj/Iterative-Document-Representation-Learning-Towards-Summarization-with-Polishing</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="443">
       <title>Bottom-Up Abstractive Summarization</title>
@@ -6625,6 +6630,7 @@
       <bibkey>xu-durrett-2018-spherical</bibkey>
       <pwccode url="https://github.com/jiacheng-xu/vmf_vae_nlp" additional="false">jiacheng-xu/vmf_vae_nlp</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/20newsgroups">20NewsGroups</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="481">
@@ -7228,6 +7234,7 @@
       <doi>10.18653/v1/D18-1523</doi>
       <bibkey>amrami-goldberg-2018-word</bibkey>
       <pwccode url="https://github.com/asafamr/SymPatternWSI" additional="false">asafamr/SymPatternWSI</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013">Temp6</pwcdataset>
     </paper>
     <paper id="524">
       <title><fixed-case>I</fixed-case>nfer<fixed-case>L</fixed-case>ite: Simple Universal Sentence Representations from Natural Language Inference Data</title>
@@ -7618,6 +7625,7 @@
       <pwccode url="https://github.com/pcyin/tranX" additional="true">pcyin/tranX</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conala">CoNaLa</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conala-ext">CoNaLa-Ext</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/django">Django</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
     </paper>

@@ -1139,8 +1139,11 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -2060,8 +2063,10 @@
       <bibkey>liang-etal-2021-improving</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/billsum">BillSum</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi-news">Multi-News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisum">WikiSum</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/arxiv-summarization-dataset">arXiv Summarization Dataset</pwcdataset>
     </paper>
     <paper id="148">
       <title>Improving Gradient-based Adversarial Training for Text Classification by Contrastive Learning and Auto-Encoder</title>
@@ -8847,6 +8852,7 @@
       <url hash="9b11542f">2021.findings-emnlp.204</url>
       <bibkey>huguet-cabot-navigli-2021-rebel-relation</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ade-corpus">Adverse Drug Events (ADE) Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/docred">DocRED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/re-tacred">Re-TACRED</pwcdataset>
     </paper>
     <paper id="205">
@@ -9111,7 +9117,7 @@
       <abstract>We introduce a new pretraining approach geared for multi-document language modeling, incorporating two key ideas into the masked language modeling self-supervised objective. First, instead of considering documents in isolation, we pretrain over sets of multiple related documents, encouraging the model to learn cross-document relationships. Second, we improve over recent long-range transformers by introducing dynamic global attention that has access to the entire input to predict masked tokens. We release CDLM (Cross-Document Language Model), a new general language model for multi-document setting that can be easily applied to downstream tasks. Our extensive analysis shows that both ideas are essential for the success of CDLM, and work in synergy to set new state-of-the-art results for several multi-text tasks.</abstract>
       <url hash="6ec8c35d">2021.findings-emnlp.225</url>
       <bibkey>caciularu-etal-2021-cdlm-cross</bibkey>
-      <pwccode url="https://github.com/aviclu/cdlm" additional="true">aviclu/cdlm</pwccode>
+      <pwccode url="https://github.com/aviclu/CD-LM" additional="true">aviclu/CD-LM</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ecb">ECB+</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi-news">Multi-News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/oc">OC</pwcdataset>

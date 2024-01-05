@@ -3788,6 +3788,7 @@
       <doi>10.18653/v1/W16-2209</doi>
       <bibkey>sennrich-haddow-2016-linguistic</bibkey>
       <pwccode url="https://github.com/rsennrich/wmt16-scripts" additional="false">rsennrich/wmt16-scripts</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
     </paper>
     <paper id="10">
       <title>A Framework for Discriminative Rule Selection in Hierarchical <fixed-case>M</fixed-case>oses</title>

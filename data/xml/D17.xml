@@ -924,12 +924,15 @@
       <video href="https://vimeo.com/238236002" tag="video"/>
       <bibkey>conneau-etal-2017-supervised</bibkey>
       <pwccode url="https://github.com/facebookresearch/InferSent" additional="true">facebookresearch/InferSent</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sick">SICK</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
     <paper id="71">
       <title>Determining Semantic Textual Similarity using Natural Deduction Proofs</title>
@@ -2626,6 +2629,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <abstract>Transfer and multi-task learning have traditionally focused on either a single source-target pair or very few, similar tasks. Ideally, the linguistic levels of morphology, syntax and semantics would benefit each other by being trained in a single model. We introduce a joint many-task model together with a strategy for successively growing its depth to solve increasingly complex tasks. Higher layers include shortcut connections to lower-level task predictions to reflect linguistic hierarchies. We use a simple regularization term to allow for optimizing all model weights to improve one task’s loss without exhibiting catastrophic interference of the other tasks. Our single end-to-end model obtains state-of-the-art or competitive results on five different tasks from tagging, parsing, relatedness, and entailment tasks.</abstract>
       <bibkey>hashimoto-etal-2017-joint</bibkey>
       <pwccode url="https://github.com/hassyGo/charNgram2vec" additional="true">hassyGo/charNgram2vec</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
     <paper id="207">
       <title>Earth Mover’s Distance Minimization for Unsupervised Bilingual Lexicon Induction</title>

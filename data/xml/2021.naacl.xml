@@ -387,6 +387,9 @@
       <doi>10.18653/v1/2021.naacl-main.28</doi>
       <bibkey>thakur-etal-2021-augmented</bibkey>
       <pwccode url="https://github.com/UKPLab/sentence-transformers" additional="false">UKPLab/sentence-transformers</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
     </paper>
     <paper id="29">
@@ -589,6 +592,7 @@
       <pwccode url="https://github.com/google-research/multilingual-t5" additional="true">google-research/multilingual-t5</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mc4">mC4</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/c4">C4</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/danetqa">DaNetQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/lidirus">LiDiRus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/muserc">MuSeRC</pwcdataset>
@@ -668,6 +672,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/riddle-sense">RiddleSense</pwcdataset>
     </paper>
     <paper id="46">
       <title><fixed-case>XOR</fixed-case> <fixed-case>QA</fixed-case>: Cross-lingual Open-Retrieval Question Answering</title>
@@ -6137,6 +6142,7 @@
       <doi>10.18653/v1/2021.naacl-main.427</doi>
       <bibkey>zhang-etal-2021-supporting</bibkey>
       <pwccode url="https://github.com/amazon-research/sccl" additional="true">amazon-research/sccl</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
     </paper>
     <paper id="428">
       <title><fixed-case>TITA</fixed-case>: A Two-stage Interaction and Topic-Aware Text Matching Model</title>

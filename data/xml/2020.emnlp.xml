@@ -4426,6 +4426,7 @@
       <doi>10.18653/v1/2020.emnlp-main.295</doi>
       <video tag="video" href="https://slideslive.com/38939335"/>
       <bibkey>jia-etal-2020-neural</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/cnn-daily-mail-1">CNN/Daily Mail</pwcdataset>
     </paper>
     <paper id="296">
       <title>Coarse-to-Fine Query Focused Multi-Document Summarization</title>
@@ -9002,6 +9003,7 @@
       <video tag="video" href="https://slideslive.com/38939108"/>
       <bibkey>galkin-etal-2020-message</bibkey>
       <pwccode url="https://github.com/migalkin/StarE" additional="false">migalkin/StarE</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wd50k">Temp8</pwcdataset>
     </paper>
     <paper id="597">
       <title>Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations</title>

@@ -11748,6 +11748,9 @@ One of the references was wrong therefore it is corrected to cite the appropriat
       <url hash="98a93471">W19-5314</url>
       <doi>10.18653/v1/W19-5314</doi>
       <bibkey>ding-tao-2019-university</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016">WMT 2016</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2016-news">WMT 2016 News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wmt-2018">WMT 2018</pwcdataset>
     </paper>
     <paper id="15">
       <title><fixed-case>U</fixed-case>d<fixed-case>S</fixed-case>-<fixed-case>DFKI</fixed-case> Participation at <fixed-case>WMT</fixed-case> 2019: Low-Resource (en-gu) and Coreference-Aware (en-de) Systems</title>

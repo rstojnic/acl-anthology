@@ -2940,6 +2940,7 @@
       <bibkey>henderson-etal-2020-convert</bibkey>
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/dstc7-task-1">DSTC7 Task 1</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/reddit-corpus">Reddit Corpus</pwcdataset>
     </paper>
     <paper id="197">
       <title>Computer Assisted Translation with Neural Quality Estimation and Automatic Post-Editing</title>
@@ -5509,6 +5510,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/quora-question-pairs">Quora Question Pairs</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rte">RTE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
@@ -6272,7 +6274,9 @@
       <doi>10.18653/v1/2020.findings-emnlp.425</doi>
       <bibkey>diao-etal-2020-zen</bibkey>
       <pwccode url="https://github.com/sinovation/ZEN" additional="true">sinovation/ZEN</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/lcqmc">LCQMC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/msra-cn-ner">MSRA CN NER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/thucnews">THUCNews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
     </paper>
     <paper id="426">
