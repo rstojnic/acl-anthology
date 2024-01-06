@@ -6561,6 +6561,7 @@
       <url hash="db735aa0">W16-3210</url>
       <doi>10.18653/v1/W16-3210</doi>
       <bibkey>elliott-etal-2016-multi30k</bibkey>
+      <pwccode url="https://github.com/multi30k/dataset" additional="false">multi30k/dataset</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
     </paper>
     <paper id="11">

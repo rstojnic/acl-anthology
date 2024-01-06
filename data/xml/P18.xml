@@ -3484,7 +3484,6 @@
       <doi>10.18653/v1/P18-1230</doi>
       <bibkey>luo-etal-2018-incorporating</bibkey>
       <pwccode url="https://github.com/jimiyulu/WSD_MemNN" additional="false">jimiyulu/WSD_MemNN</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013">Temp6</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/word-sense-disambiguation-a-unified">Word Sense Disambiguation: a Unified Evaluation Framework and Empirical Comparison</pwcdataset>
     </paper>
     <paper id="231">

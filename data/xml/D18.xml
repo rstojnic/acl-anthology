@@ -7234,7 +7234,6 @@
       <doi>10.18653/v1/D18-1523</doi>
       <bibkey>amrami-goldberg-2018-word</bibkey>
       <pwccode url="https://github.com/asafamr/SymPatternWSI" additional="false">asafamr/SymPatternWSI</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/semeval-2013">Temp6</pwcdataset>
     </paper>
     <paper id="524">
       <title><fixed-case>I</fixed-case>nfer<fixed-case>L</fixed-case>ite: Simple Universal Sentence Representations from Natural Language Inference Data</title>
