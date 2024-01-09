@@ -378,6 +378,7 @@
       <doi>10.18653/v1/2021.repl4nlp-1.26</doi>
       <bibkey>turton-etal-2021-deriving</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/billion-word-benchmark">Billion Word Benchmark</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/one-billion-word-benchmark">One Billion Word Benchmark</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
     </paper>
     <paper id="27">

@@ -1137,6 +1137,7 @@
       <doi>10.18653/v1/2021.acl-long.76</doi>
       <bibkey>wilcox-etal-2021-targeted</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/billion-word-benchmark">Billion Word Benchmark</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/one-billion-word-benchmark">One Billion Word Benchmark</pwcdataset>
     </paper>
     <paper id="77">
       <title>The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing</title>

@@ -9835,6 +9835,7 @@
       <doi>10.18653/v1/W18-5423</doi>
       <bibkey>wilcox-etal-2018-rnn</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/billion-word-benchmark">Billion Word Benchmark</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/one-billion-word-benchmark">One Billion Word Benchmark</pwcdataset>
     </paper>
     <paper id="24">
       <title>Do Language Models Understand Anything? On the Ability of <fixed-case>LSTM</fixed-case>s to Understand Negative Polarity Items</title>

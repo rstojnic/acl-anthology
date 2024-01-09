@@ -236,6 +236,7 @@
       <bibkey>li-he-2021-data</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/billion-word-benchmark">Billion Word Benchmark</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fce">FCE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/one-billion-word-benchmark">One Billion Word Benchmark</pwcdataset>
     </paper>
     <paper id="18">
       <title>Agree to Disagree: Analysis of Inter-Annotator Disagreements in Human Evaluation of Machine Translation Output</title>

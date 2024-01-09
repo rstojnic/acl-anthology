@@ -5981,6 +5981,7 @@
       <bibkey>oren-etal-2019-distributionally</bibkey>
       <pwccode url="https://worksheets.codalab.org/worksheets/0xf8122ebd24e94209a2a1764007509098" additional="false">worksheets/0xf8122ebd</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/billion-word-benchmark">Billion Word Benchmark</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/one-billion-word-benchmark">One Billion Word Benchmark</pwcdataset>
     </paper>
     <paper id="433">
       <title>Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling</title>

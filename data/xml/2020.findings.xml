@@ -2536,6 +2536,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/drop">DROP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mctest">MCTest</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mmlu">MMLU</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/narrativeqa">NarrativeQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/newsqa">NewsQA</pwcdataset>
@@ -2736,6 +2737,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.185</doi>
       <bibkey>kim-etal-2020-multi-pretraining</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/billion-word-benchmark">Billion Word Benchmark</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/one-billion-word-benchmark">One Billion Word Benchmark</pwcdataset>
     </paper>
     <paper id="186">
       <title>End-to-End Speech Recognition and Disfluency Removal</title>

@@ -419,6 +419,7 @@
       <bibkey>tran-etal-2016-recurrent</bibkey>
       <pwccode url="https://github.com/ketranm/RMN" additional="true">ketranm/RMN</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/billion-word-benchmark">Billion Word Benchmark</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/one-billion-word-benchmark">One Billion Word Benchmark</pwcdataset>
     </paper>
     <paper id="37">
       <title>A Latent Variable Recurrent Neural Network for Discourse-Driven Language Models</title>

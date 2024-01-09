@@ -644,6 +644,7 @@
       <bibkey>tran-etal-2017-named</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/billion-word-benchmark">Billion Word Benchmark</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/one-billion-word-benchmark">One Billion Word Benchmark</pwcdataset>
     </paper>
     <paper id="58">
       <title><fixed-case>N</fixed-case>euramanteau: A Neural Network Ensemble Model for Lexical Blends</title>
