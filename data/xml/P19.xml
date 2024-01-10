@@ -8453,6 +8453,7 @@
       <doi>10.18653/v1/P19-1598</doi>
       <bibkey>logan-etal-2019-baracks</bibkey>
       <pwccode url="https://github.com/rloganiv/kglm-model" additional="false">rloganiv/kglm-model</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/linked-wikitext-2">Linked WikiText-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="599">
