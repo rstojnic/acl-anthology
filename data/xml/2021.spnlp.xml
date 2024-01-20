@@ -119,6 +119,7 @@
       <doi>10.18653/v1/2021.spnlp-1.8</doi>
       <bibkey>zhang-etal-2021-comparing</bibkey>
       <pwccode url="https://github.com/zzsfornlp/zmsp" additional="false">zzsfornlp/zmsp</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
     </paper>
   </volume>
 </collection>

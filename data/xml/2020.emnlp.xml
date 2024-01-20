@@ -429,6 +429,7 @@
       <video tag="video" href="https://slideslive.com/38938657"/>
       <bibkey>athiwaratkun-etal-2020-augmented</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
     </paper>
     <paper id="28">
       <title>Dialogue Response Ranking Training with Large-Scale Human Feedback Data</title>
@@ -7516,7 +7517,7 @@
       <doi>10.18653/v1/2020.emnlp-main.498</doi>
       <video tag="video" href="https://slideslive.com/38938695"/>
       <bibkey>garg-ramakrishnan-2020-bae</bibkey>
-      <pwccode url="https://github.com/QData/TextAttack" additional="true">QData/TextAttack</pwccode>
+      <pwccode url="https://github.com/QData/TextAttack/blob/master/textattack/attack_recipes/bae_garg_2019.py" additional="true">QData/TextAttack</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-binary">IMDB-BINARY</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mr">MR</pwcdataset>
@@ -10538,6 +10539,7 @@
       <doi>10.18653/v1/2020.emnlp-main.695</doi>
       <video tag="video" href="https://slideslive.com/38939421"/>
       <bibkey>xia-etal-2020-incremental</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
     </paper>
     <paper id="696">
       <title>Improving Low Compute Language Modeling with In-Domain Embedding Initialisation</title>

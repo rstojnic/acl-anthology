@@ -203,6 +203,7 @@
       <bibkey>zhu-etal-2021-anatomy</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/gap-coreference-dataset">GAP Coreference Dataset</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontogum">OntoGUM</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikicoref">WikiCoref</pwcdataset>
     </paper>
     <paper id="16">

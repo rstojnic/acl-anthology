@@ -2286,6 +2286,7 @@
       <doi>10.18653/v1/2021.findings-acl.164</doi>
       <bibkey>wang-etal-2021-structured</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
     </paper>
     <paper id="165">
       <title>End-to-End Construction of <fixed-case>NLP</fixed-case> Knowledge Graph</title>
@@ -5655,6 +5656,7 @@
       <doi>10.18653/v1/2021.findings-acl.423</doi>
       <bibkey>huang-etal-2021-named</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/conll">CoNLL++</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/weibo-ner">Weibo NER</pwcdataset>
     </paper>
     <paper id="424">

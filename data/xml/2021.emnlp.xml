@@ -5978,6 +5978,7 @@
       <url hash="b067fba8">2021.emnlp-main.434</url>
       <bibkey>chen-etal-2021-data</bibkey>
       <pwccode url="https://github.com/ritual-uh/style_ner" additional="false">ritual-uh/style_ner</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
     </paper>
     <paper id="435">
       <title>Incorporating medical knowledge in <fixed-case>BERT</fixed-case> for clinical relation extraction</title>
@@ -6942,6 +6943,7 @@
       <url hash="b4124564">2021.emnlp-main.503</url>
       <bibkey>zhang-etal-2021-benefit</bibkey>
       <pwccode url="https://github.com/zzsfornlp/zmsp" additional="false">zzsfornlp/zmsp</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
     </paper>
     <paper id="504">
@@ -10477,6 +10479,7 @@
       <bibkey>nan-etal-2021-uncovering</bibkey>
       <pwccode url="https://github.com/heyyyyyyg/cfie" additional="false">heyyyyyyg/cfie</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/maven">MAVEN</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
     </paper>
     <paper id="764">
       <title>Maximal Clique Based Non-Autoregressive Open Information Extraction</title>
