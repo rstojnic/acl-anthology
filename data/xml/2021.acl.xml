@@ -8227,7 +8227,7 @@
       <bibkey>zhang-etal-2021-emailsum</bibkey>
       <pwccode url="https://github.com/ZhangShiyue/EmailSum" additional="false">ZhangShiyue/EmailSum</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/emailsum">EmailSum</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/avocado">Avocado</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/avocado">Avocado research email collection</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/crd3">CRD3</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/samsum-corpus">SAMSum</pwcdataset>
     </paper>
