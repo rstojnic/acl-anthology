@@ -11458,6 +11458,7 @@
       <url hash="098c434c">2021.emnlp-main.835</url>
       <bibkey>arora-etal-2021-types</bibkey>
       <pwccode url="https://github.com/uditarora/ood-text-emnlp" additional="false">uditarora/ood-text-emnlp</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/civil-comments">Civil Comments</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>

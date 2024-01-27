@@ -5129,6 +5129,7 @@
       <pwccode url="https://github.com/google-research/google-research/tree/master/pretrained_conv" additional="false">google-research/google-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/c4">C4</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/civil-comments">Civil Comments</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>

@@ -88,6 +88,7 @@
       <doi>10.18653/v1/2021.woah-1.5</doi>
       <bibkey>kivlichan-etal-2021-measuring</bibkey>
       <pwccode url="https://github.com/google/uncertainty-baselines" additional="false">google/uncertainty-baselines</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/civil-comments">Civil Comments</pwcdataset>
     </paper>
     <paper id="6">
       <title><fixed-case>DALC</fixed-case>: the <fixed-case>D</fixed-case>utch Abusive Language Corpus</title>
@@ -221,6 +222,7 @@
       <url hash="c94e092b">2021.woah-1.15</url>
       <doi>10.18653/v1/2021.woah-1.15</doi>
       <bibkey>xenos-etal-2021-context</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/civil-comments">Civil Comments</pwcdataset>
     </paper>
     <paper id="16">
       <title>A Large-Scale <fixed-case>E</fixed-case>nglish Multi-Label <fixed-case>T</fixed-case>witter Dataset for Cyberbullying and Online Abuse Detection</title>
