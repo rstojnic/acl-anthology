@@ -10656,7 +10656,6 @@
       <url hash="893a4936">2021.emnlp-main.776</url>
       <bibkey>sawhney-etal-2021-hypmix</bibkey>
       <pwccode url="https://github.com/caisa-lab/hypmix-emnlp" additional="false">caisa-lab/hypmix-emnlp</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/cifar-10">CIFAR-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cifar-100">CIFAR-100</pwcdataset>
     </paper>
     <paper id="777">

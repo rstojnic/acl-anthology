@@ -4294,7 +4294,6 @@
       <url hash="bee21bd6">2020.coling-main.320</url>
       <doi>10.18653/v1/2020.coling-main.320</doi>
       <bibkey>liu-etal-2020-rethinking</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/cifar-10">CIFAR-10</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cifar-100">CIFAR-100</pwcdataset>
     </paper>
     <paper id="321">
