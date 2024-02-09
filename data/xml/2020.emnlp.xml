@@ -1682,6 +1682,7 @@
       <doi>10.18653/v1/2020.emnlp-main.109</doi>
       <video tag="video" href="https://slideslive.com/38939332"/>
       <bibkey>sarkar-etal-2020-social</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/social-media-attributions-of-youtube-comments">Social media attributions of YouTube comments</pwcdataset>
     </paper>
     <paper id="110">
       <title>On the Reliability and Validity of Detecting Approval of Political Actors in Tweets</title>
