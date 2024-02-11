@@ -3363,6 +3363,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03b8ec3a">2021.findings-acl.246.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.246</doi>
       <bibkey>pramanick-etal-2021-detecting</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/harmeme">HarMeme</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hateful-memes">Hateful Memes</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hateful-memes-challenge">Hateful Memes Challenge</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
@@ -11140,6 +11141,7 @@
       <bibkey>pramanick-etal-2021-momenta-multimodal</bibkey>
       <pwccode url="https://github.com/lcs2-iiitd/momenta" additional="false">lcs2-iiitd/momenta</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/harm-c">Harm-C</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/harmeme">HarMeme</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hateful-memes">Hateful Memes</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
