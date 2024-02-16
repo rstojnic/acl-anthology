@@ -3690,6 +3690,7 @@
       <doi>10.18653/v1/2021.findings-acl.271</doi>
       <bibkey>zhao-etal-2021-adjacency</bibkey>
       <pwccode url="https://github.com/fyubang/direct-ie" additional="false">fyubang/direct-ie</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
     </paper>
     <paper id="272">
@@ -8858,6 +8859,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/ade-corpus">Adverse Drug Events (ADE) Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll04">CoNLL04</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/docred">DocRED</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/re-tacred">Re-TACRED</pwcdataset>
     </paper>
     <paper id="205">

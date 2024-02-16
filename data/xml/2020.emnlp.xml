@@ -4576,6 +4576,7 @@
       <doi>10.18653/v1/2020.emnlp-main.304</doi>
       <video tag="video" href="https://slideslive.com/38939355"/>
       <bibkey>sun-etal-2020-recurrent</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
     </paper>
     <paper id="305">
