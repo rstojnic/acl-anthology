@@ -1567,6 +1567,7 @@
       <doi>10.18653/v1/2021.findings-acl.112</doi>
       <bibkey>gao-etal-2021-manual</bibkey>
       <pwccode url="https://github.com/thunlp/OpenNRE" additional="false">thunlp/OpenNRE</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
     </paper>
     <paper id="113">
       <title><fixed-case>GCRC</fixed-case>: A New Challenging <fixed-case>MRC</fixed-case> Dataset from <fixed-case>G</fixed-case>aokao <fixed-case>C</fixed-case>hinese for Explainable Evaluation</title>
@@ -1600,6 +1601,7 @@
       <doi>10.18653/v1/2021.findings-acl.114</doi>
       <bibkey>zhang-etal-2021-zero</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/framenet">FrameNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
     </paper>
     <paper id="115">
       <title>Incorporating Global Information in Local Attention for Knowledge Representation Learning</title>
@@ -7575,6 +7577,7 @@
       <url hash="e58144a5">2021.findings-emnlp.105</url>
       <bibkey>ramezani-etal-2021-unsupervised-framework</bibkey>
       <pwccode url="https://github.com/aidaramezani/moral-source-tracing" additional="false">aidaramezani/moral-source-tracing</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
     </paper>
     <paper id="106">
       <title>Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization</title>

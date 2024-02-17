@@ -401,6 +401,7 @@
       <url hash="44101b65">P14-1034</url>
       <doi>10.3115/v1/P14-1034</doi>
       <bibkey>nguyen-etal-2014-anchors</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
     </paper>
     <paper id="35">
       <title>A <fixed-case>B</fixed-case>ayesian Mixed Effects Model of Literary Character</title>

@@ -768,6 +768,7 @@
       <url hash="1c5ea289">2021.emnlp-main.56</url>
       <bibkey>dong-etal-2021-injecting</bibkey>
       <pwccode url="https://github.com/wyu97/InjType" additional="true">wyu97/InjType</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
     </paper>
     <paper id="57">
       <title>Smelting Gold and Silver for Improved Multilingual <fixed-case>AMR</fixed-case>-to-<fixed-case>T</fixed-case>ext Generation</title>
@@ -1462,6 +1463,7 @@
       <abstract>Storytelling, whether via fables, news reports, documentaries, or memoirs, can be thought of as the communication of interesting and related events that, taken together, form a concrete process. It is desirable to extract the event chains that represent such processes. However, this extraction remains a challenging problem. We posit that this is due to the nature of the texts from which chains are discovered. Natural language text interleaves a narrative of concrete, salient events with background information, contextualization, opinion, and other elements that are important for a variety of necessary discourse and pragmatics acts but are not part of the principal chain of events being communicated. We introduce methods for extracting this principal chain from natural language text, by filtering away non-salient events and supportive sentences. We demonstrate the effectiveness of our methods at isolating critical event chains by comparing their effect on downstream tasks. We show that by pre-training large language models on our extracted chains, we obtain improvements in two tasks that benefit from a clear understanding of event chains: narrative prediction and event-based temporal question answering. The demonstrated improvements and ablative studies confirm that our extraction method isolates critical event chains.</abstract>
       <url hash="fede07d4">2021.emnlp-main.107</url>
       <bibkey>zhang-etal-2021-salience</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rocstories">ROCStories</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/torque">Torque</pwcdataset>
     </paper>
@@ -7199,6 +7201,7 @@
       <url hash="3210a2d1">2021.emnlp-main.521</url>
       <bibkey>benton-etal-2021-cross</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/english-web-treebank">English Web Treebank</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sentence-compression">Sentence Compression</pwcdataset>
     </paper>
     <paper id="522">
