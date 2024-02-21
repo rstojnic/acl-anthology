@@ -7880,7 +7880,7 @@
       <doi>10.18653/v1/2020.emnlp-main.522</doi>
       <video tag="video" href="https://slideslive.com/38939354"/>
       <bibkey>li-etal-2020-efficient</bibkey>
-      <pwccode url="https://github.com/facebookresearch/BLINK" additional="true">facebookresearch/BLINK</pwccode>
+      <pwccode url="https://github.com/facebookresearch/BLINK/tree/master/elq" additional="true">facebookresearch/BLINK</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webquestions">WebQuestions</pwcdataset>
@@ -9404,7 +9404,7 @@
       <doi>10.18653/v1/2020.emnlp-main.623</doi>
       <video tag="video" href="https://slideslive.com/38939277"/>
       <bibkey>kotonya-toni-2020-explainable-automated</bibkey>
-      <pwccode url="https://github.com/neemakot/Health-Fact-Checking" additional="false">neemakot/Health-Fact-Checking</pwccode>
+      <pwccode url="https://github.com/neemakot/Health-Fact-Checking" additional="true">neemakot/Health-Fact-Checking</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/pubhealth">PUBHEALTH</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/liar">LIAR</pwcdataset>
