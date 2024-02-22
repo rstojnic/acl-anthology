@@ -7524,7 +7524,7 @@
       <doi>10.18653/v1/2020.emnlp-main.498</doi>
       <video tag="video" href="https://slideslive.com/38938695"/>
       <bibkey>garg-ramakrishnan-2020-bae</bibkey>
-      <pwccode url="https://github.com/QData/TextAttack" additional="true">QData/TextAttack</pwccode>
+      <pwccode url="https://github.com/QData/TextAttack/blob/master/textattack/attack_recipes/bae_garg_2019.py" additional="true">QData/TextAttack</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-binary">IMDB-BINARY</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mr">MR</pwcdataset>
@@ -7881,6 +7881,7 @@
       <video tag="video" href="https://slideslive.com/38939354"/>
       <bibkey>li-etal-2020-efficient</bibkey>
       <pwccode url="https://github.com/facebookresearch/BLINK/tree/master/elq" additional="true">facebookresearch/BLINK</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/graphquestions">GraphQuestions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-questions">Natural Questions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/triviaqa">TriviaQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webquestions">WebQuestions</pwcdataset>

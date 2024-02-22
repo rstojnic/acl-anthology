@@ -6804,6 +6804,7 @@
       <url hash="8bdf3941">2021.emnlp-main.494</url>
       <bibkey>deng-etal-2021-reasonbert</bibkey>
       <pwccode url="https://github.com/sunlab-osu/reasonbert" additional="false">sunlab-osu/reasonbert</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/graphquestions">GraphQuestions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hotpotqa">HotpotQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hybridqa">HybridQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrqa-2019">MRQA</pwcdataset>

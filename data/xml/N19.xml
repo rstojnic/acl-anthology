@@ -374,6 +374,7 @@
       <bibkey>abujabal-etal-2019-comqa</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/comqa">ComQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/complexwebquestions">ComplexWebQuestions</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/graphquestions">GraphQuestions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/simplequestions">SimpleQuestions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webquestions">WebQuestions</pwcdataset>
     </paper>
