@@ -7436,7 +7436,6 @@
       <doi>10.18653/v1/2020.emnlp-main.492</doi>
       <video tag="video" href="https://slideslive.com/38938925"/>
       <bibkey>ahrabian-etal-2020-structure</bibkey>
-      <pwccode url="https://github.com/kahrabian/SANS" additional="false">kahrabian/SANS</pwccode>
     </paper>
     <paper id="493">
       <title>Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation</title>
