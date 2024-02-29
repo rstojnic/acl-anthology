@@ -3474,6 +3474,7 @@
       <url hash="14c7cfa1">C18-1301</url>
       <bibkey>alikhani-stone-2018-arrows</bibkey>
       <pwccode url="https://github.com/malihealikhani/Arrows_are_Verbs" additional="false">malihealikhani/Arrows_are_Verbs</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ai2d">AI2D</pwcdataset>
     </paper>
     <paper id="302">
       <title>Improving Feature Extraction for Pathology Reports with Precise Negation Scope Detection</title>

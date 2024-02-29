@@ -6095,6 +6095,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="4b0644d5">2020.findings-emnlp.413.OptionalSupplementaryMaterial.pdf</attachment>
       <doi>10.18653/v1/2020.findings-emnlp.413</doi>
       <bibkey>sampat-etal-2020-visuo</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ai2d">AI2D</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tqa">TQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vcr">VCR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
