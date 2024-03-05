@@ -700,6 +700,7 @@
       <doi>10.18653/v1/2021.findings-acl.49</doi>
       <bibkey>fei-etal-2021-better</bibkey>
       <pwccode url="https://github.com/scofield7419/hesyfu" additional="false">scofield7419/hesyfu</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2012-1">CoNLL-2012</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
     </paper>
@@ -8860,6 +8861,7 @@
       <url hash="9b11542f">2021.findings-emnlp.204</url>
       <bibkey>huguet-cabot-navigli-2021-rebel-relation</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/ade-corpus">Adverse Drug Events (ADE) Corpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll04">CoNLL04</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/docred">DocRED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>

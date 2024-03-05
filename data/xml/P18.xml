@@ -482,6 +482,7 @@
       <attachment type="poster" hash="76675ee7">P18-1030.Poster.pdf</attachment>
       <doi>10.18653/v1/P18-1030</doi>
       <bibkey>zhang-etal-2018-sentence</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mr">MR</pwcdataset>
@@ -663,6 +664,7 @@
       <bibkey>shen-etal-2018-baseline</bibkey>
       <pwccode url="https://github.com/dinghanshen/SWEM" additional="true">dinghanshen/SWEM</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2000-1">CoNLL-2000</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
@@ -4394,6 +4396,7 @@
       <doi>10.18653/v1/P18-2038</doi>
       <bibkey>ye-ling-2018-hybrid</bibkey>
       <pwccode url="https://github.com/ZhixiuYe/HSCRF-pytorch" additional="false">ZhixiuYe/HSCRF-pytorch</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
     </paper>
     <paper id="39">
@@ -4662,6 +4665,7 @@
       <doi>10.18653/v1/P18-2058</doi>
       <bibkey>he-etal-2018-jointly</bibkey>
       <pwccode url="https://github.com/luheng/lsgn" additional="false">luheng/lsgn</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2012-1">CoNLL-2012</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ontonotes-5-0">OntoNotes 5.0</pwcdataset>
     </paper>
@@ -6043,6 +6047,7 @@
       <doi>10.18653/v1/P18-4013</doi>
       <bibkey>yang-zhang-2018-ncrf</bibkey>
       <pwccode url="https://github.com/jiesutd/NCRFpp" additional="true">jiesutd/NCRFpp</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/penn-treebank">Penn Treebank</pwcdataset>
     </paper>
