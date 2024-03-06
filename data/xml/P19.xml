@@ -2670,6 +2670,7 @@
       <bibkey>le-titov-2019-boosting</bibkey>
       <pwccode url="https://github.com/lephong/wnel" additional="false">lephong/wnel</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/aida-conll-yago">AIDA CoNLL-YAGO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
     </paper>
     <paper id="188">
       <title>Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following</title>

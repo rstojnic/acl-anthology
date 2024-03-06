@@ -86,6 +86,7 @@
       <bibkey>peters-etal-2019-knowledge</bibkey>
       <pwccode url="https://github.com/allenai/kb" additional="false">allenai/kb</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/aida-conll-yago">AIDA CoNLL-YAGO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/semeval-2010-task-8">SemEval-2010 Task-8</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tacred">TACRED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wic">WiC</pwcdataset>
@@ -399,6 +400,7 @@
       <bibkey>yang-etal-2019-learning</bibkey>
       <pwccode url="https://github.com/YoungXiyuan/DCA" additional="true">YoungXiyuan/DCA</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/aida-conll-yago">AIDA CoNLL-YAGO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
     </paper>
     <paper id="27">
       <title>Open Event Extraction from Online Text using a Generative Adversarial Network</title>
@@ -5620,6 +5622,7 @@
       <url hash="683f59e8">D19-1406</url>
       <doi>10.18653/v1/D19-1406</doi>
       <bibkey>tikhonov-etal-2019-style</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yelp-review-polarity">Yelp Review Polarity</pwcdataset>
     </paper>
     <paper id="407">
@@ -5769,6 +5772,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="418">
       <title>Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases</title>

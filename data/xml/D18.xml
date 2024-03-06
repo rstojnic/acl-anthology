@@ -2894,6 +2894,7 @@
       <bibkey>shen-etal-2018-learning</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikiqa">WikiQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="211">
       <title>Deep Relevance Ranking Using Enhanced Document-Query Interactions</title>

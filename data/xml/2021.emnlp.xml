@@ -8346,6 +8346,7 @@
       <bibkey>de-cao-etal-2021-highly</bibkey>
       <pwccode url="https://github.com/nicola-decao/efficient-autoregressive-EL" additional="false">nicola-decao/efficient-autoregressive-EL</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/aida-conll-yago">AIDA CoNLL-YAGO</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
     </paper>
     <paper id="605">
       <title>Word-Level Coreference Resolution</title>
@@ -9950,6 +9951,7 @@
       <pwccode url="https://github.com/IBM/yaso-tsa" additional="true">IBM/yaso-tsa</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/yaso">YASO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="722">
       <title>An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction</title>

@@ -2310,6 +2310,7 @@
       <bibkey>li-etal-2018-delete</bibkey>
       <pwccode url="https://github.com/lijuncen/Sentiment-and-Style-Transfer" additional="true">lijuncen/Sentiment-and-Style-Transfer</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/gyafc">GYAFC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yelp2018">Yelp2018</pwcdataset>
     </paper>
     <paper id="170">
@@ -4294,6 +4295,7 @@
       <url hash="acf68ccf">N18-2117</url>
       <doi>10.18653/v1/N18-2117</doi>
       <bibkey>al-hanai-etal-2018-role</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/ted-lium-3">TED-LIUM</pwcdataset>
     </paper>
     <paper id="118">
       <title>Slot-Gated Modeling for Joint Slot Filling and Intent Prediction</title>

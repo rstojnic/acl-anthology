@@ -504,6 +504,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="32">
       <title>Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement</title>
@@ -538,6 +539,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/atis">ATIS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="34">
       <title>Semantic Parsing with Syntax- and Table-Aware <fixed-case>SQL</fixed-case> Generation</title>
@@ -678,6 +680,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/subj">SUBJ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikiqa">WikiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="42">
       <title><fixed-case>P</fixed-case>ara<fixed-case>NMT</fixed-case>-50<fixed-case>M</fixed-case>: Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations</title>
@@ -1220,6 +1223,7 @@
       <bibkey>prabhumoye-etal-2018-style</bibkey>
       <pwccode url="https://github.com/shrimai/Style-Transfer-Through-Back-Translation" additional="true">shrimai/Style-Transfer-Through-Back-Translation</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/gyafc">GYAFC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="81">
       <title>Generating Fine-Grained Open Vocabulary Entity Type Descriptions</title>
@@ -1376,6 +1380,7 @@
       <bibkey>xu-etal-2018-unpaired</bibkey>
       <pwccode url="https://github.com/lancopku/unpaired-sentiment-translation" additional="false">lancopku/unpaired-sentiment-translation</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/gyafc">GYAFC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="91">
       <title>Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference</title>
@@ -3253,6 +3258,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="216">
       <title>Joint Embedding of Words and Labels for Text Classification</title>
@@ -3274,6 +3280,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/ag-news">AG News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yahoo-answers">Yahoo! Answers</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="217">
       <title>Neural Sparse Topical Coding</title>

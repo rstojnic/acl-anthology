@@ -5552,6 +5552,7 @@
       <bibkey>adhikari-etal-2019-rethinking</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-multi">IMDB-MULTI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reuters-21578">Reuters-21578</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="409">
       <title>Pre-trained language model representations for language generation</title>

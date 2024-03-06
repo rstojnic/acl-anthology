@@ -1762,6 +1762,7 @@
       <pwccode url="https://github.com/lukecq1231/generalized-pooling" additional="false">lukecq1231/generalized-pooling</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="155">
       <title>Treat us like the sequences we are: Prepositional Paraphrasing of Noun Compounds using <fixed-case>LSTM</fixed-case></title>
@@ -2888,6 +2889,7 @@
       <url hash="936c0ee2">C18-1250</url>
       <bibkey>yu-liu-2018-sliced</bibkey>
       <pwccode url="https://github.com/zepingyu0512/srnn" additional="true">zepingyu0512/srnn</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="251">
       <title>Multi-Task Learning for Sequence Tagging: An Empirical Study</title>

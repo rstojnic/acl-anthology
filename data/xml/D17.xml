@@ -3559,6 +3559,7 @@ and <i>efficiency</i> of on-line policy optimization compared to other companion
       <pwcdataset url="https://paperswithcode.com/dataset/ace-2004">ACE 2004</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/aida-conll-yago">AIDA CoNLL-YAGO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/aquaint">AQUAINT</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
     </paper>
     <paper id="278">
       <title><fixed-case>M</fixed-case>in<fixed-case>IE</fixed-case>: Minimizing Facts in Open Information Extraction</title>

@@ -7813,6 +7813,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="cc20cbe0">2021.acl-long.511.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.acl-long.511</doi>
       <bibkey>colombo-etal-2021-novel</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/yelp">Yelp</pwcdataset>
     </paper>
     <paper id="512">
       <title>Determinantal Beam Search</title>
