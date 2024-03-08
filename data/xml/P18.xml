@@ -482,6 +482,7 @@
       <attachment type="poster" hash="76675ee7">P18-1030.Poster.pdf</attachment>
       <doi>10.18653/v1/P18-1030</doi>
       <bibkey>zhang-etal-2018-sentence</bibkey>
+      <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
