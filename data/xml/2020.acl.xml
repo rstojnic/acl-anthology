@@ -2925,7 +2925,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sts-benchmark">STS Benchmark</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/scitail">SciTail</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wnli">WNLI</pwcdataset>
     </paper>
     <paper id="198">
       <title>Stolen Probability: A Structural Weakness of Neural Language Models</title>
