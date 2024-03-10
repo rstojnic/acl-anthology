@@ -1326,6 +1326,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/hellaswag">HellaSwag</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wsc">WSC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/winogrande">WinoGrande</pwcdataset>
     </paper>
     <paper id="91">
       <title><fixed-case>H</fixed-case>ybrid<fixed-case>QA</fixed-case>: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data</title>
@@ -2548,6 +2550,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/quoref">Quoref</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/race">RACE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/ropes">ROPES</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/social-iqa">SIQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/winogrande">WinoGrande</pwcdataset>
     </paper>

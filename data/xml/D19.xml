@@ -13594,6 +13594,7 @@ Typo in Table 4 fixed to reflect correct recall of presented system.</revision>
       <bibkey>ma-etal-2019-towards</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/hellaswag">HellaSwag</pwcdataset>
     </paper>
     <paper id="4">
       <title>When Choosing Plausible Alternatives, Clever Hans can be Clever</title>
