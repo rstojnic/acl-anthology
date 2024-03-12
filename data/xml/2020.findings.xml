@@ -831,6 +831,7 @@
       <doi>10.18653/v1/2020.findings-emnlp.58</doi>
       <bibkey>cui-etal-2020-revisiting</bibkey>
       <pwccode url="https://github.com/ymcui/MacBERT" additional="true">ymcui/MacBERT</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/astock">Astock</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cjrc">CJRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cmrc">CMRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cmrc-2018">CMRC 2018</pwcdataset>

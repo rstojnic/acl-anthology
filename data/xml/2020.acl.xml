@@ -5526,6 +5526,7 @@
       <video tag="video" href="http://slideslive.com/38929227"/>
       <bibkey>tian-etal-2020-skep</bibkey>
       <pwccode url="https://github.com/baidu/Senta" additional="true">baidu/Senta</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/astock">Astock</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mpqa-opinion-corpus">MPQA Opinion Corpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>

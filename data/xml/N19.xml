@@ -5772,6 +5772,7 @@
       <video href="https://vimeo.com/365139010" tag="video"/>
       <bibkey>devlin-etal-2019-bert</bibkey>
       <pwccode url="https://github.com/google-research/bert" additional="true">google-research/bert</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/astock">Astock</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cped">CPED</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-1">CoNLL</pwcdataset>

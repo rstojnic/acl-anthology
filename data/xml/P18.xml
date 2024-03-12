@@ -2762,6 +2762,7 @@
       <bibkey>xu-cohen-2018-stock</bibkey>
       <pwccode url="https://github.com/yumoxu/stocknet-dataset" additional="false">yumoxu/stocknet-dataset</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/stocknet-1">StockNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/astock">Astock</pwcdataset>
     </paper>
     <paper id="184">
       <title>Rumor Detection on <fixed-case>T</fixed-case>witter with Tree-structured Recursive Neural Networks</title>
