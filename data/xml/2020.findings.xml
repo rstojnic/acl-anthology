@@ -2950,6 +2950,7 @@
       <bibkey>henderson-etal-2020-convert</bibkey>
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/dstc7-task-1">DSTC7 Task 1</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/reddit">Reddit</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/reddit-corpus">Reddit Corpus</pwcdataset>
     </paper>
     <paper id="197">
@@ -6322,6 +6323,7 @@
       <bibkey>das-etal-2020-probabilistic</bibkey>
       <pwccode url="https://github.com/ameyagodbole/Prob-CBR" additional="false">ameyagodbole/Prob-CBR</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/fb122">FB122</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/nell">NELL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/nell-995">NELL-995</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18">WN18</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wn18rr">WN18RR</pwcdataset>
