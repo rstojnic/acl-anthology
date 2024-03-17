@@ -5507,6 +5507,7 @@ In this paper, we describe a compression scheme for lexicons when represented as
       <doi>10.18653/v1/W19-3510</doi>
       <bibkey>fortuna-etal-2019-hierarchically</bibkey>
       <pwccode url="https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset" additional="false">paulafortuna/Portuguese-Hate-Speech-Dataset</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/pt-hate-speech">PT Hate Speech</pwcdataset>
     </paper>
     <paper id="11">
       <title>A System to Monitor Cyberbullying based on Message Classification and Social Network Analysis</title>
