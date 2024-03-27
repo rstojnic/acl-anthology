@@ -6345,6 +6345,7 @@
       <doi>10.18653/v1/P19-1446</doi>
       <bibkey>song-gildea-2019-sembleu</bibkey>
       <pwccode url="https://github.com/freesunshine0316/sembleu" additional="true">freesunshine0316/sembleu</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/rare">RARE</pwcdataset>
     </paper>
     <paper id="447">
       <title>Reranking for Neural Semantic Parsing</title>
