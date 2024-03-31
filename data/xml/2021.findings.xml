@@ -448,7 +448,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03bd4c14">2021.findings-acl.32.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.32</doi>
       <bibkey>gritta-iacobacci-2021-xeroalign</bibkey>
-      <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/xero_align" additional="true">huawei-noah/noah-research</pwccode>
+      <pwccode url="https://github.com/huawei-noah/noah-research" additional="true">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mtop">MTOP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
@@ -3160,6 +3160,7 @@
       <doi>10.18653/v1/2021.findings-acl.229</doi>
       <bibkey>su-etal-2021-gem</bibkey>
       <pwccode url="https://github.com/microsoft/GEM" additional="false">microsoft/GEM</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/gem-a-general-evaluation-benchmark-on-multi">GEM (A General Evaluation Benchmark on Multi-modal Tasks)</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptual-captions">Conceptual Captions</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/howto100m">HowTo100M</pwcdataset>
