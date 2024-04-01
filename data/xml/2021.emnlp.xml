@@ -5532,6 +5532,7 @@
       <url hash="3cd15251">2021.emnlp-main.400</url>
       <bibkey>chi-rudnicky-2021-zero</bibkey>
       <pwccode url="https://github.com/chijames/zero_shot_dialogue_disentanglement" additional="false">chijames/zero_shot_dialogue_disentanglement</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/ubuntu-irc-1">Ubuntu IRC</pwcdataset>
     </paper>
     <paper id="401">
       <title><fixed-case>SIMMC</fixed-case> 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations</title>
@@ -7772,6 +7773,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/commonsenseqa">CommonsenseQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hellaswag">HellaSwag</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/openbookqa">OpenBookQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst">SST</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sst-2">SST-2</pwcdataset>
     </paper>
