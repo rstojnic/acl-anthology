@@ -9005,7 +9005,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/wikineural">WikiNEuRal</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2002">CoNLL 2002</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conll-2003">CoNLL 2003</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikiann-1">WikiAnn</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikiann-1">WikiANN</pwcdataset>
     </paper>
     <paper id="216">
       <title>Beyond Grammatical Error Correction: Improving <fixed-case>L</fixed-case>1-influenced research writing in <fixed-case>E</fixed-case>nglish using pre-trained encoder-decoder models</title>
