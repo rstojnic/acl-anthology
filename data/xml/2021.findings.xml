@@ -2067,7 +2067,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/billsum">BillSum</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi-news">Multi-News</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmed">Pubmed</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisum">WikiSum</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/arxiv-summarization-dataset">arXiv Summarization Dataset</pwcdataset>
     </paper>
@@ -11032,7 +11032,7 @@
       <bibkey>yun-etal-2021-vision-language</bibkey>
       <pwccode url="https://github.com/tttyuntian/vlm_lexical_grounding" additional="false">tttyuntian/vlm_lexical_grounding</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/piqa">PIQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
     </paper>
     <paper id="371">
       <title>Character-based <fixed-case>PCFG</fixed-case> Induction for Modeling the Syntactic Acquisition of Morphologically Rich Languages</title>

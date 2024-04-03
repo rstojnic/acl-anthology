@@ -496,6 +496,7 @@
       <url hash="8351d81a">2021.acl-long.33</url>
       <doi>10.18653/v1/2021.acl-long.33</doi>
       <bibkey>im-etal-2021-self</bibkey>
+      <pwccode url="https://github.com/nc-ai/MultimodalSum" additional="false">nc-ai/MultimodalSum</pwccode>
     </paper>
     <paper id="34">
       <title>A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy</title>
@@ -9114,7 +9115,7 @@
       <bibkey>cohen-etal-2021-wikisum</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/bigpatent">BigPatent</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/opensubtitles">OpenSubtitles</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
     </paper>
     <paper id="29">
       <title><fixed-case>UMIC</fixed-case>: An Unreferenced Metric for Image Captioning via Contrastive Learning</title>
