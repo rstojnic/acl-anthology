@@ -6720,7 +6720,7 @@
       <url hash="a345cf97">2020.coling-main.503</url>
       <doi>10.18653/v1/2020.coling-main.503</doi>
       <bibkey>malykh-etal-2020-sumtitles</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
     </paper>
     <paper id="504">
       <title><fixed-case>TWEETSUM</fixed-case>: Event oriented Social Summarization Dataset</title>

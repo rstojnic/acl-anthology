@@ -604,8 +604,8 @@
       <pwcdataset url="https://paperswithcode.com/dataset/vitt">ViTT</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/howto100m">HowTo100M</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/kinetics">Kinetics</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/recipe1m-1">Recipe1M+</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/youcook2">YouCook2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/youtube-8m">YouTube-8M</pwcdataset>
     </paper>

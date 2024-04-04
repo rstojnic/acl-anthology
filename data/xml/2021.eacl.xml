@@ -2608,7 +2608,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/atomic">ATOMIC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/piqa">PIQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
     </paper>
     <paper id="193">
       <title>Calculating the optimal step of arc-eager parsing for non-projective trees</title>

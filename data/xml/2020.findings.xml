@@ -5338,7 +5338,7 @@
       <pwccode url="https://github.com/esdurmus/Wikilingua" additional="false">esdurmus/Wikilingua</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikilingua">WikiLingua</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/global-voices">Global Voices</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
     </paper>
     <paper id="361">
       <title>Adversarial Training for Code Retrieval with Question-Description Relevance Regularization</title>

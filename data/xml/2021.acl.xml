@@ -9115,7 +9115,7 @@
       <bibkey>cohen-etal-2021-wikisum</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/bigpatent">BigPatent</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/opensubtitles">OpenSubtitles</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
     </paper>
     <paper id="29">
       <title><fixed-case>UMIC</fixed-case>: An Unreferenced Metric for Image Captioning via Contrastive Learning</title>

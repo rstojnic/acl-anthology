@@ -1828,7 +1828,7 @@
       <doi>10.18653/v1/2020.emnlp-main.119</doi>
       <video tag="video" href="https://slideslive.com/38938902"/>
       <bibkey>zhang-etal-2020-analogous</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
     </paper>
     <paper id="120">
       <title><fixed-case>SLM</fixed-case>: Learning a Discourse Language Representation with Sentence Unshuffling</title>
@@ -5626,9 +5626,9 @@
       <video tag="video" href="https://slideslive.com/38938737"/>
       <bibkey>zhang-etal-2020-reasoning</bibkey>
       <pwccode url="https://github.com/zharry29/wikihow-goal-step" additional="false">zharry29/wikihow-goal-step</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snips">SNIPS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/swag">SWAG</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
     </paper>
     <paper id="375">
       <title>Structural Supervision Improves Few-Shot Learning and Syntactic Generalization in Neural Language Models</title>
@@ -7667,8 +7667,8 @@
       <bibkey>desai-etal-2020-compressive</bibkey>
       <pwccode url="https://github.com/shreydesai/cups" additional="false">shreydesai/cups</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/new-york-times-annotated-corpus">New York Times Annotated Corpus</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/sentence-compression">Sentence Compression</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
     </paper>
     <paper id="508">
       <title>Understanding Neural Abstractive Summarization Models via Uncertainty</title>
@@ -8267,7 +8267,7 @@
       <bibkey>deng-etal-2020-multi</bibkey>
       <pwccode url="https://github.com/dengyang17/msg" additional="false">dengyang17/msg</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/pubmedqa">PubMedQA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">Pusat Bantuan BRImo</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikihow">WikiHow</pwcdataset>
     </paper>
     <paper id="548">
       <title>Towards Interpretable Reasoning over Paragraph Effects in Situation</title>
