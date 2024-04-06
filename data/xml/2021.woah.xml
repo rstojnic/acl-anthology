@@ -55,6 +55,7 @@
       <doi>10.18653/v1/2021.woah-1.3</doi>
       <bibkey>caselli-etal-2021-hatebert</bibkey>
       <pwccode url="https://github.com/tommasoc80/HateBERT" additional="false">tommasoc80/HateBERT</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/hateval">HatEval</pwcdataset>
     </paper>
     <paper id="4">
       <title>Memes in the Wild: Assessing the Generalizability of the Hateful Memes Challenge Dataset</title>

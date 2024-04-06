@@ -8197,6 +8197,7 @@
       <abstract>Transformer-based models such as BERT, XLNET, and XLM-R have achieved state-of-the-art performance across various NLP tasks including the identification of offensive language and hate speech, an important problem in social media. In this paper, we present fBERT, a BERT model retrained on SOLID, the largest English offensive language identification corpus available with over 1.4 million offensive instances. We evaluate fBERT’s performance on identifying offensive content on multiple English datasets and we test several thresholds for selecting instances from SOLID. The fBERT model will be made freely available to the community.</abstract>
       <url hash="e8c9a15d">2021.findings-emnlp.154</url>
       <bibkey>sarkar-etal-2021-fbert-neural</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/hateval">HatEval</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/olid">OLID</pwcdataset>
     </paper>
     <paper id="155">
@@ -10045,6 +10046,7 @@
       <abstract>In this paper we study pejorative language, an under-explored topic in computational linguistics. Unlike existing models of offensive language and hate speech, pejorative language manifests itself primarily at the lexical level, and describes a word that is used with a negative connotation, making it different from offensive language or other more studied categories. Pejorativity is also context-dependent: the same word can be used with or without pejorative connotations, thus pejorativity detection is essentially a problem similar to word sense disambiguation. We leverage online dictionaries to build a multilingual lexicon of pejorative terms for English, Spanish, Italian, and Romanian. We additionally release a dataset of tweets annotated for pejorative use. Based on these resources, we present an analysis of the usage and occurrence of pejorative words in social media, and present an attempt to automatically disambiguate pejorative usage in our dataset.</abstract>
       <url hash="29c3fc0e">2021.findings-emnlp.296</url>
       <bibkey>dinu-etal-2021-computational-exploration</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/hateval">HatEval</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hate-speech-and-offensive-language">Hate Speech and Offensive Language</pwcdataset>
     </paper>
     <paper id="297">

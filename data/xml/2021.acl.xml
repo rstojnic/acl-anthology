@@ -10334,6 +10334,7 @@
       <url hash="01f5c0c8">2021.acl-short.114</url>
       <doi>10.18653/v1/2021.acl-short.114</doi>
       <bibkey>nozza-2021-exposing</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/hateval">HatEval</pwcdataset>
     </paper>
     <paper id="115">
       <title><fixed-case>BERTT</fixed-case>une: Fine-Tuning Neural Machine Translation with <fixed-case>BERTS</fixed-case>core</title>

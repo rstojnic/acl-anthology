@@ -6346,6 +6346,7 @@
       <doi>10.18653/v1/P19-1446</doi>
       <bibkey>song-gildea-2019-sembleu</bibkey>
       <pwccode url="https://github.com/freesunshine0316/sembleu" additional="true">freesunshine0316/sembleu</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/rare">RARE</pwcdataset>
     </paper>
     <paper id="447">
       <title>Reranking for Neural Semantic Parsing</title>
@@ -9922,6 +9923,7 @@
       <url hash="f36f6d9b">P19-2051</url>
       <doi>10.18653/v1/P19-2051</doi>
       <bibkey>pamungkas-patti-2019-cross</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/hateval">HatEval</pwcdataset>
     </paper>
     <paper id="52">
       <title>De-Mixing Sentiment from Code-Mixed Text</title>
