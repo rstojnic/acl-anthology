@@ -1259,7 +1259,6 @@
       <url hash="e8f60ad2">D13-1131</url>
       <attachment type="attachment" hash="3f5623d2">D13-1131.Attachment.zip</attachment>
       <bibkey>wang-etal-2013-text</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/fer">FER+</pwcdataset>
     </paper>
     <paper id="132">
       <title>Mining New Business Opportunities: Identifying Trend related Products by Leveraging Commercial Intents from Microblogs</title>
