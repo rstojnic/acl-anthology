@@ -524,11 +524,11 @@
       <bibkey>nan-etal-2021-dart</bibkey>
       <pwccode url="https://github.com/Yale-LILY/dart" additional="true">Yale-LILY/dart</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/dart">DART</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Adeoye Rasheed Oluwaseun</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e2e">E2E</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/totto">ToTTo</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitablequestions">WikiTableQuestions</pwcdataset>
     </paper>
