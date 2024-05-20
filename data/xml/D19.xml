@@ -789,7 +789,6 @@
       <doi>10.18653/v1/D19-1054</doi>
       <bibkey>shen-etal-2019-select</bibkey>
       <pwccode url="https://github.com/chin-gyou/controllable-selection" additional="false">chin-gyou/controllable-selection</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja (Super Sajani)</pwcdataset>
     </paper>
     <paper id="55">
       <title>Sentence-Level Content Planning and Style Specification for Neural Text Generation</title>
