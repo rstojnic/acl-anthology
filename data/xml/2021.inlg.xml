@@ -536,6 +536,7 @@
       <abstract>Due to efficient end-to-end training and fluency in generated texts, several encoder-decoder framework-based models are recently proposed for data-to-text generations. Appropriate encoding of input data is a crucial part of such encoder-decoder models. However, only a few research works have concentrated on proper encoding methods. This paper presents a novel encoder-decoder based data-to-text generation model where the proposed encoder carefully encodes input data according to underlying structure of the data. The effectiveness of the proposed encoder is evaluated both extrinsically and intrinsically by shuffling input data without changing meaning of that data. For selecting appropriate content information in encoded data from encoder, the proposed model incorporates attention gates in the decoder. With extensive experiments on WikiBio and E2E dataset, we show that our model outperforms the state-of-the models and several standard baseline systems. Analysis of the model through component ablation tests and human evaluation endorse the proposed model as a well-grounded system.</abstract>
       <url hash="b676d59f">2021.inlg-1.44</url>
       <bibkey>mahapatra-garain-2021-exploring</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
     </paper>
     <paper id="45">
       <title>Attention Is Indeed All You Need: Semantically Attention-Guided Decoding for Data-to-Text <fixed-case>NLG</fixed-case></title>

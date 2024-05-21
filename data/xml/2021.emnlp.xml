@@ -1353,6 +1353,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webtext">WebText</pwcdataset>
     </paper>
     <paper id="99">
@@ -4879,6 +4880,7 @@
       <url hash="5aa404e4">2021.emnlp-main.352</url>
       <bibkey>wiseman-etal-2021-data</bibkey>
       <pwccode url="https://github.com/swiseman/neighbor-splicing" additional="false">swiseman/neighbor-splicing</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
     </paper>
     <paper id="353">
       <title>Contextualize Knowledge Bases with Transformer for End-to-end Task-Oriented Dialogue Systems</title>
@@ -8764,6 +8766,7 @@
       <bibkey>rebuffel-etal-2021-data</bibkey>
       <pwccode url="https://github.com/ThomasScialom/QuestEval" additional="true">ThomasScialom/QuestEval</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
     </paper>
     <paper id="634">
       <title>Low-Rank Subspaces for Unsupervised Entity Linking</title>
