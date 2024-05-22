@@ -526,7 +526,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/dart">DART</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e2e">E2E</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/totto">ToTTo</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
@@ -5160,6 +5159,7 @@
       <attachment type="OptionalSupplementaryData" hash="fce9f82a">2021.naacl-main.359.OptionalSupplementaryData.pdf</attachment>
       <doi>10.18653/v1/2021.naacl-main.359</doi>
       <bibkey>gosangi-etal-2021-use</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/pmoa-cite">PMOA-CITE</pwcdataset>
     </paper>
     <paper id="360">
       <title>Data and Model Distillation as a Solution for Domain-transferable Fact Verification</title>

@@ -2901,7 +2901,6 @@
       <pwcdataset url="https://paperswithcode.com/dataset/genwiki">GenWiki</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/e2e">E2E</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/robocup">RoboCup</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
     </paper>
     <paper id="218">
       <title>Have Your Text and Use It Too! End-to-End Neural Data-to-Text Generation with Semantic Fidelity</title>

@@ -1391,7 +1391,6 @@
       <pwccode url="https://github.com/google-research-datasets/ToTTo" additional="false">google-research-datasets/ToTTo</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/totto">ToTTo</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
     </paper>
     <paper id="90">
       <title><fixed-case>ENT</fixed-case>-<fixed-case>DESC</fixed-case>: Entity Description Generation by Exploring Knowledge Graph</title>
@@ -1411,7 +1410,6 @@
       <pwccode url="https://github.com/LiyingCheng95/EntityDescriptionGeneration" additional="false">LiyingCheng95/EntityDescriptionGeneration</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ent-desc">ENT-DESC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/agenda">AGENDA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
     </paper>
     <paper id="91">
       <title>Small but Mighty: New Benchmarks for Split and Rephrase</title>
@@ -10587,7 +10585,6 @@
       <video tag="video" href="https://slideslive.com/38938913"/>
       <bibkey>chen-etal-2020-kgpt</bibkey>
       <pwccode url="https://github.com/wenhuchen/KGPT" additional="false">wenhuchen/KGPT</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
     </paper>
     <paper id="698">
@@ -11224,7 +11221,6 @@
       <video tag="video" href="https://slideslive.com/38939283"/>
       <bibkey>fu-etal-2020-partially</bibkey>
       <pwccode url="https://github.com/fuzihaofzh/distant_supervision_nlg" additional="false">fuzihaofzh/distant_supervision_nlg</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
     </paper>
     <paper id="739">

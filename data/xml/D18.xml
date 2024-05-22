@@ -4915,7 +4915,6 @@
       <doi>10.18653/v1/D18-1356</doi>
       <bibkey>wiseman-etal-2018-learning</bibkey>
       <pwccode url="https://github.com/harvardnlp/neural-template-gen" additional="true">harvardnlp/neural-template-gen</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
     </paper>
     <paper id="357">
       <title>Multi-Reference Training with Pseudo-References for Neural Translation and Text Generation</title>
@@ -5835,7 +5834,6 @@
       <doi>10.18653/v1/D18-1422</doi>
       <bibkey>nie-etal-2018-operation</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Shaban Saja</pwcdataset>
     </paper>
     <paper id="423">
       <title>Generating Classical <fixed-case>C</fixed-case>hinese Poems via Conditional Variational Autoencoder and Adversarial Training</title>

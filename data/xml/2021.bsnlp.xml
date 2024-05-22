@@ -95,7 +95,6 @@
       <url hash="dc9ec49d">2021.bsnlp-1.6</url>
       <bibkey>mikhailov-etal-2021-rusenteval</bibkey>
       <pwccode url="https://github.com/RussianNLP/rusenteval" additional="true">RussianNLP/rusenteval</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/rimes">RIMES</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/senteval">SentEval</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/universal-dependencies">Universal Dependencies</pwcdataset>
     </paper>
