@@ -2822,6 +2822,7 @@
       <revision id="2" href="P19-1197v2" hash="6ebceadb">We have corrected Equation 8,9,10 in Page 5, or it may cause misunderstanding about the method in the paper. The rest of the paper remains unchanged.</revision>
       <bibkey>ma-etal-2019-key</bibkey>
       <pwccode url="https://github.com/lancopku/Pivot" additional="false">lancopku/Pivot</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
     </paper>
     <paper id="198">
       <title>Unsupervised Neural Text Simplification</title>
@@ -6859,6 +6860,7 @@
       <video tag="video" href="https://vimeo.com/385210503"/>
       <doi>10.18653/v1/P19-1483</doi>
       <bibkey>dhingra-etal-2019-handling</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
     </paper>
     <paper id="484">
       <title>Unsupervised Question Answering by Cloze Translation</title>
@@ -8489,6 +8491,7 @@
       <url hash="cccd6abe">P19-1600</url>
       <doi>10.18653/v1/P19-1600</doi>
       <bibkey>liu-etal-2019-towards-comprehensive</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
     </paper>
     <paper id="601">
       <title>Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation</title>
