@@ -1391,7 +1391,7 @@
       <pwccode url="https://github.com/google-research-datasets/ToTTo" additional="false">google-research-datasets/ToTTo</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/totto">ToTTo</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">olayiwola omowumi</pwcdataset>
     </paper>
     <paper id="90">
       <title><fixed-case>ENT</fixed-case>-<fixed-case>DESC</fixed-case>: Entity Description Generation by Exploring Knowledge Graph</title>
@@ -1411,7 +1411,7 @@
       <pwccode url="https://github.com/LiyingCheng95/EntityDescriptionGeneration" additional="false">LiyingCheng95/EntityDescriptionGeneration</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/ent-desc">ENT-DESC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/agenda">AGENDA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">olayiwola omowumi</pwcdataset>
     </paper>
     <paper id="91">
       <title>Small but Mighty: New Benchmarks for Split and Rephrase</title>
@@ -10588,7 +10588,7 @@
       <bibkey>chen-etal-2020-kgpt</bibkey>
       <pwccode url="https://github.com/wenhuchen/KGPT" additional="false">wenhuchen/KGPT</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">olayiwola omowumi</pwcdataset>
     </paper>
     <paper id="698">
       <title><fixed-case>POINTER</fixed-case>: Constrained Progressive Text Generation via Insertion-based Generative Pre-training</title>
@@ -11225,7 +11225,7 @@
       <bibkey>fu-etal-2020-partially</bibkey>
       <pwccode url="https://github.com/fuzihaofzh/distant_supervision_nlg" additional="false">fuzihaofzh/distant_supervision_nlg</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/webnlg">WebNLG</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">olayiwola omowumi</pwcdataset>
     </paper>
     <paper id="739">
       <title>Like hiking? You probably enjoy nature: Persona-grounded Dialog with Commonsense Expansions</title>

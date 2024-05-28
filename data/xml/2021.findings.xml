@@ -5716,7 +5716,7 @@
       <url hash="cd7fa4c3">2021.findings-acl.427</url>
       <doi>10.18653/v1/2021.findings-acl.427</doi>
       <bibkey>wang-etal-2021-sketch</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">olayiwola omowumi</pwcdataset>
     </paper>
     <paper id="428">
       <title><fixed-case>TILGAN</fixed-case>: Transformer-based Implicit Latent <fixed-case>GAN</fixed-case> for Diverse and Coherent Text Generation</title>
@@ -7608,7 +7608,7 @@
       <bibkey>li-etal-2021-twt-table</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tabfact">TabFact</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">olayiwola omowumi</pwcdataset>
     </paper>
     <paper id="108">
       <title><fixed-case>A</fixed-case>rabic<fixed-case>T</fixed-case>ransformer: Efficient Large <fixed-case>A</fixed-case>rabic Language Model with Funnel Transformer and <fixed-case>ELECTRA</fixed-case> Objective</title>
@@ -8363,7 +8363,7 @@
       <url hash="d3143720">2021.findings-emnlp.166</url>
       <bibkey>trisedya-etal-2021-grouped-attention</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">olayiwola omowumi</pwcdataset>
     </paper>
     <paper id="167">
       <title>An Explicit-Joint and Supervised-Contrastive Learning Framework for Few-Shot Intent Classification and Slot Filling</title>
@@ -10717,7 +10717,7 @@
       <url hash="8ef048d3">2021.findings-emnlp.347</url>
       <bibkey>zhao-etal-2021-attend-memorize</bibkey>
       <pwccode url="https://github.com/wentinghome/amg" additional="false">wentinghome/amg</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">olayiwola omowumi</pwcdataset>
     </paper>
     <paper id="348">
       <title><fixed-case>ARCH</fixed-case>: Efficient Adversarial Regularized Training with Caching</title>
