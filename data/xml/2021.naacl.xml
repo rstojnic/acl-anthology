@@ -528,9 +528,9 @@
       <pwcdataset url="https://paperswithcode.com/dataset/rotowire">RotoWire</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/t-rex">T-REx</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/totto">ToTTo</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikisql">WikiSQL</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitablequestions">WikiTableQuestions</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">olayiwola omowumi</pwcdataset>
     </paper>
     <paper id="38">
       <title>When Being Unseen from m<fixed-case>BERT</fixed-case> is just the Beginning: Handling New Languages With Multilingual Language Models</title>

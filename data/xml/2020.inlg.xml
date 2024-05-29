@@ -227,7 +227,7 @@
       <url hash="5dfd3607">2020.inlg-1.18</url>
       <bibkey>rebuffel-etal-2020-parenting</bibkey>
       <pwccode url="https://github.com/KaijuML/PARENTing-rl" additional="false">KaijuML/PARENTing-rl</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">olayiwola omowumi</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
     </paper>
     <paper id="19">
       <title>Evaluating Semantic Accuracy of Data-to-Text Generation with Natural Language Inference</title>
