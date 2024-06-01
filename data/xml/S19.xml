@@ -168,7 +168,7 @@
       <url hash="196a7bc7">S19-1013</url>
       <doi>10.18653/v1/S19-1013</doi>
       <bibkey>davis-etal-2019-deconstructing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
     </paper>
     <paper id="14">
@@ -2411,7 +2411,7 @@
       <doi>10.18653/v1/S19-2165</doi>
       <bibkey>drissi-etal-2019-harvey</bibkey>
       <pwccode url="https://github.com/hmc-cs159-fall2018/final-project-team-mvp-10000" additional="false">hmc-cs159-fall2018/final-project-team-mvp-10000</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="166">
       <title>Harvey Mudd College at <fixed-case>S</fixed-case>em<fixed-case>E</fixed-case>val-2019 Task 4: The <fixed-case>D</fixed-case>.<fixed-case>X</fixed-case>. Beaumont Hyperpartisan News Detector</title>

@@ -4809,9 +4809,9 @@
       <url hash="700c39d0">W15-2807</url>
       <doi>10.18653/v1/W15-2807</doi>
       <bibkey>hessel-etal-2015-image</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/food-101">Food-101</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="8">
@@ -4823,7 +4823,7 @@
       <url hash="1c7f354a">W15-2808</url>
       <doi>10.18653/v1/W15-2808</doi>
       <bibkey>weiland-etal-2015-image</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="9">
       <title>Visual Classifier Prediction by Distributional Semantic Embedding of Text Descriptions</title>

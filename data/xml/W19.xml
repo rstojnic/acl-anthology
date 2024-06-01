@@ -4035,8 +4035,8 @@
       <url hash="29e504b3">W19-2918</url>
       <doi>10.18653/v1/W19-2918</doi>
       <bibkey>ebert-pavlick-2019-using</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/hyperlex">HyperLex</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
   </volume>
   <volume id="30">

@@ -1111,7 +1111,7 @@
       <url hash="980a4379">D13-1115</url>
       <attachment type="attachment" hash="57bdd5b5">D13-1115.Attachment.zip</attachment>
       <bibkey>roller-schulte-im-walde-2013-multimodal</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="116">
       <title>Combining <fixed-case>PCFG</fixed-case>-<fixed-case>LA</fixed-case> Models with Dual Decomposition: A Case Study with Function Labels and Binarization</title>
@@ -1936,7 +1936,7 @@
       <pages>1960–1970</pages>
       <url hash="90c3d14a">D13-1202</url>
       <bibkey>anderson-etal-2013-words</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="203">
       <title>Easy Victories and Uphill Battles in Coreference Resolution</title>

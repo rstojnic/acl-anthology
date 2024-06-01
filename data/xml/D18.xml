@@ -1627,7 +1627,7 @@
       <video href="https://vimeo.com/306362292" tag="video"/>
       <doi>10.18653/v1/D18-1119</doi>
       <bibkey>bouchacourt-baroni-2018-agents</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="120">
       <title>Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction</title>
@@ -2238,8 +2238,8 @@
       <video href="https://vimeo.com/306362344" tag="video"/>
       <doi>10.18653/v1/D18-1164</doi>
       <bibkey>li-etal-2018-tell</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco-captions">COCO Captions</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
     <paper id="165">
@@ -2290,9 +2290,9 @@
       <bibkey>lei-etal-2018-tvqa</bibkey>
       <pwccode url="" additional="true"/>
       <pwcdataset url="https://paperswithcode.com/dataset/tvqa">TVQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/clevr">CLEVR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco-qa">COCO-QA</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/lsmdc">LSMDC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mctest">MCTest</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/moviefib">MovieFIB</pwcdataset>
@@ -2435,7 +2435,7 @@
       <abstract>Several recent studies have shown the benefits of combining language and perception to infer word embeddings. These multimodal approaches either simply combine pre-trained textual and visual representations (e.g. features extracted from convolutional neural networks), or use the latter to bias the learning of textual word embeddings. In this work, we propose a novel probabilistic model to formalize how linguistic and perceptual inputs can work in concert to explain the observed word-context pairs in a text corpus. Our approach learns textual and visual representations jointly: latent visual factors couple together a skip-gram model for co-occurrence in linguistic data and a generative latent variable model for visual data. Extensive experimental studies validate the proposed model. Concretely, on the tasks of assessing pairwise word similarity and image/caption retrieval, our approach attains equally competitive or stronger results when compared to other state-of-the-art multimodal models.</abstract>
       <doi>10.18653/v1/D18-1177</doi>
       <bibkey>ailem-etal-2018-probabilistic</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="178">
       <title>Transfer and Multi-Task Learning for Noun–Noun Compound Interpretation</title>
