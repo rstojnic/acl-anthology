@@ -8395,7 +8395,6 @@
       <url hash="5b939413">2021.acl-long.548</url>
       <doi>10.18653/v1/2021.acl-long.548</doi>
       <bibkey>wong-etal-2021-cross</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="549">
       <title><fixed-case>TIMEDIAL</fixed-case>: Temporal Commonsense Reasoning in Dialog</title>

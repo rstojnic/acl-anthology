@@ -5757,7 +5757,6 @@
       <award>Best Short Paper</award>
       <video href="https://vimeo.com/365146894" tag="video"/>
       <bibkey>caglayan-etal-2019-probing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
     </paper>
     <paper id="423">

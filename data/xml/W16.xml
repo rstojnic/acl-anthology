@@ -1960,7 +1960,6 @@
       <url hash="45d356aa">W16-1311</url>
       <doi>10.18653/v1/W16-1311</doi>
       <bibkey>nag-chowdhury-etal-2016-know2look</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
     </paper>
     <paper id="12">
@@ -4583,7 +4582,6 @@
       <url hash="da848c43">W16-2361</url>
       <doi>10.18653/v1/W16-2361</doi>
       <bibkey>libovicky-etal-2016-cuni</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="62">
       <title><fixed-case>WMT</fixed-case> 2016 Multimodal Translation System Description based on Bidirectional Recurrent Neural Networks with Double-Embeddings</title>

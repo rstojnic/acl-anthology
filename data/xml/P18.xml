@@ -3626,7 +3626,6 @@
       <attachment type="notes" hash="c31a0581">P18-1239.Notes.pdf</attachment>
       <bibkey>hewitt-etal-2018-learning</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/mmid">MMID</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="240">
       <title>On the Automatic Generation of Medical Imaging Reports</title>

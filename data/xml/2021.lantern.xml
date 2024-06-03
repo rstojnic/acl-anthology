@@ -45,7 +45,6 @@
       <abstract>Visual grounding is a promising path toward more robust and accurate Natural Language Processing (NLP) models. Many multimodal extensions of BERT (e.g., VideoBERT, LXMERT, VL-BERT) allow a joint modeling of texts and images that lead to state-of-the-art results on multimodal tasks such as Visual Question Answering. Here, we leverage multimodal modeling for purely textual tasks (language modeling and classification) with the expectation that the multimodal pretraining provides a grounding that can improve text processing accuracy. We propose possible strategies in this respect. A first type of strategy, referred to as <i>transferred grounding</i> consists in applying multimodal models to text-only tasks using a placeholder to replace image input. The second one, which we call <i>associative grounding</i>, harnesses image retrieval to match texts with related images during both pretraining and text-only downstream tasks. We draw further distinctions into both strategies and then compare them according to their impact on language modeling and commonsense-related downstream tasks, showing improvement over text-only baselines.</abstract>
       <url hash="a8765d1d">2021.lantern-1.2</url>
       <bibkey>sileo-2021-visual</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>

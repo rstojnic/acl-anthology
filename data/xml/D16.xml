@@ -539,7 +539,6 @@
       <url hash="0af384f2">D16-1043</url>
       <doi>10.18653/v1/D16-1043</doi>
       <bibkey>kiela-etal-2016-comparing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="44">
       <title>Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding</title>
@@ -793,7 +792,6 @@
       <url hash="1e6aa0ad">D16-1064</url>
       <doi>10.18653/v1/D16-1064</doi>
       <bibkey>ruan-etal-2016-exploring</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="65">
       <title><fixed-case>AMR</fixed-case> Parsing with an Incremental Joint Model</title>

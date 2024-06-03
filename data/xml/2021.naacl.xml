@@ -282,7 +282,6 @@
       <url hash="ab3f0c28">2021.naacl-main.20</url>
       <doi>10.18653/v1/2021.naacl-main.20</doi>
       <bibkey>pan-etal-2021-multilingual</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mlqa">MLQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/xnli">XNLI</pwcdataset>
@@ -3642,7 +3641,6 @@
       <doi>10.18653/v1/2021.naacl-main.250</doi>
       <bibkey>kil-chao-2021-revisiting</bibkey>
       <pwccode url="https://github.com/heendung/vs-zsl" additional="false">heendung/vs-zsl</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/awa-1">AwA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/awa2-1">AwA2</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/apy">aPY</pwcdataset>

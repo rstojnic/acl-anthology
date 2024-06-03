@@ -174,7 +174,6 @@
       <url hash="231e95c6">2021.mrl-1.13</url>
       <bibkey>alberts-etal-2021-visualsem</bibkey>
       <pwccode url="https://github.com/iacercalixto/visualsem" additional="false">iacercalixto/visualsem</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
     </paper>
     <paper id="14">

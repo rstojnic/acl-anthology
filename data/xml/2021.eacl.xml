@@ -92,7 +92,6 @@
       <url hash="84d35f84">2021.eacl-main.6</url>
       <bibkey>kedia-chinthakindi-2021-keep</bibkey>
       <doi>10.18653/v1/2021.eacl-main.6</doi>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>

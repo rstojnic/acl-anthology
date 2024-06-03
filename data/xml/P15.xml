@@ -330,7 +330,6 @@
       <url hash="ae8e7386">P15-1027</url>
       <doi>10.3115/v1/P15-1027</doi>
       <bibkey>lazaridou-etal-2015-hubness</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="28">
       <title>A Generalisation of Lexical Functions for Composition in Distributional Semantics</title>
@@ -2184,7 +2183,6 @@
       <url hash="6c610cbb">P15-2020</url>
       <doi>10.3115/v1/P15-2020</doi>
       <bibkey>kiela-etal-2015-exploiting</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
     </paper>
     <paper id="21">
       <title>Lexicon Stratification for Translating Out-of-Vocabulary Words</title>

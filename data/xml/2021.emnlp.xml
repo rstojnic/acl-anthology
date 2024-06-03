@@ -964,7 +964,6 @@
       <url hash="4d22e181">2021.emnlp-main.71</url>
       <bibkey>yu-xu-2021-predicting</bibkey>
       <pwccode url="https://github.com/jadeleiyu/frame_extension" additional="false">jadeleiyu/frame_extension</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">&lt;h2&gt;oi&lt;/h2&gt;</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
     </paper>
     <paper id="72">
@@ -2076,7 +2075,7 @@
       <url hash="6880d28d">2021.emnlp-main.151</url>
       <attachment type="Software" hash="ceabaa30">2021.emnlp-main.151.Software.zip</attachment>
       <bibkey>wang-etal-2021-gender</bibkey>
-      <pwccode url="https://github.com/kuanghuei/SCAN" additional="false">kuanghuei/SCAN</pwccode>
+      <pwccode url="https://github.com/kuanghuei/SCAN" additional="true">kuanghuei/SCAN</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
