@@ -317,6 +317,7 @@
       <bibkey>vulic-etal-2017-hyperlex</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/hyperlex">HyperLex</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dbpedia">DBpedia</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/yago">YAGO</pwcdataset>
     </paper>
     <paper id="5">

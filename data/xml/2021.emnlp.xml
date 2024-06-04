@@ -965,6 +965,7 @@
       <bibkey>yu-xu-2021-predicting</bibkey>
       <pwccode url="https://github.com/jadeleiyu/frame_extension" additional="false">jadeleiyu/frame_extension</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="72">
       <title>Frequency Effects on Syntactic Rule Learning in Transformers</title>

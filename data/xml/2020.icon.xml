@@ -422,6 +422,7 @@
       <url hash="414be08d">2020.icon-main.39</url>
       <bibkey>prabhakar-etal-2020-claim</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/fever">FEVER</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="40">
       <title><fixed-case>A</fixed-case>ssamese Word Sense Disambiguation using Genetic Algorithm</title>

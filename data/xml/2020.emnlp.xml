@@ -11314,7 +11314,6 @@
       <doi>10.18653/v1/2020.emnlp-main.743</doi>
       <video tag="video" href="https://slideslive.com/38938668"/>
       <bibkey>zeng-etal-2020-meddialog</bibkey>
-      <pwccode url="https://github.com/UCSD-AI4H/Medical-Dialogue-System" additional="false">UCSD-AI4H/Medical-Dialogue-System</pwccode>
     </paper>
     <paper id="744">
       <title>An information theoretic view on selecting linguistic probes</title>

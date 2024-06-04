@@ -46,6 +46,7 @@
       <url hash="a8765d1d">2021.lantern-1.2</url>
       <bibkey>sileo-2021-visual</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
     </paper>
     <paper id="3">

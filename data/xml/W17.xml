@@ -3605,6 +3605,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <doi>10.18653/v1/W17-2003</doi>
       <abstract>We investigate animal recognition models learned from wildlife video documentaries by using the weak supervision of the textual subtitles. This is a particularly challenging setting, since i) the animals occur in their natural habitat and are often largely occluded and ii) subtitles are to a large degree complementary to the visual content, providing a very weak supervisory signal. This is in contrast to most work on integrated vision and language in the literature, where textual descriptions are tightly linked to the image content, and often generated in a curated fashion for the task at hand. In particular, we investigate different image representations and models, including a support vector machine on top of activations of a pretrained convolutional neural network, as well as a Naive Bayes framework on a ‘bag-of-activations’ image representation, where each element of the bag is considered separately. This representation allows key components in the image to be isolated, in spite of largely varying backgrounds and image clutter, without an object detection or image segmentation step. The methods are evaluated based on how well they transfer to unseen camera-trap images captured across diverse topographical regions under different environmental conditions and illumination settings, involving a large domain shift.</abstract>
       <bibkey>nurani-venkitasubramanian-etal-2017-learning</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="4">
       <title>Human Evaluation of Multi-modal Neural Machine Translation: A Case-Study on <fixed-case>E</fixed-case>-Commerce Listing Titles</title>
@@ -8678,6 +8679,7 @@ is able to handle phenomena related to scope by means of an higher-order type th
       <doi>10.18653/v1/W17-4718</doi>
       <bibkey>elliott-etal-2017-findings</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/flickr30k">Flickr30k</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multi30k">Multi30K</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/verse">Verse</pwcdataset>
@@ -13953,6 +13955,7 @@ with emotion annotation. We (a) analyse annotation reliability and annotation me
       <author><first>Raffaella</first><last>Bernardi</last></author>
       <url hash="eceb5350">W17-6939</url>
       <bibkey>smith-etal-2017-see</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="40">
       <title>Sense Embeddings in Knowledge-Based Word Sense Disambiguation</title>

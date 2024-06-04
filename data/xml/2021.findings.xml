@@ -3288,6 +3288,7 @@
       <url hash="cb203aa3">2021.findings-acl.240</url>
       <doi>10.18653/v1/2021.findings-acl.240</doi>
       <bibkey>shin-narihira-2021-transformer</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/vcr">VCR</pwcdataset>
     </paper>
     <paper id="241">
@@ -6642,6 +6643,7 @@
       <bibkey>kedia-etal-2021-beyond-reptile</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/boolq">BoolQ</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/copa">COPA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multirc">MultiRC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quasar-1">QUASAR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/quasar-t">QUASAR-T</pwcdataset>

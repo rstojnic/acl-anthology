@@ -7120,6 +7120,7 @@
       <pwccode url="https://github.com/airsplay/lxmert" additional="true">airsplay/lxmert</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/a-okvqa">A-OKVQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/gqa">GQA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/nlvr">NLVR</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-genome">Visual Genome</pwcdataset>
@@ -7288,6 +7289,7 @@
       <bibkey>neekhara-etal-2019-adversarial</bibkey>
       <pwccode url="https://github.com/paarthneekhara/rnn_adversarial_reprogramming" additional="false">paarthneekhara/rnn_adversarial_reprogramming</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="526">
       <title>Document Hashing with Mixture-Prior Generative Models</title>
@@ -9971,6 +9973,7 @@ A plethora of methods have been proposed to emphasize specific lexico-semantic r
       <url hash="533e5ea0">D19-3031</url>
       <doi>10.18653/v1/D19-3031</doi>
       <bibkey>henderson-etal-2019-polyresponse</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="32">
       <title><fixed-case>P</fixed-case>y<fixed-case>O</fixed-case>pen<fixed-case>D</fixed-case>ial: A Python-based Domain-Independent Toolkit for Developing Spoken Dialogue Systems with Probabilistic Rules</title>

@@ -100,6 +100,7 @@
       <abstract>We report on the development of ASLNet, a wordnet for American Sign Language (ASL). ASLNet V1.0 is currently under construction by mapping easy-to-translate ASL lexical nouns to Princeton WordNet synsets. We describe our data model and mapping approach, which can be extended to any sign language. Analysis of the 390 synsets processed to date indicates the success of our procedure yet also highlights the need to supplement our mapping with the “merge” method. We outline our plans for upcoming work to remedy this, which include use of ASL free-association data.</abstract>
       <url hash="93d177fe">2021.gwc-1.8</url>
       <bibkey>lualdi-etal-2021-implementing</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="9">
       <title>Monolingual Word Sense Alignment as a Classification Problem</title>

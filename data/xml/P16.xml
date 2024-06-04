@@ -651,6 +651,7 @@
       <url hash="f3f12b3d">P16-1058</url>
       <doi>10.18653/v1/P16-1058</doi>
       <bibkey>zarriess-schlangen-2016-easy</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="59">
       <title>Collective Entity Resolution with Multi-Focal Attention</title>
@@ -1932,6 +1933,7 @@
       <url hash="978d3f63">P16-1169</url>
       <doi>10.18653/v1/P16-1169</doi>
       <bibkey>zhang-etal-2016-learning</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="170">
       <title>Generating Natural Questions About an Image</title>

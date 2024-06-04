@@ -8395,6 +8395,7 @@
       <url hash="5b939413">2021.acl-long.548</url>
       <doi>10.18653/v1/2021.acl-long.548</doi>
       <bibkey>wong-etal-2021-cross</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="549">
       <title><fixed-case>TIMEDIAL</fixed-case>: Temporal Commonsense Reasoning in Dialog</title>
@@ -9985,7 +9986,6 @@
       <url hash="46eb75ed">2021.acl-short.90</url>
       <doi>10.18653/v1/2021.acl-short.90</doi>
       <bibkey>he-etal-2021-towards</bibkey>
-      <pwccode url="https://github.com/UCSD-AI4H/PathVQA" additional="false">UCSD-AI4H/PathVQA</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/vqa-rad">VQA-RAD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/visual-question-answering">Visual Question Answering</pwcdataset>
     </paper>
@@ -10309,7 +10309,6 @@
       <url hash="2a7f9b48">2021.acl-short.112</url>
       <doi>10.18653/v1/2021.acl-short.112</doi>
       <bibkey>zhou-etal-2021-generation</bibkey>
-      <pwccode url="https://github.com/UCSD-AI4H/COVID-Dialogue" additional="false">UCSD-AI4H/COVID-Dialogue</pwccode>
     </paper>
     <paper id="113">
       <title>Constructing Multi-Modal Dialogue Dataset by Replacing Text with Semantically Relevant Images</title>

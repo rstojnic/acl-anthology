@@ -927,6 +927,7 @@
       <bibkey>conneau-etal-2017-supervised</bibkey>
       <pwccode url="https://github.com/facebookresearch/InferSent" additional="true">facebookresearch/InferSent</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/coco">MS COCO</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
@@ -1309,6 +1310,7 @@ and the code is available at <url>https://github.com/qizhex/RACE_AR_baselines</u
       <bibkey>zellers-choi-2017-zero</bibkey>
       <pwccode url="https://github.com/uwnlp/verb-attributes" additional="true">uwnlp/verb-attributes</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/framenet">FrameNet</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="100">
       <title>Deriving continous grounded meaning representations from referentially structured multimodal contexts</title>
