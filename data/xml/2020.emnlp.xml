@@ -5387,7 +5387,6 @@
       <video tag="video" href="https://slideslive.com/38938905"/>
       <bibkey>wang-etal-2020-negative</bibkey>
       <pwccode url="https://github.com/iedwardwangi/MetaAdapter" additional="false">iedwardwangi/MetaAdapter</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/tydi-qa">TyDiQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/tydiqa-goldp">TyDiQA-GoldP</pwcdataset>
     </paper>
     <paper id="360">
@@ -6343,7 +6342,6 @@
       <bibkey>shen-etal-2020-blank</bibkey>
       <pwccode url="https://github.com/Varal7/blank_language_model" additional="false">Varal7/blank_language_model</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="421">
       <title><fixed-case>COD3S</fixed-case>: Diverse Generation with Discrete Semantic Signatures</title>
@@ -9708,7 +9706,6 @@
       <video tag="video" href="https://slideslive.com/38938778"/>
       <bibkey>khoury-etal-2020-vector</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="641">
       <title>The importance of fillers for text representations of speech transcripts</title>
