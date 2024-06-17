@@ -6511,6 +6511,7 @@
       <pwccode url="https://github.com/ofirpress/shortformer" additional="false">ofirpress/shortformer</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/bookcorpus">BookCorpus</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="428">
       <title><fixed-case>B</fixed-case>andit<fixed-case>MTL</fixed-case>: Bandit-based Multi-task Learning for Text Classification</title>
