@@ -11471,6 +11471,7 @@
       <bibkey>joshi-etal-2018-shot</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/imdb-movie-reviews">IMDb Movie Reviews</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="12">
       <title>Neural <fixed-case>D</fixed-case>rug<fixed-case>N</fixed-case>et</title>

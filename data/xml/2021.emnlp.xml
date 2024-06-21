@@ -1009,6 +1009,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/cola">CoLA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/natural-stories">Natural Stories</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="75">
       <title>Condenser: a Pre-training Architecture for Dense Retrieval</title>
@@ -2612,6 +2613,7 @@
       <url hash="d90e5eb9">2021.emnlp-main.191</url>
       <bibkey>hu-etal-2021-ranknas</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="192">
       <title><fixed-case>FL</fixed-case>i<fixed-case>T</fixed-case>ext: A Faster and Lighter Semi-Supervised Text Classification with Convolution Networks</title>
@@ -3255,6 +3257,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="238">
       <title>Adversarial Mixing Policy for Relaxing Locally Linear Constraints in Mixup</title>
@@ -6132,6 +6135,7 @@
       <bibkey>geva-etal-2021-transformer</bibkey>
       <pwccode url="https://github.com/mega002/ff-layers" additional="false">mega002/ff-layers</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="447">
       <title>Connecting Attributions and <fixed-case>QA</fixed-case> Model Behavior on Realistic Counterfactuals</title>
@@ -6314,6 +6318,7 @@
       <bibkey>he-etal-2021-efficient</bibkey>
       <pwccode url="https://github.com/jxhe/efficient-knnlm" additional="true">jxhe/efficient-knnlm</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="462">
       <title><fixed-case>ST</fixed-case>ra<fixed-case>TA</fixed-case>: Self-Training with Task Augmentation for Better Few-shot Learning</title>
@@ -11360,6 +11365,7 @@
       <bibkey>chen-2021-permuteformer</bibkey>
       <pwccode url="https://github.com/cpcp1998/permuteformer" additional="false">cpcp1998/permuteformer</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/wikitext-103">WikiText-103</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikitext-2">WikiText-2</pwcdataset>
     </paper>
     <paper id="829">
       <title>Block Pruning For Faster Transformers</title>
