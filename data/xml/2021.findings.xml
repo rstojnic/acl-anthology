@@ -448,7 +448,7 @@
       <attachment type="OptionalSupplementaryMaterial" hash="03bd4c14">2021.findings-acl.32.OptionalSupplementaryMaterial.zip</attachment>
       <doi>10.18653/v1/2021.findings-acl.32</doi>
       <bibkey>gritta-iacobacci-2021-xeroalign</bibkey>
-      <pwccode url="https://github.com/huawei-noah/noah-research" additional="true">huawei-noah/noah-research</pwccode>
+      <pwccode url="https://github.com/huawei-noah/noah-research/tree/master/xero_align" additional="true">huawei-noah/noah-research</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/mtop">MTOP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws">PAWS</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/paws-x">PAWS-X</pwcdataset>
@@ -10618,6 +10618,7 @@
       <url hash="2b650ef5">2021.findings-emnlp.339</url>
       <bibkey>tourni-etal-2021-detecting-frames</bibkey>
       <pwcdataset url="https://paperswithcode.com/dataset/gvfc">GVFC</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/imagenet">ImageNet</pwcdataset>
     </paper>
     <paper id="340">
       <title>Multi-task Learning to Enable Location Mention Identification in the Early Hours of a Crisis Event</title>
