@@ -5905,7 +5905,7 @@
       <url hash="685dd388">2021.acl-long.387</url>
       <doi>10.18653/v1/2021.acl-long.387</doi>
       <bibkey>yang-etal-2021-writing</bibkey>
-      <pwcdataset url="https://paperswithcode.com/dataset/mimic-cxr">MIMIC-CXR</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mimic-cxr">Fazal</pwcdataset>
     </paper>
     <paper id="388">
       <title>Concept-Based Label Embedding via Dynamic Routing for Hierarchical Text Classification</title>

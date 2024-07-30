@@ -1726,7 +1726,7 @@
       <video tag="video" href="https://slideslive.com/38938877"/>
       <bibkey>chen-etal-2020-generating</bibkey>
       <pwccode url="https://github.com/zhjohnchan/R2Gen" additional="true">zhjohnchan/R2Gen</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/mimic-cxr">MIMIC-CXR</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/mimic-cxr">Fazal</pwcdataset>
     </paper>
     <paper id="113">
       <title>Planning and Generating Natural and Diverse Disfluent Texts as Augmentation for Disfluency Detection</title>
