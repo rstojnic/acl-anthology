@@ -3075,6 +3075,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/docvqa">DocVQA</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/funsd">FUNSD</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/kleister-nda">Kleister NDA</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/rfund">RFUND</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rfund-en">RFUND-EN</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/rvl-cdip">RVL-CDIP</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
