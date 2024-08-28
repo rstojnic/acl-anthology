@@ -7485,7 +7485,7 @@
       <doi>10.18653/v1/2020.emnlp-main.495</doi>
       <video tag="video" href="https://slideslive.com/38939223"/>
       <bibkey>wang-etal-2020-t3</bibkey>
-      <pwccode url="https://github.com/AI-secure/T3" additional="true">AI-secure/T3</pwccode>
+      <pwccode url="https://github.com/aisecure/AdvCodec" additional="true">aisecure/AdvCodec</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
     </paper>
     <paper id="496">
