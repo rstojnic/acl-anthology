@@ -1347,13 +1347,13 @@
       <abstract>Large language models have led to remarkable progress on many NLP tasks, and researchers are turning to ever-larger text corpora to train them. Some of the largest corpora available are made by scraping significant portions of the internet, and are frequently introduced with only minimal documentation. In this work we provide some of the first documentation for the Colossal Clean Crawled Corpus (C4; Raffel et al., 2020), a dataset created by applying a set of filters to a single snapshot of Common Crawl. We begin by investigating where the data came from, and find a significant amount of text from unexpected sources like patents and US military websites. Then we explore the content of the text itself, and find machine-generated text (e.g., from machine translation systems) and evaluation examples from other benchmark NLP datasets. To understand the impact of the filters applied to create this dataset, we evaluate the text that was removed, and show that blocklist filtering disproportionately removes text from and about minority individuals. Finally, we conclude with some recommendations for how to created and document web-scale datasets from a scrape of the internet.</abstract>
       <url hash="5812bef4">2021.emnlp-main.98</url>
       <bibkey>dodge-etal-2021-documenting</bibkey>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Babai Sen</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/c4">C4</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/glue">GLUE</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/mrpc">MRPC</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/qnli">QNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/webtext">WebText</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
     </paper>
     <paper id="99">
       <title><fixed-case>A</fixed-case>fro<fixed-case>MT</fixed-case>: Pretraining Strategies and Reproducible Benchmarks for Translation of 8 <fixed-case>A</fixed-case>frican Languages</title>
@@ -4880,7 +4880,7 @@
       <url hash="5aa404e4">2021.emnlp-main.352</url>
       <bibkey>wiseman-etal-2021-data</bibkey>
       <pwccode url="https://github.com/swiseman/neighbor-splicing" additional="false">swiseman/neighbor-splicing</pwccode>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Babai Sen</pwcdataset>
     </paper>
     <paper id="353">
       <title>Contextualize Knowledge Bases with Transformer for End-to-end Task-Oriented Dialogue Systems</title>
@@ -8766,8 +8766,8 @@
       <url hash="53912d38">2021.emnlp-main.633</url>
       <bibkey>rebuffel-etal-2021-data</bibkey>
       <pwccode url="https://github.com/ThomasScialom/QuestEval" additional="true">ThomasScialom/QuestEval</pwccode>
+      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">Babai Sen</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/squad">SQuAD</pwcdataset>
-      <pwcdataset url="https://paperswithcode.com/dataset/wikibio">WikiBio</pwcdataset>
     </paper>
     <paper id="634">
       <title>Low-Rank Subspaces for Unsupervised Entity Linking</title>
