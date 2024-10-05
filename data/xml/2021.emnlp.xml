@@ -7506,6 +7506,7 @@
       <pwcdataset url="https://paperswithcode.com/dataset/didemo">DiDeMo</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/howto100m">HowTo100M</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/msr-vtt">MSR-VTT</pwcdataset>
+      <pwcdataset url="https://paperswithcode.com/dataset/vinoground">Vinoground</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/youcook2">YouCook2</pwcdataset>
     </paper>
     <paper id="545">
