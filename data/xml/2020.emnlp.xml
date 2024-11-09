@@ -11151,7 +11151,7 @@
       <doi>10.18653/v1/2020.emnlp-main.734</doi>
       <video tag="video" href="https://slideslive.com/38938929"/>
       <bibkey>nie-etal-2020-learn</bibkey>
-      <pwccode url="https://github.com/easonnie/ChaosNLI" additional="false">easonnie/ChaosNLI</pwccode>
+      <pwccode url="https://github.com/easonnie/ChaosNLI" additional="true">easonnie/ChaosNLI</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/chaosnli">ChaosNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/multinli">MultiNLI</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/snli">SNLI</pwcdataset>
