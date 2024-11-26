@@ -1884,7 +1884,6 @@
       <url hash="f97a3caa">2021.acl-long.125</url>
       <doi>10.18653/v1/2021.acl-long.125</doi>
       <bibkey>zhu-etal-2021-topic</bibkey>
-      <pwccode url="https://github.com/something678/TodKat" additional="false">something678/TodKat</pwccode>
       <pwcdataset url="https://paperswithcode.com/dataset/conceptnet">ConceptNet</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/dailydialog">DailyDialog</pwcdataset>
       <pwcdataset url="https://paperswithcode.com/dataset/emorynlp">EmoryNLP</pwcdataset>
